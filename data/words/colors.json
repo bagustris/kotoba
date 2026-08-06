@@ -1,0 +1,17 @@
+[
+  { "word": "赤", "reading": "あか", "meaning": "red", "context": "colors", "frequencyRank": 1 },
+  { "word": "青", "reading": "あお", "meaning": "blue", "context": "colors", "frequencyRank": 2 },
+  { "word": "黄色", "reading": "きいろ", "meaning": "yellow", "context": "colors", "frequencyRank": 3 },
+  { "word": "緑", "reading": "みどり", "meaning": "green", "context": "colors", "frequencyRank": 4 },
+  { "word": "黒", "reading": "くろ", "meaning": "black", "context": "colors", "frequencyRank": 5 },
+  { "word": "白", "reading": "しろ", "meaning": "white", "context": "colors", "frequencyRank": 6 },
+  { "word": "茶色", "reading": "ちゃいろ", "meaning": "brown", "context": "colors", "frequencyRank": 7 },
+  { "word": "紫", "reading": "むらさき", "meaning": "purple", "context": "colors", "frequencyRank": 8 },
+  { "word": "ピンク", "reading": "ピンク", "meaning": "pink", "context": "colors", "frequencyRank": 9 },
+  { "word": "オレンジ", "reading": "オレンジ", "meaning": "orange", "context": "colors", "frequencyRank": 10 },
+  { "word": "灰色", "reading": "はいいろ", "meaning": "gray", "context": "colors", "frequencyRank": 11 },
+  { "word": "金色", "reading": "きんいろ", "meaning": "gold (color)", "context": "colors", "frequencyRank": 12 },
+  { "word": "銀色", "reading": "ぎんいろ", "meaning": "silver (color)", "context": "colors", "frequencyRank": 13 },
+  { "word": "水色", "reading": "みずいろ", "meaning": "light blue", "context": "colors", "frequencyRank": 14 },
+  { "word": "虹色", "reading": "にじいろ", "meaning": "rainbow-colored", "context": "colors", "frequencyRank": 15 }
+]

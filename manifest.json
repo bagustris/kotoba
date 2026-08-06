@@ -1,0 +1,17 @@
+{
+  "name": "ことば - Kotoba",
+  "short_name": "ことば",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#1a2e28",
+  "theme_color": "#1a2e28",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

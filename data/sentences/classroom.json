@@ -1,0 +1,17 @@
+[
+  { "sentence": "先生に質問をしました。", "target": "先生", "reading": "せんせい", "meaning": "teacher", "translation": "I asked the teacher a question.", "context": "classroom" },
+  { "sentence": "教室には生徒が三十人います。", "target": "生徒", "reading": "せいと", "meaning": "student", "translation": "There are thirty students in the classroom.", "context": "classroom" },
+  { "sentence": "宿題を忘れました。", "target": "宿題", "reading": "しゅくだい", "meaning": "homework", "translation": "I forgot my homework.", "context": "classroom" },
+  { "sentence": "教科書を開いてください。", "target": "教科書", "reading": "きょうかしょ", "meaning": "textbook", "translation": "Please open your textbook.", "context": "classroom" },
+  { "sentence": "先生が黒板に字を書きました。", "target": "黒板", "reading": "こくばん", "meaning": "blackboard", "translation": "The teacher wrote characters on the blackboard.", "context": "classroom" },
+  { "sentence": "次の授業は数学です。", "target": "授業", "reading": "じゅぎょう", "meaning": "class", "translation": "The next class is math.", "context": "classroom" },
+  { "sentence": "来週、試験があります。", "target": "試験", "reading": "しけん", "meaning": "exam", "translation": "There is an exam next week.", "context": "classroom" },
+  { "sentence": "手を挙げて質問しました。", "target": "質問", "reading": "しつもん", "meaning": "question", "translation": "I raised my hand and asked a question.", "context": "classroom" },
+  { "sentence": "明日、研究の発表をします。", "target": "発表", "reading": "はっぴょう", "meaning": "presentation", "translation": "I'll give a presentation on my research tomorrow.", "context": "classroom" },
+  { "sentence": "休み時間に友達と話しました。", "target": "休み時間", "reading": "やすみじかん", "meaning": "recess", "translation": "I talked with my friend during recess.", "context": "classroom" },
+  { "sentence": "毎日、授業に出席しています。", "target": "出席", "reading": "しゅっせき", "meaning": "attendance", "translation": "I attend class every day.", "context": "classroom" },
+  { "sentence": "風邪で学校を欠席しました。", "target": "欠席", "reading": "けっせき", "meaning": "absence", "translation": "I was absent from school due to a cold.", "context": "classroom" },
+  { "sentence": "金曜日までにレポートを提出します。", "target": "提出", "reading": "ていしゅつ", "meaning": "submission", "translation": "I'll submit the report by Friday.", "context": "classroom" },
+  { "sentence": "分からない言葉を辞書で調べました。", "target": "辞書", "reading": "じしょ", "meaning": "dictionary", "translation": "I looked up an unknown word in the dictionary.", "context": "classroom" },
+  { "sentence": "ノートに大切なことを書きました。", "target": "ノート", "reading": "ノート", "meaning": "notebook", "translation": "I wrote important things in my notebook.", "context": "classroom" }
+]

@@ -1,0 +1,17 @@
+[
+  { "sentence": "台所で料理を作りました。", "target": "台所", "reading": "だいどころ", "meaning": "kitchen", "translation": "I cooked in the kitchen.", "context": "home" },
+  { "sentence": "寝室で本を読みます。", "target": "寝室", "reading": "しんしつ", "meaning": "bedroom", "translation": "I read a book in the bedroom.", "context": "home" },
+  { "sentence": "玄関で靴を脱ぎました。", "target": "玄関", "reading": "げんかん", "meaning": "entryway", "translation": "I took off my shoes at the entryway.", "context": "home" },
+  { "sentence": "週末に部屋の掃除をします。", "target": "掃除", "reading": "そうじ", "meaning": "cleaning", "translation": "I clean my room on weekends.", "context": "home" },
+  { "sentence": "毎朝、洗濯をします。", "target": "洗濯", "reading": "せんたく", "meaning": "laundry", "translation": "I do the laundry every morning.", "context": "home" },
+  { "sentence": "冷蔵庫に牛乳があります。", "target": "冷蔵庫", "reading": "れいぞうこ", "meaning": "refrigerator", "translation": "There is milk in the refrigerator.", "context": "home" },
+  { "sentence": "夕食の後、テレビを見ます。", "target": "テレビ", "reading": "テレビ", "meaning": "television", "translation": "I watch television after dinner.", "context": "home" },
+  { "sentence": "鍵をなくしてしまいました。", "target": "鍵", "reading": "かぎ", "meaning": "key", "translation": "I lost my key.", "context": "home" },
+  { "sentence": "朝、ゴミを出しました。", "target": "ゴミ", "reading": "ゴミ", "meaning": "trash", "translation": "I took out the trash this morning.", "context": "home" },
+  { "sentence": "寝る前に電気を消します。", "target": "電気", "reading": "でんき", "meaning": "electricity; light", "translation": "I turn off the light before sleeping.", "context": "home" },
+  { "sentence": "布団をたたみました。", "target": "布団", "reading": "ふとん", "meaning": "futon", "translation": "I folded the futon.", "context": "home" },
+  { "sentence": "庭に花を植えました。", "target": "庭", "reading": "にわ", "meaning": "garden", "translation": "I planted flowers in the garden.", "context": "home" },
+  { "sentence": "隣人に挨拶をしました。", "target": "隣人", "reading": "りんじん", "meaning": "neighbor", "translation": "I greeted my neighbor.", "context": "home" },
+  { "sentence": "毎月、家賃を払います。", "target": "家賃", "reading": "やちん", "meaning": "rent", "translation": "I pay rent every month.", "context": "home" },
+  { "sentence": "来月、引っ越しをします。", "target": "引っ越し", "reading": "ひっこし", "meaning": "moving house", "translation": "I'm moving house next month.", "context": "home" }
+]

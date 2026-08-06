@@ -1,0 +1,17 @@
+[
+  { "word": "医者", "reading": "いしゃ", "meaning": "doctor", "context": "hospital", "frequencyRank": 1 },
+  { "word": "看護師", "reading": "かんごし", "meaning": "nurse", "context": "hospital", "frequencyRank": 2 },
+  { "word": "薬", "reading": "くすり", "meaning": "medicine", "context": "hospital", "frequencyRank": 3 },
+  { "word": "熱", "reading": "ねつ", "meaning": "fever", "context": "hospital", "frequencyRank": 4 },
+  { "word": "痛い", "reading": "いたい", "meaning": "painful", "context": "hospital", "frequencyRank": 5 },
+  { "word": "診察", "reading": "しんさつ", "meaning": "medical examination", "context": "hospital", "frequencyRank": 6 },
+  { "word": "受付", "reading": "うけつけ", "meaning": "reception", "context": "hospital", "frequencyRank": 7 },
+  { "word": "保険証", "reading": "ほけんしょう", "meaning": "insurance card", "context": "hospital", "frequencyRank": 8 },
+  { "word": "注射", "reading": "ちゅうしゃ", "meaning": "injection", "context": "hospital", "frequencyRank": 9 },
+  { "word": "処方箋", "reading": "しょほうせん", "meaning": "prescription", "context": "hospital", "frequencyRank": 10 },
+  { "word": "症状", "reading": "しょうじょう", "meaning": "symptom", "context": "hospital", "frequencyRank": 11 },
+  { "word": "具合", "reading": "ぐあい", "meaning": "condition (of health)", "context": "hospital", "frequencyRank": 12 },
+  { "word": "検査", "reading": "けんさ", "meaning": "medical test", "context": "hospital", "frequencyRank": 13 },
+  { "word": "入院", "reading": "にゅういん", "meaning": "hospitalization", "context": "hospital", "frequencyRank": 14 },
+  { "word": "通院", "reading": "つういん", "meaning": "outpatient visit", "context": "hospital", "frequencyRank": 15 }
+]

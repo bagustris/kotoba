@@ -1,0 +1,17 @@
+[
+  { "word": "先生", "reading": "せんせい", "meaning": "teacher", "context": "classroom", "frequencyRank": 1 },
+  { "word": "生徒", "reading": "せいと", "meaning": "student", "context": "classroom", "frequencyRank": 2 },
+  { "word": "宿題", "reading": "しゅくだい", "meaning": "homework", "context": "classroom", "frequencyRank": 3 },
+  { "word": "教科書", "reading": "きょうかしょ", "meaning": "textbook", "context": "classroom", "frequencyRank": 4 },
+  { "word": "黒板", "reading": "こくばん", "meaning": "blackboard", "context": "classroom", "frequencyRank": 5 },
+  { "word": "授業", "reading": "じゅぎょう", "meaning": "class; lesson", "context": "classroom", "frequencyRank": 6 },
+  { "word": "試験", "reading": "しけん", "meaning": "exam", "context": "classroom", "frequencyRank": 7 },
+  { "word": "質問", "reading": "しつもん", "meaning": "question", "context": "classroom", "frequencyRank": 8 },
+  { "word": "発表", "reading": "はっぴょう", "meaning": "presentation", "context": "classroom", "frequencyRank": 9 },
+  { "word": "休み時間", "reading": "やすみじかん", "meaning": "recess", "context": "classroom", "frequencyRank": 10 },
+  { "word": "出席", "reading": "しゅっせき", "meaning": "attendance", "context": "classroom", "frequencyRank": 11 },
+  { "word": "欠席", "reading": "けっせき", "meaning": "absence", "context": "classroom", "frequencyRank": 12 },
+  { "word": "提出", "reading": "ていしゅつ", "meaning": "submission", "context": "classroom", "frequencyRank": 13 },
+  { "word": "辞書", "reading": "じしょ", "meaning": "dictionary", "context": "classroom", "frequencyRank": 14 },
+  { "word": "ノート", "reading": "ノート", "meaning": "notebook", "context": "classroom", "frequencyRank": 15 }
+]

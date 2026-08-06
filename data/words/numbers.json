@@ -1,0 +1,17 @@
+[
+  { "word": "一", "reading": "いち", "meaning": "one", "context": "numbers", "frequencyRank": 1 },
+  { "word": "二", "reading": "に", "meaning": "two", "context": "numbers", "frequencyRank": 2 },
+  { "word": "三", "reading": "さん", "meaning": "three", "context": "numbers", "frequencyRank": 3 },
+  { "word": "四", "reading": "よん", "meaning": "four", "context": "numbers", "frequencyRank": 4 },
+  { "word": "五", "reading": "ご", "meaning": "five", "context": "numbers", "frequencyRank": 5 },
+  { "word": "六", "reading": "ろく", "meaning": "six", "context": "numbers", "frequencyRank": 6 },
+  { "word": "七", "reading": "なな", "meaning": "seven", "context": "numbers", "frequencyRank": 7 },
+  { "word": "八", "reading": "はち", "meaning": "eight", "context": "numbers", "frequencyRank": 8 },
+  { "word": "九", "reading": "きゅう", "meaning": "nine", "context": "numbers", "frequencyRank": 9 },
+  { "word": "十", "reading": "じゅう", "meaning": "ten", "context": "numbers", "frequencyRank": 10 },
+  { "word": "百", "reading": "ひゃく", "meaning": "hundred", "context": "numbers", "frequencyRank": 11 },
+  { "word": "千", "reading": "せん", "meaning": "thousand", "context": "numbers", "frequencyRank": 12 },
+  { "word": "半分", "reading": "はんぶん", "meaning": "half", "context": "numbers", "frequencyRank": 13 },
+  { "word": "全部", "reading": "ぜんぶ", "meaning": "all; everything", "context": "numbers", "frequencyRank": 14 },
+  { "word": "いくつ", "reading": "いくつ", "meaning": "how many", "context": "numbers", "frequencyRank": 15 }
+]

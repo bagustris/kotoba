@@ -1,0 +1,17 @@
+[
+  { "sentence": "駅で切符を買いました。", "target": "切符", "reading": "きっぷ", "meaning": "ticket", "translation": "I bought a ticket at the station.", "context": "station" },
+  { "sentence": "改札を通ります。", "target": "改札", "reading": "かいさつ", "meaning": "ticket gate", "translation": "I go through the ticket gate.", "context": "station" },
+  { "sentence": "電車はホームに止まっています。", "target": "ホーム", "reading": "ホーム", "meaning": "platform", "translation": "The train is stopped at the platform.", "context": "station" },
+  { "sentence": "電車が駅に着きました。", "target": "電車", "reading": "でんしゃ", "meaning": "train", "translation": "The train arrived at the station.", "context": "station" },
+  { "sentence": "時刻表を確認しました。", "target": "時刻表", "reading": "じこくひょう", "meaning": "timetable", "translation": "I checked the timetable.", "context": "station" },
+  { "sentence": "次の駅で乗り換えをします。", "target": "乗り換え", "reading": "のりかえ", "meaning": "transfer", "translation": "I'll transfer at the next station.", "context": "station" },
+  { "sentence": "この区間の運賃は高いです。", "target": "運賃", "reading": "うんちん", "meaning": "fare", "translation": "The fare for this section is expensive.", "context": "station" },
+  { "sentence": "各駅停車に乗りました。", "target": "各駅停車", "reading": "かくえきていしゃ", "meaning": "local train", "translation": "I got on the local train.", "context": "station" },
+  { "sentence": "急行はこの駅に止まりません。", "target": "急行", "reading": "きゅうこう", "meaning": "express train", "translation": "The express train doesn't stop at this station.", "context": "station" },
+  { "sentence": "出口はあちらです。", "target": "出口", "reading": "でぐち", "meaning": "exit", "translation": "The exit is over there.", "context": "station" },
+  { "sentence": "入口で友達を待ちました。", "target": "入口", "reading": "いりぐち", "meaning": "entrance", "translation": "I waited for my friend at the entrance.", "context": "station" },
+  { "sentence": "電車に忘れ物をしました。", "target": "忘れ物", "reading": "わすれもの", "meaning": "lost item", "translation": "I left something behind on the train.", "context": "station" },
+  { "sentence": "朝の電車はいつも満員です。", "target": "満員", "reading": "まんいん", "meaning": "crowded", "translation": "The morning train is always crowded.", "context": "station" },
+  { "sentence": "事故で電車に遅延が出ています。", "target": "遅延", "reading": "ちえん", "meaning": "delay", "translation": "There is a delay due to an accident.", "context": "station" },
+  { "sentence": "定期券を更新しました。", "target": "定期券", "reading": "ていきけん", "meaning": "commuter pass", "translation": "I renewed my commuter pass.", "context": "station" }
+]

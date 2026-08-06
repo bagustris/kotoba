@@ -1,0 +1,17 @@
+[
+  { "word": "台所", "reading": "だいどころ", "meaning": "kitchen", "context": "home", "frequencyRank": 1 },
+  { "word": "寝室", "reading": "しんしつ", "meaning": "bedroom", "context": "home", "frequencyRank": 2 },
+  { "word": "玄関", "reading": "げんかん", "meaning": "entryway", "context": "home", "frequencyRank": 3 },
+  { "word": "掃除", "reading": "そうじ", "meaning": "cleaning", "context": "home", "frequencyRank": 4 },
+  { "word": "洗濯", "reading": "せんたく", "meaning": "laundry", "context": "home", "frequencyRank": 5 },
+  { "word": "冷蔵庫", "reading": "れいぞうこ", "meaning": "refrigerator", "context": "home", "frequencyRank": 6 },
+  { "word": "テレビ", "reading": "テレビ", "meaning": "television", "context": "home", "frequencyRank": 7 },
+  { "word": "鍵", "reading": "かぎ", "meaning": "key", "context": "home", "frequencyRank": 8 },
+  { "word": "ゴミ", "reading": "ゴミ", "meaning": "trash", "context": "home", "frequencyRank": 9 },
+  { "word": "電気", "reading": "でんき", "meaning": "electricity; light", "context": "home", "frequencyRank": 10 },
+  { "word": "布団", "reading": "ふとん", "meaning": "futon", "context": "home", "frequencyRank": 11 },
+  { "word": "庭", "reading": "にわ", "meaning": "garden", "context": "home", "frequencyRank": 12 },
+  { "word": "隣人", "reading": "りんじん", "meaning": "neighbor", "context": "home", "frequencyRank": 13 },
+  { "word": "家賃", "reading": "やちん", "meaning": "rent", "context": "home", "frequencyRank": 14 },
+  { "word": "引っ越し", "reading": "ひっこし", "meaning": "moving house", "context": "home", "frequencyRank": 15 }
+]

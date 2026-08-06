@@ -1,0 +1,17 @@
+[
+  { "sentence": "電車は一番線から出発します。", "target": "一", "reading": "いち", "meaning": "one", "translation": "The train departs from track one.", "context": "numbers" },
+  { "sentence": "バスは二番のりばから出ます。", "target": "二", "reading": "に", "meaning": "two", "translation": "The bus departs from stop two.", "context": "numbers" },
+  { "sentence": "私の部屋は三番です。", "target": "三", "reading": "さん", "meaning": "three", "translation": "My room is number three.", "context": "numbers" },
+  { "sentence": "この問題の答えは四番です。", "target": "四", "reading": "よん", "meaning": "four", "translation": "The answer to this question is number four.", "context": "numbers" },
+  { "sentence": "五番の窓口へどうぞ。", "target": "五", "reading": "ご", "meaning": "five", "translation": "Please go to counter number five.", "context": "numbers" },
+  { "sentence": "六番のロッカーを使いました。", "target": "六", "reading": "ろく", "meaning": "six", "translation": "I used locker number six.", "context": "numbers" },
+  { "sentence": "七番のテーブルが空いています。", "target": "七", "reading": "なな", "meaning": "seven", "translation": "Table number seven is available.", "context": "numbers" },
+  { "sentence": "八番の搭乗口に向かいました。", "target": "八", "reading": "はち", "meaning": "eight", "translation": "I headed to boarding gate number eight.", "context": "numbers" },
+  { "sentence": "九番のホームに電車が来ました。", "target": "九", "reading": "きゅう", "meaning": "nine", "translation": "The train came to platform nine.", "context": "numbers" },
+  { "sentence": "十番の受付でお待ちください。", "target": "十", "reading": "じゅう", "meaning": "ten", "translation": "Please wait at reception number ten.", "context": "numbers" },
+  { "sentence": "百番のチケットを取りました。", "target": "百", "reading": "ひゃく", "meaning": "hundred", "translation": "I took ticket number one hundred.", "context": "numbers" },
+  { "sentence": "千番までの整理券があります。", "target": "千", "reading": "せん", "meaning": "thousand", "translation": "There are numbered tickets up to one thousand.", "context": "numbers" },
+  { "sentence": "ケーキを半分に切りました。", "target": "半分", "reading": "はんぶん", "meaning": "half", "translation": "I cut the cake in half.", "context": "numbers" },
+  { "sentence": "宿題を全部終わらせました。", "target": "全部", "reading": "ぜんぶ", "meaning": "all", "translation": "I finished all of my homework.", "context": "numbers" },
+  { "sentence": "りんごはいくつありますか。", "target": "いくつ", "reading": "いくつ", "meaning": "how many", "translation": "How many apples are there?", "context": "numbers" }
+]

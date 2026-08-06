@@ -1,0 +1,17 @@
+[
+  { "word": "注文", "reading": "ちゅうもん", "meaning": "order (n./v.)", "context": "restaurant", "frequencyRank": 1 },
+  { "word": "メニュー", "reading": "メニュー", "meaning": "menu", "context": "restaurant", "frequencyRank": 2 },
+  { "word": "料理", "reading": "りょうり", "meaning": "dish; cooking", "context": "restaurant", "frequencyRank": 3 },
+  { "word": "会計", "reading": "かいけい", "meaning": "bill; check", "context": "restaurant", "frequencyRank": 4 },
+  { "word": "店員", "reading": "てんいん", "meaning": "shop staff", "context": "restaurant", "frequencyRank": 5 },
+  { "word": "予約", "reading": "よやく", "meaning": "reservation", "context": "restaurant", "frequencyRank": 6 },
+  { "word": "席", "reading": "せき", "meaning": "seat", "context": "restaurant", "frequencyRank": 7 },
+  { "word": "おすすめ", "reading": "おすすめ", "meaning": "recommendation", "context": "restaurant", "frequencyRank": 8 },
+  { "word": "飲み物", "reading": "のみもの", "meaning": "drink", "context": "restaurant", "frequencyRank": 9 },
+  { "word": "デザート", "reading": "デザート", "meaning": "dessert", "context": "restaurant", "frequencyRank": 10 },
+  { "word": "辛い", "reading": "からい", "meaning": "spicy", "context": "restaurant", "frequencyRank": 11 },
+  { "word": "美味しい", "reading": "おいしい", "meaning": "delicious", "context": "restaurant", "frequencyRank": 12 },
+  { "word": "水", "reading": "みず", "meaning": "water", "context": "restaurant", "frequencyRank": 13 },
+  { "word": "領収書", "reading": "りょうしゅうしょ", "meaning": "receipt", "context": "restaurant", "frequencyRank": 14 },
+  { "word": "満席", "reading": "まんせき", "meaning": "fully booked", "context": "restaurant", "frequencyRank": 15 }
+]

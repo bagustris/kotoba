@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ことば - Kotoba</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>%E8%A8%80</text></svg>">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#1a2e28">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="app-header">
+  <button id="btn-settings" type="button" class="icon-btn settings-btn" aria-haspopup="dialog" aria-label="設定 Settings">
+    <span class="hamburger-icon"><span></span><span></span><span></span></span>
+  </button>
+  <h1>ことば</h1>
+</header>
+
+<div id="settings-overlay" class="settings-overlay hidden">
+  <div id="settings-panel" class="settings-panel" role="dialog" aria-modal="true" aria-labelledby="settings-title">
+    <div class="settings-header">
+      <h2 id="settings-title">設定<span>Settings</span></h2>
+      <button id="btn-settings-close" type="button" class="icon-btn" aria-label="閉じる Close">&times;</button>
+    </div>
+
+    <div class="settings-row">
+      <span class="settings-row-label" id="setting-show-hint-label">ヒントを表示<span>Show meaning/reading hint</span></span>
+      <label class="switch">
+        <input type="checkbox" id="setting-show-hint" aria-labelledby="setting-show-hint-label">
+        <span class="switch-slider"></span>
+      </label>
+    </div>
+
+    <div class="settings-row settings-row-column">
+      <span class="settings-row-label">1回の問題数<span>Questions per round</span></span>
+      <div id="setting-round-size" class="settings-segmented" role="radiogroup" aria-label="Questions per round">
+        <button type="button" class="segmented-btn" data-value="5">5<span>問</span></button>
+        <button type="button" class="segmented-btn active" data-value="10">10<span>問</span></button>
+        <button type="button" class="segmented-btn" data-value="20">20<span>問</span></button>
+        <button type="button" class="segmented-btn" data-value="all">全部<span>All</span></button>
+      </div>
+    </div>
+
+    <div class="settings-row settings-row-column">
+      <span class="settings-row-label">アプリとしてインストール<span>Install on PC &amp; smartphone</span></span>
+      <button id="btn-install" type="button" class="settings-install-btn hidden">インストール<span>Install</span></button>
+      <p id="settings-install-hint" class="settings-install-hint hidden"></p>
+    </div>
+  </div>
+</div>
+
+<main id="app">
+
+  <div id="file-protocol-warning" class="banner-warning hidden">
+    このアプリはサーバー経由で開く必要があります（file:// では動作しません）。<br>
+    This app must be served over HTTP, not opened directly as a file.<br>
+    Try: <code>python3 -m http.server 8000</code>, then open <code>http://localhost:8000</code>.
+  </div>
+
+  <div id="load-error-banner" class="banner-error hidden"></div>
+
+  <section id="screen-home" class="screen">
+    <h2>はじめましょう</h2>
+    <p class="subtitle">Choose a mode, scope, and context</p>
+
+    <div class="toggle-row" id="mode-toggle" role="tablist" aria-label="Mode">
+      <button class="toggle-btn active" data-mode="reading"><span class="key-badge key-badge-corner">R</span>読み方<span>Reading</span></button>
+      <button class="toggle-btn" data-mode="meaning"><span class="key-badge key-badge-corner">M</span>意味<span>Meaning</span></button>
+      <button class="toggle-btn" data-mode="fillblank"><span class="key-badge key-badge-corner">F</span>穴埋め<span>Fill-in-blank</span></button>
+    </div>
+
+    <div class="toggle-row" id="scope-toggle" role="tablist" aria-label="Scope">
+      <button class="toggle-btn active" data-scope="word"><span class="key-badge key-badge-corner">W</span>単語のみ<span>Word only</span></button>
+      <button class="toggle-btn" data-scope="sentence"><span class="key-badge key-badge-corner">S</span>文の中で<span>In a sentence</span></button>
+    </div>
+
+    <div class="context-grid" id="context-grid"></div>
+
+    <h3 class="progress-heading">状況別の成績<span>Progress by Context</span></h3>
+    <div id="context-progress-list" class="context-progress-list"></div>
+
+    <h3 class="progress-heading">全体の成績<span>Overall</span></h3>
+    <div id="progress-summary" class="progress-summary">
+      <span class="progress-stat"><strong id="progress-answered">0</strong>問<span>Answered</span></span>
+      <span class="progress-stat"><strong id="progress-correct">0</strong>正解<span>Correct</span></span>
+      <span class="progress-stat"><strong id="progress-accuracy">0%</strong>正答率<span>Accuracy</span></span>
+    </div>
+    <div id="progress-mode-breakdown" class="progress-mode-breakdown"></div>
+    <div class="progress-history">
+      <span class="progress-history-label">最近の履歴<span>Recent</span></span>
+      <div id="progress-history-bar" class="progress-history-bar"></div>
+    </div>
+  </section>
+
+  <section id="screen-quiz" class="screen hidden">
+    <div class="quiz-topbar">
+      <button id="btn-quit" class="link-btn"><span class="key-badge">0</span>&larr; やめる</button>
+      <div id="quiz-progress" class="quiz-progress"></div>
+    </div>
+    <div class="quiz-card">
+      <div id="quiz-word" class="quiz-word">言葉</div>
+      <p id="quiz-hint" class="quiz-hint"></p>
+      <p id="quiz-instruction" class="quiz-instruction">正しい答えは？<span>Choose the correct answer</span></p>
+      <div id="quiz-options" class="quiz-options"></div>
+    </div>
+  </section>
+
+  <section id="screen-summary" class="screen hidden">
+    <h2>おわり！</h2>
+    <p id="summary-score" class="summary-score"></p>
+    <div id="summary-missed" class="summary-missed"></div>
+    <div id="summary-correct" class="summary-correct"></div>
+    <div class="summary-actions">
+      <button id="btn-retry" class="primary-btn"><span class="key-badge key-badge-corner">1</span>もう一回<span>Try again</span></button>
+      <button id="btn-home" class="secondary-btn"><span class="key-badge key-badge-corner">2</span>はじめから<span>Start over</span></button>
+    </div>
+  </section>
+
+</main>
+
+<script src="js/settings.js"></script>
+<script src="js/progress.js"></script>
+<script src="js/progress-view.js"></script>
+<script src="js/learning/QuestionSelectionStrategy.js"></script>
+<script src="js/learning/review/ReviewSchedulerConfig.js"></script>
+<script src="js/learning/review/ReviewScheduler.js"></script>
+<script src="js/learning/strategies/WeightedScoreStrategy.js"></script>
+<script src="js/learning/strategies/SpacedRepetitionStrategy.js"></script>
+<script src="js/learning/QuestionSelectorConfig.js"></script>
+<script src="js/learning/QuestionSelector.js"></script>
+<script src="js/learning/distractors/DistractorStrategy.js"></script>
+<script src="js/learning/distractors/features/SimilarityFeatures.js"></script>
+<script src="js/learning/distractors/strategies/WeightedDistractorStrategy.js"></script>
+<script src="js/learning/distractors/DistractorConfig.js"></script>
+<script src="js/learning/distractors/DistractorGenerator.js"></script>
+<script src="js/app.js"></script>
+<script>
+  if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('sw.js');
+    });
+  }
+</script>
+</body>
+</html>

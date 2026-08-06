@@ -1,0 +1,17 @@
+[
+  { "sentence": "パスポートを見せてください。", "target": "パスポート", "reading": "パスポート", "meaning": "passport", "translation": "Please show me your passport.", "context": "airport" },
+  { "sentence": "搭乗券を確認します。", "target": "搭乗券", "reading": "とうじょうけん", "meaning": "boarding pass", "translation": "I'll check the boarding pass.", "context": "airport" },
+  { "sentence": "手荷物を預けました。", "target": "手荷物", "reading": "てにもつ", "meaning": "baggage", "translation": "I checked in my baggage.", "context": "airport" },
+  { "sentence": "飛行機の出発が遅れています。", "target": "出発", "reading": "しゅっぱつ", "meaning": "departure", "translation": "The flight's departure is delayed.", "context": "airport" },
+  { "sentence": "到着は午後三時の予定です。", "target": "到着", "reading": "とうちゃく", "meaning": "arrival", "translation": "Arrival is scheduled for 3 PM.", "context": "airport" },
+  { "sentence": "税関で荷物を調べられました。", "target": "税関", "reading": "ぜいかん", "meaning": "customs", "translation": "My bag was inspected at customs.", "context": "airport" },
+  { "sentence": "免税店でお土産を買いました。", "target": "免税店", "reading": "めんぜいてん", "meaning": "duty-free shop", "translation": "I bought souvenirs at the duty-free shop.", "context": "airport" },
+  { "sentence": "搭乗口はもうすぐ閉まります。", "target": "搭乗口", "reading": "とうじょうぐち", "meaning": "boarding gate", "translation": "The boarding gate will close soon.", "context": "airport" },
+  { "sentence": "この便は国内線です。", "target": "国内線", "reading": "こくないせん", "meaning": "domestic flight", "translation": "This flight is a domestic flight.", "context": "airport" },
+  { "sentence": "国際線のカウンターはあちらです。", "target": "国際線", "reading": "こくさいせん", "meaning": "international flight", "translation": "The international flight counter is over there.", "context": "airport" },
+  { "sentence": "荷物検査に時間がかかりました。", "target": "荷物検査", "reading": "にもつけんさ", "meaning": "baggage check", "translation": "The baggage check took a long time.", "context": "airport" },
+  { "sentence": "多くの乗客が並んでいます。", "target": "乗客", "reading": "じょうきゃく", "meaning": "passenger", "translation": "Many passengers are lined up.", "context": "airport" },
+  { "sentence": "台風で飛行機が欠航になりました。", "target": "欠航", "reading": "けっこう", "meaning": "flight cancellation", "translation": "The flight was cancelled due to the typhoon.", "context": "airport" },
+  { "sentence": "日本との時差は九時間です。", "target": "時差", "reading": "じさ", "meaning": "time difference", "translation": "The time difference with Japan is nine hours.", "context": "airport" },
+  { "sentence": "案内カウンターで道を聞きました。", "target": "案内", "reading": "あんない", "meaning": "information", "translation": "I asked for directions at the information counter.", "context": "airport" }
+]

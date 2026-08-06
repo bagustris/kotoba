@@ -1,0 +1,17 @@
+[
+  { "word": "切符", "reading": "きっぷ", "meaning": "ticket", "context": "station", "frequencyRank": 1 },
+  { "word": "改札", "reading": "かいさつ", "meaning": "ticket gate", "context": "station", "frequencyRank": 2 },
+  { "word": "ホーム", "reading": "ホーム", "meaning": "platform", "context": "station", "frequencyRank": 3 },
+  { "word": "電車", "reading": "でんしゃ", "meaning": "train", "context": "station", "frequencyRank": 4 },
+  { "word": "時刻表", "reading": "じこくひょう", "meaning": "timetable", "context": "station", "frequencyRank": 5 },
+  { "word": "乗り換え", "reading": "のりかえ", "meaning": "transfer", "context": "station", "frequencyRank": 6 },
+  { "word": "運賃", "reading": "うんちん", "meaning": "fare", "context": "station", "frequencyRank": 7 },
+  { "word": "各駅停車", "reading": "かくえきていしゃ", "meaning": "local train", "context": "station", "frequencyRank": 8 },
+  { "word": "急行", "reading": "きゅうこう", "meaning": "express train", "context": "station", "frequencyRank": 9 },
+  { "word": "出口", "reading": "でぐち", "meaning": "exit", "context": "station", "frequencyRank": 10 },
+  { "word": "入口", "reading": "いりぐち", "meaning": "entrance", "context": "station", "frequencyRank": 11 },
+  { "word": "忘れ物", "reading": "わすれもの", "meaning": "lost item", "context": "station", "frequencyRank": 12 },
+  { "word": "満員", "reading": "まんいん", "meaning": "crowded; full", "context": "station", "frequencyRank": 13 },
+  { "word": "遅延", "reading": "ちえん", "meaning": "delay", "context": "station", "frequencyRank": 14 },
+  { "word": "定期券", "reading": "ていきけん", "meaning": "commuter pass", "context": "station", "frequencyRank": 15 }
+]

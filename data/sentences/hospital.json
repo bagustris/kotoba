@@ -1,0 +1,17 @@
+[
+  { "sentence": "医者に相談しました。", "target": "医者", "reading": "いしゃ", "meaning": "doctor", "translation": "I consulted a doctor.", "context": "hospital" },
+  { "sentence": "看護師が熱を測りました。", "target": "看護師", "reading": "かんごし", "meaning": "nurse", "translation": "The nurse took my temperature.", "context": "hospital" },
+  { "sentence": "食後にこの薬を飲んでください。", "target": "薬", "reading": "くすり", "meaning": "medicine", "translation": "Please take this medicine after meals.", "context": "hospital" },
+  { "sentence": "今朝から熱があります。", "target": "熱", "reading": "ねつ", "meaning": "fever", "translation": "I've had a fever since this morning.", "context": "hospital" },
+  { "sentence": "お腹が痛いです。", "target": "痛い", "reading": "いたい", "meaning": "painful", "translation": "My stomach hurts.", "context": "hospital" },
+  { "sentence": "午前中に診察を受けました。", "target": "診察", "reading": "しんさつ", "meaning": "medical examination", "translation": "I had a medical examination in the morning.", "context": "hospital" },
+  { "sentence": "受付で名前を呼ばれました。", "target": "受付", "reading": "うけつけ", "meaning": "reception", "translation": "My name was called at the reception.", "context": "hospital" },
+  { "sentence": "保険証を忘れました。", "target": "保険証", "reading": "ほけんしょう", "meaning": "insurance card", "translation": "I forgot my insurance card.", "context": "hospital" },
+  { "sentence": "看護師が注射をしました。", "target": "注射", "reading": "ちゅうしゃ", "meaning": "injection", "translation": "The nurse gave an injection.", "context": "hospital" },
+  { "sentence": "薬局で処方箋を渡しました。", "target": "処方箋", "reading": "しょほうせん", "meaning": "prescription", "translation": "I handed the prescription at the pharmacy.", "context": "hospital" },
+  { "sentence": "医者に症状を説明しました。", "target": "症状", "reading": "しょうじょう", "meaning": "symptom", "translation": "I explained my symptoms to the doctor.", "context": "hospital" },
+  { "sentence": "具合はどうですか。", "target": "具合", "reading": "ぐあい", "meaning": "condition", "translation": "How are you feeling?", "context": "hospital" },
+  { "sentence": "来週、血液検査をします。", "target": "検査", "reading": "けんさ", "meaning": "medical test", "translation": "I'll have a blood test next week.", "context": "hospital" },
+  { "sentence": "祖父は三日間入院しました。", "target": "入院", "reading": "にゅういん", "meaning": "hospitalization", "translation": "My grandfather was hospitalized for three days.", "context": "hospital" },
+  { "sentence": "毎週月曜日に通院しています。", "target": "通院", "reading": "つういん", "meaning": "outpatient visit", "translation": "I visit the hospital every Monday.", "context": "hospital" }
+]
