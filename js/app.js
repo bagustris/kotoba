@@ -55,6 +55,8 @@ const el = {
   quizHint: document.getElementById('quiz-hint'),
   quizInstruction: document.getElementById('quiz-instruction'),
   quizOptions: document.getElementById('quiz-options'),
+  quizContinue: document.getElementById('quiz-continue'),
+  quizLeechBadge: document.getElementById('quiz-leech-badge'),
   summaryScore: document.getElementById('summary-score'),
   summaryMissed: document.getElementById('summary-missed'),
   summaryCorrect: document.getElementById('summary-correct'),
@@ -64,6 +66,8 @@ const el = {
   btnSettingsClose: document.getElementById('btn-settings-close'),
   settingsOverlay: document.getElementById('settings-overlay'),
   settingShowHint: document.getElementById('setting-show-hint'),
+  settingAutoNext: document.getElementById('setting-auto-next'),
+  settingPlayAudio: document.getElementById('setting-play-audio'),
   settingRoundSizeButtons: document.querySelectorAll('#setting-round-size .segmented-btn'),
   installButton: document.getElementById('btn-install'),
   installHint: document.getElementById('settings-install-hint'),
@@ -80,6 +84,10 @@ function showScreen(name) {
   // advanceTimer's comment above startRound). A no-op once the timer has
   // already fired on its own.
   clearAdvanceTimer();
+  // Also abandon any manual "continue" wait and stop any spoken reading so
+  // neither carries into the next screen.
+  cancelContinue();
+  AudioPlayer.stop();
   if (name === 'home') ProgressView.renderAll();
 }
 
@@ -322,6 +330,73 @@ function clearAdvanceTimer() {
   }
 }
 
+// True between an answer being graded and the next question appearing, when
+// autoNext is off (the default) — the learner advances manually via tap/click
+// or a key. See armContinue()/onContinueClick().
+let awaitingContinue = false;
+
+// Advances past the current question — the single exit point for both the
+// autoNext timer and a manual continue, so timer/continue state is always
+// cleared exactly once.
+function advanceQuestion() {
+  clearAdvanceTimer();
+  cancelContinue();
+  el.quizContinue.classList.add('hidden');
+  state.index++;
+  if (state.index < state.questions.length) renderQuestion();
+  else showSummary();
+}
+
+// Fires on a click anywhere while awaiting a manual continue. Registered on the
+// next macrotask so the click that answered the question doesn't bubble up and
+// instantly satisfy its own continue gate; a plain (non-once) listener removed
+// by cancelContinue() means exactly one is ever live, so a keyboard advance
+// can't leave a stale listener that swallows the next answering click.
+function onContinueClick() {
+  if (awaitingContinue) advanceQuestion();
+}
+
+function armContinue() {
+  awaitingContinue = true;
+  el.quizContinue.classList.remove('hidden');
+  setTimeout(() => {
+    if (awaitingContinue) document.addEventListener('click', onContinueClick);
+  }, 0);
+}
+
+function cancelContinue() {
+  awaitingContinue = false;
+  document.removeEventListener('click', onContinueClick);
+  // Hide the hint here (not only in advanceQuestion) so quitting mid-reveal
+  // and starting a new round doesn't leave "つづける →" showing on question 1.
+  el.quizContinue.classList.add('hidden');
+}
+
+// Resolves the tri-state playAudio preference (see settings.js): explicit
+// choice wins; `null` falls back to off in an installed/standalone PWA, on in a
+// browser tab.
+function audioEnabled() {
+  const pref = SettingsManager.get('playAudio');
+  return pref === null ? !isStandaloneDisplay() : pref;
+}
+
+// The Japanese reading to speak for a question, by mode: Reading quizzes the
+// reading itself (the answer); Meaning quizzes the English gloss, so the
+// reading lives in q.meaning (the swapped hint); Fill-in-blank quizzes the word
+// and carries the reading as hintReading. Never speaks the English meaning.
+function readingToSpeak(q) {
+  if (state.mode === 'reading') return q.correctAnswer;
+  if (state.mode === 'meaning') return q.meaning;
+  return q.hintReading || q.correctAnswer; // fillblank
+}
+
+// Speaks a reading when audio is enabled and supported; a silent no-op
+// otherwise. Any okurigana dot is a display marker, not pronounced.
+function speakReading(reading) {
+  if (!reading) return;
+  if (audioEnabled() && AudioPlayer.isSupported()) AudioPlayer.speak(reading.replace(/\./g, ''));
+}
+
 function startRound() {
   clearAdvanceTimer();
   const configuredSize = SettingsManager.get('roundSize');
@@ -354,6 +429,8 @@ function applyHintVisibility() {
 
 function renderQuestion() {
   const q = state.questions[state.index];
+  // Cut off any reading still being spoken from the previous reveal.
+  AudioPlayer.stop();
   const counter = `${state.index + 1} / ${state.questions.length}`;
   el.quizProgress.textContent = counter;
 
@@ -370,6 +447,17 @@ function renderQuestion() {
 
   el.quizHint.textContent = q.meaning || '';
   applyHintVisibility();
+
+  // A leech (an item this learner keeps missing) gets extra scaffolding: a
+  // "weak spot" marker, plus its hint revealed even when the setting is off —
+  // except in fill-in-blank, where the hint would give the answer away before
+  // it's answered.
+  const leech = ProgressManager.isLeech(ProgressManager.getQuestionId(progressModeKey(), state.context, q.text));
+  el.quizLeechBadge.classList.toggle('hidden', !leech);
+  if (leech && state.mode !== 'fillblank') {
+    if (state.mode === 'reading') el.quizHint.classList.remove('hidden');
+    el.quizWord.classList.remove('hide-hint'); // reveal meaning-mode furigana
+  }
 
   const [instructionMain, instructionSub] = INSTRUCTIONS[progressModeKey()];
   el.quizInstruction.innerHTML = `${instructionMain}<span>${instructionSub}</span>`;
@@ -441,20 +529,23 @@ function handleAnswer(selected, btnEl) {
 
   ProgressView.renderAll();
 
-  // A wrong answer gets a longer pause than a correct one: that's the moment
-  // the revealed answer actually needs to be read. Whenever we reveal furigana
-  // for the entire sentence (see above), that takes longer to read than a
-  // single word, so it gets extra time on top of that.
+  // Speak the target's reading now that the answer is revealed (never the
+  // English meaning — see readingToSpeak).
+  speakReading(readingToSpeak(q));
+
   clearAdvanceTimer();
-  const delay = revealFullReading
-    ? (isCorrect ? 2000 : 3200)
-    : (isCorrect ? 700 : 1800);
-  advanceTimer = setTimeout(() => {
-    advanceTimer = null;
-    state.index++;
-    if (state.index < state.questions.length) renderQuestion();
-    else showSummary();
-  }, delay);
+  if (SettingsManager.get('autoNext')) {
+    // A wrong answer gets a longer pause than a correct one: that's the moment
+    // the revealed answer actually needs to be read. A full-sentence furigana
+    // reveal takes longer to read than a single word, so it gets extra time.
+    const delay = revealFullReading
+      ? (isCorrect ? 2000 : 3200)
+      : (isCorrect ? 700 : 1800);
+    advanceTimer = setTimeout(advanceQuestion, delay);
+  } else {
+    // Manual advance (the default): wait for a tap/click or → / Enter / Space.
+    armContinue();
+  }
 }
 
 function itemDisplay(q) {
@@ -565,6 +656,18 @@ function initSettingsPanel() {
   el.settingShowHint.addEventListener('change', () => {
     SettingsManager.set('showHint', el.settingShowHint.checked);
     applyHintVisibility();
+  });
+
+  el.settingAutoNext.checked = SettingsManager.get('autoNext');
+  el.settingAutoNext.addEventListener('change', () => {
+    SettingsManager.set('autoNext', el.settingAutoNext.checked);
+  });
+
+  // Init from the resolved default (audioEnabled()), not the raw tri-state
+  // preference, so a never-chosen `null` renders on/off per context.
+  el.settingPlayAudio.checked = audioEnabled();
+  el.settingPlayAudio.addEventListener('change', () => {
+    SettingsManager.set('playAudio', el.settingPlayAudio.checked);
   });
 
   el.settingRoundSizeButtons.forEach((btn) => {
@@ -689,6 +792,18 @@ document.addEventListener('keydown', (e) => {
   }
 
   if (e.ctrlKey || e.metaKey || e.altKey) return;
+
+  // While a revealed answer waits for a manual continue (autoNext off),
+  // →/Enter/Space move on and 0 still quits; other keys are swallowed (the
+  // options are already disabled). Checked before arrow-nav so → advances.
+  if (state.screen === 'quiz' && awaitingContinue) {
+    if (e.key === '0') { el.btnQuit.click(); return; }
+    if (e.key === 'Enter' || e.key === ' ' || e.key === 'Spacebar' || e.key === 'ArrowRight') {
+      e.preventDefault();
+      advanceQuestion();
+    }
+    return;
+  }
 
   if (ARROW_DELTAS[e.key]) {
     e.preventDefault();

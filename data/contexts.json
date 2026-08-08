@@ -4,7 +4,5 @@
   { "id": "station", "label": "駅", "labelEn": "Train Station" },
   { "id": "airport", "label": "空港", "labelEn": "Airport" },
   { "id": "classroom", "label": "教室", "labelEn": "Classroom" },
-  { "id": "home", "label": "家", "labelEn": "Home" },
-  { "id": "numbers", "label": "数", "labelEn": "Numbers" },
-  { "id": "colors", "label": "色", "labelEn": "Colors" }
+  { "id": "home", "label": "家", "labelEn": "Home" }
 ]

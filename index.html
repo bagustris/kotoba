@@ -33,6 +33,22 @@
       </label>
     </div>
 
+    <div class="settings-row">
+      <span class="settings-row-label" id="setting-play-audio-label">読み上げ<span>Speak the reading aloud</span></span>
+      <label class="switch">
+        <input type="checkbox" id="setting-play-audio" aria-labelledby="setting-play-audio-label">
+        <span class="switch-slider"></span>
+      </label>
+    </div>
+
+    <div class="settings-row">
+      <span class="settings-row-label" id="setting-auto-next-label">自動で次へ<span>Advance automatically after answering</span></span>
+      <label class="switch">
+        <input type="checkbox" id="setting-auto-next" aria-labelledby="setting-auto-next-label">
+        <span class="switch-slider"></span>
+      </label>
+    </div>
+
     <div class="settings-row settings-row-column">
       <span class="settings-row-label">1回の問題数<span>Questions per round</span></span>
       <div id="setting-round-size" class="settings-segmented" role="radiogroup" aria-label="Questions per round">
@@ -100,10 +116,12 @@
       <div id="quiz-progress" class="quiz-progress"></div>
     </div>
     <div class="quiz-card">
+      <div id="quiz-leech-badge" class="quiz-leech-badge hidden">にがて<span>Weak spot</span></div>
       <div id="quiz-word" class="quiz-word">言葉</div>
       <p id="quiz-hint" class="quiz-hint"></p>
       <p id="quiz-instruction" class="quiz-instruction">正しい答えは？<span>Choose the correct answer</span></p>
       <div id="quiz-options" class="quiz-options"></div>
+      <p id="quiz-continue" class="quiz-continue hidden">つづける →<span>タップ / Tap or press → Enter Space</span></p>
     </div>
   </section>
 
@@ -121,6 +139,7 @@
 </main>
 
 <script src="js/settings.js"></script>
+<script src="js/audio.js"></script>
 <script src="js/progress.js"></script>
 <script src="js/progress-view.js"></script>
 <script src="js/learning/QuestionSelectionStrategy.js"></script>

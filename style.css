@@ -712,6 +712,56 @@ html, body {
   gap: 0.7rem;
 }
 
+/* Manual-continue hint shown after answering when auto-advance is off. The
+   whole document is clickable to continue; this is a cue, not the only target. */
+.quiz-continue {
+  margin: 1rem 0 0;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  color: var(--accent);
+  cursor: pointer;
+  animation: quiz-continue-fade 0.2s ease-in;
+}
+
+.quiz-continue span {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: normal;
+  color: #8a9188;
+  margin-top: 0.15rem;
+}
+
+.quiz-continue.hidden { display: none; }
+
+@keyframes quiz-continue-fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* "Weak spot" marker for a leech (an item the learner keeps missing). Subtle,
+   amber, self-explaining — signals the hint is shown as extra help. */
+.quiz-leech-badge {
+  display: inline-block;
+  margin: 0 auto 0.6rem;
+  padding: 0.1rem 0.55rem;
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: #9a6a00;
+  background: #fdf0d5;
+  border: 1px solid #e6c886;
+  border-radius: 999px;
+}
+
+.quiz-leech-badge span {
+  font-weight: normal;
+  font-size: 0.65rem;
+  margin-left: 0.3rem;
+  opacity: 0.8;
+}
+
+.quiz-leech-badge.hidden { display: none; }
+
 .option-btn {
   position: relative;
   /* Symmetric side gutter reserves room for the corner key-badge so long

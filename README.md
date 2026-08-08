@@ -8,9 +8,9 @@ drills the *shape and reading* of individual kanji, kotoba drills the
 actually used — grouped by the everyday situations you'd meet them in.
 
 > [!NOTE]
-> **Status: v1 implemented**, with a curated seed dataset (8 contexts × 15
+> **Status: v1 implemented**, with a curated seed dataset (6 contexts × 15
 > words/sentences each — restaurant, hospital, station, airport, classroom,
-> home, numbers, colors) rather than the full frequency-ranked word list
+> home) rather than the full frequency-ranked word list
 > described under "Data sources" below. All three modes, spaced repetition,
 > and adaptive distractor selection (ported from
 > [kanji-drill](https://github.com/bagustris/kanji-drill)'s learning engine)
@@ -37,7 +37,7 @@ Vocabulary acquisition, distilled to three steps:
   (restaurant), 病院 (hospital), 市役所 (city hall), 駅 (train station),
   空港 (airport), 教室 (classroom), 会議 (conference), 礼拝室 (prayer
   room), 家 (home), トイレ・お風呂 (toilet/bathroom), 感情
-  (emotions/feelings), 数 (numbers), 色 (colors), 果物 (fruits), 文房具
+  (emotions/feelings), 果物 (fruits), 文房具
   (stationery), etc. This is what lets "fill in the blank" quiz sentences
   feel like natural scenes instead of disconnected drill sentences.  
 
@@ -64,6 +64,21 @@ Reading and Meaning each have a submenu:
 
 1. Pick a **context** (restaurant, hospital, station, ... — see above).
 2. Pick a **scope**: word only, or word inside an example sentence.
+
+### Answering flow & help
+
+- **Manual advance by default (自動で次へ off)** — after you answer, the card
+  reveals the answer (and, in sentence modes, whole-sentence furigana) and
+  waits for you to continue (tap/click, or → / Enter / Space) instead of
+  racing ahead on a timer. A Settings toggle switches back to timed
+  auto-advance.
+- **Spoken readings (読み上げ)** — an optional setting speaks the word's
+  Japanese reading via the browser's built-in speech synthesis (never the
+  English meaning). Off by default in an installed/offline PWA, on in a
+  browser tab.
+- **Weak spots (にがて)** — a word you keep missing gets its hint revealed as
+  extra scaffolding (except in Fill-in-the-blank, where the hint would give
+  the answer away) and a small weak-spot marker.
 
 ### Worked example
 

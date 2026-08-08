@@ -7,7 +7,14 @@ const SettingsManager = (() => {
   // showHint toggles the secondary text under the quiz prompt: the meaning
   // in Reading mode, the reading in Meaning mode (see README "Modes" — both
   // are togglable). Fill-in-the-blank never shows it.
-  const DEFAULTS = { showHint: true, roundSize: 10 };
+  // autoNext defaults to false: after answering, the quiz waits for the learner
+  // to continue (tap / → / Enter) rather than jumping ahead on a timer, so
+  // there's time to read the revealed answer/furigana. playAudio is tri-state
+  // (`null` = never chosen), resolved at read time by app.js's audioEnabled()
+  // — off in an installed/offline PWA (ja voice often network-dependent), on in
+  // a browser tab. Note the load() spread means get('playAudio') returns
+  // `null`, not `undefined`, until toggled.
+  const DEFAULTS = { showHint: true, roundSize: 10, autoNext: false, playAudio: null };
 
   function load() {
     try {

@@ -286,6 +286,16 @@ const ProgressManager = (() => {
     return stats.seen === 0 ? 0 : stats.correct / stats.seen;
   }
 
+  // A "leech": a question the learner keeps missing — seen enough times to be a
+  // pattern, yet still answered right less than half the time. Callers use it to
+  // give the item extra scaffolding (e.g. reveal its hint).
+  const LEECH_MIN_SEEN = 3;
+  const LEECH_MAX_ACCURACY = 0.5;
+  function isLeech(id) {
+    const stats = getQuestionStats(id);
+    return stats.seen >= LEECH_MIN_SEEN && stats.correct / stats.seen < LEECH_MAX_ACCURACY;
+  }
+
   // One-decimal accuracy percentage (e.g. 89.6), 0 when nothing answered yet.
   function getAccuracy(stats) {
     if (!stats || stats.answered === 0) return 0;
@@ -382,6 +392,7 @@ const ProgressManager = (() => {
     getConfusions,
     getErrorRate,
     getMastery,
+    isLeech,
     getContextStats,
     getContextStatus,
     getOverallStats,

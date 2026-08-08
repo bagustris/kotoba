@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'kotoba-v3';
+const CACHE_VERSION = 'kotoba-v5';
 
 const CORE_ASSETS = [
   '.',
@@ -6,6 +6,7 @@ const CORE_ASSETS = [
   'style.css',
   'manifest.json',
   'js/settings.js',
+  'js/audio.js',
   'js/progress.js',
   'js/progress-view.js',
   'js/learning/QuestionSelectionStrategy.js',
@@ -28,16 +29,12 @@ const CORE_ASSETS = [
   'data/words/airport.json',
   'data/words/classroom.json',
   'data/words/home.json',
-  'data/words/numbers.json',
-  'data/words/colors.json',
   'data/sentences/restaurant.json',
   'data/sentences/hospital.json',
   'data/sentences/station.json',
   'data/sentences/airport.json',
   'data/sentences/classroom.json',
   'data/sentences/home.json',
-  'data/sentences/numbers.json',
-  'data/sentences/colors.json',
 ];
 
 self.addEventListener('install', (event) => {

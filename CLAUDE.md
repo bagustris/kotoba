@@ -40,8 +40,8 @@ right position, and add its path to `sw.js`'s `CORE_ASSETS`.
 
 ### The pipeline: data → item list → questions → answer → progress
 
-1. **`data/contexts.json`** lists the 8 contexts (restaurant, hospital,
-   station, airport, classroom, home, numbers, colors). Each has
+1. **`data/contexts.json`** lists the 6 contexts (restaurant, hospital,
+   station, airport, classroom, home) — all everyday *places*. Each has
    `data/words/<context>.json` (word/reading/meaning/frequencyRank) and
    `data/sentences/<context>.json` (sentence/target/reading/meaning), 15
    entries each.
