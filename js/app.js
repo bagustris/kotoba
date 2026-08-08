@@ -14,8 +14,10 @@ const INSTRUCTIONS = {
 };
 
 // Every context in the curated seed dataset has exactly this many words and
-// the same number of sentences (see data/words|sentences/*.json) — this
-// becomes a per-file count instead of a constant if that ever stops holding.
+// sentences (see data/words|sentences/*.json), which is the total for Meaning
+// and Fill-in-blank. Reading mode drops kana-only items (their reading equals
+// the word — see loadItemList), so its real total is smaller; startRound
+// overrides it per context with the actual filtered pool size.
 const QUESTIONS_PER_CONTEXT = 15;
 
 const state = {
@@ -66,6 +68,7 @@ const el = {
   btnSettingsClose: document.getElementById('btn-settings-close'),
   settingsOverlay: document.getElementById('settings-overlay'),
   settingShowHint: document.getElementById('setting-show-hint'),
+  settingFurigana: document.getElementById('setting-furigana'),
   settingAutoNext: document.getElementById('setting-auto-next'),
   settingPlayAudio: document.getElementById('setting-play-audio'),
   settingRoundSizeButtons: document.querySelectorAll('#setting-round-size .segmented-btn'),
@@ -153,8 +156,15 @@ function blankSentence(sentence, target, revealHTML) {
 // caller can set it via innerHTML uniformly either way.
 function wordMarkup(q) {
   const word = q.target ?? q.text;
-  if (state.mode === 'meaning' && hasKanji(word)) return rubyHTML(word, q.meaning);
+  if (state.mode === 'meaning' && furiganaEnabled() && hasKanji(word)) return rubyHTML(word, q.meaning);
   return word;
+}
+
+// Master switch for reading annotations (ruby) over kanji: the meaning-mode
+// hint furigana and the post-answer reveal furigana. Off means plain text
+// everywhere; spoken readings (playAudio) are independent of this.
+function furiganaEnabled() {
+  return SettingsManager.get('furigana') !== false;
 }
 
 // The combined ProgressManager mode key for the current selection — Reading
@@ -245,19 +255,32 @@ async function loadItemList(mode, scope, context) {
   }
   if (scope === 'word') {
     const entries = await fetchJSON(`data/words/${context}.json`);
-    return mode === 'reading'
-      ? entries.map((e) => ({ word: e.word, readings: [e.reading], meaning: e.meaning, frequencyRank: e.frequencyRank }))
-      : entries.map((e) => ({ word: e.word, readings: [e.meaning], meaning: e.reading, frequencyRank: e.frequencyRank }));
+    if (mode === 'reading') {
+      // Kana-only words (メニュー, ノート, ...) read identically to their
+      // surface form, so quizzing their reading is trivial — the correct answer
+      // is just the word already on screen. Dropped from Reading; they're still
+      // drilled in Meaning (non-trivial gloss) and Fill-in-blank (word hidden).
+      return entries
+        .filter((e) => hasKanji(e.word))
+        .map((e) => ({ word: e.word, readings: [e.reading], meaning: e.meaning, frequencyRank: e.frequencyRank }));
+    }
+    return entries.map((e) => ({ word: e.word, readings: [e.meaning], meaning: e.reading, frequencyRank: e.frequencyRank }));
   }
   const entries = await fetchJSON(`data/sentences/${context}.json`);
   // Reading-scope-sentence's hint is the sentence's full translation (not
   // just the target word's meaning) — the question already highlights the
   // target, so the hint's job is to help the reader understand the whole
-  // sentence. fullReading (whole-sentence furigana) rides along for the
-  // post-answer reveal (see handleAnswer) regardless of mode.
-  return mode === 'reading'
-    ? entries.map((e) => ({ sentence: e.sentence, target: e.target, readings: [e.reading], meaning: e.translation, fullReading: e.fullReading }))
-    : entries.map((e) => ({ sentence: e.sentence, target: e.target, readings: [e.meaning], meaning: e.reading, fullReading: e.fullReading }));
+  // sentence. fullReading (the whole sentence's kana reading) rides along for
+  // the spoken reading only (see readingToSpeak) — furigana is now shown over
+  // the target word alone, never the whole sentence.
+  if (mode === 'reading') {
+    // Same reasoning as word scope: a kana-only target reads identically to
+    // itself, so its reading isn't worth quizzing (see the filter above).
+    return entries
+      .filter((e) => hasKanji(e.target))
+      .map((e) => ({ sentence: e.sentence, target: e.target, readings: [e.reading], meaning: e.translation, fullReading: e.fullReading }));
+  }
+  return entries.map((e) => ({ sentence: e.sentence, target: e.target, readings: [e.meaning], meaning: e.reading, fullReading: e.fullReading }));
 }
 
 // Adaptive replacement for a plain random sample: builds a pool of
@@ -380,14 +403,21 @@ function audioEnabled() {
   return pref === null ? !isStandaloneDisplay() : pref;
 }
 
-// The Japanese reading to speak for a question, by mode: Reading quizzes the
-// reading itself (the answer); Meaning quizzes the English gloss, so the
-// reading lives in q.meaning (the swapped hint); Fill-in-blank quizzes the word
-// and carries the reading as hintReading. Never speaks the English meaning.
+// The Japanese reading to speak for a question. Sentence-based questions
+// (sentence scope or fill-in-blank) speak the WHOLE sentence's reading so the
+// learner hears the target word in natural context — this is why furigana over
+// every kanji is no longer necessary. Word-only questions have no sentence, so
+// they fall back to the word's own reading, which lives in a different field
+// per mode: Reading quizzes the reading itself (the answer); Meaning quizzes the
+// English gloss, so the reading is the swapped hint in q.meaning; Fill-in-blank
+// carries it as hintReading. Never speaks the English meaning.
 function readingToSpeak(q) {
+  if (q.fullReading && (state.scope === 'sentence' || state.mode === 'fillblank')) {
+    return q.fullReading;
+  }
   if (state.mode === 'reading') return q.correctAnswer;
   if (state.mode === 'meaning') return q.meaning;
-  return q.hintReading || q.correctAnswer; // fillblank
+  return q.hintReading || q.correctAnswer; // fillblank without fullReading
 }
 
 // Speaks a reading when audio is enabled and supported; a silent no-op
@@ -403,6 +433,12 @@ function startRound() {
   const roundSize = configuredSize === 'all' ? state.itemList.length : configuredSize;
   const count = Math.min(roundSize, state.itemList.length);
   const pMode = progressModeKey();
+  // Register the real pool size as this mode+context's total, since Reading
+  // mode drops kana-only items (see loadItemList) and so has fewer than the
+  // registerTotalQuestionCounts default. Use the pool length, not `count` —
+  // `count` is capped by roundSize and would falsely read as 100% after one
+  // small round. Idempotent, so the retry path re-setting it is harmless.
+  ProgressManager.setTotalQuestions(pMode, state.context, state.itemList.length);
   const picks = pickQuestions(state.itemList, pMode, state.context, count);
   state.questions = picks.map((entry) => buildQuestion(entry, state.itemList, pMode, state.context));
   state.index = 0;
@@ -423,7 +459,7 @@ function applyHintVisibility() {
 
   const q = state.questions[state.index];
   if (!q) return;
-  const rubyActive = state.mode === 'meaning' && hasKanji(q.target ?? q.text);
+  const rubyActive = state.mode === 'meaning' && furiganaEnabled() && hasKanji(q.target ?? q.text);
   el.quizWord.classList.toggle('hide-hint', rubyActive && !showHint);
 }
 
@@ -490,37 +526,27 @@ function handleAnswer(selected, btnEl) {
     else if (btn === btnEl) btn.classList.add('incorrect');
   });
 
-  // Whole-sentence furigana reveal. On a WRONG answer in any sentence-display
-  // mode (sentence scope or fill-in-blank), annotate every kanji in the
-  // sentence — not just the quizzed target — so the reader can sound the whole
-  // thing out. Reading-sentence also does this on a CORRECT answer (the long
-  // furigana reveal is a feature of that mode, not just error feedback). One
-  // <rt> spans the full base — a deliberate simplification (no per-word
-  // alignment) rather than authoring per-token furigana data.
+  // Reveal the reading as furigana over the TARGET word only — never the whole
+  // sentence: the spoken reading (see readingToSpeak) now carries the full
+  // sentence, and a single <rt> stretched over the whole base was only ever a
+  // rough approximation. Gated by the furigana master switch; off shows plain
+  // text. The target's reading lives in a different field per mode: Reading
+  // quizzes it as the answer (q.correctAnswer), Meaning carries it as the
+  // swapped hint (q.meaning), Fill-in-blank as q.hintReading.
   const isSentenceDisplay = state.scope === 'sentence' || state.mode === 'fillblank';
-  const revealFullReading = !!q.fullReading && isSentenceDisplay &&
-    (!isCorrect || (state.mode === 'reading' && state.scope === 'sentence'));
+  const showFurigana = furiganaEnabled() && hasKanji(q.target);
+
+  // Once answered, the reading is no longer a giveaway — drop hide-hint so the
+  // revealed furigana shows even when the pre-answer hint was toggled off.
+  el.quizWord.classList.remove('hide-hint');
 
   if (state.mode === 'fillblank') {
-    if (revealFullReading) {
-      // Fill the blank with plain target text, then annotate the whole
-      // sentence — fullReading already covers the target's own reading, so a
-      // separate ruby on the target would nest awkwardly.
-      el.quizWord.innerHTML = rubyHTML(blankSentence(q.sentence, q.target, q.target), q.fullReading);
-    } else {
-      const revealHTML = hasKanji(q.target) && q.hintReading ? rubyHTML(q.target, q.hintReading) : q.target;
-      el.quizWord.innerHTML = blankSentence(q.sentence, q.target, revealHTML);
-    }
+    const revealHTML = showFurigana && q.hintReading ? rubyHTML(q.target, q.hintReading) : q.target;
+    el.quizWord.innerHTML = blankSentence(q.sentence, q.target, revealHTML);
   } else if (state.scope === 'sentence') {
-    const highlighted = highlightTarget(q.sentence, q.target);
-    if (revealFullReading) {
-      el.quizWord.innerHTML = rubyHTML(highlighted, q.fullReading);
-    } else if (state.mode === 'reading') {
-      // No fullReading data to reveal; still drop the pre-answer markup back
-      // to a plainly highlighted target.
-      el.quizWord.innerHTML = highlighted;
-    }
-    // meaning-sentence correct answer: keep the pre-answer target furigana.
+    const targetReading = state.mode === 'reading' ? q.correctAnswer : q.meaning;
+    const revealInner = showFurigana ? rubyHTML(q.target, targetReading) : q.target;
+    el.quizWord.innerHTML = highlightTarget(q.sentence, q.target, revealInner);
   }
 
   ProgressManager.recordAnswer(progressModeKey(), state.context, q.text, isCorrect, selected, latencyMs);
@@ -536,9 +562,10 @@ function handleAnswer(selected, btnEl) {
   clearAdvanceTimer();
   if (SettingsManager.get('autoNext')) {
     // A wrong answer gets a longer pause than a correct one: that's the moment
-    // the revealed answer actually needs to be read. A full-sentence furigana
-    // reveal takes longer to read than a single word, so it gets extra time.
-    const delay = revealFullReading
+    // the revealed answer actually needs to be read. Sentence-display modes get
+    // extra time — there's a whole sentence to re-read, and the spoken reading
+    // (when audio is on) runs the length of that sentence.
+    const delay = isSentenceDisplay
       ? (isCorrect ? 2000 : 3200)
       : (isCorrect ? 700 : 1800);
     advanceTimer = setTimeout(advanceQuestion, delay);
@@ -656,6 +683,15 @@ function initSettingsPanel() {
   el.settingShowHint.addEventListener('change', () => {
     SettingsManager.set('showHint', el.settingShowHint.checked);
     applyHintVisibility();
+  });
+
+  el.settingFurigana.checked = furiganaEnabled();
+  el.settingFurigana.addEventListener('change', () => {
+    SettingsManager.set('furigana', el.settingFurigana.checked);
+    // Re-render an in-progress, not-yet-answered question so the change to the
+    // meaning-mode hint furigana shows immediately; a revealed answer keeps its
+    // reveal (the setting applies to the next question). Otherwise no-op.
+    if (state.screen === 'quiz' && state.questionShownAt !== null) renderQuestion();
   });
 
   el.settingAutoNext.checked = SettingsManager.get('autoNext');

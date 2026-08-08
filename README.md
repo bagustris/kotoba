@@ -68,15 +68,18 @@ Reading and Meaning each have a submenu:
 
 ### Answering flow & help
 
-- **Manual advance by default (自動で次へ off)** — after you answer, the card
-  reveals the answer (and, in sentence modes, whole-sentence furigana) and
-  waits for you to continue (tap/click, or → / Enter / Space) instead of
-  racing ahead on a timer. A Settings toggle switches back to timed
-  auto-advance.
-- **Spoken readings (読み上げ)** — an optional setting speaks the word's
-  Japanese reading via the browser's built-in speech synthesis (never the
-  English meaning). Off by default in an installed/offline PWA, on in a
-  browser tab.
+- **Auto-advance by default (自動で次へ)** — after you answer, the card reveals
+  the answer (with furigana over the target word) and moves on after a short
+  timed pause. Turn the setting **off** to advance manually instead (tap/click,
+  or → / Enter / Space).
+- **Furigana (ふりがな)** — reading annotations over kanji (the meaning-mode
+  hint and the post-answer reveal) are **on by default**; turn the setting off
+  for a plain-kanji drill. Furigana is only ever shown over the target word —
+  the whole-sentence reading is carried by spoken audio instead.
+- **Spoken readings (読み上げ)** — an optional setting (**off by default**)
+  speaks the Japanese reading via the browser's built-in speech synthesis
+  (never the English meaning). In sentence modes it speaks the **whole
+  sentence**; for word-only questions, just the word.
 - **Weak spots (にがて)** — a word you keep missing gets its hint revealed as
   extra scaffolding (except in Fill-in-the-blank, where the hint would give
   the answer away) and a small weak-spot marker.

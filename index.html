@@ -34,6 +34,14 @@
     </div>
 
     <div class="settings-row">
+      <span class="settings-row-label" id="setting-furigana-label">ふりがな<span>Show furigana over kanji</span></span>
+      <label class="switch">
+        <input type="checkbox" id="setting-furigana" aria-labelledby="setting-furigana-label">
+        <span class="switch-slider"></span>
+      </label>
+    </div>
+
+    <div class="settings-row">
       <span class="settings-row-label" id="setting-play-audio-label">読み上げ<span>Speak the reading aloud</span></span>
       <label class="switch">
         <input type="checkbox" id="setting-play-audio" aria-labelledby="setting-play-audio-label">
@@ -82,14 +90,14 @@
     <p class="subtitle">Choose a mode, scope, and context</p>
 
     <div class="toggle-row" id="mode-toggle" role="tablist" aria-label="Mode">
-      <button class="toggle-btn active" data-mode="reading"><span class="key-badge key-badge-corner">R</span>読み方<span>Reading</span></button>
-      <button class="toggle-btn" data-mode="meaning"><span class="key-badge key-badge-corner">M</span>意味<span>Meaning</span></button>
-      <button class="toggle-btn" data-mode="fillblank"><span class="key-badge key-badge-corner">F</span>穴埋め<span>Fill-in-blank</span></button>
+      <button class="toggle-btn active" data-mode="reading"><span class="key-badge key-badge-corner shortcut-hint">R</span>読み方<span>Reading</span></button>
+      <button class="toggle-btn" data-mode="meaning"><span class="key-badge key-badge-corner shortcut-hint">M</span>意味<span>Meaning</span></button>
+      <button class="toggle-btn" data-mode="fillblank"><span class="key-badge key-badge-corner shortcut-hint">F</span>穴埋め<span>Fill-in-blank</span></button>
     </div>
 
     <div class="toggle-row" id="scope-toggle" role="tablist" aria-label="Scope">
-      <button class="toggle-btn active" data-scope="word"><span class="key-badge key-badge-corner">W</span>単語のみ<span>Word only</span></button>
-      <button class="toggle-btn" data-scope="sentence"><span class="key-badge key-badge-corner">S</span>文の中で<span>In a sentence</span></button>
+      <button class="toggle-btn active" data-scope="word"><span class="key-badge key-badge-corner shortcut-hint">W</span>単語のみ<span>Word only</span></button>
+      <button class="toggle-btn" data-scope="sentence"><span class="key-badge key-badge-corner shortcut-hint">S</span>文の中で<span>In a sentence</span></button>
     </div>
 
     <div class="context-grid" id="context-grid"></div>

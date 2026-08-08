@@ -7,14 +7,19 @@ const SettingsManager = (() => {
   // showHint toggles the secondary text under the quiz prompt: the meaning
   // in Reading mode, the reading in Meaning mode (see README "Modes" — both
   // are togglable). Fill-in-the-blank never shows it.
-  // autoNext defaults to false: after answering, the quiz waits for the learner
-  // to continue (tap / → / Enter) rather than jumping ahead on a timer, so
-  // there's time to read the revealed answer/furigana. playAudio is tri-state
-  // (`null` = never chosen), resolved at read time by app.js's audioEnabled()
-  // — off in an installed/offline PWA (ja voice often network-dependent), on in
-  // a browser tab. Note the load() spread means get('playAudio') returns
-  // `null`, not `undefined`, until toggled.
-  const DEFAULTS = { showHint: true, roundSize: 10, autoNext: false, playAudio: null };
+  // furigana defaults to true: it's the master switch for reading annotations
+  // (ruby) over kanji — the meaning-mode hint furigana and the post-answer
+  // reveal furigana over the target word. Off means no ruby anywhere (spoken
+  // readings via playAudio are unaffected). Furigana is only ever shown over
+  // the target word, never the whole sentence — the audio carries that.
+  // autoNext defaults to true: after answering, the quiz advances after a short
+  // timed pause. Turning it off makes it wait for a manual continue
+  // (tap / → / Enter) so there's unlimited time to read the revealed
+  // answer/furigana. playAudio defaults to false (spoken readings off); turning
+  // it on speaks the word's reading. It stays a real boolean here (audioEnabled()
+  // in app.js still treats a legacy `null` from earlier versions as "never
+  // chosen").
+  const DEFAULTS = { showHint: true, furigana: true, roundSize: 10, autoNext: true, playAudio: false };
 
   function load() {
     try {
