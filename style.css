@@ -714,7 +714,9 @@ html, body {
 
 .option-btn {
   position: relative;
-  padding: 0.9rem 0.4rem;
+  /* Symmetric side gutter reserves room for the corner key-badge so long
+     readings never sit under it, while keeping the text optically centered. */
+  padding: 0.9rem 1.7rem;
   font-size: 1.05rem;
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -739,8 +741,8 @@ html, body {
 
 .key-badge-corner {
   position: absolute;
-  top: 0.35rem;
-  left: 0.45rem;
+  bottom: 0.35rem;
+  right: 0.45rem;
 }
 
 .option-btn.correct .key-badge,

@@ -233,7 +233,7 @@ el.btnRetry.addEventListener('click', () => startRound());
 async function loadItemList(mode, scope, context) {
   if (mode === 'fillblank') {
     const entries = await fetchJSON(`data/sentences/${context}.json`);
-    return entries.map((e) => ({ sentence: e.sentence, target: e.target, readings: [e.target], meaning: e.translation, hintReading: e.reading }));
+    return entries.map((e) => ({ sentence: e.sentence, target: e.target, readings: [e.target], meaning: e.translation, hintReading: e.reading, fullReading: e.fullReading }));
   }
   if (scope === 'word') {
     const entries = await fetchJSON(`data/words/${context}.json`);
@@ -242,9 +242,14 @@ async function loadItemList(mode, scope, context) {
       : entries.map((e) => ({ word: e.word, readings: [e.meaning], meaning: e.reading, frequencyRank: e.frequencyRank }));
   }
   const entries = await fetchJSON(`data/sentences/${context}.json`);
+  // Reading-scope-sentence's hint is the sentence's full translation (not
+  // just the target word's meaning) — the question already highlights the
+  // target, so the hint's job is to help the reader understand the whole
+  // sentence. fullReading (whole-sentence furigana) rides along for the
+  // post-answer reveal (see handleAnswer) regardless of mode.
   return mode === 'reading'
-    ? entries.map((e) => ({ sentence: e.sentence, target: e.target, readings: [e.reading], meaning: e.meaning }))
-    : entries.map((e) => ({ sentence: e.sentence, target: e.target, readings: [e.meaning], meaning: e.reading }));
+    ? entries.map((e) => ({ sentence: e.sentence, target: e.target, readings: [e.reading], meaning: e.translation, fullReading: e.fullReading }))
+    : entries.map((e) => ({ sentence: e.sentence, target: e.target, readings: [e.meaning], meaning: e.reading, fullReading: e.fullReading }));
 }
 
 // Adaptive replacement for a plain random sample: builds a pool of
@@ -282,6 +287,7 @@ function buildQuestion(target, itemList, pMode, context) {
     target: target.target,
     meaning: target.meaning,
     hintReading: target.hintReading, // fillblank only; undefined otherwise
+    fullReading: target.fullReading, // sentence scope and fillblank; undefined otherwise
     correctAnswer,
     options,
   };
@@ -396,12 +402,37 @@ function handleAnswer(selected, btnEl) {
     else if (btn === btnEl) btn.classList.add('incorrect');
   });
 
+  // Whole-sentence furigana reveal. On a WRONG answer in any sentence-display
+  // mode (sentence scope or fill-in-blank), annotate every kanji in the
+  // sentence — not just the quizzed target — so the reader can sound the whole
+  // thing out. Reading-sentence also does this on a CORRECT answer (the long
+  // furigana reveal is a feature of that mode, not just error feedback). One
+  // <rt> spans the full base — a deliberate simplification (no per-word
+  // alignment) rather than authoring per-token furigana data.
+  const isSentenceDisplay = state.scope === 'sentence' || state.mode === 'fillblank';
+  const revealFullReading = !!q.fullReading && isSentenceDisplay &&
+    (!isCorrect || (state.mode === 'reading' && state.scope === 'sentence'));
+
   if (state.mode === 'fillblank') {
-    const revealHTML = hasKanji(q.target) && q.hintReading ? rubyHTML(q.target, q.hintReading) : q.target;
-    el.quizWord.innerHTML = blankSentence(q.sentence, q.target, revealHTML);
-  } else if (state.mode === 'reading' && state.scope === 'sentence') {
-    const revealHTML = hasKanji(q.target) ? rubyHTML(q.target, q.correctAnswer) : undefined;
-    el.quizWord.innerHTML = highlightTarget(q.sentence, q.target, revealHTML);
+    if (revealFullReading) {
+      // Fill the blank with plain target text, then annotate the whole
+      // sentence — fullReading already covers the target's own reading, so a
+      // separate ruby on the target would nest awkwardly.
+      el.quizWord.innerHTML = rubyHTML(blankSentence(q.sentence, q.target, q.target), q.fullReading);
+    } else {
+      const revealHTML = hasKanji(q.target) && q.hintReading ? rubyHTML(q.target, q.hintReading) : q.target;
+      el.quizWord.innerHTML = blankSentence(q.sentence, q.target, revealHTML);
+    }
+  } else if (state.scope === 'sentence') {
+    const highlighted = highlightTarget(q.sentence, q.target);
+    if (revealFullReading) {
+      el.quizWord.innerHTML = rubyHTML(highlighted, q.fullReading);
+    } else if (state.mode === 'reading') {
+      // No fullReading data to reveal; still drop the pre-answer markup back
+      // to a plainly highlighted target.
+      el.quizWord.innerHTML = highlighted;
+    }
+    // meaning-sentence correct answer: keep the pre-answer target furigana.
   }
 
   ProgressManager.recordAnswer(progressModeKey(), state.context, q.text, isCorrect, selected, latencyMs);
@@ -411,14 +442,19 @@ function handleAnswer(selected, btnEl) {
   ProgressView.renderAll();
 
   // A wrong answer gets a longer pause than a correct one: that's the moment
-  // the revealed answer actually needs to be read.
+  // the revealed answer actually needs to be read. Whenever we reveal furigana
+  // for the entire sentence (see above), that takes longer to read than a
+  // single word, so it gets extra time on top of that.
   clearAdvanceTimer();
+  const delay = revealFullReading
+    ? (isCorrect ? 2000 : 3200)
+    : (isCorrect ? 700 : 1800);
   advanceTimer = setTimeout(() => {
     advanceTimer = null;
     state.index++;
     if (state.index < state.questions.length) renderQuestion();
     else showSummary();
-  }, isCorrect ? 700 : 1800);
+  }, delay);
 }
 
 function itemDisplay(q) {
@@ -428,7 +464,10 @@ function itemDisplay(q) {
 function summaryRow(q) {
   const row = document.createElement('div');
   row.className = 'missed-item';
-  row.innerHTML = `<span>${itemDisplay(q)}</span><span class="missed-item-meaning">${q.meaning || ''}</span><span>${q.correctAnswer}</span>`;
+  // Fill-in-the-blank already shows the target word (in accent green) inside
+  // the sentence column, so the separate answer column would just repeat it.
+  const answerCol = state.mode === 'fillblank' ? '' : `<span>${q.correctAnswer}</span>`;
+  row.innerHTML = `<span>${itemDisplay(q)}</span><span class="missed-item-meaning">${q.meaning || ''}</span>${answerCol}`;
   return row;
 }
 

@@ -27,8 +27,10 @@ Vocabulary acquisition, distilled to three steps:
 2. **Comprehensible input** — meet words inside real sentences, not as bare
    flashcards, so meaning is inferred from context the way it is when
    actually reading or listening to Japanese.
-3. **Pareto principle** — a small fraction of words account for most of
-  everyday usage, so the word list is ordered by frequency and the most
+3. **Frequent words and sentence** — a small fraction of words and sentence 
+  patterns account for most of everyday usage (pareto principle). 
+  Focus on the most common words first, then expand to less
+  so the word list is ordered by frequency and the most
   common words are surfaced first (see "Data sources" below).
 4. **Contextual learning** — words are grouped by the situation you'd
   actually encounter them in, not alphabetically or by JLPT level: 飲食店
@@ -37,7 +39,8 @@ Vocabulary acquisition, distilled to three steps:
   room), 家 (home), トイレ・お風呂 (toilet/bathroom), 感情
   (emotions/feelings), 数 (numbers), 色 (colors), 果物 (fruits), 文房具
   (stationery), etc. This is what lets "fill in the blank" quiz sentences
-  feel like natural scenes instead of disconnected drill sentences.
+  feel like natural scenes instead of disconnected drill sentences.  
+
 
 ## Features
 
