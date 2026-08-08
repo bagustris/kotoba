@@ -56,6 +56,7 @@ data:
 - **Fill in the blank** — a sentence is shown with one word blanked out;
   type or pick the missing word. Sentence-only by nature (there's no
   standalone-word variant of a fill-in-the-blank question).
+  
 Scope:  
 - Word (only)  
 - (Word in) sentence
