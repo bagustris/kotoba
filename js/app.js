@@ -346,6 +346,12 @@ async function startSession() {
 // skipping a question or corrupting the display of an unrelated round.
 let advanceTimer = null;
 
+// Bumped every time a question renders. An audio-gated auto-advance captures
+// the value at answer time and only fires if it still matches — so a spoken
+// reading that finishes (or is cancelled) after the learner has already moved
+// on, quit, or started a new round can't trigger a stray skip.
+let renderGen = 0;
+
 function clearAdvanceTimer() {
   if (advanceTimer !== null) {
     clearTimeout(advanceTimer);
@@ -362,6 +368,7 @@ let awaitingContinue = false;
 // autoNext timer and a manual continue, so timer/continue state is always
 // cleared exactly once.
 function advanceQuestion() {
+  if (state.screen !== 'quiz') return; // guards a late audio callback after quitting
   clearAdvanceTimer();
   cancelContinue();
   el.quizContinue.classList.add('hidden');
@@ -421,10 +428,16 @@ function readingToSpeak(q) {
 }
 
 // Speaks a reading when audio is enabled and supported; a silent no-op
-// otherwise. Any okurigana dot is a display marker, not pronounced.
-function speakReading(reading) {
-  if (!reading) return;
-  if (audioEnabled() && AudioPlayer.isSupported()) AudioPlayer.speak(reading.replace(/\./g, ''));
+// otherwise. Any okurigana dot is a display marker, not pronounced. `onEnd`,
+// if given, is called once when speech finishes — and also when audio is off
+// so an audio-gated caller never waits forever.
+function speakReading(reading, onEnd) {
+  const text = reading ? reading.replace(/\./g, '') : '';
+  if (text && audioEnabled() && AudioPlayer.isSupported()) {
+    AudioPlayer.speak(text, onEnd);
+  } else if (onEnd) {
+    onEnd();
+  }
 }
 
 function startRound() {
@@ -464,6 +477,7 @@ function applyHintVisibility() {
 }
 
 function renderQuestion() {
+  renderGen++; // invalidates any pending audio-gated advance from a prior question
   const q = state.questions[state.index];
   // Cut off any reading still being spoken from the previous reveal.
   AudioPlayer.stop();
@@ -555,22 +569,40 @@ function handleAnswer(selected, btnEl) {
 
   ProgressView.renderAll();
 
-  // Speak the target's reading now that the answer is revealed (never the
-  // English meaning — see readingToSpeak).
-  speakReading(readingToSpeak(q));
+  // The reading to speak now that the answer is revealed: the whole sentence in
+  // sentence modes, the word otherwise (never the English meaning — see
+  // readingToSpeak).
+  const spokenText = readingToSpeak(q);
 
   clearAdvanceTimer();
   if (SettingsManager.get('autoNext')) {
     // A wrong answer gets a longer pause than a correct one: that's the moment
     // the revealed answer actually needs to be read. Sentence-display modes get
-    // extra time — there's a whole sentence to re-read, and the spoken reading
-    // (when audio is on) runs the length of that sentence.
+    // extra time — there's a whole sentence to re-read.
     const delay = isSentenceDisplay
       ? (isCorrect ? 2000 : 3200)
       : (isCorrect ? 700 : 1800);
-    advanceTimer = setTimeout(advanceQuestion, delay);
+    const willSpeak = audioEnabled() && AudioPlayer.isSupported() && !!spokenText;
+    if (willSpeak) {
+      // With audio on, don't cut the spoken sentence off: advance only once
+      // BOTH the minimum reading pause has elapsed AND the utterance has
+      // finished. renderGen + the screen check keep a late speech callback
+      // (from quitting or retrying mid-reading) from triggering a stray skip.
+      const gen = renderGen;
+      let waited = false;
+      let spoken = false;
+      const maybeAdvance = () => {
+        if (waited && spoken && gen === renderGen && state.screen === 'quiz') advanceQuestion();
+      };
+      advanceTimer = setTimeout(() => { advanceTimer = null; waited = true; maybeAdvance(); }, delay);
+      speakReading(spokenText, () => { spoken = true; maybeAdvance(); });
+    } else {
+      advanceTimer = setTimeout(advanceQuestion, delay);
+    }
   } else {
-    // Manual advance (the default): wait for a tap/click or → / Enter / Space.
+    // Manual advance: speak the reading in full, then wait for a tap/click or
+    // → / Enter / Space.
+    speakReading(spokenText);
     armContinue();
   }
 }
