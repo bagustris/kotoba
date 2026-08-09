@@ -440,6 +440,18 @@ function speakReading(reading, onEnd) {
   }
 }
 
+// How long the reveal stays on screen before auto-advancing, scaled to how much
+// there is to read: a short word needs less time than a long compound word or a
+// full sentence. `text` is the reading being shown/spoken; a wrong answer gets a
+// larger base (the reveal matters more), and the result is clamped so nothing is
+// instant or interminable. With audio on this is only the floor — the actual
+// advance also waits for the utterance to finish (see handleAnswer).
+function advanceDelayMs(text, isCorrect) {
+  const len = (text || '').length;
+  const ms = (isCorrect ? 650 : 1300) + len * 120;
+  return Math.min(isCorrect ? 6000 : 8000, Math.max(isCorrect ? 700 : 1500, ms));
+}
+
 function startRound() {
   clearAdvanceTimer();
   const configuredSize = SettingsManager.get('roundSize');
@@ -547,7 +559,6 @@ function handleAnswer(selected, btnEl) {
   // text. The target's reading lives in a different field per mode: Reading
   // quizzes it as the answer (q.correctAnswer), Meaning carries it as the
   // swapped hint (q.meaning), Fill-in-blank as q.hintReading.
-  const isSentenceDisplay = state.scope === 'sentence' || state.mode === 'fillblank';
   const showFurigana = furiganaEnabled() && hasKanji(q.target);
 
   // Once answered, the reading is no longer a giveaway — drop hide-hint so the
@@ -576,12 +587,8 @@ function handleAnswer(selected, btnEl) {
 
   clearAdvanceTimer();
   if (SettingsManager.get('autoNext')) {
-    // A wrong answer gets a longer pause than a correct one: that's the moment
-    // the revealed answer actually needs to be read. Sentence-display modes get
-    // extra time — there's a whole sentence to re-read.
-    const delay = isSentenceDisplay
-      ? (isCorrect ? 2000 : 3200)
-      : (isCorrect ? 700 : 1800);
+    // Length-adaptive pause so longer words/sentences get more reading time.
+    const delay = advanceDelayMs(spokenText, isCorrect);
     const willSpeak = audioEnabled() && AudioPlayer.isSupported() && !!spokenText;
     if (willSpeak) {
       // With audio on, don't cut the spoken sentence off: advance only once
