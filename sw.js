@@ -1,10 +1,11 @@
-const CACHE_VERSION = 'kotoba-v11';
+const CACHE_VERSION = 'kotoba-v12';
 
 const CORE_ASSETS = [
   '.',
   'index.html',
   'style.css',
   'manifest.json',
+  'CHANGELOG.md',
   'js/settings.js',
   'js/audio.js',
   'js/progress.js',
