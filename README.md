@@ -1,5 +1,7 @@
 # ことば — Kotoba
 
+Word-centered, context-based, and sentence-supported method for learning Japanese vocabulary 
+
 kotoba is a simple, lightweight Japanese vocabulary trainer built on one
 premise: **a language is, in large part, a collection of words**. Where its
 sibling project [kanji-drill](https://github.com/bagustris/kanji-drill)
