@@ -558,5 +558,19 @@
     "meaning": "first; to begin with",
     "context": "hobby",
     "frequencyRank": 80
+  },
+  {
+    "word": "出かける",
+    "reading": "でかける",
+    "meaning": "to go out",
+    "context": "hobby",
+    "frequencyRank": 81
+  },
+  {
+    "word": "〜人",
+    "reading": "じん",
+    "meaning": "people from ~",
+    "context": "hobby",
+    "frequencyRank": 82
   }
 ]

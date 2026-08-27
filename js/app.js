@@ -625,7 +625,14 @@ function summaryRow(q) {
   // Fill-in-the-blank already shows the target word (in accent green) inside
   // the sentence column, so the separate answer column would just repeat it.
   const answerCol = state.mode === 'fillblank' ? '' : `<span>${q.correctAnswer}</span>`;
-  row.innerHTML = `<span>${itemDisplay(q)}</span><span class="missed-item-meaning">${q.meaning || ''}</span>${answerCol}`;
+  // The middle column holds an English gloss in Reading mode but the YOMIGANA
+  // in Meaning mode (the swapped hint) and a full English translation in
+  // sentence scopes. Italic is fine for Latin text, but browsers fake-slant
+  // kana/kanji glyphs, which reads badly — so Japanese content gets the
+  // is-japanese modifier and stays upright.
+  const jpMeaning = /[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff]/.test(q.meaning || '');
+  const meaningClass = jpMeaning ? 'missed-item-meaning is-japanese' : 'missed-item-meaning';
+  row.innerHTML = `<span>${itemDisplay(q)}</span><span class="${meaningClass}">${q.meaning || ''}</span>${answerCol}`;
   return row;
 }
 

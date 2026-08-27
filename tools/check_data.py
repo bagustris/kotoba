@@ -15,6 +15,10 @@ ROOT = Path(__file__).resolve().parent.parent / 'data'
 WORD_KEYS = {'word', 'reading', 'meaning', 'context', 'frequencyRank'}
 SENT_KEYS = {'sentence', 'target', 'reading', 'fullReading', 'meaning',
              'translation', 'context'}
+# Optional provenance metadata (second-set entries sourced from textbooks).
+SENT_OPT_KEYS = {'source', 'note'}
+SOURCE_WHITELIST = {'irodori-l1', 'irodori-l2', 'dekiru-l1'}
+NOTE_WHITELIST = {'verbatim', 'reconstructed'}
 issues = []
 
 
@@ -73,7 +77,15 @@ def main():
 
         texts, hits = [], set()
         for s in sents:
-            if set(s.keys()) != SENT_KEYS:
+            extra = set(s.keys()) - SENT_KEYS
+            if extra - SENT_OPT_KEYS:
+                fail(ctx, f'unexpected sentence keys {sorted(extra)}')
+            elif extra & SENT_OPT_KEYS and (
+                    s.get('source') not in SOURCE_WHITELIST or
+                    s.get('note') not in NOTE_WHITELIST):
+                fail(ctx, f"bad provenance: source={s.get('source')!r} "
+                          f"note={s.get('note')!r}")
+            if not SENT_KEYS.issubset(s.keys()) or set(s.keys()) - SENT_KEYS - SENT_OPT_KEYS:
                 fail(ctx, f'sentence key mismatch: {s.get("sentence", "")[:24]}')
             if s.get('context') != ctx:
                 fail(ctx, f'sentence context field mismatch: {s.get("sentence", "")[:24]}')

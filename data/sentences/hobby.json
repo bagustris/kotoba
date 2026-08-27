@@ -646,5 +646,181 @@
     "fullReading": "あたらしいレシピにちょうせんするときは、まずざいりょうをそろえます。",
     "meaning": "first; to begin with",
     "translation": "When taking on a new recipe, first you gather the ingredients."
+  },
+  {
+    "sentence": "趣味はアウトドアです。",
+    "target": "アウトドア",
+    "reading": "アウトドア",
+    "fullReading": "しゅみはアウトドアです。",
+    "meaning": "outdoor activities",
+    "translation": "My hobbies are outdoor activities.",
+    "note": "reconstructed",
+    "context": "hobby",
+    "source": "irodori-l2"
+  },
+  {
+    "sentence": "週末は海や山に行きます。",
+    "target": "海",
+    "reading": "うみ",
+    "fullReading": "しゅうまつはうみややまにいきます。",
+    "meaning": "ocean; sea",
+    "translation": "I often go to the beach or mountain on my days off.",
+    "note": "reconstructed",
+    "context": "hobby",
+    "source": "irodori-l2"
+  },
+  {
+    "sentence": "趣味は映画を見ることです。",
+    "target": "映画",
+    "reading": "えいが",
+    "fullReading": "しゅみはえいがをみることです。",
+    "meaning": "movie",
+    "translation": "My hobby is watching movies.",
+    "note": "reconstructed",
+    "context": "hobby",
+    "source": "irodori-l2"
+  },
+  {
+    "sentence": "私は友達とおしゃべりするのが大好きです。",
+    "target": "おしゃべり",
+    "reading": "おしゃべり",
+    "fullReading": "わたしはともだちとおしゃべりするのがだいすきです。",
+    "meaning": "chatting",
+    "translation": "I love to chat.",
+    "note": "reconstructed",
+    "context": "hobby",
+    "source": "irodori-l2"
+  },
+  {
+    "sentence": "趣味は音楽を聞くことです。",
+    "target": "音楽",
+    "reading": "おんがく",
+    "fullReading": "しゅみはおんがくをきくことです。",
+    "meaning": "music",
+    "translation": "My hobby is listening to music.",
+    "note": "reconstructed",
+    "context": "hobby",
+    "source": "irodori-l2"
+  },
+  {
+    "sentence": "私はギターを弾きます。",
+    "target": "ギター",
+    "reading": "ギター",
+    "fullReading": "わたしはギターをひきます。",
+    "meaning": "guitar",
+    "translation": "I play the guitar.",
+    "note": "reconstructed",
+    "context": "hobby",
+    "source": "irodori-l2"
+  },
+  {
+    "sentence": "私はゲームをするのが好きです。",
+    "target": "ゲーム",
+    "reading": "ゲーム",
+    "fullReading": "わたしはゲームをするのがすきです。",
+    "meaning": "game",
+    "translation": "I like playing video games.",
+    "note": "reconstructed",
+    "context": "hobby",
+    "source": "irodori-l2"
+  },
+  {
+    "sentence": "私は写真を撮ります。",
+    "target": "写真",
+    "reading": "しゃしん",
+    "fullReading": "わたしはしゃしんをとります。",
+    "meaning": "photograph",
+    "translation": "I take a photo.",
+    "note": "reconstructed",
+    "context": "hobby",
+    "source": "irodori-l2"
+  },
+  {
+    "sentence": "私はスポーツが好きです。",
+    "target": "スポーツ",
+    "reading": "スポーツ",
+    "fullReading": "わたしはスポーツがすきです。",
+    "meaning": "sports",
+    "translation": "I like sports.",
+    "note": "reconstructed",
+    "context": "hobby",
+    "source": "irodori-l2"
+  },
+  {
+    "sentence": "趣味はテニスをすることです。",
+    "target": "テニス",
+    "reading": "テニス",
+    "fullReading": "しゅみはテニスをすることです。",
+    "meaning": "tennis",
+    "translation": "My hobby is playing tennis.",
+    "note": "reconstructed",
+    "context": "hobby",
+    "source": "irodori-l2"
+  },
+  {
+    "sentence": "私は特に好きなものはありません。",
+    "target": "特に",
+    "reading": "とくに",
+    "fullReading": "わたしはとくにすきなものはありません。",
+    "meaning": "especially",
+    "translation": "I don't particularly like anything.",
+    "note": "reconstructed",
+    "context": "hobby",
+    "source": "irodori-l2"
+  },
+  {
+    "sentence": "私は日本語、英語、フィリピン語、スペイン語が話せます。",
+    "target": "日本語",
+    "reading": "にほんご",
+    "fullReading": "わたしはにほんご、えいご、フィリピンご、スペインごがはなせます。",
+    "meaning": "Japanese (language)",
+    "translation": "I can speak Japanese, English, Filipino, and Spanish.",
+    "note": "reconstructed",
+    "context": "hobby",
+    "source": "irodori-l2"
+  },
+  {
+    "sentence": "私は人と話すのが大好きです。",
+    "target": "話す",
+    "reading": "はす",
+    "fullReading": "わたしはひととはすのがだいすきです。",
+    "meaning": "to talk; to speak",
+    "translation": "I love talking to people.",
+    "note": "reconstructed",
+    "context": "hobby",
+    "source": "irodori-l2"
+  },
+  {
+    "sentence": "私はピアノを弾きます。",
+    "target": "ピアノ",
+    "reading": "ピアノ",
+    "fullReading": "わたしはピアノをひきます。",
+    "meaning": "piano",
+    "translation": "I play the piano.",
+    "note": "reconstructed",
+    "context": "hobby",
+    "source": "irodori-l2"
+  },
+  {
+    "sentence": "私は出かけるのが好きではありません。",
+    "target": "出かける",
+    "reading": "でかける",
+    "fullReading": "わたしはでかけるのがすきではありません。",
+    "meaning": "to go out",
+    "translation": "I do not like to go out.",
+    "context": "hobby",
+    "source": "irodori-l2",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "夫と娘の3人の家族です。",
+    "target": "3人",
+    "reading": "さんにん",
+    "fullReading": "おっととむすめの3にんのかぞくです。",
+    "meaning": "three people",
+    "translation": "We're three in the family, including my husband and daughter.",
+    "context": "hobby",
+    "source": "irodori-l2",
+    "note": "reconstructed"
   }
 ]

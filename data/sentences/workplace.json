@@ -583,5 +583,181 @@
     "meaning": "Please treat me favorably (humble)",
     "translation": "I start working with everyone today. Please treat me kindly.",
     "context": "workplace"
+  },
+  {
+    "sentence": "介護の仕事。",
+    "target": "介護",
+    "reading": "かいご",
+    "fullReading": "かいごのしごと。",
+    "meaning": "caregiving; nursing care",
+    "translation": "I work as a caregiver.",
+    "note": "verbatim",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "建設の仕事。",
+    "target": "建設",
+    "reading": "けんせつ",
+    "fullReading": "けんせつのしごと。",
+    "meaning": "construction",
+    "translation": "I work in construction.",
+    "note": "verbatim",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "私は学生です。専門学校に通っています。",
+    "target": "学生",
+    "reading": "がくせい",
+    "fullReading": "わたしはがくせいです。せんもんがっこうにかよっています。",
+    "meaning": "student",
+    "translation": "I am a student. I go to a vocational school.",
+    "note": "reconstructed",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "私は専門学校に通っています。",
+    "target": "通っています",
+    "reading": "かよっています",
+    "fullReading": "わたしはせんもんがっこうにかよっています。",
+    "meaning": "to go to (a place regularly); to attend",
+    "translation": "I go to a vocational school.",
+    "note": "reconstructed",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "去年の9月に来ました。",
+    "target": "去年",
+    "reading": "きょねん",
+    "fullReading": "きょねんのくがつにきました。",
+    "meaning": "last year",
+    "translation": "I came in September of last year.",
+    "note": "reconstructed",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "工場で働いています。",
+    "target": "工場",
+    "reading": "こうじょう",
+    "fullReading": "こうじょうではたらいています。",
+    "meaning": "factory",
+    "translation": "I work in a factory.",
+    "note": "reconstructed",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "高校の後輩が、先月日本に来ました。",
+    "target": "後輩",
+    "reading": "こうはい",
+    "fullReading": "こうこうのこうはいが、せんげつにほんにきました。",
+    "meaning": "junior colleague(s)",
+    "translation": "My junior in high school came to Japan last month.",
+    "note": "reconstructed",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "仕事は毎日大変です。",
+    "target": "毎日",
+    "reading": "まいにち",
+    "fullReading": "しごとはまいにちたいへんです。",
+    "meaning": "every day",
+    "translation": "The work is hard every day.",
+    "note": "reconstructed",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "仕事は疲れます。",
+    "target": "疲れます",
+    "reading": "つかれます",
+    "fullReading": "しごとはつかれます。",
+    "meaning": "to get tired; tiring",
+    "translation": "The work is tiring.",
+    "note": "reconstructed",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "私の友達は介護の仕事をしています。",
+    "target": "友達",
+    "reading": "ともだち",
+    "fullReading": "わたしのともだちはかいごのしごとをしています。",
+    "meaning": "friend(s)",
+    "translation": "My friend works as a caregiver.",
+    "note": "reconstructed",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "日本語学校で勉強しています。",
+    "target": "日本語学校",
+    "reading": "にほんごがっこう",
+    "fullReading": "にほんごがっこうでべんきょうしています。",
+    "meaning": "Japanese-language school",
+    "translation": "I'm studying at a Japanese language school.",
+    "note": "reconstructed",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "プログラミングを勉強しています。",
+    "target": "勉強",
+    "reading": "べんきょう",
+    "fullReading": "プログラミングをべんきょうしています。",
+    "meaning": "study; studying",
+    "translation": "I study programming.",
+    "note": "reconstructed",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "日本にはもう慣れましたか。",
+    "target": "慣れました",
+    "reading": "なれました",
+    "fullReading": "にほんにはもうなれましたか。",
+    "meaning": "to get used to",
+    "translation": "Have you gotten used to Japan?",
+    "note": "reconstructed",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "野菜を作っています。",
+    "target": "作っています",
+    "reading": "つくっています",
+    "fullReading": "やさいをつくっています。",
+    "meaning": "to make; to grow (crops)",
+    "translation": "I grow vegetables.",
+    "note": "reconstructed",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "レストランで働いています。",
+    "target": "レストラン",
+    "reading": "レストラン",
+    "fullReading": "レストランではたらいています。",
+    "meaning": "restaurant",
+    "translation": "I work at a restaurant.",
+    "note": "reconstructed",
+    "context": "workplace",
+    "source": "irodori-l1"
+  },
+  {
+    "sentence": "ホテルで働いています。",
+    "target": "ホテル",
+    "reading": "ホテル",
+    "fullReading": "ホテルではたらいています。",
+    "meaning": "hotel",
+    "translation": "I work at a hotel.",
+    "note": "reconstructed",
+    "context": "workplace",
+    "source": "irodori-l1"
   }
 ]

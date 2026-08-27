@@ -103,15 +103,20 @@ Fill-in-blank: 昨日、ラーメンを＿＿＿＿ました。   → 食べ
 - [Wiktionary: Frequency lists/Japanese/5000 Most Frequent Words](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Japanese/5000_Most_Frequent_Words)
 - [IRODORI online course / いろどり 生活の日本語](https://www.irodori.jpf.go.jp/) —
   The Japan Foundation Japanese-Language Institute, Urawa. Word-level
-  vocabulary of the `workplace` and `hobby` contexts is extracted from
-  Lessons 1 and 2 of the course PDFs (`resource/lesson{1,2}-words-en.pdf`);
+  vocabulary of the `workplace` and `hobby` contexts comes from Lessons 1
+  and 2 (`resource/lesson{1,2}-words-en.pdf`). An additional **authentic
+  sentence set** for those contexts is recovered from the same lesson pages,
+  tagged `source: "irodori-l1"/"irodori-l2"` with the official English gloss;
+  where OCR had dropped kana so the Japanese could not be recovered verbatim,
+  the sentence is tagged `note: "reconstructed"` (only two sentences are
+  `note: "verbatim"`). — © The Japan Foundation, free for non-commercial use
+  with attribution.
 - [できる日本語 初中級](https://www.3anet.co.jp/) — 3A Corporation. Word-level
   vocabulary of the same two contexts additionally draws on Lesson 1's
   sub-topics (新しい一歩: job hunting and meeting people) via its official
   English translation list (`resource/7024084_list_English.pdf`);
-  example sentences are original kotoba sentences written around those
-  words, not taken from the textbook. © The Japan Foundation — attribution
-  only; see the site's terms.
+- All other example sentences are original kotoba sentences written around
+  the extracted words, not copied from any textbook.
 
 > [!WARNING]
 > Wiktionary content is licensed [CC BY-SA

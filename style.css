@@ -925,6 +925,13 @@ html, body {
   text-align: center;
 }
 
+/* Kana/kanji have no true italics — browsers fake-slant them, which distorts
+   the yomigana shown here in Meaning mode's summary rows. Keep Japanese
+   upright; only Latin meanings stay italic. */
+.missed-item-meaning.is-japanese {
+  font-style: normal;
+}
+
 .summary-correct {
   text-align: left;
   margin: 1rem 0;

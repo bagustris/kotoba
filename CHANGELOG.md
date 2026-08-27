@@ -49,8 +49,21 @@ source of truth for the app version.
   hobby (+24 words / +24 sentences). Word-level vocabulary only; all example
   sentences remain original. Existing overlaps (半年, 言葉, サイクリング)
   were kept as-is rather than duplicated.
+- Sentence records may now carry optional provenance fields (`source` and
+  `note`) alongside the schema fields. The workplace/hobby contexts gained a
+  second, authentic sentence set recovered from the IRODORI L1/L2 PDFs (the
+  official English gloss was always exact; most Japanese readings had dropped
+  kana from OCR, so they are flagged `note: "reconstructed"` and only two
+  escaped fully intact as `note: "verbatim"` — provenance never implies a
+  claim that a reconstructed sentence is a literal scan). `tools/check_data.py`
+  now validates these fields against a source/note whitelist.
 
 ### Fixed
+- Summary screen (end of round): yomigana shown in Meaning mode's review rows
+  no longer renders italic. The middle summary column reuses the hint slot,
+  which is an English gloss in Reading mode but the reading in Meaning mode —
+  italic suited only the former; kana/kanji now stay upright
+  (.missed-item-meaning.is-japanese).
 - Furigana (fullReading) typos in three workplace sentences: 日曜日 was
   romanized にちようにび → now にちようび, and 父は was pronounced ちは →
   now ちちは (spoken readings were affected too, since fullReading feeds TTS).
