@@ -1,0 +1,562 @@
+[
+  {
+    "word": "音楽",
+    "reading": "おんがく",
+    "meaning": "music",
+    "context": "hobby",
+    "frequencyRank": 1
+  },
+  {
+    "word": "映画",
+    "reading": "えいが",
+    "meaning": "movie",
+    "context": "hobby",
+    "frequencyRank": 2
+  },
+  {
+    "word": "料理",
+    "reading": "りょうり",
+    "meaning": "cooking; cuisine",
+    "context": "hobby",
+    "frequencyRank": 3
+  },
+  {
+    "word": "旅行",
+    "reading": "りょこう",
+    "meaning": "travel",
+    "context": "hobby",
+    "frequencyRank": 4
+  },
+  {
+    "word": "家",
+    "reading": "いえ",
+    "meaning": "home; house",
+    "context": "hobby",
+    "frequencyRank": 5
+  },
+  {
+    "word": "公園",
+    "reading": "こうえん",
+    "meaning": "park",
+    "context": "hobby",
+    "frequencyRank": 6
+  },
+  {
+    "word": "海",
+    "reading": "うみ",
+    "meaning": "ocean; sea",
+    "context": "hobby",
+    "frequencyRank": 7
+  },
+  {
+    "word": "山",
+    "reading": "やま",
+    "meaning": "mountain",
+    "context": "hobby",
+    "frequencyRank": 8
+  },
+  {
+    "word": "犬",
+    "reading": "いぬ",
+    "meaning": "dog",
+    "context": "hobby",
+    "frequencyRank": 9
+  },
+  {
+    "word": "子供",
+    "reading": "こども",
+    "meaning": "child",
+    "context": "hobby",
+    "frequencyRank": 10
+  },
+  {
+    "word": "お子さん",
+    "reading": "おこさん",
+    "meaning": "someone's child",
+    "context": "hobby",
+    "frequencyRank": 11
+  },
+  {
+    "word": "娘",
+    "reading": "むすめ",
+    "meaning": "daughter",
+    "context": "hobby",
+    "frequencyRank": 12
+  },
+  {
+    "word": "本",
+    "reading": "ほん",
+    "meaning": "book",
+    "context": "hobby",
+    "frequencyRank": 13
+  },
+  {
+    "word": "写真",
+    "reading": "しゃしん",
+    "meaning": "photograph",
+    "context": "hobby",
+    "frequencyRank": 14
+  },
+  {
+    "word": "スポーツ",
+    "reading": "スポーツ",
+    "meaning": "sports",
+    "context": "hobby",
+    "frequencyRank": 15
+  },
+  {
+    "word": "野球",
+    "reading": "やきゅう",
+    "meaning": "baseball",
+    "context": "hobby",
+    "frequencyRank": 16
+  },
+  {
+    "word": "テニス",
+    "reading": "テニス",
+    "meaning": "tennis",
+    "context": "hobby",
+    "frequencyRank": 17
+  },
+  {
+    "word": "バドミントン",
+    "reading": "バドミントン",
+    "meaning": "badminton",
+    "context": "hobby",
+    "frequencyRank": 18
+  },
+  {
+    "word": "釣り",
+    "reading": "つり",
+    "meaning": "fishing",
+    "context": "hobby",
+    "frequencyRank": 19
+  },
+  {
+    "word": "キャンプ",
+    "reading": "キャンプ",
+    "meaning": "camping",
+    "context": "hobby",
+    "frequencyRank": 20
+  },
+  {
+    "word": "サイクリング",
+    "reading": "サイクリング",
+    "meaning": "cycling",
+    "context": "hobby",
+    "frequencyRank": 21
+  },
+  {
+    "word": "アウトドア",
+    "reading": "アウトドア",
+    "meaning": "outdoor activities",
+    "context": "hobby",
+    "frequencyRank": 22
+  },
+  {
+    "word": "キャッチボール",
+    "reading": "キャッチボール",
+    "meaning": "playing catch",
+    "context": "hobby",
+    "frequencyRank": 23
+  },
+  {
+    "word": "ゲーム",
+    "reading": "ゲーム",
+    "meaning": "game",
+    "context": "hobby",
+    "frequencyRank": 24
+  },
+  {
+    "word": "アニメ",
+    "reading": "アニメ",
+    "meaning": "anime",
+    "context": "hobby",
+    "frequencyRank": 25
+  },
+  {
+    "word": "生け花",
+    "reading": "いけばな",
+    "meaning": "ikebana",
+    "context": "hobby",
+    "frequencyRank": 26
+  },
+  {
+    "word": "ギター",
+    "reading": "ギター",
+    "meaning": "guitar",
+    "context": "hobby",
+    "frequencyRank": 27
+  },
+  {
+    "word": "ピアノ",
+    "reading": "ピアノ",
+    "meaning": "piano",
+    "context": "hobby",
+    "frequencyRank": 28
+  },
+  {
+    "word": "おいしい",
+    "reading": "おいしい",
+    "meaning": "delicious",
+    "context": "hobby",
+    "frequencyRank": 29
+  },
+  {
+    "word": "おしゃべり",
+    "reading": "おしゃべり",
+    "meaning": "chatting",
+    "context": "hobby",
+    "frequencyRank": 30
+  },
+  {
+    "word": "話す",
+    "reading": "はなす",
+    "meaning": "to talk; to speak",
+    "context": "hobby",
+    "frequencyRank": 31
+  },
+  {
+    "word": "寝る",
+    "reading": "ねる",
+    "meaning": "to sleep",
+    "context": "hobby",
+    "frequencyRank": 32
+  },
+  {
+    "word": "のんびり",
+    "reading": "のんびり",
+    "meaning": "to take it easy; relaxed",
+    "context": "hobby",
+    "frequencyRank": 33
+  },
+  {
+    "word": "習う",
+    "reading": "ならう",
+    "meaning": "to learn",
+    "context": "hobby",
+    "frequencyRank": 34
+  },
+  {
+    "word": "勉強",
+    "reading": "べんきょう",
+    "meaning": "studying",
+    "context": "hobby",
+    "frequencyRank": 35
+  },
+  {
+    "word": "英語",
+    "reading": "えいご",
+    "meaning": "English",
+    "context": "hobby",
+    "frequencyRank": 36
+  },
+  {
+    "word": "日本語",
+    "reading": "にほんご",
+    "meaning": "Japanese (language)",
+    "context": "hobby",
+    "frequencyRank": 37
+  },
+  {
+    "word": "言葉",
+    "reading": "ことば",
+    "meaning": "language; word(s)",
+    "context": "hobby",
+    "frequencyRank": 38
+  },
+  {
+    "word": "市",
+    "reading": "し",
+    "meaning": "city",
+    "context": "hobby",
+    "frequencyRank": 39
+  },
+  {
+    "word": "体育館",
+    "reading": "たいいくかん",
+    "meaning": "gymnasium",
+    "context": "hobby",
+    "frequencyRank": 40
+  },
+  {
+    "word": "特に",
+    "reading": "とくに",
+    "meaning": "especially",
+    "context": "hobby",
+    "frequencyRank": 41
+  },
+  {
+    "word": "本当に",
+    "reading": "ほんとうに",
+    "meaning": "really",
+    "context": "hobby",
+    "frequencyRank": 42
+  },
+  {
+    "word": "毎週",
+    "reading": "まいしゅう",
+    "meaning": "every week",
+    "context": "hobby",
+    "frequencyRank": 43
+  },
+  {
+    "word": "夕方",
+    "reading": "ゆうがた",
+    "meaning": "early evening",
+    "context": "hobby",
+    "frequencyRank": 44
+  },
+  {
+    "word": "いろいろ",
+    "reading": "いろいろ",
+    "meaning": "various",
+    "context": "hobby",
+    "frequencyRank": 45
+  },
+  {
+    "word": "1人",
+    "reading": "ひとり",
+    "meaning": "one person; alone",
+    "context": "hobby",
+    "frequencyRank": 46
+  },
+  {
+    "word": "2人",
+    "reading": "ふたり",
+    "meaning": "two people",
+    "context": "hobby",
+    "frequencyRank": 47
+  },
+  {
+    "word": "3人",
+    "reading": "さんにん",
+    "meaning": "three people",
+    "context": "hobby",
+    "frequencyRank": 48
+  },
+  {
+    "word": "4人",
+    "reading": "よにん",
+    "meaning": "four people",
+    "context": "hobby",
+    "frequencyRank": 49
+  },
+  {
+    "word": "5人",
+    "reading": "ごにん",
+    "meaning": "five people",
+    "context": "hobby",
+    "frequencyRank": 50
+  },
+  {
+    "word": "6人",
+    "reading": "ろくにん",
+    "meaning": "six people",
+    "context": "hobby",
+    "frequencyRank": 51
+  },
+  {
+    "word": "7人",
+    "reading": "しちにん",
+    "meaning": "seven people",
+    "context": "hobby",
+    "frequencyRank": 52
+  },
+  {
+    "word": "8人",
+    "reading": "はちにん",
+    "meaning": "eight people",
+    "context": "hobby",
+    "frequencyRank": 53
+  },
+  {
+    "word": "9人",
+    "reading": "きゅうにん",
+    "meaning": "nine people",
+    "context": "hobby",
+    "frequencyRank": 54
+  },
+  {
+    "word": "10人",
+    "reading": "じゅうにん",
+    "meaning": "ten people",
+    "context": "hobby",
+    "frequencyRank": 55
+  },
+  {
+    "word": "何人",
+    "reading": "なんにん",
+    "meaning": "how many people",
+    "context": "hobby",
+    "frequencyRank": 56
+  },
+  {
+    "word": "意見",
+    "reading": "いけん",
+    "meaning": "opinion",
+    "context": "hobby",
+    "frequencyRank": 57
+  },
+  {
+    "word": "お年寄り",
+    "reading": "おとしより",
+    "meaning": "elderly person",
+    "context": "hobby",
+    "frequencyRank": 58
+  },
+  {
+    "word": "楽器",
+    "reading": "がっき",
+    "meaning": "musical instrument",
+    "context": "hobby",
+    "frequencyRank": 59
+  },
+  {
+    "word": "自分",
+    "reading": "じぶん",
+    "meaning": "oneself",
+    "context": "hobby",
+    "frequencyRank": 60
+  },
+  {
+    "word": "出身",
+    "reading": "しゅっしん",
+    "meaning": "hometown; home country",
+    "context": "hobby",
+    "frequencyRank": 61
+  },
+  {
+    "word": "建物",
+    "reading": "たてもの",
+    "meaning": "building",
+    "context": "hobby",
+    "frequencyRank": 62
+  },
+  {
+    "word": "話",
+    "reading": "はなし",
+    "meaning": "conversation; story",
+    "context": "hobby",
+    "frequencyRank": 63
+  },
+  {
+    "word": "野外ライブ",
+    "reading": "やがいライブ",
+    "meaning": "live outdoor concert",
+    "context": "hobby",
+    "frequencyRank": 64
+  },
+  {
+    "word": "歴史",
+    "reading": "れきし",
+    "meaning": "history",
+    "context": "hobby",
+    "frequencyRank": 65
+  },
+  {
+    "word": "観光地",
+    "reading": "かんこうち",
+    "meaning": "tourist spot",
+    "context": "hobby",
+    "frequencyRank": 66
+  },
+  {
+    "word": "聞き取る",
+    "reading": "ききとる",
+    "meaning": "to hear and understand",
+    "context": "hobby",
+    "frequencyRank": 67
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning": "to remember; to memorize",
+    "context": "hobby",
+    "frequencyRank": 68
+  },
+  {
+    "word": "応援",
+    "reading": "おうえん",
+    "meaning": "support; cheering on",
+    "context": "hobby",
+    "frequencyRank": 69
+  },
+  {
+    "word": "遅い",
+    "reading": "おそい",
+    "meaning": "slow",
+    "context": "hobby",
+    "frequencyRank": 70
+  },
+  {
+    "word": "速い",
+    "reading": "はやい",
+    "meaning": "fast",
+    "context": "hobby",
+    "frequencyRank": 71
+  },
+  {
+    "word": "つまらない",
+    "reading": "つまらない",
+    "meaning": "boring",
+    "context": "hobby",
+    "frequencyRank": 72
+  },
+  {
+    "word": "得意",
+    "reading": "とくい",
+    "meaning": "good at (something)",
+    "context": "hobby",
+    "frequencyRank": 73
+  },
+  {
+    "word": "苦手",
+    "reading": "にがて",
+    "meaning": "bad at (something)",
+    "context": "hobby",
+    "frequencyRank": 74
+  },
+  {
+    "word": "無理",
+    "reading": "むり",
+    "meaning": "impossible; unfeasible",
+    "context": "hobby",
+    "frequencyRank": 75
+  },
+  {
+    "word": "朝早く",
+    "reading": "あさはやく",
+    "meaning": "early morning",
+    "context": "hobby",
+    "frequencyRank": 76
+  },
+  {
+    "word": "字幕",
+    "reading": "じまく",
+    "meaning": "subtitles",
+    "context": "hobby",
+    "frequencyRank": 77
+  },
+  {
+    "word": "大好き",
+    "reading": "だいすき",
+    "meaning": "favorite; love a lot",
+    "context": "hobby",
+    "frequencyRank": 78
+  },
+  {
+    "word": "だいたい",
+    "reading": "だいたい",
+    "meaning": "mostly; most of the time",
+    "context": "hobby",
+    "frequencyRank": 79
+  },
+  {
+    "word": "まず",
+    "reading": "まず",
+    "meaning": "first; to begin with",
+    "context": "hobby",
+    "frequencyRank": 80
+  }
+]

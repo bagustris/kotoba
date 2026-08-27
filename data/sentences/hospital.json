@@ -1,38 +1,884 @@
 [
-  { "sentence": "医者に相談しました。", "target": "医者", "reading": "いしゃ", "fullReading": "いしゃにそうだんしました。", "meaning": "doctor", "translation": "I consulted a doctor.", "context": "hospital" },
-  { "sentence": "看護師が熱を測りました。", "target": "看護師", "reading": "かんごし", "fullReading": "かんごしがねつをはかりました。", "meaning": "nurse", "translation": "The nurse took my temperature.", "context": "hospital" },
-  { "sentence": "食後にこの薬を飲んでください。", "target": "薬", "reading": "くすり", "fullReading": "しょくごにこのくすりをのんでください。", "meaning": "medicine", "translation": "Please take this medicine after meals.", "context": "hospital" },
-  { "sentence": "今朝から熱があります。", "target": "熱", "reading": "ねつ", "fullReading": "けさからねつがあります。", "meaning": "fever", "translation": "I've had a fever since this morning.", "context": "hospital" },
-  { "sentence": "お腹が痛いです。", "target": "痛い", "reading": "いたい", "fullReading": "おなかがいたいです。", "meaning": "painful", "translation": "My stomach hurts.", "context": "hospital" },
-  { "sentence": "午前中に診察を受けました。", "target": "診察", "reading": "しんさつ", "fullReading": "ごぜんちゅうにしんさつをうけました。", "meaning": "medical examination", "translation": "I had a medical examination in the morning.", "context": "hospital" },
-  { "sentence": "受付で名前を呼ばれました。", "target": "受付", "reading": "うけつけ", "fullReading": "うけつけでなまえをよばれました。", "meaning": "reception", "translation": "My name was called at the reception.", "context": "hospital" },
-  { "sentence": "保険証を忘れました。", "target": "保険証", "reading": "ほけんしょう", "fullReading": "ほけんしょうをわすれました。", "meaning": "insurance card", "translation": "I forgot my insurance card.", "context": "hospital" },
-  { "sentence": "看護師が注射をしました。", "target": "注射", "reading": "ちゅうしゃ", "fullReading": "かんごしがちゅうしゃをしました。", "meaning": "injection", "translation": "The nurse gave an injection.", "context": "hospital" },
-  { "sentence": "薬局で処方箋を渡しました。", "target": "処方箋", "reading": "しょほうせん", "fullReading": "やっきょくでしょほうせんをわたしました。", "meaning": "prescription", "translation": "I handed the prescription at the pharmacy.", "context": "hospital" },
-  { "sentence": "医者に症状を説明しました。", "target": "症状", "reading": "しょうじょう", "fullReading": "いしゃにしょうじょうをせつめいしました。", "meaning": "symptom", "translation": "I explained my symptoms to the doctor.", "context": "hospital" },
-  { "sentence": "具合はどうですか。", "target": "具合", "reading": "ぐあい", "fullReading": "ぐあいはどうですか。", "meaning": "condition", "translation": "How are you feeling?", "context": "hospital" },
-  { "sentence": "来週、血液検査をします。", "target": "検査", "reading": "けんさ", "fullReading": "らいしゅう、けつえきけんさをします。", "meaning": "medical test", "translation": "I'll have a blood test next week.", "context": "hospital" },
-  { "sentence": "祖父は三日間入院しました。", "target": "入院", "reading": "にゅういん", "fullReading": "そふはみっかかんにゅういんしました。", "meaning": "hospitalization", "translation": "My grandfather was hospitalized for three days.", "context": "hospital" },
-  { "sentence": "毎週月曜日に通院しています。", "target": "通院", "reading": "つういん", "fullReading": "まいしゅうげつようびにつういんしています。", "meaning": "outpatient visit", "translation": "I visit the hospital every Monday.", "context": "hospital" },
-  { "sentence": "妻の妊娠が分かりました。", "target": "妊娠", "reading": "にんしん", "fullReading": "つまのにんしんがわかりました。", "meaning": "pregnancy", "translation": "We found out my wife is pregnant.", "context": "hospital" },
-  { "sentence": "初めて産婦人科を受診しました。", "target": "産婦人科", "reading": "さんふじんか", "fullReading": "はじめてさんふじんかをじゅしんしました。", "meaning": "obstetrics and gynecology", "translation": "I visited the obstetrics and gynecology department for the first time.", "context": "hospital" },
-  { "sentence": "市役所で母子手帳をもらいました。", "target": "母子手帳", "reading": "ぼしてちょう", "fullReading": "しやくしょでぼしてちょうをもらいました。", "meaning": "maternal and child health handbook", "translation": "I received the maternal and child health handbook at the city hall.", "context": "hospital" },
-  { "sentence": "毎月、妊婦健診を受けています。", "target": "妊婦健診", "reading": "にんぷけんしん", "fullReading": "まいつき、にんぷけんしんをうけています。", "meaning": "prenatal checkup", "translation": "I have a prenatal checkup every month.", "context": "hospital" },
-  { "sentence": "最近、胎動をよく感じます。", "target": "胎動", "reading": "たいどう", "fullReading": "さいきん、たいどうをよくかんじます。", "meaning": "fetal movement", "translation": "Lately I often feel the baby moving.", "context": "hospital" },
-  { "sentence": "分娩予定日は来月です。", "target": "分娩予定日", "reading": "ぶんべんよていび", "fullReading": "ぶんべんよていびはらいげつです。", "meaning": "expected date of delivery", "translation": "The expected delivery date is next month.", "context": "hospital" },
-  { "sentence": "夜中に破水しました。", "target": "破水", "reading": "はすい", "fullReading": "よなかにはすいしました。", "meaning": "water breaking", "translation": "My water broke in the middle of the night.", "context": "hospital" },
-  { "sentence": "昨夜から陣痛が始まりました。", "target": "陣痛", "reading": "じんつう", "fullReading": "さくやからじんつうがはじまりました。", "meaning": "labor pain, contraction", "translation": "Labor pains started last night.", "context": "hospital" },
-  { "sentence": "妻は分娩室に入りました。", "target": "分娩室", "reading": "ぶんべんしつ", "fullReading": "つまはぶんべんしつにはいりました。", "meaning": "delivery room", "translation": "My wife went into the delivery room.", "context": "hospital" },
-  { "sentence": "助産師が出産を手伝ってくれました。", "target": "助産師", "reading": "じょさんし", "fullReading": "じょさんしがしゅっさんをてつだってくれました。", "meaning": "midwife", "translation": "The midwife helped with the delivery.", "context": "hospital" },
-  { "sentence": "夫が立ち会い分娩に参加しました。", "target": "立ち会い分娩", "reading": "たちあいぶんべん", "fullReading": "おっとがたちあいぶんべんにさんかしました。", "meaning": "partner-assisted delivery", "translation": "My husband took part in the delivery.", "context": "hospital" },
-  { "sentence": "痛みが心配で無痛分娩を選びました。", "target": "無痛分娩", "reading": "むつうぶんべん", "fullReading": "いたみがしんぱいでむつうぶんべんをえらびました。", "meaning": "painless delivery", "translation": "Worried about the pain, I chose a painless delivery.", "context": "hospital" },
-  { "sentence": "逆子だったので帝王切開になりました。", "target": "帝王切開", "reading": "ていおうせっかい", "fullReading": "さかごだったのでていおうせっかいになりました。", "meaning": "cesarean section", "translation": "Because the baby was breech, I had a cesarean section.", "context": "hospital" },
-  { "sentence": "無事に赤ちゃんを出産しました。", "target": "出産", "reading": "しゅっさん", "fullReading": "ぶじにあかちゃんをしゅっさんしました。", "meaning": "childbirth", "translation": "I safely gave birth to a baby.", "context": "hospital" },
-  { "sentence": "赤ちゃんは元気に生まれました。", "target": "赤ちゃん", "reading": "あかちゃん", "fullReading": "あかちゃんはげんきにうまれました。", "meaning": "baby", "translation": "The baby was born healthy.", "context": "hospital" },
-  { "sentence": "赤ちゃんは新生児室で休んでいます。", "target": "新生児室", "reading": "しんせいじしつ", "fullReading": "あかちゃんはしんせいじしつでやすんでいます。", "meaning": "neonatal room", "translation": "The baby is resting in the neonatal room.", "context": "hospital" },
-  { "sentence": "この病院は母子同室です。", "target": "母子同室", "reading": "ぼしどうしつ", "fullReading": "このびょういんはぼしどうしつです。", "meaning": "rooming-in (mother and baby)", "translation": "This hospital practices rooming-in.", "context": "hospital" },
-  { "sentence": "退院後も母乳育児を続けています。", "target": "母乳育児", "reading": "ぼにゅういくじ", "fullReading": "たいいんごもぼにゅういくじをつづけています。", "meaning": "breastfeeding", "translation": "I keep breastfeeding even after leaving the hospital.", "context": "hospital" },
-  { "sentence": "退院してから産後ケアを受けました。", "target": "産後ケア", "reading": "さんごけあ", "fullReading": "たいいんしてからさんごけあをうけました。", "meaning": "postpartum care", "translation": "After being discharged, I received postpartum care.", "context": "hospital" },
-  { "sentence": "市役所に出生届を出しました。", "target": "出生届", "reading": "しゅっせいとどけ", "fullReading": "しやくしょにしゅっせいとどけをだしました。", "meaning": "birth registration", "translation": "I submitted the birth registration at the city hall.", "context": "hospital" },
-  { "sentence": "出産育児一時金を申請しました。", "target": "出産育児一時金", "reading": "しゅっさんいくじいちじきん", "fullReading": "しゅっさんいくじいちじきんをしんせいしました。", "meaning": "lump-sum allowance for childbirth and childcare", "translation": "I applied for the childbirth and childcare lump-sum allowance.", "context": "hospital" }
+  {
+    "sentence": "医者に相談しました。",
+    "target": "医者",
+    "reading": "いしゃ",
+    "fullReading": "いしゃにそうだんしました。",
+    "meaning": "doctor",
+    "translation": "I consulted a doctor.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "看護師が熱を測りました。",
+    "target": "看護師",
+    "reading": "かんごし",
+    "fullReading": "かんごしがねつをはかりました。",
+    "meaning": "nurse",
+    "translation": "The nurse took my temperature.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "食後にこの薬を飲んでください。",
+    "target": "薬",
+    "reading": "くすり",
+    "fullReading": "しょくごにこのくすりをのんでください。",
+    "meaning": "medicine",
+    "translation": "Please take this medicine after meals.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "今朝から熱があります。",
+    "target": "熱",
+    "reading": "ねつ",
+    "fullReading": "けさからねつがあります。",
+    "meaning": "fever",
+    "translation": "I've had a fever since this morning.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "お腹が痛いです。",
+    "target": "痛い",
+    "reading": "いたい",
+    "fullReading": "おなかがいたいです。",
+    "meaning": "painful",
+    "translation": "My stomach hurts.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "午前中に診察を受けました。",
+    "target": "診察",
+    "reading": "しんさつ",
+    "fullReading": "ごぜんちゅうにしんさつをうけました。",
+    "meaning": "medical examination",
+    "translation": "I had a medical examination in the morning.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "受付で名前を呼ばれました。",
+    "target": "受付",
+    "reading": "うけつけ",
+    "fullReading": "うけつけでなまえをよばれました。",
+    "meaning": "reception",
+    "translation": "My name was called at the reception.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "保険証を忘れました。",
+    "target": "保険証",
+    "reading": "ほけんしょう",
+    "fullReading": "ほけんしょうをわすれました。",
+    "meaning": "insurance card",
+    "translation": "I forgot my insurance card.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "看護師が注射をしました。",
+    "target": "注射",
+    "reading": "ちゅうしゃ",
+    "fullReading": "かんごしがちゅうしゃをしました。",
+    "meaning": "injection",
+    "translation": "The nurse gave an injection.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "薬局で処方箋を渡しました。",
+    "target": "処方箋",
+    "reading": "しょほうせん",
+    "fullReading": "やっきょくでしょほうせんをわたしました。",
+    "meaning": "prescription",
+    "translation": "I handed the prescription at the pharmacy.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "医者に症状を説明しました。",
+    "target": "症状",
+    "reading": "しょうじょう",
+    "fullReading": "いしゃにしょうじょうをせつめいしました。",
+    "meaning": "symptom",
+    "translation": "I explained my symptoms to the doctor.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "具合はどうですか。",
+    "target": "具合",
+    "reading": "ぐあい",
+    "fullReading": "ぐあいはどうですか。",
+    "meaning": "condition",
+    "translation": "How are you feeling?",
+    "context": "hospital"
+  },
+  {
+    "sentence": "来週、血液検査をします。",
+    "target": "検査",
+    "reading": "けんさ",
+    "fullReading": "らいしゅう、けつえきけんさをします。",
+    "meaning": "medical test",
+    "translation": "I'll have a blood test next week.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "祖父は三日間入院しました。",
+    "target": "入院",
+    "reading": "にゅういん",
+    "fullReading": "そふはみっかかんにゅういんしました。",
+    "meaning": "hospitalization",
+    "translation": "My grandfather was hospitalized for three days.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "毎週月曜日に通院しています。",
+    "target": "通院",
+    "reading": "つういん",
+    "fullReading": "まいしゅうげつようびにつういんしています。",
+    "meaning": "outpatient visit",
+    "translation": "I visit the hospital every Monday.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "妻の妊娠が分かりました。",
+    "target": "妊娠",
+    "reading": "にんしん",
+    "fullReading": "つまのにんしんがわかりました。",
+    "meaning": "pregnancy",
+    "translation": "We found out my wife is pregnant.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "初めて産婦人科を受診しました。",
+    "target": "産婦人科",
+    "reading": "さんふじんか",
+    "fullReading": "はじめてさんふじんかをじゅしんしました。",
+    "meaning": "obstetrics and gynecology",
+    "translation": "I visited the obstetrics and gynecology department for the first time.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "市役所で母子手帳をもらいました。",
+    "target": "母子手帳",
+    "reading": "ぼしてちょう",
+    "fullReading": "しやくしょでぼしてちょうをもらいました。",
+    "meaning": "maternal and child health handbook",
+    "translation": "I received the maternal and child health handbook at the city hall.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "毎月、妊婦健診を受けています。",
+    "target": "妊婦健診",
+    "reading": "にんぷけんしん",
+    "fullReading": "まいつき、にんぷけんしんをうけています。",
+    "meaning": "prenatal checkup",
+    "translation": "I have a prenatal checkup every month.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "最近、胎動をよく感じます。",
+    "target": "胎動",
+    "reading": "たいどう",
+    "fullReading": "さいきん、たいどうをよくかんじます。",
+    "meaning": "fetal movement",
+    "translation": "Lately I often feel the baby moving.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "分娩予定日は来月です。",
+    "target": "分娩予定日",
+    "reading": "ぶんべんよていび",
+    "fullReading": "ぶんべんよていびはらいげつです。",
+    "meaning": "expected date of delivery",
+    "translation": "The expected delivery date is next month.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "夜中に破水しました。",
+    "target": "破水",
+    "reading": "はすい",
+    "fullReading": "よなかにはすいしました。",
+    "meaning": "water breaking",
+    "translation": "My water broke in the middle of the night.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "昨夜から陣痛が始まりました。",
+    "target": "陣痛",
+    "reading": "じんつう",
+    "fullReading": "さくやからじんつうがはじまりました。",
+    "meaning": "labor pain, contraction",
+    "translation": "Labor pains started last night.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "妻は分娩室に入りました。",
+    "target": "分娩室",
+    "reading": "ぶんべんしつ",
+    "fullReading": "つまはぶんべんしつにはいりました。",
+    "meaning": "delivery room",
+    "translation": "My wife went into the delivery room.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "助産師が出産を手伝ってくれました。",
+    "target": "助産師",
+    "reading": "じょさんし",
+    "fullReading": "じょさんしがしゅっさんをてつだってくれました。",
+    "meaning": "midwife",
+    "translation": "The midwife helped with the delivery.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "夫が立ち会い分娩に参加しました。",
+    "target": "立ち会い分娩",
+    "reading": "たちあいぶんべん",
+    "fullReading": "おっとがたちあいぶんべんにさんかしました。",
+    "meaning": "partner-assisted delivery",
+    "translation": "My husband took part in the delivery.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "痛みが心配で無痛分娩を選びました。",
+    "target": "無痛分娩",
+    "reading": "むつうぶんべん",
+    "fullReading": "いたみがしんぱいでむつうぶんべんをえらびました。",
+    "meaning": "painless delivery",
+    "translation": "Worried about the pain, I chose a painless delivery.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "逆子だったので帝王切開になりました。",
+    "target": "帝王切開",
+    "reading": "ていおうせっかい",
+    "fullReading": "さかごだったのでていおうせっかいになりました。",
+    "meaning": "cesarean section",
+    "translation": "Because the baby was breech, I had a cesarean section.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "無事に赤ちゃんを出産しました。",
+    "target": "出産",
+    "reading": "しゅっさん",
+    "fullReading": "ぶじにあかちゃんをしゅっさんしました。",
+    "meaning": "childbirth",
+    "translation": "I safely gave birth to a baby.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "赤ちゃんは元気に生まれました。",
+    "target": "赤ちゃん",
+    "reading": "あかちゃん",
+    "fullReading": "あかちゃんはげんきにうまれました。",
+    "meaning": "baby",
+    "translation": "The baby was born healthy.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "赤ちゃんは新生児室で休んでいます。",
+    "target": "新生児室",
+    "reading": "しんせいじしつ",
+    "fullReading": "あかちゃんはしんせいじしつでやすんでいます。",
+    "meaning": "neonatal room",
+    "translation": "The baby is resting in the neonatal room.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "この病院は母子同室です。",
+    "target": "母子同室",
+    "reading": "ぼしどうしつ",
+    "fullReading": "このびょういんはぼしどうしつです。",
+    "meaning": "rooming-in (mother and baby)",
+    "translation": "This hospital practices rooming-in.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "退院後も母乳育児を続けています。",
+    "target": "母乳育児",
+    "reading": "ぼにゅういくじ",
+    "fullReading": "たいいんごもぼにゅういくじをつづけています。",
+    "meaning": "breastfeeding",
+    "translation": "I keep breastfeeding even after leaving the hospital.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "退院してから産後ケアを受けました。",
+    "target": "産後ケア",
+    "reading": "さんごけあ",
+    "fullReading": "たいいんしてからさんごけあをうけました。",
+    "meaning": "postpartum care",
+    "translation": "After being discharged, I received postpartum care.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "市役所に出生届を出しました。",
+    "target": "出生届",
+    "reading": "しゅっせいとどけ",
+    "fullReading": "しやくしょにしゅっせいとどけをだしました。",
+    "meaning": "birth registration",
+    "translation": "I submitted the birth registration at the city hall.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "出産育児一時金を申請しました。",
+    "target": "出産育児一時金",
+    "reading": "しゅっさんいくじいちじきん",
+    "fullReading": "しゅっさんいくじいちじきんをしんせいしました。",
+    "meaning": "lump-sum allowance for childbirth and childcare",
+    "translation": "I applied for the childbirth and childcare lump-sum allowance.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "画面案内にしたがって、診察券を入れてください。",
+    "target": "診察券",
+    "reading": "しんさつけん",
+    "fullReading": "がめんあんないにしたがって、しんさつけんをいれてください。",
+    "meaning": "patient ID card",
+    "translation": "Follow the on-screen guide and insert your patient card.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "名前が呼ばれるまで、待合室でお待ちください。",
+    "target": "待合室",
+    "reading": "まちあいしつ",
+    "fullReading": "なまえがよばれるまで、まちあいしつでおまちください。",
+    "meaning": "waiting room",
+    "translation": "Please wait in the waiting room until your name is called.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "こちらの問診票に、今日の症状を書いてください。",
+    "target": "問診票",
+    "reading": "もんしんひょう",
+    "fullReading": "こちらのもんしんひょうに、きょうのしょうじょうをかいてください。",
+    "meaning": "intake questionnaire",
+    "translation": "Please write today's symptoms on this questionnaire.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "ひとりで悩まず、気軽にご相談ください。",
+    "target": "相談",
+    "reading": "そうだん",
+    "fullReading": "ひとりでなやまず、きがるにごそうだんください。",
+    "meaning": "consultation",
+    "translation": "Don't struggle alone — feel free to talk to us.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "妊娠三ヶ月に入りましたね。",
+    "target": "妊娠",
+    "reading": "にんしん",
+    "fullReading": "にんしんさんかげつにはいりましたね。",
+    "meaning": "pregnancy",
+    "translation": "You're three months along now.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "子供が熱を出したので、小児科に連れて行きました。",
+    "target": "小児科",
+    "reading": "しょうにか",
+    "fullReading": "こどもがねつをだしたので、しょうにかにつれていきました。",
+    "meaning": "pediatrics",
+    "translation": "My child had a fever, so we went to pediatrics.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "風邪気味なので、内科を受診します。",
+    "target": "内科",
+    "reading": "ないか",
+    "fullReading": "かぜぎみなので、ないかにじゅしんします。",
+    "meaning": "internal medicine",
+    "translation": "I'm coming down with something, so I'll see internal medicine.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "転んで足を骨折し、外科に通っています。",
+    "target": "外科",
+    "reading": "げか",
+    "fullReading": "ころんであしをおって、げかにかよっています。",
+    "meaning": "surgery (department)",
+    "translation": "I fell and broke my leg; I go to the surgery department.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "来週、お腹の手術を受けます。",
+    "target": "手術",
+    "reading": "しゅじゅつ",
+    "fullReading": "らいしゅう、おなかのしゅじゅつをうけます。",
+    "meaning": "surgery operation",
+    "translation": "I'm having stomach surgery next week.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "毎日、病院でリハビリを続けています。",
+    "target": "リハビリ",
+    "reading": "りはびり",
+    "fullReading": "まいにち、びょういんでりはびりをつづけています。",
+    "meaning": "rehabilitation",
+    "translation": "I keep doing rehabilitation at the hospital every day.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "腕にカフを巻いて、血圧を測ります。",
+    "target": "血圧",
+    "reading": "けつあつ",
+    "fullReading": "うでにカフをまいて、けつあつをはかります。",
+    "meaning": "blood pressure",
+    "translation": "We'll wrap the cuff around your arm and take your blood pressure.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "心電図を取りますので、楽な姿勢で横になってください。",
+    "target": "心電図",
+    "reading": "しんでんず",
+    "fullReading": "しんでんずをとりますので、らくなしせいでよこになってください。",
+    "meaning": "electrocardiogram (ECG)",
+    "translation": "We'll take an ECG, so please lie down comfortably.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "胸のレントゲンを撮りますので、息を止めてください。",
+    "target": "レントゲン",
+    "reading": "れんとげん",
+    "fullReading": "むねのレントゲンをとりますので、いきをとめてください。",
+    "meaning": "X-ray",
+    "translation": "We'll X-ray your chest, so please hold your breath.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "熱が下がらないため、点滴を始めました。",
+    "target": "点滴",
+    "reading": "てんてき",
+    "fullReading": "ねつがさがらないため、てんてきをはじめました。",
+    "meaning": "intravenous drip",
+    "translation": "Because the fever would not break, we started an IV drip.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "具合が悪くなったら、すぐ救急車を呼んでください。",
+    "target": "救急車",
+    "reading": "きゅうきゅうしゃ",
+    "fullReading": "ぐあいがわるくなったら、すぐきゅうきゅうしゃをよんでください。",
+    "meaning": "ambulance",
+    "translation": "If you get worse, call an ambulance right away.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "来週の火曜日に退院できます。",
+    "target": "退院",
+    "reading": "たいいん",
+    "fullReading": "らいしゅうのかようびにたいいんできます。",
+    "meaning": "discharge from hospital",
+    "translation": "You can leave the hospital next Tuesday.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "会社のために、診断書を出してもらいました。",
+    "target": "診断書",
+    "reading": "しんだんしょ",
+    "fullReading": "かいしゃのために、しんだんしょをだしてもらいました。",
+    "meaning": "medical certificate",
+    "translation": "I got a medical certificate to hand in at work.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "今日は職場の健康診断の日です。",
+    "target": "健康診断",
+    "reading": "けんこうしんだん",
+    "fullReading": "きょうはしょくばのけんこうしんだんのひです。",
+    "meaning": "health checkup",
+    "translation": "Today is our workplace health checkup day.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "病院内での感染症予防にご協力ください。",
+    "target": "感染症",
+    "reading": "かんせんしょう",
+    "fullReading": "びょういんないでのかんせんしょうよぼうにごきょうりょくください。",
+    "meaning": "infectious disease",
+    "translation": "Please help us prevent infections inside the hospital.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "子供にインフルエンザのワクチンを打たせました。",
+    "target": "ワクチン",
+    "reading": "わくちん",
+    "fullReading": "こどもにインフルエンザのわくちんをうたせました。",
+    "meaning": "vaccine",
+    "translation": "I had my child vaccinated against the flu.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "高額だったので、医療費の助成を申請しました。",
+    "target": "医療費",
+    "reading": "いりょうひ",
+    "fullReading": "こうがくだったので、いりょうひのじょせいをしんせいしました。",
+    "meaning": "medical costs",
+    "translation": "Since it was costly, I applied for help with medical expenses.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "初めての方は、まず希望の診療科を選んでください。",
+    "target": "診療科",
+    "reading": "しんりょうか",
+    "fullReading": "はじめてのかたは、まずきぼうのしんりょうかをえらんでください。",
+    "meaning": "clinical department",
+    "translation": "First-time visitors, please pick the department you need.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "入院中の病院食は、塩分が控えめです。",
+    "target": "病院食",
+    "reading": "びょういんしょく",
+    "fullReading": "にゅういんちゅうのびょういんしょくは、えんぶんがひかえめです。",
+    "meaning": "hospital meals",
+    "translation": "Hospital meals during your stay are low in salt.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "一階の窓口で入院手続きをしてください。",
+    "target": "入院手続き",
+    "reading": "にゅういんてつづき",
+    "fullReading": "いっかいのまどぐちでにゅういんてつづきをしてください。",
+    "meaning": "admission procedure",
+    "translation": "Please complete the admission procedure at the first-floor counter.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "休日も働く医療従事者の方々に感謝しています。",
+    "target": "医療従事者",
+    "reading": "いりょうじゅうじしゃ",
+    "fullReading": "きゅうじつもはたらくいりょうじゅうじしゃのかたがたにかんしゃしています。",
+    "meaning": "healthcare workers",
+    "translation": "I'm grateful to healthcare workers who work weekends too.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "面会時間は午後二時から八時までです。",
+    "target": "面会時間",
+    "reading": "めんかいじかん",
+    "fullReading": "めんかいじかんはごごにじからはちじまでです。",
+    "meaning": "visiting hours",
+    "translation": "Visiting hours are from 2 to 8 p.m.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "病院内では、携帯電話をマナーモードにしてください。",
+    "target": "病院内",
+    "reading": "びょういんない",
+    "fullReading": "びょういんないでは、けいたいでんわをマナーモードにしてください。",
+    "meaning": "inside the hospital",
+    "translation": "Inside the hospital, please set phones to silent.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "自治体から乳がん検診の案内が届きました。",
+    "target": "検診",
+    "reading": "けんしん",
+    "fullReading": "じちたいからにゅうがんけんしんのあんないがとどきました。",
+    "meaning": "screening program",
+    "translation": "A notice about breast-cancer screening came from my municipality.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "夜間・休日は、救急外来をご利用ください。",
+    "target": "救急外来",
+    "reading": "きゅうきゅうがいらい",
+    "fullReading": "やかん・きゅうじつは、きゅうきゅうがいらいをごりようください。",
+    "meaning": "emergency outpatient",
+    "translation": "On nights and holidays, please use the emergency clinic.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "医師が到着して、すぐ救急処置を始めました。",
+    "target": "救急処置",
+    "reading": "きゅうきゅうしょち",
+    "fullReading": "いしがとうちゃくして、すぐきゅうきゅうしょちをはじめました。",
+    "meaning": "emergency treatment",
+    "translation": "Once the doctor arrived, emergency treatment began right away.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "事故現場から直接、救急搬送されました。",
+    "target": "救急搬送",
+    "reading": "きゅうきゅうはんそう",
+    "fullReading": "じこげんばからちょくせつ、きゅうきゅうはんそうされました。",
+    "meaning": "emergency transport",
+    "translation": "He was rushed by ambulance straight from the accident scene.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "救急隊員が素早く応急処置をしてくれました。",
+    "target": "救急隊員",
+    "reading": "きゅうきゅうたいいん",
+    "fullReading": "きゅうきゅうたいいんがすばやくおうきゅうしょちをしてくれました。",
+    "meaning": "paramedics",
+    "translation": "The paramedics gave first aid quickly.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "重症のため、救命救急センターに運ばれました。",
+    "target": "救命救急",
+    "reading": "きゅうめいきゅうきゅう",
+    "fullReading": "じゅうしょうのため、きゅうめいきゅうきゅうセンターにはこばれました。",
+    "meaning": "life-saving emergency care",
+    "translation": "With serious injuries, he was taken to the critical-care center.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "症状が出たら、近くの医療機関に連絡してください。",
+    "target": "医療機関",
+    "reading": "いりょうきかん",
+    "fullReading": "しょうじょうがでたら、ちかくのいりょうきかんにれんらくしてください。",
+    "meaning": "medical facility",
+    "translation": "If symptoms appear, contact a nearby medical facility.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "医療保険の適用について、窓口で確認しました。",
+    "target": "医療保険",
+    "reading": "いりょうほけん",
+    "fullReading": "いりょうほけんのてきようについて、まどぐちでかくにんしました。",
+    "meaning": "medical insurance",
+    "translation": "I confirmed insurance coverage at the counter.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "本国への登録のため、出生証明書を発行してもらいました。",
+    "target": "出生証明書",
+    "reading": "しゅっせいしょうめいしょ",
+    "fullReading": "ほんこくへのとうろくのため、しゅっせいしょうめいしょをはっこうしてもらいました。",
+    "meaning": "birth certificate",
+    "translation": "I had a birth certificate issued for registration back home.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "受付に乳幼児医療証を見せてください。",
+    "target": "乳幼児医療証",
+    "reading": "にゅうようじいりょうしょう",
+    "fullReading": "うけつけににゅうようじいりょうしょうをみせてください。",
+    "meaning": "infant medical card",
+    "translation": "Show your infant medical card at reception.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "確定申告で医療費控除を受けました。",
+    "target": "医療費控除",
+    "reading": "いりょうひこうじょ",
+    "fullReading": "かくていしんこくでいりょうひこうじょをうけました。",
+    "meaning": "medical-expense deduction",
+    "translation": "I claimed the medical-expense deduction on my tax return.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "専門病院へ行くときは、病院紹介状が必要です。",
+    "target": "病院紹介状",
+    "reading": "びょういんしょうかいじょう",
+    "fullReading": "せんもんびょういんへいくときは、びょういんしょうかいじょうがひつようです。",
+    "meaning": "referral letter",
+    "translation": "You'll need a referral letter to visit a specialty hospital.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "スマホからでも病院予約ができますよ。",
+    "target": "病院予約",
+    "reading": "びょういんよやく",
+    "fullReading": "すまほからでもびょういんよやくができますよ。",
+    "meaning": "hospital booking",
+    "translation": "You can book a hospital visit from your phone, too.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "育児や介護で困ったら、市の医療相談窓口へ。",
+    "target": "医療相談",
+    "reading": "いりょうそうだん",
+    "fullReading": "いくじやかいごでこまったら、しのいりょうそうだんまどぐちへ。",
+    "meaning": "medical consultation service",
+    "translation": "When childcare or caregiving gets tough, try the city's medical helpline.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "このルールは、医療安全のために設けています。",
+    "target": "医療安全",
+    "reading": "いりょうあんぜん",
+    "fullReading": "このルールは、いりょうあんぜんのためにもうけています。",
+    "meaning": "patient safety",
+    "translation": "This rule exists for patient safety.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "近年の医療技術は本当に進歩しました。",
+    "target": "医療技術",
+    "reading": "いりょうぎじゅつ",
+    "fullReading": "きんねんのいりょうぎじゅつはほんとうにしんぽしました。",
+    "meaning": "medical technology",
+    "translation": "Medical technology really has advanced in recent years.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "出産費用は、出産育児一時金で多くが賄えます。",
+    "target": "出産費用",
+    "reading": "しゅっさんひよう",
+    "fullReading": "しゅっさんひようは、しゅっさんいくじいちじきんでおおくがまかなえます。",
+    "meaning": "childbirth expenses",
+    "translation": "Most childbirth costs are covered by the lump-sum allowance.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "二人目は自然分娩で産むことにしました。",
+    "target": "自然分娩",
+    "reading": "しぜんぶんべん",
+    "fullReading": "ふたりめはしぜんぶんべんでうむことにしました。",
+    "meaning": "natural childbirth",
+    "translation": "For our second child, I decided on a natural delivery.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "妊娠経過については、担当の産科医に確認してください。",
+    "target": "産科医",
+    "reading": "さんかい",
+    "fullReading": "にんしんけいかについては、たんとうのさんかいにかくにんしてください。",
+    "meaning": "obstetrician",
+    "translation": "Ask the attending obstetrician about how your pregnancy is going.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "お印が出たら、迷わず連絡してくださいね。",
+    "target": "お印",
+    "reading": "おしるし",
+    "fullReading": "おしるしがでたら、まよわずれんらくしてくださいね。",
+    "meaning": "bloody show (sign of labor)",
+    "translation": "If you notice any show, call us right away — do not hesitate.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "分娩監視装置を付けて、赤ちゃんの心拍を記録します。",
+    "target": "分娩監視装置",
+    "reading": "ぶんべんかんしそうち",
+    "fullReading": "ぶんべんかんしそうちをつけて、あかちゃんのしんぱくをきろくします。",
+    "meaning": "fetal monitor",
+    "translation": "We attach the fetal monitor to record your baby's heartbeat.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "進みが緩いときは、陣痛促進剤を使うこともあります。",
+    "target": "陣痛促進剤",
+    "reading": "じんつうそくしんざい",
+    "fullReading": "すすみがゆるいときは、じんつうそくしんざいをつかうこともあります。",
+    "meaning": "labor-inducing drug",
+    "translation": "If labor is slow, we sometimes use medication to move things along.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "経験豊富な助産師が、落ち着いて分娩介助してくれます。",
+    "target": "分娩介助",
+    "reading": "ぶんべんかいじょ",
+    "fullReading": "けいけんほうふなじょさんしが、おちついてぶんべんかいじょしてくれます。",
+    "meaning": "assistance during childbirth",
+    "translation": "An experienced midwife calmly assists through the birth.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "母親教室では、新生児ケアの基本を学びます。",
+    "target": "新生児ケア",
+    "reading": "しんせいじけあ",
+    "fullReading": "ぼはんきょうしつでは、しんせいじけあのきほんをまなびます。",
+    "meaning": "newborn care",
+    "translation": "At the mothers' class, you learn the basics of newborn care.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "当院では母乳育児支援を積極的に行っています。",
+    "target": "母乳育児支援",
+    "reading": "ぼにゅういくじしえん",
+    "fullReading": "とういんではぼにゅういくじしえんをせっきょくてきにおこなっています。",
+    "meaning": "breastfeeding support",
+    "translation": "Our hospital actively supports breastfeeding.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "眠れない日が続いたら、産後うつ病の可能性もあります。",
+    "target": "産後うつ病",
+    "reading": "さんごうつびょう",
+    "fullReading": "ねむれないひがつづいたら、さんごうつびょうのかのうせいもあります。",
+    "meaning": "postpartum depression",
+    "translation": "If sleepless days continue, it could be postpartum depression.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "市の保健師さんが、家庭に母子保健指導に来てくれました。",
+    "target": "母子保健指導",
+    "reading": "ぼしほけんしどう",
+    "fullReading": "しのほけんしさんが、かていにぼしほけんしどうにきてくれました。",
+    "meaning": "maternal and child health guidance",
+    "translation": "A public-health nurse came to our home for maternal-and-child guidance.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "来週、赤ちゃんの予防接種の予約があります。",
+    "target": "予防接種",
+    "reading": "よぼうせっしゅ",
+    "fullReading": "らいしゅう、あかちゃんのよぼうせっしゅのよやくがあります。",
+    "meaning": "vaccination",
+    "translation": "Next week we have the baby's vaccination appointment.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "授乳は三時間おきを目安にしましょう。",
+    "target": "授乳",
+    "reading": "じゅにゅう",
+    "fullReading": "じゅにゅうはさんじかんおきをめやすにしましょう。",
+    "meaning": "nursing; feeding",
+    "translation": "Aim for roughly three hours between feeds.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "退院前に、沐浴の練習をする時間を作ります。",
+    "target": "沐浴",
+    "reading": "もくよ",
+    "fullReading": "たいいんまえに、もくよのれんしゅうをするじかんをつくります。",
+    "meaning": "bathing a newborn",
+    "translation": "Before discharge, we set aside time to practice bathing the baby.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "粉ミルクは、飲む直前に作ります。",
+    "target": "ミルク",
+    "reading": "ミルク",
+    "fullReading": "こなミルクは、のむちょくぜんにつくります。",
+    "meaning": "(baby) formula",
+    "translation": "Make formula right before feeding time.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "赤ちゃんの黄疸はよくありますので、心配しすぎなくて大丈夫です。",
+    "target": "黄疸",
+    "reading": "おうだん",
+    "fullReading": "あかちゃんのおうだんはよくありますので、しんぱいしすぎなくてだいじょうぶです。",
+    "meaning": "(newborn) jaundice",
+    "translation": "Jaundice is common in newborns, so try not to worry too much.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "面会の方は、病棟の受付で名前を書いてください。",
+    "target": "病棟",
+    "reading": "びょうとう",
+    "fullReading": "めんかいのかたは、びょうとうのうけつけでなまえをかいてください。",
+    "meaning": "hospital ward",
+    "translation": "Visitors, please sign your name at the ward reception.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "領収書には、入院費の明細が書いてあります。",
+    "target": "入院費",
+    "reading": "にゅういんひ",
+    "fullReading": "りょうしゅうしょには、にゅういんひのめいさいがかいてあります。",
+    "meaning": "hospitalization fee",
+    "translation": "The receipt itemizes your hospitalization charges.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "ナースコールしたら、すぐ手当てに来てくれました。",
+    "target": "手当て",
+    "reading": "てあて",
+    "fullReading": "ナースコールしたら、すくてあてにきてくれました。",
+    "meaning": "first aid; treatment",
+    "translation": "When I used the call button, someone came to treat me right away.",
+    "context": "hospital"
+  }
 ]

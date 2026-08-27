@@ -1,0 +1,597 @@
+[
+  {
+    "word": "忙しい",
+    "reading": "いそがしい",
+    "meaning": "busy",
+    "context": "workplace",
+    "frequencyRank": 1
+  },
+  {
+    "word": "面白い",
+    "reading": "おもしろい",
+    "meaning": "interesting; fun",
+    "context": "workplace",
+    "frequencyRank": 2
+  },
+  {
+    "word": "楽しい",
+    "reading": "たのしい",
+    "meaning": "fun; enjoyable",
+    "context": "workplace",
+    "frequencyRank": 3
+  },
+  {
+    "word": "大変",
+    "reading": "たいへん",
+    "meaning": "tough; hard",
+    "context": "workplace",
+    "frequencyRank": 4
+  },
+  {
+    "word": "疲れる",
+    "reading": "つかれる",
+    "meaning": "to get tired; tiring",
+    "context": "workplace",
+    "frequencyRank": 5
+  },
+  {
+    "word": "介護",
+    "reading": "かいご",
+    "meaning": "caregiving; nursing care",
+    "context": "workplace",
+    "frequencyRank": 6
+  },
+  {
+    "word": "学生",
+    "reading": "がくせい",
+    "meaning": "student",
+    "context": "workplace",
+    "frequencyRank": 7
+  },
+  {
+    "word": "専門学校",
+    "reading": "せんもんがっこう",
+    "meaning": "vocational school",
+    "context": "workplace",
+    "frequencyRank": 8
+  },
+  {
+    "word": "通う",
+    "reading": "かよう",
+    "meaning": "to go to (a place regularly); to attend",
+    "context": "workplace",
+    "frequencyRank": 9
+  },
+  {
+    "word": "去年",
+    "reading": "きょねん",
+    "meaning": "last year",
+    "context": "workplace",
+    "frequencyRank": 10
+  },
+  {
+    "word": "建設",
+    "reading": "けんせつ",
+    "meaning": "construction",
+    "context": "workplace",
+    "frequencyRank": 11
+  },
+  {
+    "word": "工場",
+    "reading": "こうじょう",
+    "meaning": "factory",
+    "context": "workplace",
+    "frequencyRank": 12
+  },
+  {
+    "word": "後輩",
+    "reading": "こうはい",
+    "meaning": "junior colleague(s)",
+    "context": "workplace",
+    "frequencyRank": 13
+  },
+  {
+    "word": "先輩",
+    "reading": "せんぱい",
+    "meaning": "senior colleague(s)",
+    "context": "workplace",
+    "frequencyRank": 14
+  },
+  {
+    "word": "勤める",
+    "reading": "つとめる",
+    "meaning": "to be employed (at)",
+    "context": "workplace",
+    "frequencyRank": 15
+  },
+  {
+    "word": "働く",
+    "reading": "はたらく",
+    "meaning": "to work; to labor",
+    "context": "workplace",
+    "frequencyRank": 16
+  },
+  {
+    "word": "主夫",
+    "reading": "しゅふ",
+    "meaning": "househusband",
+    "context": "workplace",
+    "frequencyRank": 17
+  },
+  {
+    "word": "主婦",
+    "reading": "しゅふ",
+    "meaning": "housewife",
+    "context": "workplace",
+    "frequencyRank": 18
+  },
+  {
+    "word": "知り合い",
+    "reading": "しりあい",
+    "meaning": "acquaintance(s)",
+    "context": "workplace",
+    "frequencyRank": 19
+  },
+  {
+    "word": "親切",
+    "reading": "しんせつ",
+    "meaning": "kind(ly)",
+    "context": "workplace",
+    "frequencyRank": 20
+  },
+  {
+    "word": "生活",
+    "reading": "せいかつ",
+    "meaning": "life; living",
+    "context": "workplace",
+    "frequencyRank": 21
+  },
+  {
+    "word": "友達",
+    "reading": "ともだち",
+    "meaning": "friend(s)",
+    "context": "workplace",
+    "frequencyRank": 22
+  },
+  {
+    "word": "野菜",
+    "reading": "やさい",
+    "meaning": "vegetables",
+    "context": "workplace",
+    "frequencyRank": 23
+  },
+  {
+    "word": "作る",
+    "reading": "つくる",
+    "meaning": "to make; to grow (crops)",
+    "context": "workplace",
+    "frequencyRank": 24
+  },
+  {
+    "word": "レストラン",
+    "reading": "レストラン",
+    "meaning": "restaurant",
+    "context": "workplace",
+    "frequencyRank": 25
+  },
+  {
+    "word": "ホテル",
+    "reading": "ホテル",
+    "meaning": "hotel",
+    "context": "workplace",
+    "frequencyRank": 26
+  },
+  {
+    "word": "日本語学校",
+    "reading": "にほんごがっこう",
+    "meaning": "Japanese-language school",
+    "context": "workplace",
+    "frequencyRank": 27
+  },
+  {
+    "word": "プログラミング",
+    "reading": "プログラミング",
+    "meaning": "programming",
+    "context": "workplace",
+    "frequencyRank": 28
+  },
+  {
+    "word": "勉強",
+    "reading": "べんきょう",
+    "meaning": "study; studying",
+    "context": "workplace",
+    "frequencyRank": 29
+  },
+  {
+    "word": "先月",
+    "reading": "せんげつ",
+    "meaning": "last month",
+    "context": "workplace",
+    "frequencyRank": 30
+  },
+  {
+    "word": "先週",
+    "reading": "せんしゅう",
+    "meaning": "last week",
+    "context": "workplace",
+    "frequencyRank": 31
+  },
+  {
+    "word": "毎日",
+    "reading": "まいにち",
+    "meaning": "every day",
+    "context": "workplace",
+    "frequencyRank": 32
+  },
+  {
+    "word": "ちょうど",
+    "reading": "ちょうど",
+    "meaning": "exactly; just",
+    "context": "workplace",
+    "frequencyRank": 33
+  },
+  {
+    "word": "もう",
+    "reading": "もう",
+    "meaning": "already",
+    "context": "workplace",
+    "frequencyRank": 34
+  },
+  {
+    "word": "まだ",
+    "reading": "まだ",
+    "meaning": "not yet",
+    "context": "workplace",
+    "frequencyRank": 35
+  },
+  {
+    "word": "みんな",
+    "reading": "みんな",
+    "meaning": "everyone",
+    "context": "workplace",
+    "frequencyRank": 36
+  },
+  {
+    "word": "なんとか",
+    "reading": "なんとか",
+    "meaning": "somehow; in some way",
+    "context": "workplace",
+    "frequencyRank": 37
+  },
+  {
+    "word": "慣れる",
+    "reading": "なれる",
+    "meaning": "to get used to",
+    "context": "workplace",
+    "frequencyRank": 38
+  },
+  {
+    "word": "まあまあ",
+    "reading": "まあまあ",
+    "meaning": "so-so; okay",
+    "context": "workplace",
+    "frequencyRank": 39
+  },
+  {
+    "word": "半年",
+    "reading": "はんとし",
+    "meaning": "half a year",
+    "context": "workplace",
+    "frequencyRank": 40
+  },
+  {
+    "word": "1か月",
+    "reading": "いっかげつ",
+    "meaning": "one month",
+    "context": "workplace",
+    "frequencyRank": 41
+  },
+  {
+    "word": "2か月",
+    "reading": "にかげつ",
+    "meaning": "two months",
+    "context": "workplace",
+    "frequencyRank": 42
+  },
+  {
+    "word": "3か月",
+    "reading": "さんかげつ",
+    "meaning": "three months",
+    "context": "workplace",
+    "frequencyRank": 43
+  },
+  {
+    "word": "4か月",
+    "reading": "よんかげつ",
+    "meaning": "four months",
+    "context": "workplace",
+    "frequencyRank": 44
+  },
+  {
+    "word": "5か月",
+    "reading": "ごかげつ",
+    "meaning": "five months",
+    "context": "workplace",
+    "frequencyRank": 45
+  },
+  {
+    "word": "6か月",
+    "reading": "ろっかげつ",
+    "meaning": "six months",
+    "context": "workplace",
+    "frequencyRank": 46
+  },
+  {
+    "word": "7か月",
+    "reading": "しちかげつ",
+    "meaning": "seven months",
+    "context": "workplace",
+    "frequencyRank": 47
+  },
+  {
+    "word": "8か月",
+    "reading": "はちかげつ",
+    "meaning": "eight months",
+    "context": "workplace",
+    "frequencyRank": 48
+  },
+  {
+    "word": "9か月",
+    "reading": "きゅうかげつ",
+    "meaning": "nine months",
+    "context": "workplace",
+    "frequencyRank": 49
+  },
+  {
+    "word": "10か月",
+    "reading": "じゅっかげつ",
+    "meaning": "ten months",
+    "context": "workplace",
+    "frequencyRank": 50
+  },
+  {
+    "word": "11か月",
+    "reading": "じゅういっかげつ",
+    "meaning": "eleven months",
+    "context": "workplace",
+    "frequencyRank": 51
+  },
+  {
+    "word": "12か月",
+    "reading": "じゅうにかげつ",
+    "meaning": "twelve months",
+    "context": "workplace",
+    "frequencyRank": 52
+  },
+  {
+    "word": "1年",
+    "reading": "いちねん",
+    "meaning": "a year",
+    "context": "workplace",
+    "frequencyRank": 53
+  },
+  {
+    "word": "2年",
+    "reading": "にねん",
+    "meaning": "two years",
+    "context": "workplace",
+    "frequencyRank": 54
+  },
+  {
+    "word": "3年",
+    "reading": "さんねん",
+    "meaning": "three years",
+    "context": "workplace",
+    "frequencyRank": 55
+  },
+  {
+    "word": "4年",
+    "reading": "よねん",
+    "meaning": "four years",
+    "context": "workplace",
+    "frequencyRank": 56
+  },
+  {
+    "word": "5年",
+    "reading": "ごねん",
+    "meaning": "five years",
+    "context": "workplace",
+    "frequencyRank": 57
+  },
+  {
+    "word": "6年",
+    "reading": "ろくねん",
+    "meaning": "six years",
+    "context": "workplace",
+    "frequencyRank": 58
+  },
+  {
+    "word": "7年",
+    "reading": "しちねん",
+    "meaning": "seven years",
+    "context": "workplace",
+    "frequencyRank": 59
+  },
+  {
+    "word": "8年",
+    "reading": "はちねん",
+    "meaning": "eight years",
+    "context": "workplace",
+    "frequencyRank": 60
+  },
+  {
+    "word": "9年",
+    "reading": "きゅうねん",
+    "meaning": "nine years",
+    "context": "workplace",
+    "frequencyRank": 61
+  },
+  {
+    "word": "10年",
+    "reading": "じゅうねん",
+    "meaning": "ten years",
+    "context": "workplace",
+    "frequencyRank": 62
+  },
+  {
+    "word": "チラシ",
+    "reading": "ちらし",
+    "meaning": "leaflet; flyer",
+    "context": "workplace",
+    "frequencyRank": 63
+  },
+  {
+    "word": "面接",
+    "reading": "めんせつ",
+    "meaning": "interview",
+    "context": "workplace",
+    "frequencyRank": 64
+  },
+  {
+    "word": "履歴書",
+    "reading": "りれきしょ",
+    "meaning": "resume; CV",
+    "context": "workplace",
+    "frequencyRank": 65
+  },
+  {
+    "word": "問い合わせ",
+    "reading": "といあわせ",
+    "meaning": "inquiry",
+    "context": "workplace",
+    "frequencyRank": 66
+  },
+  {
+    "word": "希望",
+    "reading": "きぼう",
+    "meaning": "hope; wish",
+    "context": "workplace",
+    "frequencyRank": 67
+  },
+  {
+    "word": "募集",
+    "reading": "ぼしゅう",
+    "meaning": "recruitment",
+    "context": "workplace",
+    "frequencyRank": 68
+  },
+  {
+    "word": "入力",
+    "reading": "にゅうりょく",
+    "meaning": "input (of data)",
+    "context": "workplace",
+    "frequencyRank": 69
+  },
+  {
+    "word": "日常会話",
+    "reading": "にちじょうかいわ",
+    "meaning": "daily conversation",
+    "context": "workplace",
+    "frequencyRank": 70
+  },
+  {
+    "word": "ホームページ",
+    "reading": "ホームページ",
+    "meaning": "website",
+    "context": "workplace",
+    "frequencyRank": 71
+  },
+  {
+    "word": "思い出す",
+    "reading": "おもいだす",
+    "meaning": "to remember; to recall",
+    "context": "workplace",
+    "frequencyRank": 72
+  },
+  {
+    "word": "方",
+    "reading": "かた",
+    "meaning": "person (respectful)",
+    "context": "workplace",
+    "frequencyRank": 73
+  },
+  {
+    "word": "者",
+    "reading": "もの",
+    "meaning": "person (humble)",
+    "context": "workplace",
+    "frequencyRank": 74
+  },
+  {
+    "word": "刺身",
+    "reading": "さしみ",
+    "meaning": "sashimi",
+    "context": "workplace",
+    "frequencyRank": 75
+  },
+  {
+    "word": "それでは",
+    "reading": "それでは",
+    "meaning": "well then (sentence opener)",
+    "context": "workplace",
+    "frequencyRank": 76
+  },
+  {
+    "word": "では",
+    "reading": "では",
+    "meaning": "in that case; if so",
+    "context": "workplace",
+    "frequencyRank": 77
+  },
+  {
+    "word": "いらっしゃいます",
+    "reading": "いらっしゃいます",
+    "meaning": "go / come / be (respectful)",
+    "context": "workplace",
+    "frequencyRank": 78
+  },
+  {
+    "word": "参りました",
+    "reading": "まいりました",
+    "meaning": "I have come (humble; past of 参ります)",
+    "context": "workplace",
+    "frequencyRank": 79
+  },
+  {
+    "word": "〜と申します",
+    "reading": "ともうします",
+    "meaning": "\"My name is ~\" (humble)",
+    "context": "workplace",
+    "frequencyRank": 80
+  },
+  {
+    "word": "お先に失礼します",
+    "reading": "おさきにしつれいします",
+    "meaning": "\"Excuse me for leaving ahead of you\"",
+    "context": "workplace",
+    "frequencyRank": 81
+  },
+  {
+    "word": "こちらへどうぞ",
+    "reading": "こちらへどうぞ",
+    "meaning": "\"Please come this way\"",
+    "context": "workplace",
+    "frequencyRank": 82
+  },
+  {
+    "word": "失礼します",
+    "reading": "しつれいします",
+    "meaning": "\"Excuse me\" (entering/leaving)",
+    "context": "workplace",
+    "frequencyRank": 83
+  },
+  {
+    "word": "少々お待ちください",
+    "reading": "しょうしょうおまちください",
+    "meaning": "\"Please wait a moment\"",
+    "context": "workplace",
+    "frequencyRank": 84
+  },
+  {
+    "word": "よろしくお願いいたします",
+    "reading": "よろしくおねがいいたします",
+    "meaning": "\"Please treat me favorably\" (humble)",
+    "context": "workplace",
+    "frequencyRank": 85
+  }
+]

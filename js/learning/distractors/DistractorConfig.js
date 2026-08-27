@@ -27,7 +27,7 @@ const DistractorConfig = {
     confusion: 40, // this learner has actually picked this reading wrong before (see ProgressManager.getConfusions)
     meaning: 10, // overlapping English gloss tokens (e.g. shared word in "meaning")
     grade: 5, // same/nearby school grade (dormant: no per-item grade data yet)
-    frequency: 5, // nearby corpus frequency rank (dormant: no frequency data yet)
+    frequency: 5, // nearby corpus frequency rank (live on word entries via `frequencyRank`; always 0 in sentence scopes)
   },
 
   selection: {

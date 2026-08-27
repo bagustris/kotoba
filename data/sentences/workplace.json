@@ -1,0 +1,587 @@
+[
+  {
+    "sentence": "仕事がとても忙しいです。",
+    "target": "忙しい",
+    "reading": "いそがしい",
+    "fullReading": "しごとがとてもいそがしいです。",
+    "meaning": "busy",
+    "translation": "The work is very busy.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "この仕事は本当に面白いです。",
+    "target": "面白い",
+    "reading": "おもしろい",
+    "fullReading": "このしごとはほんとうにおもしろいです。",
+    "meaning": "interesting; fun",
+    "translation": "This work is really interesting.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "新しい生活も仕事も毎日楽しいです。",
+    "target": "楽しい",
+    "reading": "たのしい",
+    "fullReading": "あたらしいせいかつもしごともまいにちたのしいです。",
+    "meaning": "fun; enjoyable",
+    "translation": "My new life and job are both enjoyable every day.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "冬の建設現場の仕事は大変です。",
+    "target": "大変",
+    "reading": "たいへん",
+    "fullReading": "ふゆのけんせつげんばのしごとはたいへんです。",
+    "meaning": "tough; hard",
+    "translation": "Winter work on construction sites is tough.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "新しい仕事は毎日少し疲れます。",
+    "target": "疲れます",
+    "reading": "つかれます",
+    "fullReading": "あたらしいしごとはまいにちすこしつかれます。",
+    "meaning": "to get tired; tiring",
+    "translation": "The new job leaves me a little tired every day.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "兄は介護の仕事をしています。",
+    "target": "介護",
+    "reading": "かいご",
+    "fullReading": "あにはかいごのしごとをしています。",
+    "meaning": "caregiving; nursing care",
+    "translation": "My older brother works in caregiving.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "弟は今、専門学校の学生です。",
+    "target": "学生",
+    "reading": "がくせい",
+    "fullReading": "おとうとはいま、せんもんがっこうのがくせいです。",
+    "meaning": "student",
+    "translation": "My younger brother is a vocational-school student now.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "兄は調理師を目指して専門学校に通っています。",
+    "target": "専門学校",
+    "reading": "せんもんがっこう",
+    "fullReading": "あにはちょうりしをめざしてせんもんがっこうにかよっています。",
+    "meaning": "vocational school",
+    "translation": "My older brother attends culinary school, aiming to become a chef.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "妹は毎朝日本語学校に通います。",
+    "target": "通います",
+    "reading": "かよいます",
+    "fullReading": "いもうとはまいあさにほんごがっこうにかよいます。",
+    "meaning": "to go to (a place regularly); to attend",
+    "translation": "My younger sister goes to a Japanese-language school every morning.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "去年の九月に日本に来ました。",
+    "target": "去年",
+    "reading": "きょねん",
+    "fullReading": "きょねんのくがつのにほんにきました。",
+    "meaning": "last year",
+    "translation": "I came to Japan last September.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "彼は建設会社で働いています。",
+    "target": "建設",
+    "reading": "けんせつ",
+    "fullReading": "かれはけんせつがいしゃではたらいています。",
+    "meaning": "construction",
+    "translation": "He works at a construction company.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "父は工場で二十年以上働いています。",
+    "target": "工場",
+    "reading": "こうじょう",
+    "fullReading": "ちちはこうじょうでにじゅうねんいじょうはたらいています。",
+    "meaning": "factory",
+    "translation": "My father has worked at a factory for over twenty years.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "高校時代の後輩が先月日本に来ました。",
+    "target": "後輩",
+    "reading": "こうはい",
+    "fullReading": "こうこうじだいのこうはいがせんげつにほんにきました。",
+    "meaning": "junior colleague(s)",
+    "translation": "A junior from my high-school days came to Japan last month.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "昨日、会社の先輩に会いました。",
+    "target": "先輩",
+    "reading": "せんぱい",
+    "fullReading": "きのう、かいしゃのせんぱいにあいました。",
+    "meaning": "senior colleague(s)",
+    "translation": "I met a senior colleague yesterday.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "父は二十年間同じ会社に勤めています。",
+    "target": "勤めています",
+    "reading": "つとめています",
+    "fullReading": "ちちはにじゅうねんかんおなじかいしゃにつとめています。",
+    "meaning": "to be employed (at)",
+    "translation": "My father has been employed at the same company for twenty years.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "妻は近所の薬局で働いています。",
+    "target": "働いています",
+    "reading": "はたらいています",
+    "fullReading": "つまはきんじょのやっきょくではたらいています。",
+    "meaning": "to work; to labor",
+    "translation": "My wife works at a pharmacy in the neighborhood.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "田中さんは仕事を辞めて、今は主夫です。",
+    "target": "主夫",
+    "reading": "しゅふ",
+    "fullReading": "たなかさんはしごとをやめて、いまはしゅふです。",
+    "meaning": "househusband",
+    "translation": "Mr. Tanaka quit his job and is a househusband now.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "母は銀行員でしたが、今は主婦です。",
+    "target": "主婦",
+    "reading": "しゅふ",
+    "fullReading": "はははぎんこういんでしたが、いまはしゅふです。",
+    "meaning": "housewife",
+    "translation": "My mother was a bank employee, but she is a housewife now.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "旅行で新しい知り合いがたくさんできました。",
+    "target": "知り合い",
+    "reading": "しりあい",
+    "fullReading": "りょこうであたらしいしりあいがたくさんできました。",
+    "meaning": "acquaintance(s)",
+    "translation": "Traveling gave me lots of new acquaintances.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "仕事は大変ですが、同僚はみんな親切です。",
+    "target": "親切",
+    "reading": "しんせつ",
+    "fullReading": "しごとはたいへんですが、どうりょうはみんなしんせつです。",
+    "meaning": "kind(ly)",
+    "translation": "The work is hard, but my colleagues are all kind.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "日本での生活はもう慣れましたか。",
+    "target": "生活",
+    "reading": "せいかつ",
+    "fullReading": "にほんでのせいかつはもうなれましたか。",
+    "meaning": "life; living",
+    "translation": "Have you gotten used to life in Japan yet?",
+    "context": "workplace"
+  },
+  {
+    "sentence": "大学時代の友達とよく食事に行きます。",
+    "target": "友達",
+    "reading": "ともだち",
+    "fullReading": "だいがくじだいのともだとよくしょくじにいきます。",
+    "meaning": "friend(s)",
+    "translation": "I often go out to eat with friends from my university days.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "毎日の献立に野菜を多く取り入れたいです。",
+    "target": "野菜",
+    "reading": "やさい",
+    "fullReading": "まいにちのこんだてにやさいをおおくとりいれたいです。",
+    "meaning": "vegetables",
+    "translation": "I want to include more vegetables in my daily menu.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "祖父は山で野菜を作っています。",
+    "target": "作っています",
+    "reading": "つくっています",
+    "fullReading": "そふはやまでやさいをつくっています。",
+    "meaning": "to make; to grow (crops)",
+    "translation": "My grandfather grows vegetables in the mountains.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "私は新宿のレストランで二年働きました。",
+    "target": "レストラン",
+    "reading": "レストラン",
+    "fullReading": "わたしはしんじゅくのレストランでにねんはたらきました。",
+    "meaning": "restaurant",
+    "translation": "I worked at a restaurant in Shinjuku for two years.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "姉は有名なホテルでフロントの仕事をしています。",
+    "target": "ホテル",
+    "reading": "ホテル",
+    "fullReading": "あねはゆうめいなホテルでフロントのしごとをしています。",
+    "meaning": "hotel",
+    "translation": "My older sister works at the front desk of a famous hotel.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "留学生は毎日日本語学校で四時間勉強します。",
+    "target": "日本語学校",
+    "reading": "にほんごがっこう",
+    "fullReading": "りゅうがくせいはまいにちにほんごがっこうでよじかんべんきょうします。",
+    "meaning": "Japanese-language school",
+    "translation": "International students study at a Japanese-language school four hours a day.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "彼はIT企業でプログラミングの仕事をしています。",
+    "target": "プログラミング",
+    "reading": "プログラミング",
+    "fullReading": "かれはアイティーきぎょうでプログラミングのしごとをしています。",
+    "meaning": "programming",
+    "translation": "He does programming work at an IT company.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "テストの前に、毎晩日本語の文法を勉強します。",
+    "target": "勉強",
+    "reading": "べんきょう",
+    "fullReading": "てすとのまえに、まいばんにほんごのぶんぽうをべんきょうします。",
+    "meaning": "study; studying",
+    "translation": "Before tests, I study Japanese grammar every evening.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "先月から食堂でアルバイトを始めました。",
+    "target": "先月",
+    "reading": "せんげつ",
+    "fullReading": "せんげつからしょくどうでアルバイトをはじめました。",
+    "meaning": "last month",
+    "translation": "I started a part-time job at an eatery last month.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "先週の日曜日に日本に来ました。",
+    "target": "先週",
+    "reading": "せんしゅう",
+    "fullReading": "せんしゅうのにちようびにきました。",
+    "meaning": "last week",
+    "translation": "I came to Japan last Sunday.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "日曜日以外は毎日出勤です。",
+    "target": "毎日",
+    "reading": "まいにち",
+    "fullReading": "にちようびいがいはまいにちしゅっきんです。",
+    "meaning": "every day",
+    "translation": "I go to work every day except Sundays.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "日本に来て、ちょうど半年です。",
+    "target": "ちょうど",
+    "reading": "ちょうど",
+    "fullReading": "にほんにきて、ちょうどはんとしです。",
+    "meaning": "exactly; just",
+    "translation": "It has been exactly six months since I came to Japan.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "昼ご飯をもう食べました。",
+    "target": "もう",
+    "reading": "もう",
+    "fullReading": "ひるごはんをもうたべました。",
+    "meaning": "already",
+    "translation": "I have already eaten lunch.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "掃除と皿洗いはまだ終わっていません。",
+    "target": "まだ",
+    "reading": "まだ",
+    "fullReading": "そうじとさらあらいはまだおわっていません。",
+    "meaning": "not yet",
+    "translation": "The cleaning and dishwashing are not finished yet.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "家族のみんなに日本のお土産を買いました。",
+    "target": "みんな",
+    "reading": "みんな",
+    "fullReading": "かぞくのみんなににほんのおみやげをかいました。",
+    "meaning": "everyone",
+    "translation": "I bought souvenirs from Japan for everyone in my family.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "電話でなんとか予約を取ることができました。",
+    "target": "なんとか",
+    "reading": "なんとか",
+    "fullReading": "でんわでなんとかよやくをとることができました。",
+    "meaning": "somehow; in some way",
+    "translation": "I managed to get a reservation over the phone somehow.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "日本の暑さにもだんだん慣れてきました。",
+    "target": "慣れてきました",
+    "reading": "なれてきました",
+    "fullReading": "にほんのあつさにもだんだんなれてきました。",
+    "meaning": "to get used to",
+    "translation": "I have gradually gotten used to Japan's heat too.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "今月の売り上げはまあまあでした。",
+    "target": "まあまあ",
+    "reading": "まあまあ",
+    "fullReading": "こんげつのうりあげはまあまあでした。",
+    "meaning": "so-so; okay",
+    "translation": "This month's sales were so-so.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "日本語学校の学期は半年ごとに変わります。",
+    "target": "半年",
+    "reading": "はんとし",
+    "fullReading": "にほんごがっこうのがっきははんとしごとにかわります。",
+    "meaning": "half a year",
+    "translation": "The Japanese-language school term changes every six months.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "実習生はその工場で六か月働きました。",
+    "target": "六か月",
+    "reading": "ろっかげつ",
+    "fullReading": "じっしゅうせいはそのこうじょうでろっかげつはたらきました。",
+    "meaning": "six months",
+    "translation": "The trainees worked at that factory for six months.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "そのシェフはこのレストランで三年働いています。",
+    "target": "三年",
+    "reading": "さんねん",
+    "fullReading": "そのシェフはこのレストランでさんねんはたらいています。",
+    "meaning": "three years",
+    "translation": "That chef has been working at this restaurant for three years.",
+    "context": "workplace"
+  },
+  {
+    "context": "workplace",
+    "sentence": "寮の掲示板でアルバイトのチラシを見つけました。",
+    "target": "チラシ",
+    "reading": "ちらし",
+    "fullReading": "りょうのけいじばんでアルバイトのチラシをみつけました。",
+    "meaning": "leaflet; flyer",
+    "translation": "I found a part-time job flyer on the dorm notice board."
+  },
+  {
+    "context": "workplace",
+    "sentence": "明日、駅前のカフェで面接があります。",
+    "target": "面接",
+    "reading": "めんせつ",
+    "fullReading": "あした、えきまえのカフェでめんせつがあります。",
+    "meaning": "interview",
+    "translation": "Tomorrow I have an interview at a cafe by the station."
+  },
+  {
+    "context": "workplace",
+    "sentence": "面接のとき、履歴書を持って行きます。",
+    "target": "履歴書",
+    "reading": "りれきしょ",
+    "fullReading": "めんせつのとき、りれきしょをもっていきます。",
+    "meaning": "resume; CV",
+    "translation": "I will bring my resume to the interview."
+  },
+  {
+    "context": "workplace",
+    "sentence": "詳しい内容は、電話で問い合わせてください。",
+    "target": "問い合わせ",
+    "reading": "といあわせ",
+    "fullReading": "くわしいないようは、でんわでといあわせてください。",
+    "meaning": "inquiry",
+    "translation": "Please inquire about details by phone."
+  },
+  {
+    "context": "workplace",
+    "sentence": "時給よりも、働ける時間に希望があるんです。",
+    "target": "希望",
+    "reading": "きぼう",
+    "fullReading": "じきゅうよりも、はたらけるじかんにきぼうがあるんです。",
+    "meaning": "hope; wish",
+    "translation": "More than hourly pay, I have preferences about when I can work."
+  },
+  {
+    "context": "workplace",
+    "sentence": "あの店は今、週末のスタッフを募集しています。",
+    "target": "募集",
+    "reading": "ぼしゅう",
+    "fullReading": "あのみせはいま、しゅうまつのスタッフをぼしゅうしています。",
+    "meaning": "recruitment",
+    "translation": "That shop is recruiting weekend staff right now."
+  },
+  {
+    "context": "workplace",
+    "sentence": "パソコンで売り上げデータを入力する仕事です。",
+    "target": "入力",
+    "reading": "にゅうりょく",
+    "fullReading": "パソコンでうりあげデータをにゅうりょくするしごとです。",
+    "meaning": "input (of data)",
+    "translation": "It is a job entering sales data into a computer."
+  },
+  {
+    "context": "workplace",
+    "sentence": "日常会話は大丈夫ですが、電話越しの言葉は聞き慣れません。",
+    "target": "日常会話",
+    "reading": "にちじょうかいわ",
+    "fullReading": "にちじょうかいわはだいじょうぶですが、でんわごしのことはばはききなれません。",
+    "meaning": "daily conversation",
+    "translation": "Everyday conversation is fine, but I am not used to speech over the phone."
+  },
+  {
+    "context": "workplace",
+    "sentence": "詳しくは、当店のホームページをご覧ください。",
+    "target": "ホームページ",
+    "reading": "ホームページ",
+    "fullReading": "くわしくは、とうてんのホームページをごらんください。",
+    "meaning": "website",
+    "translation": "For details, please visit our website."
+  },
+  {
+    "context": "workplace",
+    "sentence": "お名前は忘れてしまいましたが、お顔を見ればきっと思い出します。",
+    "target": "思い出します",
+    "reading": "おもいだします",
+    "fullReading": "おなまえはわすれてしまいましたが、おかおをみればきっとおもいだします。",
+    "meaning": "to remember; to recall",
+    "translation": "I have forgotten your name, but seeing your face will surely jog my memory."
+  },
+  {
+    "context": "workplace",
+    "sentence": "その窓口には、すでに十人以上の方が並んでいました。",
+    "target": "方",
+    "reading": "かた",
+    "fullReading": "そのまどぐちには、すでにじゅうにんいじょうのかたがならんでいました。",
+    "meaning": "person (respectful)",
+    "translation": "There were already more than ten people lined up at that counter."
+  },
+  {
+    "context": "workplace",
+    "sentence": "王といいます。受付の者でございます。",
+    "target": "者",
+    "reading": "もの",
+    "fullReading": "おうといいます。うけつけのものでございます。",
+    "meaning": "person (humble)",
+    "translation": "My name is Ou. I am with reception."
+  },
+  {
+    "context": "workplace",
+    "sentence": "面接の自己紹介で、好きな食べ物は刺身だと答えました。",
+    "target": "刺身",
+    "reading": "さしみ",
+    "fullReading": "めんせつのじこしょうかいで、すきなたべものはさしみだとこたえました。",
+    "meaning": "sashimi",
+    "translation": "In my interview self-introduction, I answered that my favorite food is sashimi."
+  },
+  {
+    "context": "workplace",
+    "sentence": "それでは、今週の予定を確認しましょう。",
+    "target": "それでは",
+    "reading": "それでは",
+    "fullReading": "それでは、こんしゅうのよていをかくにんしましょう。",
+    "meaning": "well then (sentence opener)",
+    "translation": "Well then, let us confirm this week's schedule."
+  },
+  {
+    "context": "workplace",
+    "sentence": "では、失礼いたします。",
+    "target": "では",
+    "reading": "では",
+    "fullReading": "では、しつれいいたします。",
+    "meaning": "in that case; if so",
+    "translation": "Well then, excuse me. (closing a call politely)"
+  },
+  {
+    "context": "workplace",
+    "sentence": "今夜の歓迎会には、社長もいらっしゃいます。",
+    "target": "いらっしゃいます",
+    "reading": "いらっしゃいます",
+    "fullReading": "こんやのかんげいかいには、しゃちょうもいらっしゃいます。",
+    "meaning": "go / come / be (respectful)",
+    "translation": "The company president will also be at tonight's welcome party."
+  },
+  {
+    "context": "workplace",
+    "sentence": "社長の部屋の前で、「ただいま参りました」と声をかけました。",
+    "target": "参りました",
+    "reading": "まいりました",
+    "fullReading": "しゃちょうのへやのまえで、「ただいままいりました」とこえをかけました。",
+    "meaning": "I have come (humble)",
+    "translation": "In front of the president's office, I announced that I had arrived."
+  },
+  {
+    "context": "workplace",
+    "sentence": "初めまして。リンと申します。",
+    "target": "と申します",
+    "reading": "ともうします",
+    "fullReading": "はじめまして。リンともうします。",
+    "meaning": "My name is ~ (humble)",
+    "translation": "How do you do? My name is Rin."
+  },
+  {
+    "sentence": "今日は残業がないので、お先に失礼します。",
+    "target": "お先に失礼します",
+    "reading": "おさきにしつれいします",
+    "fullReading": "きょうはざんぎょうがないので、おさきにしつれいします。",
+    "meaning": "Excuse me for leaving ahead of you",
+    "translation": "Since there is no overtime today, I will be leaving before you.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "面接に呼ばれたとき、先の人は「こちらへどうぞ」と教えてくれました。",
+    "target": "こちらへどうぞ",
+    "reading": "こちらへどうぞ",
+    "fullReading": "めんせつによばれたとき、さきのひとは「こちらへどうぞ」とおしえてくれました。",
+    "meaning": "Please come this way",
+    "translation": "When my turn came, the person before me told me: right this way, please.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "三回ノックしてから、「失礼します」と言って部屋に入ります。",
+    "target": "失礼します",
+    "reading": "しつれいします",
+    "fullReading": "さんかいノックしてから、「しつれいします」といってへやにはいります。",
+    "meaning": "Excuse me (entering/leaving)",
+    "translation": "After knocking three times, you say excuse me and enter the room.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "おつなぎしますので、少々お待ちください。",
+    "target": "少々お待ちください",
+    "reading": "しょうしょうおまちください",
+    "fullReading": "おつなぎしますので、しょうしょうおまちください。",
+    "meaning": "Please wait a moment",
+    "translation": "I will transfer your call, so please hold for a moment.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "本日からこちらでお世話になります。よろしくお願いいたします。",
+    "target": "よろしくお願いいたします",
+    "reading": "よろしくおねがいいたします",
+    "fullReading": "ほんじつからこちらでおせわになります。よろしくおねがいいたします。",
+    "meaning": "Please treat me favorably (humble)",
+    "translation": "I start working with everyone today. Please treat me kindly.",
+    "context": "workplace"
+  }
+]

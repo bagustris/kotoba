@@ -23,8 +23,12 @@ quiz mode(s) directly.
 
 **Service worker caching**: `sw.js` caches every JS/data file by exact path
 in `CORE_ASSETS`. If you add or rename a file under `js/` or `data/`, update
-that list too, or the new file won't be available offline / will never get
-cached.
+that list too — and bump `CACHE_VERSION` whenever *any* cached file changes,
+or offline installs keep the stale copy.
+
+**Data validation**: `python3 tools/check_data.py` checks every invariant the
+quiz pipeline relies on (see its header docstring). Run it after editing or
+extending anything under `data/`.
 
 ## Architecture
 
@@ -40,11 +44,13 @@ right position, and add its path to `sw.js`'s `CORE_ASSETS`.
 
 ### The pipeline: data → item list → questions → answer → progress
 
-1. **`data/contexts.json`** lists the 6 contexts (restaurant, hospital,
-   station, airport, classroom, home) — all everyday *places*. Each has
+1. **`data/contexts.json`** lists the 8 contexts (restaurant, hospital,
+   station, airport, classroom, home, workplace, hobby) — everyday *places*
+   plus job-talk and free-time situations derived from the IRODORI lesson
+   PDFs under `resource/`. Each has
    `data/words/<context>.json` (word/reading/meaning/frequencyRank) and
-   `data/sentences/<context>.json` (sentence/target/reading/meaning), 15
-   entries each.
+   `data/sentences/<context>.json` (sentence/target/reading/fullReading/
+   meaning/translation); entry counts vary per context.
 2. **`js/app.js`** (`loadItemList`) reshapes raw entries per mode/scope into
    a uniform `{readings, meaning, ...}` shape — which raw field becomes the
    answer vs. the hint flips between Reading mode and Meaning mode.

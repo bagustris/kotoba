@@ -1,0 +1,650 @@
+[
+  {
+    "sentence": "私は音楽を聞きながら勉強します。",
+    "target": "音楽",
+    "reading": "おんがく",
+    "fullReading": "わたしはおんがくをききながらべんきょうします。",
+    "meaning": "music",
+    "translation": "I study while listening to music.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "休みの日はよく家で映画を見ます。",
+    "target": "映画",
+    "reading": "えいが",
+    "fullReading": "やすみのひはよくいえでえいがをみます。",
+    "meaning": "movie",
+    "translation": "On my days off I often watch movies at home.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "日曜日に母といっしょに料理をします。",
+    "target": "料理",
+    "reading": "りょうり",
+    "fullReading": "にちようびにははといっしょにりょうりをします。",
+    "meaning": "cooking; cuisine",
+    "translation": "On Sundays I cook together with my mother.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "冬休みに沖縄へ旅行します。",
+    "target": "旅行",
+    "reading": "りょこう",
+    "fullReading": "ふゆやすみにおきなわへりょこうします。",
+    "meaning": "travel",
+    "translation": "I'll travel to Okinawa during winter break.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "姉は家で小さな喫茶店を開いています。",
+    "target": "家",
+    "reading": "いえ",
+    "fullReading": "あねはいえでちいさなきっさてんをひらいています。",
+    "meaning": "home; house",
+    "translation": "My older sister runs a small cafe from her home.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "近所の公園でジョギングをします。",
+    "target": "公園",
+    "reading": "こうえん",
+    "fullReading": "きんじょのこうえんでジョギングをします。",
+    "meaning": "park",
+    "translation": "I jog in the park near my house.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "夏になったら海へ行きたいです。",
+    "target": "海",
+    "reading": "うみ",
+    "fullReading": "なつになったらうみへいきたいです。",
+    "meaning": "ocean; sea",
+    "translation": "When summer comes, I want to go to the sea.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "妹の家は山の近くです。",
+    "target": "山",
+    "reading": "やま",
+    "fullReading": "いもうとのいえはやまのちかくです。",
+    "meaning": "mountain",
+    "translation": "My younger sister's house is near the mountains.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "私の家では小さな犬を飼っています。",
+    "target": "犬",
+    "reading": "いぬ",
+    "fullReading": "わたしのいえではちいさないぬをかっています。",
+    "meaning": "dog",
+    "translation": "We keep a small dog at my home.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "子供のころ、水泳を習いました。",
+    "target": "子供",
+    "reading": "こども",
+    "fullReading": "こどものころ、すいえいをならいました。",
+    "meaning": "child",
+    "translation": "As a child, I learned to swim.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "お子さんは何歳ですか。",
+    "target": "お子さん",
+    "reading": "おこさん",
+    "fullReading": "おこさんはなんさいですか。",
+    "meaning": "someone's child",
+    "translation": "How old is your child?",
+    "context": "hobby"
+  },
+  {
+    "sentence": "娘はまだ五歳です。",
+    "target": "娘",
+    "reading": "むすめ",
+    "fullReading": "むすめはまだごさいです。",
+    "meaning": "daughter",
+    "translation": "My daughter is only five years old.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "寝る前に少しだけ本を読みます。",
+    "target": "本",
+    "reading": "ほん",
+    "fullReading": "ねるまえにすこしだけほんをよみます。",
+    "meaning": "book",
+    "translation": "Before sleeping I read a little.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "旅行で写真をたくさん撮りました。",
+    "target": "写真",
+    "reading": "しゃしん",
+    "fullReading": "りょこうでしゃしんをたくさんとりました。",
+    "meaning": "photograph",
+    "translation": "I took lots of photos on the trip.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "スポーツの中では水泳が一番好きです。",
+    "target": "スポーツ",
+    "reading": "スポーツ",
+    "fullReading": "スポーツのなかではすいえいがいちばんすきです。",
+    "meaning": "sports",
+    "translation": "Of all sports, swimming is my favorite.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "弟は野球部に入っています。",
+    "target": "野球",
+    "reading": "やきゅう",
+    "fullReading": "おとうとはやきゅうぶにはいっています。",
+    "meaning": "baseball",
+    "translation": "My little brother is in the baseball club.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "会社の同僚とテニスをしました。",
+    "target": "テニス",
+    "reading": "テニス",
+    "fullReading": "かいしゃのどうりょうとテニスをしました。",
+    "meaning": "tennis",
+    "translation": "I played tennis with colleagues from work.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "毎週土曜日、市の体育館でバドミントンをします。",
+    "target": "バドミントン",
+    "reading": "バドミントン",
+    "fullReading": "まいしゅうどようび、しのたいいくかんでバドミントンをします。",
+    "meaning": "badminton",
+    "translation": "Every Saturday I play badminton at the city gymnasium.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "週末に祖父と釣りに行きます。",
+    "target": "釣り",
+    "reading": "つり",
+    "fullReading": "しゅうまつにそふとつりにいきます。",
+    "meaning": "fishing",
+    "translation": "I go fishing with my grandfather on weekends.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "夏休み、湖のそばでキャンプをしました。",
+    "target": "キャンプ",
+    "reading": "キャンプ",
+    "fullReading": "なつやすみ、みずうみのそばでキャンプをしました。",
+    "meaning": "camping",
+    "translation": "During summer vacation we camped beside a lake.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "日曜日は川沿いにサイクリングをします。",
+    "target": "サイクリング",
+    "reading": "サイクリング",
+    "fullReading": "にちようびはかわぞいにサイクリングをします。",
+    "meaning": "cycling",
+    "translation": "On Sundays I go cycling along the river.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "兄の趣味はアウトドアです。",
+    "target": "アウトドア",
+    "reading": "アウトドア",
+    "fullReading": "あにのしゅみはアウトドアです。",
+    "meaning": "outdoor activities",
+    "translation": "My older brother's hobby is outdoor activities.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "息子と公園でキャッチボールをします。",
+    "target": "キャッチボール",
+    "reading": "キャッチボール",
+    "fullReading": "むすことこうえんでキャッチボールをします。",
+    "meaning": "playing catch",
+    "translation": "I play catch with my son in the park.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "試験が終わったら新しいゲームを買います。",
+    "target": "ゲーム",
+    "reading": "ゲーム",
+    "fullReading": "しけんがおわったらあたらしいゲームをかいます。",
+    "meaning": "game",
+    "translation": "When exams are over, I'll buy a new game.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "どんなアニメを見ますか。",
+    "target": "アニメ",
+    "reading": "アニメ",
+    "fullReading": "どんなアニメをみますか。",
+    "meaning": "anime",
+    "translation": "What kind of anime do you watch?",
+    "context": "hobby"
+  },
+  {
+    "sentence": "祖母は生け花の先生です。",
+    "target": "生け花",
+    "reading": "いけばな",
+    "fullReading": "そぼはいけばなのせんせいです。",
+    "meaning": "ikebana",
+    "translation": "My grandmother is an ikebana teacher.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "高校時代、ギターを弾いていました。",
+    "target": "ギター",
+    "reading": "ギター",
+    "fullReading": "こうこうじだい、ギターをひいていました。",
+    "meaning": "guitar",
+    "translation": "Back in high school I played the guitar.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "三歳からピアノを習っています。",
+    "target": "ピアノ",
+    "reading": "ピアノ",
+    "fullReading": "さんさいからピアノをならっています。",
+    "meaning": "piano",
+    "translation": "I've been learning piano since I was three.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "今晚のカレーは本当においしいですね。",
+    "target": "おいしい",
+    "reading": "おいしい",
+    "fullReading": "こんばんのカレーはほんとうにおいしいですね。",
+    "meaning": "delicious",
+    "translation": "Tonight's curry is really delicious, isn't it?",
+    "context": "hobby"
+  },
+  {
+    "sentence": "喫茶店で友達とおしゃべりをしました。",
+    "target": "おしゃべり",
+    "reading": "おしゃべり",
+    "fullReading": "きっさてんでともだとおしゃべりをしました。",
+    "meaning": "chatting",
+    "translation": "I chatted with friends at a cafe.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "初めての人と話すのは苦手です。",
+    "target": "話す",
+    "reading": "はなす",
+    "fullReading": "はじめてのひととはなすのはにがてです。",
+    "meaning": "to talk; to speak",
+    "translation": "I'm not good at talking with people I've just met.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "昨夜は十二時に寝ました。",
+    "target": "寝ました",
+    "reading": "ねました",
+    "fullReading": "さくやはじゅうにじにねました。",
+    "meaning": "to sleep",
+    "translation": "Last night I went to bed at twelve.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "田舎でのんびり過ごしたいです。",
+    "target": "のんびり",
+    "reading": "のんびり",
+    "fullReading": "いなかでのんびりすごしたいです。",
+    "meaning": "to take it easy; relaxed",
+    "translation": "I want to take it easy in the countryside.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "中国語を習ってみたいです。",
+    "target": "習って",
+    "reading": "ならって",
+    "fullReading": "ちゅうごくごをならってみたいです。",
+    "meaning": "to learn",
+    "translation": "I'd like to try learning Chinese.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "毎晩一時間漢字の勉強をします。",
+    "target": "勉強",
+    "reading": "べんきょう",
+    "fullReading": "まいばんいちじかんかんじのべんきょうをします。",
+    "meaning": "studying",
+    "translation": "Every evening I study kanji for an hour.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "英語もスペイン語も話せます。",
+    "target": "英語",
+    "reading": "えいご",
+    "fullReading": "えいごもスペインごもはなせます。",
+    "meaning": "English",
+    "translation": "I can speak both English and Spanish.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "毎朝ラジオで日本語を聞きます。",
+    "target": "日本語",
+    "reading": "にほんご",
+    "fullReading": "まいあさラジオでにほんごをききます。",
+    "meaning": "Japanese (language)",
+    "translation": "I listen to Japanese on the radio every morning.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "地元の言葉が全然分かりません。",
+    "target": "言葉",
+    "reading": "ことば",
+    "fullReading": "じもとのことばがぜんぜんわかりません。",
+    "meaning": "language; word(s)",
+    "translation": "I can't understand the local dialect at all.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "この市には大きな美術館があります。",
+    "target": "市",
+    "reading": "し",
+    "fullReading": "このしにはおおきなびじゅつかんがあります。",
+    "meaning": "city",
+    "translation": "There is a big art museum in this city.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "雨なので今日は体育館の中を走ります。",
+    "target": "体育館",
+    "reading": "たいいくかん",
+    "fullReading": "あめなのできょうはたいいくかんのなかをはしります。",
+    "meaning": "gymnasium",
+    "translation": "Since it's raining, today we'll run inside the gym.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "特に好きな花はありません。",
+    "target": "特に",
+    "reading": "とくに",
+    "fullReading": "とくにすきなはなはありません。",
+    "meaning": "especially",
+    "translation": "There isn't any flower I particularly like.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "今年の夏は本当に暑かったです。",
+    "target": "本当に",
+    "reading": "ほんとうに",
+    "fullReading": "ことしのなつはほんとうにあつかったです。",
+    "meaning": "really",
+    "translation": "This summer was really hot.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "毎週金曜日に兄弟と会います。",
+    "target": "毎週",
+    "reading": "まいしゅう",
+    "fullReading": "まいしゅうきんようびにきょうだいとあいます。",
+    "meaning": "every week",
+    "translation": "I see my brothers every Friday.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "夕方になると風が涼しくなります。",
+    "target": "夕方",
+    "reading": "ゆうがた",
+    "fullReading": "ゆうがたになるとかぜがすずしくなります。",
+    "meaning": "early evening",
+    "translation": "Toward evening the wind turns cool.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "いろいろな国の料理を食べてみたいです。",
+    "target": "いろいろ",
+    "reading": "いろいろ",
+    "fullReading": "いろいろなくにのりょうりをたべてみたいです。",
+    "meaning": "various",
+    "translation": "I'd like to try dishes from various countries.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "週末は一人でのんびり過ごします。",
+    "target": "一人",
+    "reading": "ひとり",
+    "fullReading": "しゅうまつはひとりでのんびりすごします。",
+    "meaning": "one person; alone",
+    "translation": "On weekends I take it easy by myself.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "ご家族は何人いますか。",
+    "target": "何人",
+    "reading": "なんにん",
+    "fullReading": "ごかぞくはなんにんいますか。",
+    "meaning": "how many people",
+    "translation": "How many people are in your family?",
+    "context": "hobby"
+  },
+  {
+    "sentence": "私の家族は三人です。",
+    "target": "三人",
+    "reading": "さんにん",
+    "fullReading": "わたしのかぞくはさんにんです。",
+    "meaning": "three people",
+    "translation": "There are three people in my family.",
+    "context": "hobby"
+  },
+  {
+    "context": "hobby",
+    "sentence": "クラスのみんなと、好みの音楽について意見を交わしました。",
+    "target": "意見",
+    "reading": "いけん",
+    "fullReading": "クラスのみんなと、このみのおんがくについていけんをかわしました。",
+    "meaning": "opinion",
+    "translation": "I exchanged opinions with my classmates about our tastes in music."
+  },
+  {
+    "context": "hobby",
+    "sentence": "電車でお年寄りに席を譲りました。",
+    "target": "お年寄り",
+    "reading": "おとしより",
+    "fullReading": "でんしゃでおとしよりにせきをゆずりました。",
+    "meaning": "elderly person",
+    "translation": "On the train, I gave up my seat to an elderly person."
+  },
+  {
+    "context": "hobby",
+    "sentence": "何か楽器を演奏できますか。",
+    "target": "楽器",
+    "reading": "がっき",
+    "fullReading": "なにかがっきをえんそうできますか。",
+    "meaning": "musical instrument",
+    "translation": "Can you play any musical instruments?"
+  },
+  {
+    "context": "hobby",
+    "sentence": "毎日少しずつ、自分のペースで続けるのが大事です。",
+    "target": "自分",
+    "reading": "じぶん",
+    "fullReading": "まいにちすこしずつ、じぶんのペースでつづけるのがだいじです。",
+    "meaning": "oneself",
+    "translation": "Little by little every day - continuing at your own pace is what matters."
+  },
+  {
+    "context": "hobby",
+    "sentence": "うちのコーチはブラジルの出身です。",
+    "target": "出身",
+    "reading": "しゅっしん",
+    "fullReading": "うちのコーチはブラジルのしゅっしんです。",
+    "meaning": "hometown; home country",
+    "translation": "Our coach is from Brazil."
+  },
+  {
+    "context": "hobby",
+    "sentence": "地元の体育館は古い建物ですが、床がとても良いです。",
+    "target": "建物",
+    "reading": "たてもの",
+    "fullReading": "じもとのたいいくかんはふるいたてものですが、ゆかがとてもよいです。",
+    "meaning": "building",
+    "translation": "The local gym is an old building, but its floor is excellent."
+  },
+  {
+    "context": "hobby",
+    "sentence": "祖父の若いころの話は、いつも本当に面白いです。",
+    "target": "話",
+    "reading": "はなし",
+    "fullReading": "そふのわかいころのはなしは、いつもほんとうにおもしろいです。",
+    "meaning": "conversation; story",
+    "translation": "Stories of my grandfather's youth are always truly fascinating."
+  },
+  {
+    "context": "hobby",
+    "sentence": "夏祭りの日に、海辺の公園で野外ライブがありました。",
+    "target": "野外ライブ",
+    "reading": "やがいライブ",
+    "fullReading": "なつまつりのひに、うみべのこうえんでやがいライブがありました。",
+    "meaning": "live outdoor concert",
+    "translation": "On festival day there was an outdoor live concert at a seaside park."
+  },
+  {
+    "context": "hobby",
+    "sentence": "旅行した街の歴史を調べるのも楽しいものです。",
+    "target": "歴史",
+    "reading": "れきし",
+    "fullReading": "りょこうしたまちのれきしをしらべるのもたのしいものです。",
+    "meaning": "history",
+    "translation": "Looking into the history of towns I travel to is enjoyable too."
+  },
+  {
+    "context": "hobby",
+    "sentence": "外国のお客さんに、おすすめの観光地を聞かれました。",
+    "target": "観光地",
+    "reading": "かんこうち",
+    "fullReading": "がいこくのおきゃくさんに、おすすめのかんこうちをきかれました。",
+    "meaning": "tourist spot",
+    "translation": "A foreign visitor asked me to recommend tourist spots."
+  },
+  {
+    "context": "hobby",
+    "sentence": "電話の相手の名前を聞き取れなかったので、もう一度尋ねました。",
+    "target": "聞き取れなかった",
+    "reading": "ききとれなかった",
+    "fullReading": "でんわのあいてのなまえをききとれなかったので、もういちどたずねました。",
+    "meaning": "to hear and understand",
+    "translation": "I could not catch the caller's name over the phone, so I asked one more time."
+  },
+  {
+    "context": "hobby",
+    "sentence": "新しい漢字は、例文ごと覚えるようにしています。",
+    "target": "覚える",
+    "reading": "おぼえる",
+    "fullReading": "あたらしいかんじは、れいぶんごとおぼえるようにしています。",
+    "meaning": "to remember; to memorize",
+    "translation": "I try to memorize new kanji together with example sentences."
+  },
+  {
+    "context": "hobby",
+    "sentence": "毎週末、地元チームの応援に行きます。",
+    "target": "応援",
+    "reading": "おうえん",
+    "fullReading": "まいしゅうまつ、じもとチームのおうえんにいきます。",
+    "meaning": "support; cheering on",
+    "translation": "Every weekend I go to cheer on the local team."
+  },
+  {
+    "context": "hobby",
+    "sentence": "冬の時期は、日の出の時間が遅いですね。",
+    "target": "遅い",
+    "reading": "おそい",
+    "fullReading": "ふゆのじきは、ひでのじかんがおそいですね。",
+    "meaning": "slow",
+    "translation": "In winter, sunrise comes late, does it not."
+  },
+  {
+    "context": "hobby",
+    "sentence": "実況のスピードに慣れるため、アプリの音声を速い設定にしています。",
+    "target": "速い",
+    "reading": "はやい",
+    "fullReading": "じっきょうのスピードになれるため、アプリのおんせいをはやいせっていにしています。",
+    "meaning": "fast",
+    "translation": "To get used to live-commentary speed, I have set my app audio playback fast."
+  },
+  {
+    "context": "hobby",
+    "sentence": "雨が続くと外に出られなくて、休日が少しつまらないです。",
+    "target": "つまらない",
+    "reading": "つまらない",
+    "fullReading": "あめがつづくとそとにでられなくて、きゅうじつがすこしつまらないです。",
+    "meaning": "boring",
+    "translation": "When rain keeps up I cannot go outside, and days off get a little boring."
+  },
+  {
+    "context": "hobby",
+    "sentence": "姉は車の整備が得意で、家の車はいつも彼女が点検しています。",
+    "target": "得意",
+    "reading": "とくい",
+    "fullReading": "あねはくるまのせいびがとくいで、いえのくるまはいつもかのじてんけんしています。",
+    "meaning": "good at (something)",
+    "translation": "My older sister is good at car maintenance and always checks ours herself."
+  },
+  {
+    "context": "hobby",
+    "sentence": "僕は朝起きるのが苦手で、目覚まし時計を三つ使っています。",
+    "target": "苦手",
+    "reading": "にがて",
+    "fullReading": "ぼくはあさおきるのがにがてで、めざましどけいをみっつつかっています。",
+    "meaning": "bad at (something)",
+    "translation": "I am bad at waking up in the morning - I use three alarm clocks."
+  },
+  {
+    "context": "hobby",
+    "sentence": "体に鞭を打つトレーニングも、正しい知識なしでは無理が生じます。",
+    "target": "無理",
+    "reading": "むり",
+    "fullReading": "からだにむちをうつトレーニングも、ただしいちしきなしではむりがしょうじます。",
+    "meaning": "impossible; unfeasible",
+    "translation": "Even hard-driving training without proper knowledge leads to harm."
+  },
+  {
+    "context": "hobby",
+    "sentence": "朝早くの散歩は、鳥の声が聞こえてとても気持ちいいです。",
+    "target": "朝早く",
+    "reading": "あさはやく",
+    "fullReading": "あさはやくのさんぽは、とりのこえがきこえてとてもきもちいいです。",
+    "meaning": "early morning",
+    "translation": "An early-morning walk feels wonderful - you can hear the birds singing."
+  },
+  {
+    "context": "hobby",
+    "sentence": "海外ドラマは字幕付きで見ています。",
+    "target": "字幕",
+    "reading": "じまく",
+    "fullReading": "かいがいドラマはじまくつきでみています。",
+    "meaning": "subtitles",
+    "translation": "I watch foreign dramas with subtitles."
+  },
+  {
+    "context": "hobby",
+    "sentence": "休みの日には、祖母の作る肉じゃがが一番大好きです。",
+    "target": "大好き",
+    "reading": "だいすき",
+    "fullReading": "やすみのひには、そぼのつくるにくじゃががいちばんだいすきです。",
+    "meaning": "favorite; love a lot",
+    "translation": "On days off, nothing beats grandma's nikujaga - I love it most."
+  },
+  {
+    "context": "hobby",
+    "sentence": "寝る前には、だいたい落ち着いた音楽を聴いています。",
+    "target": "だいたい",
+    "reading": "だいたい",
+    "fullReading": "ねるまえには、だいたいおちついたおんがくをきいています。",
+    "meaning": "mostly; most of the time",
+    "translation": "Before bed I mostly listen to calm music."
+  },
+  {
+    "context": "hobby",
+    "sentence": "新しいレシピに挑戦するときは、まず材料をそろえます。",
+    "target": "まず",
+    "reading": "まず",
+    "fullReading": "あたらしいレシピにちょうせんするときは、まずざいりょうをそろえます。",
+    "meaning": "first; to begin with",
+    "translation": "When taking on a new recipe, first you gather the ingredients."
+  }
+]

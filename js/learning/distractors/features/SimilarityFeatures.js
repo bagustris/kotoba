@@ -2,10 +2,10 @@
 // question and one candidate distractor. This module ONLY extracts features
 // — no weighting, no ranking, no selection, no side effects. It never
 // touches ProgressManager, localStorage, or the DOM, and never throws: any
-// metadata a `question`/`candidate` doesn't have (grade, frequency,
-// confusionCount — none of which exist in today's data/*.json, only
-// `readings` and `meaning` do) simply contributes 0 to that feature, so the
-// generator degrades gracefully instead of crashing.
+// metadata a `question`/`candidate` doesn't have (grade — which kotoba's
+// data/*.json doesn't carry; `frequency` exists on WORD entries via
+// `frequencyRank` but not on sentence-scope items) simply contributes 0 to
+// that feature, so the generator degrades gracefully instead of crashing.
 //
 // Deliberately has no on'yomi/kun'yomi/JLPT-level features: elementary and
 // junior high kanji review in Japan doesn't reason in those terms, so

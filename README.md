@@ -10,9 +10,9 @@ drills the *shape and reading* of individual kanji, kotoba drills the
 actually used — grouped by the everyday situations you'd meet them in.
 
 > [!NOTE]
-> **Status: v1 implemented**, with a curated seed dataset (6 contexts × 15
-> words/sentences each — restaurant, hospital, station, airport, classroom,
-> home) rather than the full frequency-ranked word list
+> **Status: v1 implemented**, with a curated seed dataset (8 contexts —
+> restaurant, hospital, station, airport, classroom, home, workplace, and
+> hobby) rather than the full frequency-ranked word list
 > described under "Data sources" below. All three modes, spaced repetition,
 > and adaptive distractor selection (ported from
 > [kanji-drill](https://github.com/bagustris/kanji-drill)'s learning engine)
@@ -101,6 +101,17 @@ Fill-in-blank: 昨日、ラーメンを＿＿＿＿ました。   → 食べ
 
 - [Wiktionary: Appendix:1000 Japanese basic words](https://en.wiktionary.org/wiki/Appendix:1000_Japanese_basic_words)
 - [Wiktionary: Frequency lists/Japanese/5000 Most Frequent Words](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Japanese/5000_Most_Frequent_Words)
+- [IRODORI online course / いろどり 生活の日本語](https://www.irodori.jpf.go.jp/) —
+  The Japan Foundation Japanese-Language Institute, Urawa. Word-level
+  vocabulary of the `workplace` and `hobby` contexts is extracted from
+  Lessons 1 and 2 of the course PDFs (`resource/lesson{1,2}-words-en.pdf`);
+- [できる日本語 初中級](https://www.3anet.co.jp/) — 3A Corporation. Word-level
+  vocabulary of the same two contexts additionally draws on Lesson 1's
+  sub-topics (新しい一歩: job hunting and meeting people) via its official
+  English translation list (`resource/7024084_list_English.pdf`);
+  example sentences are original kotoba sentences written around those
+  words, not taken from the textbook. © The Japan Foundation — attribution
+  only; see the site's terms.
 
 > [!WARNING]
 > Wiktionary content is licensed [CC BY-SA

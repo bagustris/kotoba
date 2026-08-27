@@ -4,5 +4,7 @@
   { "id": "station", "label": "駅", "labelEn": "Train Station" },
   { "id": "airport", "label": "空港", "labelEn": "Airport" },
   { "id": "classroom", "label": "教室", "labelEn": "Classroom" },
-  { "id": "home", "label": "家", "labelEn": "Home" }
+  { "id": "home", "label": "家", "labelEn": "Home" },
+  { "id": "workplace", "label": "職場", "labelEn": "At Work" },
+  { "id": "hobby", "label": "趣味", "labelEn": "Hobbies & Free Time" }
 ]
