@@ -17,7 +17,7 @@ SENT_KEYS = {'sentence', 'target', 'reading', 'fullReading', 'meaning',
              'translation', 'context'}
 # Optional provenance metadata (second-set entries sourced from textbooks).
 SENT_OPT_KEYS = {'source', 'note'}
-SOURCE_WHITELIST = {'irodori-l1', 'irodori-l2', 'dekiru-l1'}
+SOURCE_WHITELIST = {'irodori-l1', 'irodori-l2', 'irodori-l3', 'dekiru-l1'}
 NOTE_WHITELIST = {'verbatim', 'reconstructed'}
 issues = []
 

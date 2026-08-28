@@ -11,6 +11,14 @@ source of truth for the app version.
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-08-28
+
+### Added
+- New context 天気 "Weather & Seasons" (`weather`), based on IRODORI Lesson 3
+  (`resources/lesson3-words-en.pdf`, The Japan Foundation). It contains all
+  40 listed vocabulary entries and 28 unique source example sentences, with
+  `source: "irodori-l3"` provenance and official English glosses.
+
 ### Added
 - New context 職場 "At Work" (`workplace`), whose vocabulary is extracted from
   Lesson 1 of the IRODORI online course PDF in `resource/lesson1-words-en.pdf`

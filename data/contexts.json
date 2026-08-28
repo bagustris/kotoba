@@ -6,5 +6,6 @@
   { "id": "classroom", "label": "教室", "labelEn": "Classroom" },
   { "id": "home", "label": "家", "labelEn": "Home" },
   { "id": "workplace", "label": "職場", "labelEn": "At Work" },
-  { "id": "hobby", "label": "趣味", "labelEn": "Hobbies & Free Time" }
+  { "id": "hobby", "label": "趣味", "labelEn": "Hobbies & Free Time" },
+  { "id": "weather", "label": "天気", "labelEn": "Weather & Seasons" }
 ]
