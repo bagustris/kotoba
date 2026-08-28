@@ -92,7 +92,10 @@ function showScreen(name) {
   // neither carries into the next screen.
   cancelContinue();
   AudioPlayer.stop();
-  if (name === 'home') ProgressView.renderAll();
+  if (name === 'home') {
+    ProgressView.renderAll();
+    renderContextProgressList();
+  }
 }
 
 function shuffle(array) {
@@ -475,13 +478,14 @@ function startRound() {
   renderQuestion();
 }
 
-// Governs two different hints depending on mode: Reading's English-meaning
-// text (below the word) and Meaning's reading furigana (above the word,
-// via the .hide-hint class — see wordMarkup and the CSS rule for it).
-// Fill-in-blank shows neither pre-answer; that would give the blank away.
+// Governs the optional secondary help: Reading's English meaning, Fill-in-
+// blank's full-sentence translation, and Meaning's reading furigana (above
+// the word via .hide-hint — see wordMarkup and the CSS rule for it). The
+// Fill-in-blank translation provides context without revealing its target.
 function applyHintVisibility() {
   const showHint = SettingsManager.get('showHint');
-  el.quizHint.classList.toggle('hidden', !(state.mode === 'reading' && showHint));
+  const textHintVisible = showHint && (state.mode === 'reading' || state.mode === 'fillblank');
+  el.quizHint.classList.toggle('hidden', !textHintVisible);
 
   const q = state.questions[state.index];
   if (!q) return;

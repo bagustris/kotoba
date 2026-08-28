@@ -130,7 +130,7 @@ Fill-in-blank: 昨日、ラーメンを＿＿＿＿ました。   → 食べ
 > contributors belongs in this README's credits and, ideally, an in-app
 > "About" or "Credits" screen.
 
-## Planned tech stack
+## Tech stack
 
 Same approach as kanji-drill, for the same reason — it's a personal study
 tool, not a product, and GitHub Pages is free static hosting:
@@ -148,7 +148,7 @@ tool, not a product, and GitHub Pages is free static hosting:
   every other project in this workspace (see kanji-drill, minna-no-nihongo,
   japanese-for-work).
 
-## Proposed project structure
+## Project structure
 
 ```
 index.html              Screens: mode picker, context picker, quiz, summary
@@ -161,7 +161,7 @@ data/words/<context>.json     Word entries for one context
 data/sentences/<context>.json Example-sentence entries for one context
 ```
 
-### Data shape (proposed)
+### Data shape
 
 ```json
 // data/words/restaurant.json
@@ -180,7 +180,7 @@ per-grade kanji ordering.
 
 ## Roadmap
 
-Nothing is built yet. A sensible build order, mirroring kanji-drill's
+A sensible build order, mirroring kanji-drill's
 chunked approach:
 
 1. Data — compile the word list (frequency-ranked, context-tagged) and

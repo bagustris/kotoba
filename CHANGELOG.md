@@ -11,6 +11,17 @@ source of truth for the app version.
 
 ## [Unreleased]
 
+### Fixed
+- Audited all sentence drills and corrected a malformed Japanese sentence plus
+  fill-in-the-blank readings that omitted or mistranscribed sentence text.
+- Returning home after a round now refreshes the per-context progress list as
+  well as the overall dashboard, so completed-round results appear without a
+  browser refresh.
+- Fill-in-the-blank now shows its full-sentence English translation whenever
+  the hint setting is enabled, without revealing the missing word.
+- The workplace school-attendance sentence now uses the natural ongoing form
+  `通っています`, so its fill-in-the-blank answer is a complete conjugation.
+
 ## [1.1.0] - 2026-08-28
 
 ### Added

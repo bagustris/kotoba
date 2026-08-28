@@ -756,10 +756,10 @@
     "context": "hospital"
   },
   {
-    "sentence": "進みが緩いときは、陣痛促進剤を使うこともあります。",
+    "sentence": "進みが遅いときは、陣痛促進剤を使うこともあります。",
     "target": "陣痛促進剤",
     "reading": "じんつうそくしんざい",
-    "fullReading": "すすみがゆるいときは、じんつうそくしんざいをつかうこともあります。",
+    "fullReading": "すすみがおそいときは、じんつうそくしんざいをつかうこともあります。",
     "meaning": "labor-inducing drug",
     "translation": "If labor is slow, we sometimes use medication to move things along.",
     "context": "hospital"
@@ -777,7 +777,7 @@
     "sentence": "母親教室では、新生児ケアの基本を学びます。",
     "target": "新生児ケア",
     "reading": "しんせいじけあ",
-    "fullReading": "ぼはんきょうしつでは、しんせいじけあのきほんをまなびます。",
+    "fullReading": "ははおやきょうしつでは、しんせいじけあのきほんをまなびます。",
     "meaning": "newborn care",
     "translation": "At the mothers' class, you learn the basics of newborn care.",
     "context": "hospital"
@@ -876,7 +876,7 @@
     "sentence": "ナースコールしたら、すぐ手当てに来てくれました。",
     "target": "手当て",
     "reading": "てあて",
-    "fullReading": "ナースコールしたら、すくてあてにきてくれました。",
+    "fullReading": "ナースコールしたら、すぐてあてにきてくれました。",
     "meaning": "first aid; treatment",
     "translation": "When I used the call button, someone came to treat me right away.",
     "context": "hospital"

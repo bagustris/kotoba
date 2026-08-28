@@ -4,9 +4,9 @@
 
 const SettingsManager = (() => {
   const STORAGE_KEY = 'kotoba-settings';
-  // showHint toggles the secondary text under the quiz prompt: the meaning
-  // in Reading mode, the reading in Meaning mode (see README "Modes" — both
-  // are togglable). Fill-in-the-blank never shows it.
+  // showHint toggles the secondary help: the meaning in Reading mode, the
+  // reading in Meaning mode, and the full-sentence translation in
+  // Fill-in-the-blank mode (see README "Modes").
   // furigana defaults to true: it's the master switch for reading annotations
   // (ruby) over kanji — the meaning-mode hint furigana and the post-answer
   // reveal furigana over the target word. Off means no ruby anywhere (spoken

@@ -72,10 +72,10 @@
     "context": "workplace"
   },
   {
-    "sentence": "妹は毎朝日本語学校に通います。",
-    "target": "通います",
-    "reading": "かよいます",
-    "fullReading": "いもうとはまいあさにほんごがっこうにかよいます。",
+    "sentence": "妹は毎朝日本語学校に通っています。",
+    "target": "通っています",
+    "reading": "かよっています",
+    "fullReading": "いもうとはまいあさにほんごがっこうにかよっています。",
     "meaning": "to go to (a place regularly); to attend",
     "translation": "My younger sister goes to a Japanese-language school every morning.",
     "context": "workplace"
@@ -84,7 +84,7 @@
     "sentence": "去年の九月に日本に来ました。",
     "target": "去年",
     "reading": "きょねん",
-    "fullReading": "きょねんのくがつのにほんにきました。",
+    "fullReading": "きょねんのくがつににほんにきました。",
     "meaning": "last year",
     "translation": "I came to Japan last September.",
     "context": "workplace"
@@ -192,7 +192,7 @@
     "sentence": "大学時代の友達とよく食事に行きます。",
     "target": "友達",
     "reading": "ともだち",
-    "fullReading": "だいがくじだいのともだとよくしょくじにいきます。",
+    "fullReading": "だいがくじだいのともだちとよくしょくじにいきます。",
     "meaning": "friend(s)",
     "translation": "I often go out to eat with friends from my university days.",
     "context": "workplace"
@@ -273,7 +273,7 @@
     "sentence": "先週の日曜日に日本に来ました。",
     "target": "先週",
     "reading": "せんしゅう",
-    "fullReading": "せんしゅうのにちようびにきました。",
+    "fullReading": "せんしゅうのにちようびににほんにきました。",
     "meaning": "last week",
     "translation": "I came to Japan last Sunday.",
     "context": "workplace"
@@ -445,7 +445,7 @@
     "sentence": "日常会話は大丈夫ですが、電話越しの言葉は聞き慣れません。",
     "target": "日常会話",
     "reading": "にちじょうかいわ",
-    "fullReading": "にちじょうかいわはだいじょうぶですが、でんわごしのことはばはききなれません。",
+    "fullReading": "にちじょうかいわはだいじょうぶですが、でんわごしのことばはききなれません。",
     "meaning": "daily conversation",
     "translation": "Everyday conversation is fine, but I am not used to speech over the phone."
   },
