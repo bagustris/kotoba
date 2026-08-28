@@ -36,6 +36,11 @@ source of truth for the app version.
   読み上げ auto-speak setting.
 
 ### Fixed
+- Word-scope example sentences are now HTML-escaped before rendering, so a
+  sentence containing markup (e.g. `<`, `&`) displays as text instead of being
+  parsed as HTML; a word's example list is also capped at two sentences with a
+  "+N more" line (日本語 matched 26), keeping the panel readable within the
+  reveal timing.
 - Context progress now uses each fetched dataset's actual item count instead
   of assuming every context has 15 questions, preventing expanded contexts
   such as 天気 from appearing complete prematurely.

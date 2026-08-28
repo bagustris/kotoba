@@ -120,6 +120,18 @@ function rubyHTML(word, reading) {
   return `<ruby>${word}<rt>${reading}</rt></ruby>`;
 }
 
+// Escapes text before it's written into innerHTML. Quiz text is data-file
+// sourced (trusted, validated by tools/check_data.py), but any renderer that
+// interpolates raw strings into HTML must escape first — otherwise a stray
+// `<`/`&`/`"` in a sentence would be parsed as markup instead of shown as
+// text (and any compromised data source could inject script). Secondary
+// renderers (e.g. renderExamples) escape; the primary question renderers keep
+// the historical raw-insert behavior because they additionally build markup.
+const HTML_ESCAPES = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
+function escapeHtml(text) {
+  return String(text ?? '').replace(/[&<>"']/g, (ch) => HTML_ESCAPES[ch]);
+}
+
 // Wraps just the target word in a highlight span so sentence-scope questions
 // show which word is being quizzed. `innerHTML` overrides what's rendered
 // inside the highlight (e.g. plain text vs. a ruby reading).
@@ -267,13 +279,22 @@ el.quizWord.addEventListener('click', () => {
 // example (see renderExamples). Not every word has a match (sentence coverage
 // varies per context), so callers get an empty array for those.
 async function loadExamplesByWord(context) {
-  const sentences = await fetchJSON(`data/sentences/${context}.json`);
-  const byWord = new Map();
-  sentences.forEach((s) => {
-    if (!byWord.has(s.target)) byWord.set(s.target, []);
-    byWord.get(s.target).push(s);
-  });
-  return byWord;
+  // Best-effort: examples are an optional enhancement, so a fetch failure here
+  // must not take down the word quiz itself. init() already fetches every
+  // sentences file (registerTotalQuestionCounts), so in practice this only
+  // guards an offline/cache-miss race — the empty map just disables the
+  // example panel gracefully for that round.
+  try {
+    const sentences = await fetchJSON(`data/sentences/${context}.json`);
+    const byWord = new Map();
+    sentences.forEach((s) => {
+      if (!byWord.has(s.target)) byWord.set(s.target, []);
+      byWord.get(s.target).push(s);
+    });
+    return byWord;
+  } catch {
+    return new Map();
+  }
 }
 
 // Reshapes the raw data/*.json entries into a uniform shape the learning
@@ -518,12 +539,21 @@ function renderExamples(q) {
     el.quizExamples.classList.add('hidden');
     return;
   }
-  const rows = q.examples.map((ex) =>
-    `<li><span class="ex-sentence">${highlightTarget(ex.sentence, q.text)}</span>` +
-    `<span class="ex-gloss">${ex.translation || ''}</span></li>`
+  // Cap how many sentences are shown: the auto-advance floor (EXAMPLES_READ_MS)
+  // assumes a quick read, and a single word can match many sentences (日本語
+  // matches 26). Anything beyond the cap collapses into a "+N more" line.
+  const MAX_EXAMPLES = 2;
+  const shown = q.examples.slice(0, MAX_EXAMPLES);
+  const rest = q.examples.length - shown.length;
+  // Sentence/translation are escaped before hitting innerHTML (see escapeHtml)
+  // — the highlight span is built afterward, so escaping can't corrupt it.
+  const rows = shown.map((ex) =>
+    `<li><span class="ex-sentence">${highlightTarget(escapeHtml(ex.sentence), escapeHtml(q.text))}</span>` +
+    `<span class="ex-gloss">${escapeHtml(ex.translation || '')}</span></li>`
   ).join('');
+  const more = rest > 0 ? `<li class="ex-more">ほか ${rest} 文<span>+${rest} more</span></li>` : '';
   const label = q.examples.length > 1 ? 'れい文<span>Example sentences</span>' : 'れい文<span>Example sentence</span>';
-  el.quizExamples.innerHTML = `<div class="quiz-examples-label">${label}</div><ul>${rows}</ul>`;
+  el.quizExamples.innerHTML = `<div class="quiz-examples-label">${label}</div><ul>${rows}${more}</ul>`;
   el.quizExamples.classList.remove('hidden');
 }
 

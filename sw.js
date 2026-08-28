@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'kotoba-v29';
+const CACHE_VERSION = 'kotoba-v30';
 
 const CORE_ASSETS = [
   '.',
