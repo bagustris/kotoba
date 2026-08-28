@@ -88,17 +88,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": "このスタートボタンを押すと、_]ピーが台まります。",
-    "target": "スタート",
-    "reading": "すたーと",
-    "fullReading": "このすたーとぼたんをおすと、_]ぴーがだいまります。",
-    "meaning": "start",
-    "translation": "Press this start button to start copying.",
-    "context": "work-communication",
-    "source": "irodori-l13",
-    "note": "verbatim"
-  },
-  {
     "sentence": "もう終わりましたか?",
     "target": "終わりました",
     "reading": "おわりました",
@@ -209,10 +198,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "こここに作名を書いてください。",
+    "sentence": "ここに氏名を書いてください。",
     "target": "いて",
     "reading": "いて",
-    "fullReading": "こここにさくめいをかいてください。",
+    "fullReading": "ここにしめいをかいてください。",
     "meaning": "to require",
     "translation": "Please write the subject here.",
     "context": "work-communication",
@@ -248,17 +237,6 @@
     "fullReading": "すみません。こぴーきのつかいかたをおしえてください。",
     "meaning": "copy machine",
     "translation": "Excuse me. Can you teach me how to use the copy machine?",
-    "context": "work-communication",
-    "source": "irodori-l13",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "A:パソコンが動かないんですが…。",
-    "target": "動かない",
-    "reading": "うごかない",
-    "fullReading": "A:ぱそこんがうごかないんですが…。",
-    "meaning": "to work / to move",
-    "translation": "A: The computer is not working...",
     "context": "work-communication",
     "source": "irodori-l13",
     "note": "verbatim"
@@ -457,17 +435,6 @@
     "fullReading": "しりょうをにんずうぶんこぴーして、つくえのうえに1ぶずつなべてください。",
     "meaning": "to line up",
     "translation": "Please make copies of the material for each person and arrange them one by one on the desk.",
-    "context": "work-communication",
-    "source": "irodori-l13",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "パソコンが動かないんですが……。",
-    "target": "動かない",
-    "reading": "うごかない",
-    "fullReading": "ぱそこんがうごかないんですが……。",
-    "meaning": "to work / to move",
-    "translation": "The computer is not working...",
     "context": "work-communication",
     "source": "irodori-l13",
     "note": "verbatim"
@@ -704,10 +671,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "しゅにんらいげつはつかげつようびやす(の主任、あのう、すみません。来月20日の月曜日、休みを取つてもいいでしようか?",
+    "sentence": "主任、あのう、すみません。来月20日の月曜日、休みを取ってもいいでしょうか?",
     "target": "来月",
     "reading": "らいげつ",
-    "fullReading": "しゅにんらいげつはつかげつようびやす(のしゅにん、あのう、すみません。らいげつ20にちのげつようび、やすみをとつてもいいでしようか?",
+    "fullReading": "しゅにん、あのう、すみません。らいげつ20にちのげつようび、やすみをとってもいいでしょうか?",
     "meaning": "next month",
     "translation": "Excuse me, Chief. May I take a day off on Monday the 20th of next month?",
     "context": "work-communication",
@@ -765,17 +732,6 @@
     "fullReading": "あしたご。&.そうたいあしたのごご、そうたいしてもいいでしょうか?",
     "meaning": "to leave early",
     "translation": "May I leave early tomorrow afternoon?",
-    "context": "work-communication",
-    "source": "irodori-l14",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "A:いちばん上の「所属」のところには、自分の所属チームの名前を書いてください。",
-    "target": "チーム",
-    "reading": "ちーむ",
-    "fullReading": "A:いちばんうえの「しょぞく」のところには、じぶんのしょぞくちーむのなまえをかいてください。",
-    "meaning": "team",
-    "translation": "A:Inthe \"Affiliation\" section at the top, please write down the name of your team affiliation.",
     "context": "work-communication",
     "source": "irodori-l14",
     "note": "verbatim"
@@ -891,17 +847,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": "「理由]」ですが、普通の休みのときは、「私用」と書いてください。",
-    "target": "いて",
-    "reading": "いて",
-    "fullReading": "「りゆう]」ですが、ふつうのやすみのときは、「しよう」とかいてください。",
-    "meaning": "to require",
-    "translation": "For \"Reason,\" please write \"Personal\" for ordinary days off.",
-    "context": "work-communication",
-    "source": "irodori-l14",
-    "note": "verbatim"
-  },
-  {
     "sentence": "ハンコ、持ってますか?",
     "target": "持って",
     "reading": "もって",
@@ -952,28 +897,6 @@
     "fullReading": "きょう、ねつがあります。それで、こんにちは1にち、やすみたいんですが…",
     "meaning": "to have a fever",
     "translation": "I have a fever. So, I'd like to take a day off today...",
-    "context": "work-communication",
-    "source": "irodori-l14",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "主任、あのう、すみません。来月20日の月曜日、休みを取ってもいいでしょうか?",
-    "target": "休みを取って",
-    "reading": "やすみをとって",
-    "fullReading": "しゅにん、あのう、すみません。らいげつ20にちのげつようび、やすみをとってもいいでしょうか?",
-    "meaning": "to take a day off / to get a leave",
-    "translation": "Excuse me, chief. May I take a day off on Monday the 20th of next month?",
-    "context": "work-communication",
-    "source": "irodori-l14",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "「理由]ですが、普通の休みのときは、「私用」と書いてください。",
-    "target": "いて",
-    "reading": "いて",
-    "fullReading": "「りゆう]ですが、ふつうのやすみのときは、「しよう」とかいてください。",
-    "meaning": "to require",
-    "translation": "For \"Reason,\" please write \"Personal\" for ordinary days off.",
     "context": "work-communication",
     "source": "irodori-l14",
     "note": "verbatim"

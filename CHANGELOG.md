@@ -45,6 +45,13 @@ source of truth for the app version.
   parsed as HTML; a word's example list is also capped at two sentences with a
   "+N more" line (日本語 matched 26), keeping the panel readable within the
   reveal timing.
+- Corrected OCR-corrupted sentences across several contexts (a `/(ラル`→`ハラル`
+  misread in a cooking halal sentence, a garbled Japanese-study pronunciation
+  sentence, work-communication copy/leave-day sentences, health sick-visit and
+  二日酔い lines, `こここに`→`ここに` form entries, and a few relationships
+  karaoke/お茶/Tシャツ lines) and removed 36 redundant/duplicate sentences
+  (mostly `A:`/`B:`-prefixed dialog copies), so the same sentence no longer
+  appears twice in one round.
 - Context progress now uses each fetched dataset's actual item count instead
   of assuming every context has 15 questions, preventing expanded contexts
   such as 天気 from appearing complete prematurely.

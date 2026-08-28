@@ -198,17 +198,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": "このコーナーの商品は、すべて/(ラルです。",
-    "target": "コーナー",
-    "reading": "こーなー",
-    "fullReading": "このこーなーのしょうひんは、すべて/(らるです。",
-    "meaning": "section",
-    "translation": "The products in this section are all halal.",
-    "context": "cooking",
-    "source": "irodori-l11",
-    "note": "verbatim"
-  },
-  {
     "sentence": "わりばしやごみ袋は、バーベキュー場にあります。",
     "target": "バーベキュー場",
     "reading": "ばーべきゅーば",
@@ -649,17 +638,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": "A:チョコレートケーキとチーズケーキ、どっちがいいですか?",
-    "target": "チョコレートケーキ",
-    "reading": "ちょこれーとけーき",
-    "fullReading": "A:ちょこれーとけーきとちーずけーき、どっちがいいですか?",
-    "meaning": "chocolate cake",
-    "translation": "A: Which do you like, chocolate cake or cheesecake?",
-    "context": "cooking",
-    "source": "irodori-l11",
-    "note": "verbatim"
-  },
-  {
     "sentence": "来週のバーベキュー、私はりんごを持って行きます。",
     "target": "持って行きます",
     "reading": "もっていきます",
@@ -737,12 +715,12 @@
     "note": "verbatim"
   },
   {
-    "sentence": ":これは私の国のカレーです。",
-    "target": ":これは私の国のカレーです。",
-    "reading": ":これはわたしのくにのかれーです。",
-    "fullReading": ":これはわたしのくにのかれーです。",
+    "sentence": "これは私の国のカレーです。",
+    "target": "これは私の国のカレーです。",
+    "reading": "これはわたしのくにのかれーです。",
+    "fullReading": "これはわたしのくにのかれーです。",
     "meaning": "source example sentence",
-    "translation": ": This is my country’s curry.",
+    "translation": "This is my country's curry.",
     "context": "cooking",
     "source": "irodori-l12",
     "note": "verbatim"
@@ -836,10 +814,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "それ、壮そうな料理ですね。",
-    "target": "それ、壮そうな料理ですね。",
-    "reading": "それ、そうそうなりょうりですね。",
-    "fullReading": "それ、そうそうなりょうりですね。",
+    "sentence": "それ、辛そうな料理ですね。",
+    "target": "それ、辛そうな料理ですね。",
+    "reading": "それ、からそうなりょうりですね。",
+    "fullReading": "それ、からそうなりょうりですね。",
     "meaning": "source example sentence",
     "translation": "This looks like a spicy dish.",
     "context": "cooking",
@@ -885,17 +863,6 @@
     "reading": "しょっぱい",
     "fullReading": "このすーぷ、しょっぱいですね。",
     "meaning": "salty",
-    "translation": "This soup is salty, isn't it?",
-    "context": "cooking",
-    "source": "irodori-l12",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "このスーンヽしよつぱいですね。",
-    "target": "このスーンヽしよつぱいですね。",
-    "reading": "このすーんすーんしよつぱいですね。",
-    "fullReading": "このすーんすーんしよつぱいですね。",
-    "meaning": "source example sentence",
     "translation": "This soup is salty, isn't it?",
     "context": "cooking",
     "source": "irodori-l12",

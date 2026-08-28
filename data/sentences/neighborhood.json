@@ -286,17 +286,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": "80haの公園の中には、バーベキュー場やサイクリングコースなごどがあります。",
-    "target": "サイクリングコース",
-    "reading": "さいくりんぐこーす",
-    "fullReading": "80haのこうえんのなかには、ばーべきゅーばやさいくりんぐこーすなごどがあります。",
-    "meaning": "cycling course",
-    "translation": "There is a barbecue area and a cycling course, among others, in the 80- hectare park.",
-    "context": "neighborhood",
-    "source": "irodori-l5",
-    "note": "verbatim"
-  },
-  {
     "sentence": "この町は、人も店も多くて、にぎやかです。",
     "target": "にぎやか",
     "reading": "にぎやか",
@@ -314,28 +303,6 @@
     "fullReading": "「もみじいおり」では、まちのめいぶつ「いろはそば」をたべることができます。やすくておいしいとひょうばんです。",
     "meaning": "cheap",
     "translation": "At Momiji-an, you can eat the town's specialty, iroha soba. It's known for being cheap and delicious.",
-    "context": "neighborhood",
-    "source": "irodori-l5",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "この町は、とてもにぎやかで、便利です。",
-    "target": "にぎやか",
-    "reading": "にぎやか",
-    "fullReading": "このまちは、とてもにぎやかで、べんりです。",
-    "meaning": "lively",
-    "translation": "This town is very lively and convenient.",
-    "context": "neighborhood",
-    "source": "irodori-l5",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "この町は人も店も多くて、にぎやかです。",
-    "target": "にぎやか",
-    "reading": "にぎやか",
-    "fullReading": "このまちはにんもみせもおおくて、にぎやかです。",
-    "meaning": "lively",
-    "translation": "This town is lively with many people and shops.",
     "context": "neighborhood",
     "source": "irodori-l5",
     "note": "verbatim"
@@ -369,17 +336,6 @@
     "fullReading": "「もみじいおり]では、まちのめいぶつ「いろはそば」をたべることができます。",
     "meaning": "local specialty",
     "translation": "At Momiji-an, you can eat the town's specialty, iroha soba.",
-    "context": "neighborhood",
-    "source": "irodori-l5",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "この町は、人がやさしくて、住みやすいです。",
-    "target": "やさしくて",
-    "reading": "やさしくて",
-    "fullReading": "このまちは、にんがやさしくて、すみやすいです。",
-    "meaning": "kind / friendly",
-    "translation": "This town is comfortable to live in and the people are kind.",
     "context": "neighborhood",
     "source": "irodori-l5",
     "note": "verbatim"

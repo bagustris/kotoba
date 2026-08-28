@@ -132,10 +132,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "おさ。<すりこちらは、せきを抑える楽です。",
+    "sentence": "こちらは、せきを抑える薬です。",
     "target": "抑える",
     "reading": "おさえる",
-    "fullReading": "おさ。<すりこちらは、せきをおさえるらくです。",
+    "fullReading": "こちらは、せきをおさえるくすりです。",
     "meaning": "to suppress",
     "translation": "This is a medicine to suppress coughing.",
     "context": "health",
@@ -407,10 +407,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "こここに、生活百慣について書いてください。",
+    "sentence": "ここに、生活習慣について書いてください。",
     "target": "ついて",
     "reading": "ついて",
-    "fullReading": "こここに、せいかつひゃくかんについてかいてください。",
+    "fullReading": "ここに、せいかつしゅうかんについてかいてください。",
     "meaning": "to stick (e.g. virus sticks)",
     "translation": "Please write about your lifestyle here.",
     "context": "health",
@@ -473,10 +473,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "こここに、電話番号を書いてください。",
-    "target": "こここに、電話番号を書いてください。",
-    "reading": "こここに、でんわばんごうをかいてください。",
-    "fullReading": "こここに、でんわばんごうをかいてください。",
+    "sentence": "ここに、電話番号を書いてください。",
+    "target": "ここに、電話番号を書いてください。",
+    "reading": "ここに、でんわばんごうをかいてください。",
+    "fullReading": "ここに、でんわばんごうをかいてください。",
     "meaning": "source example sentence",
     "translation": "Please write your phone number here.",
     "context": "health",
@@ -550,10 +550,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "こここに、ふりがなを書いてください。",
-    "target": "こここに、ふりがなを書いてください。",
-    "reading": "こここに、ふりがなをかいてください。",
-    "fullReading": "こここに、ふりがなをかいてください。",
+    "sentence": "ここに、ふりがなを書いてください。",
+    "target": "ここに、ふりがなを書いてください。",
+    "reading": "ここに、ふりがなをかいてください。",
+    "fullReading": "ここに、ふりがなをかいてください。",
     "meaning": "source example sentence",
     "translation": "Please write the furigana here.",
     "context": "health",
@@ -644,17 +644,6 @@
     "fullReading": "れんとげんをとってみましょうか。",
     "meaning": "X-ray",
     "translation": "Shall we get an X-ray?",
-    "context": "health",
-    "source": "irodori-l15",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "A:こちらが処方せんです。薬局に行って、薬をもらってください。",
-    "target": "もらって",
-    "reading": "もらって",
-    "fullReading": "A:こちらがしょほうせんです。やっきょくにいって、くすりをもらってください。",
-    "meaning": "to receive",
-    "translation": "A: Here is your prescription. Please go to the pharmacy and get your medication.",
     "context": "health",
     "source": "irodori-l15",
     "note": "verbatim"
@@ -1045,17 +1034,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": "A:よく眠れないときは、ぬるいお風呂にゆっくり入るといいですよ。",
-    "target": "眠れない",
-    "reading": "ねむれない",
-    "fullReading": "A:よくねむれないときは、ぬるいおふろにゆっくりいるといいですよ。",
-    "meaning": "can’t sleep",
-    "translation": "A: You should take a long relaxing bath in lukewarm water if you can't sleep well.",
-    "context": "health",
-    "source": "irodori-l16",
-    "note": "verbatim"
-  },
-  {
     "sentence": "B:そうですか。試してみます。",
     "target": "B:そうですか。試してみます。",
     "reading": "B:そうですか。ためしてみます。",
@@ -1342,17 +1320,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": ":最近よく眠れなくて、体がだるいんです。",
-    "target": "眠れなくて",
-    "reading": "ねむれなくて",
-    "fullReading": ":さいきんよくねむれなくて、からだがだるいんです。",
-    "meaning": "can’t sleep",
-    "translation": ": I haven't slept well lately, and I feel tired and listless.",
-    "context": "health",
-    "source": "irodori-l16",
-    "note": "verbatim"
-  },
-  {
     "sentence": ":それはいけませんね。",
     "target": "それはいけませんね",
     "reading": "それはいけませんね",
@@ -1375,10 +1342,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "ー日酔いのときは、どうしていますか?",
-    "target": "ー日酔いのときは、どうしていますか?",
-    "reading": "ーにちよいのときは、どうしていますか?",
-    "fullReading": "ーにちよいのときは、どうしていますか?",
+    "sentence": "二日酔いのときは、どうしていますか?",
+    "target": "二日酔いのときは、どうしていますか?",
+    "reading": "ふつかよいのときは、どうしていますか?",
+    "fullReading": "ふつかよいのときは、どうしていますか?",
     "meaning": "source example sentence",
     "translation": "What do you do when you have a hangover?",
     "context": "health",

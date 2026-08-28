@@ -143,17 +143,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": "A:明日の待ち合わせ、駅の改札でもいいですか?",
-    "target": "待ち合わせ",
-    "reading": "まちあわせ",
-    "fullReading": "A:あしたのまちあわせ、えきのかいさつでもいいですか?",
-    "meaning": "meeting up (at a certain time and place)",
-    "translation": "A: Is it okay if we meet tomorrow at the ticket gate of the station?",
-    "context": "outings",
-    "source": "irodori-l7",
-    "note": "verbatim"
-  },
-  {
     "sentence": "B:では、そうしましょう。",
     "target": "では",
     "reading": "では",
@@ -237,17 +226,6 @@
     "fullReading": "あしたまへいわほうりぞう。まえ:あしたのまちあわせ、「へいわのとり」のぞうのまえはどうですか?",
     "meaning": "meeting up (at a certain time and place)",
     "translation": ": How about we meet in front of the Heiwa-no-tori statue tomorrow?",
-    "context": "outings",
-    "source": "irodori-l7",
-    "note": "verbatim"
-  },
-  {
-    "sentence": ":え?それ、何ですか?",
-    "target": ":え?それ、何ですか?",
-    "reading": ":え?それ、なんですか?",
-    "fullReading": ":え?それ、なんですか?",
-    "meaning": "source example sentence",
-    "translation": "B : Huh? What's that?",
     "context": "outings",
     "source": "irodori-l7",
     "note": "verbatim"
@@ -369,17 +347,6 @@
     "fullReading": "しょくじのあとで、げーむこーなーにいきませんか?",
     "meaning": "game arcade",
     "translation": "Would you like to go to the game arcade after eating?",
-    "context": "outings",
-    "source": "irodori-l8",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "A:展覧会、どうでしたか?",
-    "target": "展覧会",
-    "reading": "てんらんかい",
-    "fullReading": "A:てんらんかい、どうでしたか?",
-    "meaning": "exhibition",
-    "translation": "A: How was the exhibition?",
     "context": "outings",
     "source": "irodori-l8",
     "note": "verbatim"
@@ -600,17 +567,6 @@
     "fullReading": "てんらんかいは、ちょっとむずかしかったです。",
     "meaning": "difficult",
     "translation": "The exhibition was a little difficult for me.",
-    "context": "outings",
-    "source": "irodori-l8",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "A:今度の日曜日、いっしょに野球やらない?",
-    "target": "野球",
-    "reading": "やきゅう",
-    "fullReading": "A:こんどのにちようび、いっしょにやきゅうやらない?",
-    "meaning": "baseball",
-    "translation": "A: Why don't we play baseball together next Sunday?",
     "context": "outings",
     "source": "irodori-l8",
     "note": "verbatim"

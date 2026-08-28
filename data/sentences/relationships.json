@@ -1,11 +1,11 @@
 [
   {
-    "sentence": ":ごめんください。",
-    "target": "ごめんください",
-    "reading": "ごめんください",
-    "fullReading": ":ごめんください。",
+    "sentence": "ごめんください。",
+    "target": "ごめんください。",
+    "reading": "ごめんください。",
+    "fullReading": "ごめんください。",
     "meaning": "Hello. / May I come in?",
-    "translation": ": Hello, may I come in?",
+    "translation": "Hello, may I come in?",
     "context": "relationships",
     "source": "irodori-l17",
     "note": "verbatim"
@@ -154,10 +154,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "茶をどうぞ。",
-    "target": "茶をどうぞ。",
-    "reading": "ちゃをどうぞ。",
-    "fullReading": "ちゃをどうぞ。",
+    "sentence": "お茶をどうぞ。",
+    "target": "お茶をどうぞ。",
+    "reading": "おちゃをどうぞ。",
+    "fullReading": "おちゃをどうぞ。",
     "meaning": "source example sentence",
     "translation": "Please have some tea.",
     "context": "relationships",
@@ -352,10 +352,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "これは、ミヤンマーから持って来たエシャツです。",
-    "target": "これは、ミヤンマーから持って来たエシャツです。",
-    "reading": "これは、みやんまーからもってきたえしゃつです。",
-    "fullReading": "これは、みやんまーからもってきたえしゃつです。",
+    "sentence": "これは、ミャンマーから持って来たTシャツです。",
+    "target": "これは、ミャンマーから持って来たTシャツです。",
+    "reading": "これは、みゃんまーからもってきたてぃーしゃつです。",
+    "fullReading": "これは、みゃんまーからもってきたてぃーしゃつです。",
     "meaning": "source example sentence",
     "translation": "This is a T-shirt I brought from Myanmar.",
     "context": "relationships",
@@ -473,17 +473,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": "A:すみません。足をくずしてもいいですか?",
-    "target": "A:すみません。足をくずしてもいいですか?",
-    "reading": "A:すみません。あしをくずしてもいいですか?",
-    "fullReading": "A:すみません。あしをくずしてもいいですか?",
-    "meaning": "source example sentence",
-    "translation": "A: Excuse me. Can I relax my legs?",
-    "context": "relationships",
-    "source": "irodori-l17",
-    "note": "verbatim"
-  },
-  {
     "sentence": "B:あー、どうぞ。楽にしてね。",
     "target": "楽にして",
     "reading": "らくにして",
@@ -517,56 +506,12 @@
     "note": "verbatim"
   },
   {
-    "sentence": "A:その帽子、あったかそうだね。",
-    "target": "帽子",
-    "reading": "ぼうし",
-    "fullReading": "A:そのぼうし、あったかそうだね。",
-    "meaning": "hat / cap",
-    "translation": "A: That hat looks warm.",
-    "context": "relationships",
-    "source": "irodori-l17",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "B:いいでしょう?",
-    "target": "B:いいでしょう?",
-    "reading": "B:いいでしょう?",
-    "fullReading": "B:いいでしょう?",
-    "meaning": "source example sentence",
-    "translation": "B : Great, isn't it?",
-    "context": "relationships",
-    "source": "irodori-l17",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "A:ごめんください。",
-    "target": "ごめんください",
-    "reading": "ごめんください",
-    "fullReading": "A:ごめんください。",
-    "meaning": "Hello. / May I come in?",
-    "translation": "A: Hello, may I come in?",
-    "context": "relationships",
-    "source": "irodori-l17",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "B:いらっしゃい。ようこそ。さ、上がって。",
-    "target": "いらっしゃい",
-    "reading": "いらっしゃい",
-    "fullReading": "B:いらっしゃい。ようこそ。さ、あがって。",
+    "sentence": "いらっしゃい。ようこそ。さ、上がって。",
+    "target": "いらっしゃい。ようこそ。さ、上がって。",
+    "reading": "いらっしゃい。ようこそ。さ、あがって。",
+    "fullReading": "いらっしゃい。ようこそ。さ、あがって。",
     "meaning": "Welcome. / Come in.",
-    "translation": "B : Come in. Welcome. Here, get in.",
-    "context": "relationships",
-    "source": "irodori-l17",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "A:またいつでも遊びに来てくださいね。",
-    "target": "遊びに来て",
-    "reading": "あそびにきて",
-    "fullReading": "A:またいつでもあそびにきてくださいね。",
-    "meaning": "to come see me",
-    "translation": "A: Please come back for a visit anytime.",
+    "translation": "Come in. Welcome. Here, get in.",
     "context": "relationships",
     "source": "irodori-l17",
     "note": "verbatim"
@@ -578,17 +523,6 @@
     "fullReading": "B:ありがとうございます。おじゃましました。",
     "meaning": "to visit",
     "translation": "B : Thank you for having me over.",
-    "context": "relationships",
-    "source": "irodori-l17",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "A:いらっしゃい。ようこそ。さ、上がって。",
-    "target": "いらっしゃい",
-    "reading": "いらっしゃい",
-    "fullReading": "A:いらっしゃい。ようこそ。さ、あがって。",
-    "meaning": "Welcome. / Come in.",
-    "translation": "A: Come in. Welcome. Here, get in.",
     "context": "relationships",
     "source": "irodori-l17",
     "note": "verbatim"
@@ -644,17 +578,6 @@
     "fullReading": "・いらっつしやい。ようごそ。さ、あがって。",
     "meaning": "to come in",
     "translation": "B : Come in. Welcome. Here, get in.",
-    "context": "relationships",
-    "source": "irodori-l17",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "これは、ナンプラーといいます。タイ料理に使う調味料です。",
-    "target": "ナンプラー",
-    "reading": "なんぷらー",
-    "fullReading": "これは、なんぷらーといいます。たいりょうりにつかうちょうみりょうです。",
-    "meaning": "nam pla (Thai seasoning)",
-    "translation": "This is called nam pla. It's a seasoning used in Thai food. @i5-2H Welcome.",
     "context": "relationships",
     "source": "irodori-l17",
     "note": "verbatim"
@@ -726,10 +649,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "誕生日の夜は、友だちといっしょに、カラオケに行きました。MIT踊って、すごく楽しかった!",
+    "sentence": "誕生日の夜は、友だちといっしょに、カラオケに行きました。歌って、踊って、すごく楽しかった!",
     "target": "カラオケ",
     "reading": "からおけ",
-    "fullReading": "たんじょうびのよるは、ともだちといっしょに、からおけにいきました。MITおどって、すごくたのしかった!",
+    "fullReading": "たんじょうびのよるは、ともだちといっしょに、からおけにいきました。うたって、おどって、すごくたのしかった!",
     "meaning": "karaoke",
     "translation": "I went to karaoke with friends on the night of my birthday. We sang and danced. It was so much fun!",
     "context": "relationships",
@@ -814,10 +737,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "aEAORIS.友だちといっしょに、カラオケに行きました。歌って、踊って、すごく楽しかった|",
+    "sentence": "友だちといっしょに、カラオケに行きました。歌って、踊って、すごく楽しかった!",
     "target": "カラオケ",
     "reading": "からおけ",
-    "fullReading": "aEAORIS.ともだちといっしょに、からおけにいきました。うたって、おどって、すごくたのしかった|",
+    "fullReading": "ともだちといっしょに、からおけにいきました。うたって、おどって、すごくたのしかった!",
     "meaning": "karaoke",
     "translation": "I went to karaoke with friends on the night of my birthday. We sang and danced. It was so much fun!",
     "context": "relationships",
@@ -830,7 +753,7 @@
     "reading": "ぷれぜんと",
     "fullReading": "あなさんへのぷれぜんと、おもいでにのこるものがいいとおもいます。",
     "meaning": "present",
-    "translation": "Ithink it's better to give her something memorable for Ana-san's gift.",
+    "translation": "I think it's better to give her something memorable for Ana-san's gift.",
     "context": "relationships",
     "source": "irodori-l18",
     "note": "verbatim"
@@ -842,17 +765,6 @@
     "fullReading": "っおどぶれーむににっぽんでみんなどとったしゃしんをいれて、かざります。",
     "meaning": "to display",
     "translation": "I will put the picture taken with everyone in Japan in the photo frame and display it.",
-    "context": "relationships",
-    "source": "irodori-l18",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "aEAB.友だちといっしょに、カラオケに行きました。歌って、踊って、すごく楽しかった!",
-    "target": "カラオケ",
-    "reading": "からおけ",
-    "fullReading": "aEAB.ともだちといっしょに、からおけにいきました。うたって、おどって、すごくたのしかった!",
-    "meaning": "karaoke",
-    "translation": "I went to karaoke with friends on the night of my birthday. We sang and danced. It was so much fun!",
     "context": "relationships",
     "source": "irodori-l18",
     "note": "verbatim"
@@ -1018,17 +930,6 @@
     "fullReading": "それでは、あなさん、おげんきで。かんぱい!",
     "meaning": "now",
     "translation": "Well then, take care Ana-san. Cheers!",
-    "context": "relationships",
-    "source": "irodori-l18",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "A:アナさんへのプレゼント、思い出に残るものがいいと思います。",
-    "target": "プレゼント",
-    "reading": "ぷれぜんと",
-    "fullReading": "A:あなさんへのぷれぜんと、おもいでにのこるものがいいとおもいます。",
-    "meaning": "present",
-    "translation": "A: 1 think something that will leave memories is good for Ana-san's present.",
     "context": "relationships",
     "source": "irodori-l18",
     "note": "verbatim"

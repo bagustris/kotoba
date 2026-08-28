@@ -220,17 +220,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": "にほんごはつおん|ぜんぜんちが日本語は発音がベトナム語と全然違います。",
-    "target": "ベトナム語",
-    "reading": "べとなむご",
-    "fullReading": "にほんごはつおん|ぜんぜんちがにほんごははつおんがべとなむかたとぜんぜんちがいます。",
-    "meaning": "Vietnamese language",
-    "translation": "Japanese pronunciation is completely different from Vietnamese.",
-    "context": "japanese-study",
-    "source": "irodori-l9",
-    "note": "verbatim"
-  },
-  {
     "sentence": "日本語は、読むのは少し難しいです。でも、会話は得意です。",
     "target": "難しい",
     "reading": "むずかしい",
@@ -396,17 +385,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": "A:日本語は、自分で勉強しました。",
-    "target": "自分で",
-    "reading": "じぶんで",
-    "fullReading": "A:にほんごは、じぶんでべんきょうしました。",
-    "meaning": "on my own",
-    "translation": "A: I studied Japanese by myself.",
-    "context": "japanese-study",
-    "source": "irodori-l9",
-    "note": "verbatim"
-  },
-  {
     "sentence": "B:すごいですね。",
     "target": "B:すごいですね。",
     "reading": "B:すごいですね。",
@@ -424,17 +402,6 @@
     "fullReading": "A:いえ、そんなことないです。",
     "meaning": "Not really.",
     "translation": "A : No, not at all.",
-    "context": "japanese-study",
-    "source": "irodori-l9",
-    "note": "verbatim"
-  },
-  {
-    "sentence": ":日本語、上手ね。",
-    "target": "日本語",
-    "reading": "にほんご",
-    "fullReading": ":にほんご、じょうずね。",
-    "meaning": "Japanese language",
-    "translation": ": Your Japanese is very good.",
     "context": "japanese-study",
     "source": "irodori-l9",
     "note": "verbatim"
@@ -935,17 +902,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": "A:ちょっといいですか?",
-    "target": "A:ちょっといいですか?",
-    "reading": "A:ちょっといいですか?",
-    "fullReading": "A:ちょっといいですか?",
-    "meaning": "source example sentence",
-    "translation": "A: Do you have a minute?",
-    "context": "japanese-study",
-    "source": "irodori-l10",
-    "note": "verbatim"
-  },
-  {
     "sentence": "B:はい。",
     "target": "B:はい。",
     "reading": "B:はい。",
@@ -974,28 +930,6 @@
     "fullReading": "すみません。あいきどうをやつっつてみたいんですが…。まだあいていますか?",
     "meaning": "aikido",
     "translation": "Excuse me. I'd like to try Aikido... Is it still open?",
-    "context": "japanese-study",
-    "source": "irodori-l10",
-    "note": "verbatim"
-  },
-  {
-    "sentence": ":すみません。この料理教室に参加したいんですが…。",
-    "target": "参加したい",
-    "reading": "さんかしたい",
-    "fullReading": ":すみません。このりょうりきょうしつにさんかしたいんですが…。",
-    "meaning": "to join",
-    "translation": "A A: Excuse me. I'd like to join this cooking class...",
-    "context": "japanese-study",
-    "source": "irodori-l10",
-    "note": "verbatim"
-  },
-  {
-    "sentence": ":金曜日のクラスは、もういっぱいです。",
-    "target": "もういっぱいです",
-    "reading": "もういっぱいです",
-    "fullReading": ":きんようびのくらすは、もういっぱいです。",
-    "meaning": "It is full.",
-    "translation": ": The Friday class is already full.",
     "context": "japanese-study",
     "source": "irodori-l10",
     "note": "verbatim"
