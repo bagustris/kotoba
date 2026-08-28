@@ -18,8 +18,11 @@ const SettingsManager = (() => {
   // answer/furigana. playAudio defaults to false (spoken readings off); turning
   // it on speaks the word's reading. It stays a real boolean here (audioEnabled()
   // in app.js still treats a legacy `null` from earlier versions as "never
-  // chosen").
-  const DEFAULTS = { showHint: true, furigana: true, roundSize: 10, autoNext: true, playAudio: false };
+  // chosen"). showExamples defaults to true: for Word-only scope in Reading and
+  // Meaning mode, reveals an existing example sentence (from data/sentences/)
+  // that uses the word, once the question is answered (see renderExamples in
+  // app.js).
+  const DEFAULTS = { showHint: true, furigana: true, roundSize: 10, autoNext: true, playAudio: false, showExamples: true };
 
   function load() {
     try {

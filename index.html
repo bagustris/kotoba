@@ -57,6 +57,14 @@
       </label>
     </div>
 
+    <div class="settings-row">
+      <span class="settings-row-label" id="setting-show-examples-label">答えた後に例文を表示<span>Show example sentence after answering</span></span>
+      <label class="switch">
+        <input type="checkbox" id="setting-show-examples" aria-labelledby="setting-show-examples-label">
+        <span class="switch-slider"></span>
+      </label>
+    </div>
+
     <div class="settings-row settings-row-column">
       <span class="settings-row-label">1回の問題数<span>Questions per round</span></span>
       <div id="setting-round-size" class="settings-segmented" role="radiogroup" aria-label="Questions per round">
@@ -135,6 +143,7 @@
       <p id="quiz-hint" class="quiz-hint"></p>
       <p id="quiz-instruction" class="quiz-instruction">正しい答えは？<span>Choose the correct answer</span></p>
       <div id="quiz-options" class="quiz-options"></div>
+      <div id="quiz-examples" class="quiz-examples hidden"></div>
       <p id="quiz-continue" class="quiz-continue hidden">つづける →<span>タップ / Tap or press → Enter Space</span></p>
     </div>
   </section>
