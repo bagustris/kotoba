@@ -1,0 +1,1031 @@
+[
+  {
+    "word": "あける",
+    "reading": "あける",
+    "meaning": "to make room",
+    "context": "work-communication",
+    "frequencyRank": 1
+  },
+  {
+    "word": "開ける",
+    "reading": "あける",
+    "meaning": "to open",
+    "context": "work-communication",
+    "frequencyRank": 2
+  },
+  {
+    "word": "いいです",
+    "reading": "いいです",
+    "meaning": "No thank you.",
+    "context": "work-communication",
+    "frequencyRank": 3
+  },
+  {
+    "word": "入口",
+    "reading": "いりぐち",
+    "meaning": "entrance",
+    "context": "work-communication",
+    "frequencyRank": 4
+  },
+  {
+    "word": "入れる",
+    "reading": "いれる",
+    "meaning": "to input",
+    "context": "work-communication",
+    "frequencyRank": 5
+  },
+  {
+    "word": "動く",
+    "reading": "うごく",
+    "meaning": "to work / to move",
+    "context": "work-communication",
+    "frequencyRank": 6
+  },
+  {
+    "word": "後ろ",
+    "reading": "うしろ",
+    "meaning": "back",
+    "context": "work-communication",
+    "frequencyRank": 7
+  },
+  {
+    "word": "打ち合わせ",
+    "reading": "うちあわせ",
+    "meaning": "meeting",
+    "context": "work-communication",
+    "frequencyRank": 8
+  },
+  {
+    "word": "置く",
+    "reading": "おく",
+    "meaning": "to place",
+    "context": "work-communication",
+    "frequencyRank": 9
+  },
+  {
+    "word": "お知らせ",
+    "reading": "おしらせ",
+    "meaning": "notification",
+    "context": "work-communication",
+    "frequencyRank": 10
+  },
+  {
+    "word": "お知らせします",
+    "reading": "おしらせします",
+    "meaning": "This is to inform you. (polite expression)",
+    "context": "work-communication",
+    "frequencyRank": 11
+  },
+  {
+    "word": "押す",
+    "reading": "おす",
+    "meaning": "to press",
+    "context": "work-communication",
+    "frequencyRank": 12
+  },
+  {
+    "word": "音",
+    "reading": "おと",
+    "meaning": "sound",
+    "context": "work-communication",
+    "frequencyRank": 13
+  },
+  {
+    "word": "音がする",
+    "reading": "おとがする",
+    "meaning": "to be making a noise",
+    "context": "work-communication",
+    "frequencyRank": 14
+  },
+  {
+    "word": "終わる",
+    "reading": "おわる",
+    "meaning": "to finish",
+    "context": "work-communication",
+    "frequencyRank": 15
+  },
+  {
+    "word": "会議",
+    "reading": "かいぎ",
+    "meaning": "meeting",
+    "context": "work-communication",
+    "frequencyRank": 16
+  },
+  {
+    "word": "拡大",
+    "reading": "かくだい",
+    "meaning": "enlarge",
+    "context": "work-communication",
+    "frequencyRank": 17
+  },
+  {
+    "word": "片面",
+    "reading": "かためん",
+    "meaning": "one side",
+    "context": "work-communication",
+    "frequencyRank": 18
+  },
+  {
+    "word": "カラー",
+    "reading": "カラー",
+    "meaning": "color",
+    "context": "work-communication",
+    "frequencyRank": 19
+  },
+  {
+    "word": "管理室",
+    "reading": "かんりしつ",
+    "meaning": "control room / management office",
+    "context": "work-communication",
+    "frequencyRank": 20
+  },
+  {
+    "word": "キャビネット",
+    "reading": "キャビネット",
+    "meaning": "cabinet",
+    "context": "work-communication",
+    "frequencyRank": 21
+  },
+  {
+    "word": "業者",
+    "reading": "ぎょうしゃ",
+    "meaning": "supplier / contractor",
+    "context": "work-communication",
+    "frequencyRank": 22
+  },
+  {
+    "word": "件名",
+    "reading": "けんめい",
+    "meaning": "subject",
+    "context": "work-communication",
+    "frequencyRank": 23
+  },
+  {
+    "word": "原稿",
+    "reading": "げんこう",
+    "meaning": "paperwork",
+    "context": "work-communication",
+    "frequencyRank": 24
+  },
+  {
+    "word": "コの字",
+    "reading": "コのじ",
+    "meaning": "u-shaped",
+    "context": "work-communication",
+    "frequencyRank": 25
+  },
+  {
+    "word": "コピー機",
+    "reading": "コピーき",
+    "meaning": "copy machine",
+    "context": "work-communication",
+    "frequencyRank": 26
+  },
+  {
+    "word": "コーヒーマシーン",
+    "reading": "コーヒーマシーン",
+    "meaning": "coffeemaker",
+    "context": "work-communication",
+    "frequencyRank": 27
+  },
+  {
+    "word": "ご注意ください",
+    "reading": "ごちゅういください",
+    "meaning": "Please be aware that ～ . (polite expression)",
+    "context": "work-communication",
+    "frequencyRank": 28
+  },
+  {
+    "word": "ご連絡ください",
+    "reading": "ごれんらくください",
+    "meaning": "Please contact ～ . (polite expression)",
+    "context": "work-communication",
+    "frequencyRank": 29
+  },
+  {
+    "word": "再起動する",
+    "reading": "さいきどうする",
+    "meaning": "to restart",
+    "context": "work-communication",
+    "frequencyRank": 30
+  },
+  {
+    "word": "差出人",
+    "reading": "さしだしにん",
+    "meaning": "sender",
+    "context": "work-communication",
+    "frequencyRank": 31
+  },
+  {
+    "word": "四角い",
+    "reading": "しかくい",
+    "meaning": "square",
+    "context": "work-communication",
+    "frequencyRank": 32
+  },
+  {
+    "word": "社内メール",
+    "reading": "しゃないメール",
+    "meaning": "internal company email",
+    "context": "work-communication",
+    "frequencyRank": 33
+  },
+  {
+    "word": "縮小",
+    "reading": "しゅくしょう",
+    "meaning": "reduce",
+    "context": "work-communication",
+    "frequencyRank": 34
+  },
+  {
+    "word": "資料",
+    "reading": "しりょう",
+    "meaning": "material / document",
+    "context": "work-communication",
+    "frequencyRank": 35
+  },
+  {
+    "word": "白黒",
+    "reading": "しろくろ",
+    "meaning": "black and white",
+    "context": "work-communication",
+    "frequencyRank": 36
+  },
+  {
+    "word": "自動選択",
+    "reading": "じどうせんたく",
+    "meaning": "automatic selection",
+    "context": "work-communication",
+    "frequencyRank": 37
+  },
+  {
+    "word": "自動濃度",
+    "reading": "じどうのうど",
+    "meaning": "automatic saturation",
+    "context": "work-communication",
+    "frequencyRank": 38
+  },
+  {
+    "word": "準備する",
+    "reading": "じゅんびする",
+    "meaning": "to prepare / to set up",
+    "context": "work-communication",
+    "frequencyRank": 39
+  },
+  {
+    "word": "数字",
+    "reading": "すうじ",
+    "meaning": "number",
+    "context": "work-communication",
+    "frequencyRank": 40
+  },
+  {
+    "word": "スキャナ",
+    "reading": "スキャナ",
+    "meaning": "scanner",
+    "context": "work-communication",
+    "frequencyRank": 41
+  },
+  {
+    "word": "スタート",
+    "reading": "スタート",
+    "meaning": "start",
+    "context": "work-communication",
+    "frequencyRank": 42
+  },
+  {
+    "word": "スペース",
+    "reading": "スペース",
+    "meaning": "space",
+    "context": "work-communication",
+    "frequencyRank": 43
+  },
+  {
+    "word": "セッティング",
+    "reading": "セッティング",
+    "meaning": "setting",
+    "context": "work-communication",
+    "frequencyRank": 44
+  },
+  {
+    "word": "セットする",
+    "reading": "セットする",
+    "meaning": "to set",
+    "context": "work-communication",
+    "frequencyRank": 45
+  },
+  {
+    "word": "倉庫",
+    "reading": "そうこ",
+    "meaning": "storeroom",
+    "context": "work-communication",
+    "frequencyRank": 46
+  },
+  {
+    "word": "ソート",
+    "reading": "ソート",
+    "meaning": "sort",
+    "context": "work-communication",
+    "frequencyRank": 47
+  },
+  {
+    "word": "棚",
+    "reading": "たな",
+    "meaning": "shelf",
+    "context": "work-communication",
+    "frequencyRank": 48
+  },
+  {
+    "word": "頼む",
+    "reading": "たのむ",
+    "meaning": "to request / to ask",
+    "context": "work-communication",
+    "frequencyRank": 49
+  },
+  {
+    "word": "単色",
+    "reading": "たんしょく",
+    "meaning": "monochrome",
+    "context": "work-communication",
+    "frequencyRank": 50
+  },
+  {
+    "word": "出す",
+    "reading": "だす",
+    "meaning": "to take out",
+    "context": "work-communication",
+    "frequencyRank": 51
+  },
+  {
+    "word": "つく",
+    "reading": "つく",
+    "meaning": "to be on (e.g. light turns on)",
+    "context": "work-communication",
+    "frequencyRank": 52
+  },
+  {
+    "word": "都合が悪い",
+    "reading": "つごうがわるい",
+    "meaning": "inconvenient",
+    "context": "work-communication",
+    "frequencyRank": 53
+  },
+  {
+    "word": "手差し",
+    "reading": "てざし",
+    "meaning": "insert by hand",
+    "context": "work-communication",
+    "frequencyRank": 54
+  },
+  {
+    "word": "できる",
+    "reading": "できる",
+    "meaning": "to finish",
+    "context": "work-communication",
+    "frequencyRank": 55
+  },
+  {
+    "word": "できるだけ",
+    "reading": "できるだけ",
+    "meaning": "as much as possible",
+    "context": "work-communication",
+    "frequencyRank": 56
+  },
+  {
+    "word": "電気",
+    "reading": "でんき",
+    "meaning": "light",
+    "context": "work-communication",
+    "frequencyRank": 57
+  },
+  {
+    "word": "電話する",
+    "reading": "でんわする",
+    "meaning": "to telephone",
+    "context": "work-communication",
+    "frequencyRank": 58
+  },
+  {
+    "word": "トイレットペーパー",
+    "reading": "トイレットペーパー",
+    "meaning": "toilet paper",
+    "context": "work-communication",
+    "frequencyRank": 59
+  },
+  {
+    "word": "等倍",
+    "reading": "とうばい",
+    "meaning": "same size",
+    "context": "work-communication",
+    "frequencyRank": 60
+  },
+  {
+    "word": "取って来る",
+    "reading": "とってくる",
+    "meaning": "to get and come back",
+    "context": "work-communication",
+    "frequencyRank": 61
+  },
+  {
+    "word": "扉",
+    "reading": "とびら",
+    "meaning": "door",
+    "context": "work-communication",
+    "frequencyRank": 62
+  },
+  {
+    "word": "とりあえず",
+    "reading": "とりあえず",
+    "meaning": "tentatively",
+    "context": "work-communication",
+    "frequencyRank": 63
+  },
+  {
+    "word": "なお",
+    "reading": "なお",
+    "meaning": "furthermore",
+    "context": "work-communication",
+    "frequencyRank": 64
+  },
+  {
+    "word": "なくなる",
+    "reading": "なくなる",
+    "meaning": "to be out of",
+    "context": "work-communication",
+    "frequencyRank": 65
+  },
+  {
+    "word": "並べる",
+    "reading": "ならべる",
+    "meaning": "to line up",
+    "context": "work-communication",
+    "frequencyRank": 66
+  },
+  {
+    "word": "2色",
+    "reading": "にしょく",
+    "meaning": "two colors",
+    "context": "work-communication",
+    "frequencyRank": 67
+  },
+  {
+    "word": "日程",
+    "reading": "にってい",
+    "meaning": "schedule",
+    "context": "work-communication",
+    "frequencyRank": 68
+  },
+  {
+    "word": "人数分",
+    "reading": "にんずうぶん",
+    "meaning": "for the number of people",
+    "context": "work-communication",
+    "frequencyRank": 69
+  },
+  {
+    "word": "倍率",
+    "reading": "ばいりつ",
+    "meaning": "scaling",
+    "context": "work-communication",
+    "frequencyRank": 70
+  },
+  {
+    "word": "パソコン",
+    "reading": "パソコン",
+    "meaning": "personal computer",
+    "context": "work-communication",
+    "frequencyRank": 71
+  },
+  {
+    "word": "日付",
+    "reading": "ひづけ",
+    "meaning": "date",
+    "context": "work-communication",
+    "frequencyRank": 72
+  },
+  {
+    "word": "ファックス",
+    "reading": "ファックス",
+    "meaning": "fax",
+    "context": "work-communication",
+    "frequencyRank": 73
+  },
+  {
+    "word": "フルカラー",
+    "reading": "フルカラー",
+    "meaning": "full color",
+    "context": "work-communication",
+    "frequencyRank": 74
+  },
+  {
+    "word": "変",
+    "reading": "へん",
+    "meaning": "strange",
+    "context": "work-communication",
+    "frequencyRank": 75
+  },
+  {
+    "word": "変更",
+    "reading": "へんこう",
+    "meaning": "change",
+    "context": "work-communication",
+    "frequencyRank": 76
+  },
+  {
+    "word": "変倍",
+    "reading": "へんばい",
+    "meaning": "different size",
+    "context": "work-communication",
+    "frequencyRank": 77
+  },
+  {
+    "word": "ホチキス止め",
+    "reading": "ホチキスどめ",
+    "meaning": "staple",
+    "context": "work-communication",
+    "frequencyRank": 78
+  },
+  {
+    "word": "ボタン",
+    "reading": "ボタン",
+    "meaning": "button",
+    "context": "work-communication",
+    "frequencyRank": 79
+  },
+  {
+    "word": "枚数",
+    "reading": "まいすう",
+    "meaning": "number of copies",
+    "context": "work-communication",
+    "frequencyRank": 80
+  },
+  {
+    "word": "丸い",
+    "reading": "まるい",
+    "meaning": "round",
+    "context": "work-communication",
+    "frequencyRank": 81
+  },
+  {
+    "word": "皆様",
+    "reading": "みなさま",
+    "meaning": "dear all (polite expression)",
+    "context": "work-communication",
+    "frequencyRank": 82
+  },
+  {
+    "word": "もうすぐ",
+    "reading": "もうすぐ",
+    "meaning": "soon / almost",
+    "context": "work-communication",
+    "frequencyRank": 83
+  },
+  {
+    "word": "戻す",
+    "reading": "もどす",
+    "meaning": "to return",
+    "context": "work-communication",
+    "frequencyRank": 84
+  },
+  {
+    "word": "やり方",
+    "reading": "やりかた",
+    "meaning": "how to do (something)",
+    "context": "work-communication",
+    "frequencyRank": 85
+  },
+  {
+    "word": "用紙",
+    "reading": "ようし",
+    "meaning": "paper",
+    "context": "work-communication",
+    "frequencyRank": 86
+  },
+  {
+    "word": "両面",
+    "reading": "りょうめん",
+    "meaning": "both sides",
+    "context": "work-communication",
+    "frequencyRank": 87
+  },
+  {
+    "word": "連絡する",
+    "reading": "れんらくする",
+    "meaning": "to contact",
+    "context": "work-communication",
+    "frequencyRank": 88
+  },
+  {
+    "word": "あとで",
+    "reading": "あとで",
+    "meaning": "later",
+    "context": "work-communication",
+    "frequencyRank": 89
+  },
+  {
+    "word": "家",
+    "reading": "いえ",
+    "meaning": "house",
+    "context": "work-communication",
+    "frequencyRank": 90
+  },
+  {
+    "word": "行って来る",
+    "reading": "いってくる",
+    "meaning": "to go (and come back after)",
+    "context": "work-communication",
+    "frequencyRank": 91
+  },
+  {
+    "word": "いる",
+    "reading": "いる",
+    "meaning": "to require",
+    "context": "work-communication",
+    "frequencyRank": 92
+  },
+  {
+    "word": "お祈り",
+    "reading": "おいのり",
+    "meaning": "prayer",
+    "context": "work-communication",
+    "frequencyRank": 93
+  },
+  {
+    "word": "遅くなる",
+    "reading": "おそくなる",
+    "meaning": "to be late",
+    "context": "work-communication",
+    "frequencyRank": 94
+  },
+  {
+    "word": "帰る",
+    "reading": "かえる",
+    "meaning": "to go home",
+    "context": "work-communication",
+    "frequencyRank": 95
+  },
+  {
+    "word": "期間",
+    "reading": "きかん",
+    "meaning": "duration",
+    "context": "work-communication",
+    "frequencyRank": 96
+  },
+  {
+    "word": "休暇届",
+    "reading": "きゅうかとどけ",
+    "meaning": "vacation request / leave form",
+    "context": "work-communication",
+    "frequencyRank": 97
+  },
+  {
+    "word": "具合が悪い",
+    "reading": "ぐあいがわるい",
+    "meaning": "feel bad / unwell",
+    "context": "work-communication",
+    "frequencyRank": 98
+  },
+  {
+    "word": "これから",
+    "reading": "これから",
+    "meaning": "from now",
+    "context": "work-communication",
+    "frequencyRank": 99
+  },
+  {
+    "word": "混んでいる",
+    "reading": "こんでいる",
+    "meaning": "crowded",
+    "context": "work-communication",
+    "frequencyRank": 100
+  },
+  {
+    "word": "財布",
+    "reading": "さいふ",
+    "meaning": "wallet",
+    "context": "work-communication",
+    "frequencyRank": 101
+  },
+  {
+    "word": "氏名",
+    "reading": "しめい",
+    "meaning": "full name",
+    "context": "work-communication",
+    "frequencyRank": 102
+  },
+  {
+    "word": "社長",
+    "reading": "しゃちょう",
+    "meaning": "president",
+    "context": "work-communication",
+    "frequencyRank": 103
+  },
+  {
+    "word": "主任",
+    "reading": "しゅにん",
+    "meaning": "chief",
+    "context": "work-communication",
+    "frequencyRank": 104
+  },
+  {
+    "word": "承認印",
+    "reading": "しょうにんいん",
+    "meaning": "seal of approval",
+    "context": "work-communication",
+    "frequencyRank": 105
+  },
+  {
+    "word": "所属",
+    "reading": "しょぞく",
+    "meaning": "affiliation",
+    "context": "work-communication",
+    "frequencyRank": 106
+  },
+  {
+    "word": "私用",
+    "reading": "しよう",
+    "meaning": "for private reason",
+    "context": "work-communication",
+    "frequencyRank": 107
+  },
+  {
+    "word": "事前に",
+    "reading": "じぜんに",
+    "meaning": "in advance",
+    "context": "work-communication",
+    "frequencyRank": 108
+  },
+  {
+    "word": "吸う",
+    "reading": "すう",
+    "meaning": "to smoke (e.g. smoke a cigarette)",
+    "context": "work-communication",
+    "frequencyRank": 109
+  },
+  {
+    "word": "済む",
+    "reading": "すむ",
+    "meaning": "to finish",
+    "context": "work-communication",
+    "frequencyRank": 110
+  },
+  {
+    "word": "せき",
+    "reading": "せき",
+    "meaning": "cough",
+    "context": "work-communication",
+    "frequencyRank": 111
+  },
+  {
+    "word": "早退する",
+    "reading": "そうたいする",
+    "meaning": "to leave early",
+    "context": "work-communication",
+    "frequencyRank": 112
+  },
+  {
+    "word": "総務",
+    "reading": "そうむ",
+    "meaning": "general affairs",
+    "context": "work-communication",
+    "frequencyRank": 113
+  },
+  {
+    "word": "それで",
+    "reading": "それで",
+    "meaning": "because of that",
+    "context": "work-communication",
+    "frequencyRank": 114
+  },
+  {
+    "word": "たばこ",
+    "reading": "たばこ",
+    "meaning": "tobacco / cigarette",
+    "context": "work-communication",
+    "frequencyRank": 115
+  },
+  {
+    "word": "遅刻する",
+    "reading": "ちこくする",
+    "meaning": "to be late",
+    "context": "work-communication",
+    "frequencyRank": 116
+  },
+  {
+    "word": "ちょっと、いいでしょうか？",
+    "reading": "ちょっと、いいでしょうか？",
+    "meaning": "Excuse me, but may I interrupt?",
+    "context": "work-communication",
+    "frequencyRank": 117
+  },
+  {
+    "word": "チーム",
+    "reading": "チーム",
+    "meaning": "team",
+    "context": "work-communication",
+    "frequencyRank": 118
+  },
+  {
+    "word": "伝える",
+    "reading": "つたえる",
+    "meaning": "to tell",
+    "context": "work-communication",
+    "frequencyRank": 119
+  },
+  {
+    "word": "提出する",
+    "reading": "ていしゅつする",
+    "meaning": "to submit",
+    "context": "work-communication",
+    "frequencyRank": 120
+  },
+  {
+    "word": "で",
+    "reading": "で",
+    "meaning": "because of that (a casual way of saying それで )",
+    "context": "work-communication",
+    "frequencyRank": 121
+  },
+  {
+    "word": "できたら",
+    "reading": "できたら",
+    "meaning": "if possible",
+    "context": "work-communication",
+    "frequencyRank": 122
+  },
+  {
+    "word": "取る",
+    "reading": "とる",
+    "meaning": "to pick up",
+    "context": "work-communication",
+    "frequencyRank": 123
+  },
+  {
+    "word": "熱",
+    "reading": "ねつ",
+    "meaning": "fever",
+    "context": "work-communication",
+    "frequencyRank": 124
+  },
+  {
+    "word": "熱がある",
+    "reading": "ねつがある",
+    "meaning": "to have a fever",
+    "context": "work-communication",
+    "frequencyRank": 125
+  },
+  {
+    "word": "早く",
+    "reading": "はやく",
+    "meaning": "early",
+    "context": "work-communication",
+    "frequencyRank": 126
+  },
+  {
+    "word": "ハンコ",
+    "reading": "ハンコ",
+    "meaning": "stamp",
+    "context": "work-communication",
+    "frequencyRank": 127
+  },
+  {
+    "word": "ひどい",
+    "reading": "ひどい",
+    "meaning": "bad / awful",
+    "context": "work-communication",
+    "frequencyRank": 128
+  },
+  {
+    "word": "備考",
+    "reading": "びこう",
+    "meaning": "remarks",
+    "context": "work-communication",
+    "frequencyRank": 129
+  },
+  {
+    "word": "病院",
+    "reading": "びょういん",
+    "meaning": "hospital",
+    "context": "work-communication",
+    "frequencyRank": 130
+  },
+  {
+    "word": "フォーム",
+    "reading": "フォーム",
+    "meaning": "form",
+    "context": "work-communication",
+    "frequencyRank": 131
+  },
+  {
+    "word": "普通",
+    "reading": "ふつう",
+    "meaning": "ordinary",
+    "context": "work-communication",
+    "frequencyRank": 132
+  },
+  {
+    "word": "かまいません",
+    "reading": "べつにかまいません",
+    "meaning": "No problem.",
+    "context": "work-communication",
+    "frequencyRank": 133
+  },
+  {
+    "word": "みなさん",
+    "reading": "みなさん",
+    "meaning": "everyone",
+    "context": "work-communication",
+    "frequencyRank": 134
+  },
+  {
+    "word": "申し訳ありません",
+    "reading": "もうしわけありません",
+    "meaning": "I am sorry.",
+    "context": "work-communication",
+    "frequencyRank": 135
+  },
+  {
+    "word": "持っている",
+    "reading": "もっている",
+    "meaning": "have",
+    "context": "work-communication",
+    "frequencyRank": 136
+  },
+  {
+    "word": "持つ",
+    "reading": "もつ",
+    "meaning": "to have",
+    "context": "work-communication",
+    "frequencyRank": 137
+  },
+  {
+    "word": "戻る",
+    "reading": "もどる",
+    "meaning": "to return",
+    "context": "work-communication",
+    "frequencyRank": 138
+  },
+  {
+    "word": "役所",
+    "reading": "やくしょ",
+    "meaning": "city hall",
+    "context": "work-communication",
+    "frequencyRank": 139
+  },
+  {
+    "word": "休みを取る",
+    "reading": "やすみをとる",
+    "meaning": "to take a day off / to get a leave",
+    "context": "work-communication",
+    "frequencyRank": 140
+  },
+  {
+    "word": "休む",
+    "reading": "やすむ",
+    "meaning": "to take a day off / to get a leave",
+    "context": "work-communication",
+    "frequencyRank": 141
+  },
+  {
+    "word": "用事",
+    "reading": "ようじ",
+    "meaning": "errand",
+    "context": "work-communication",
+    "frequencyRank": 142
+  },
+  {
+    "word": "来月",
+    "reading": "らいげつ",
+    "meaning": "next month",
+    "context": "work-communication",
+    "frequencyRank": 143
+  },
+  {
+    "word": "理由",
+    "reading": "りゆう",
+    "meaning": "reason",
+    "context": "work-communication",
+    "frequencyRank": 144
+  },
+  {
+    "word": "連絡先",
+    "reading": "れんらくさき",
+    "meaning": "contact information",
+    "context": "work-communication",
+    "frequencyRank": 145
+  },
+  {
+    "word": "忘れる",
+    "reading": "わすれる",
+    "meaning": "to forget",
+    "context": "work-communication",
+    "frequencyRank": 146
+  },
+  {
+    "word": "～中",
+    "reading": "～ちゅう",
+    "meaning": "while ～ (e.g. while on leave)",
+    "context": "work-communication",
+    "frequencyRank": 147
+  }
+]

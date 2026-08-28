@@ -1,10 +1,5 @@
 const OPTIONS_COUNT = 4;
 
-// kotoba's five drillable sub-modes: Reading and Meaning each split by scope
-// (word vs. word-in-sentence); Fill-in-the-blank is sentence-only by nature
-// (see README "Modes") and carries no scope of its own.
-const PROGRESS_MODES = ['reading-word', 'reading-sentence', 'meaning-word', 'meaning-sentence', 'fillblank'];
-
 const INSTRUCTIONS = {
   'reading-word': ['正しい読み方は？', 'Choose the correct reading'],
   'reading-sentence': ['緑字の読み方は？', 'Choose the reading for the highlighted word'],
@@ -12,13 +7,6 @@ const INSTRUCTIONS = {
   'meaning-sentence': ['緑字の意味は？', 'Choose the meaning of the highlighted word'],
   fillblank: ['空欄に入る言葉は？', 'Choose the word that fits the blank'],
 };
-
-// Every context in the curated seed dataset has exactly this many words and
-// sentences (see data/words|sentences/*.json), which is the total for Meaning
-// and Fill-in-blank. Reading mode drops kana-only items (their reading equals
-// the word — see loadItemList), so its real total is smaller; startRound
-// overrides it per context with the actual filtered pool size.
-const QUESTIONS_PER_CONTEXT = 15;
 
 const state = {
   mode: 'reading', // 'reading' | 'meaning' | 'fillblank'
@@ -177,10 +165,18 @@ function progressModeKey() {
   return state.mode === 'fillblank' ? 'fillblank' : `${state.mode}-${state.scope}`;
 }
 
-function registerTotalQuestionCounts() {
-  CONTEXTS.forEach(({ id }) => {
-    PROGRESS_MODES.forEach((pMode) => ProgressManager.setTotalQuestions(pMode, id, QUESTIONS_PER_CONTEXT));
-  });
+async function registerTotalQuestionCounts() {
+  await Promise.all(CONTEXTS.map(async ({ id }) => {
+    const [words, sentences] = await Promise.all([
+      fetchJSON(`data/words/${id}.json`),
+      fetchJSON(`data/sentences/${id}.json`),
+    ]);
+    ProgressManager.setTotalQuestions('reading-word', id, words.filter((entry) => hasKanji(entry.word)).length);
+    ProgressManager.setTotalQuestions('reading-sentence', id, sentences.filter((entry) => hasKanji(entry.target)).length);
+    ProgressManager.setTotalQuestions('meaning-word', id, words.length);
+    ProgressManager.setTotalQuestions('meaning-sentence', id, sentences.length);
+    ProgressManager.setTotalQuestions('fillblank', id, sentences.length);
+  }));
 }
 
 function renderContextGrid() {
@@ -189,7 +185,8 @@ function renderContextGrid() {
     const btn = document.createElement('button');
     btn.className = 'context-btn';
     btn.dataset.context = id;
-    btn.innerHTML = `<span class="key-badge key-badge-corner">${i + 1}</span>${label}<span>${labelEn}</span>`;
+    const shortcut = i < 9 ? `<span class="key-badge key-badge-corner">${i + 1}</span>` : '';
+    btn.innerHTML = `${shortcut}${label}<span>${labelEn}</span>`;
     btn.addEventListener('click', () => selectContext(id));
     el.contextGrid.appendChild(btn);
   });
@@ -869,7 +866,7 @@ const ARROW_DELTAS = {
 };
 
 // Keyboard shortcuts, mirrored by the on-screen key-badges: r/m/f switch
-// mode, w/s switch scope, 1-8 pick a context and start a round, 0 quits a
+// mode, w/s switch scope, 1-9 pick a context and start a round, 0 quits a
 // quiz, 1-4 pick a quiz option, 1/2 retry or start over on the summary
 // screen. Arrow keys move focus between on-screen buttons on every screen.
 document.addEventListener('keydown', (e) => {
@@ -907,7 +904,10 @@ document.addEventListener('keydown', (e) => {
       if (key === 'w') { document.querySelector('.toggle-btn[data-scope="word"]').click(); return; }
       if (key === 's') { document.querySelector('.toggle-btn[data-scope="sentence"]').click(); return; }
     }
-    const btn = el.contextGrid.children[Number(e.key) - 1];
+    const contextIndex = Number(e.key) - 1;
+    const btn = Number.isInteger(contextIndex) && contextIndex >= 0 && contextIndex < 9
+      ? el.contextGrid.children[contextIndex]
+      : null;
     if (btn) btn.click();
     return;
   }
@@ -958,7 +958,7 @@ async function init() {
 
   try {
     CONTEXTS = await fetchJSON('data/contexts.json');
-    registerTotalQuestionCounts();
+    await registerTotalQuestionCounts();
     renderContextGrid();
     renderContextProgressList();
   } catch (err) {

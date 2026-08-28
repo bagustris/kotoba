@@ -10,9 +10,11 @@ drills the *shape and reading* of individual kanji, kotoba drills the
 actually used — grouped by the everyday situations you'd meet them in.
 
 > [!NOTE]
-> **Status: v1 implemented**, with a curated seed dataset (9 contexts —
+> **Status: v1 implemented**, with a curated dataset (16 contexts —
 > restaurant, hospital, station, airport, classroom, home, workplace, and
-> hobby, and weather) rather than the full frequency-ranked word list
+> hobby, weather, my town, going out together, Japanese study, cooking, work
+> communication, healthy living, and social relationships)
+> rather than the full frequency-ranked word list
 > described under "Data sources" below. All three modes, spaced repetition,
 > and adaptive distractor selection (ported from
 > [kanji-drill](https://github.com/bagustris/kanji-drill)'s learning engine)
@@ -104,15 +106,18 @@ Fill-in-blank: 昨日、ラーメンを＿＿＿＿ました。   → 食べ
 - [IRODORI online course / いろどり 生活の日本語](https://www.irodori.jpf.go.jp/) —
   The Japan Foundation Japanese-Language Institute, Urawa. Word-level
   vocabulary of the `workplace` and `hobby` contexts comes from Lessons 1 and
-  2. The `weather` context comes from Lesson 3
-  (`resources/lesson3-words-en.pdf`). An additional **authentic sentence set**
+  2. The bundled Lesson 3–18 resources
+  (`resources/lesson{3..18}-words-en.pdf`) provide the `weather` (Lessons
+  3–4), `neighborhood` (5–6), `outings` (7–8), `japanese-study` (9–10),
+  `cooking` (11–12), `work-communication` (13–14), `health` (15–16), and
+  `relationships` (17–18) contexts. An additional **authentic sentence set**
   for those contexts is recovered from the same lesson pages, tagged
-  `source: "irodori-l1"/"irodori-l2"/"irodori-l3"` with the official English gloss;
+  `source: "irodori-l1"` through `"irodori-l18"` with the official English gloss;
   where OCR had dropped kana so the Japanese could not be recovered verbatim,
   the Lesson 1/2 sentence is tagged `note: "reconstructed"` (only two of
-  those sentences are `note: "verbatim"`). The 28 Lesson 3 weather sentences
-  were recovered verbatim. — © The Japan Foundation, free for non-commercial
-  use with attribution.
+  those sentences are `note: "verbatim"`). The Lesson 3/4 weather sentences
+  and all Lesson 5–18 sentence records were recovered verbatim. — © The Japan
+  Foundation, free for non-commercial use with attribution.
 - [できる日本語 初中級](https://www.3anet.co.jp/) — 3A Corporation. Word-level
   vocabulary of the same two contexts additionally draws on Lesson 1's
   sub-topics (新しい一歩: job hunting and meeting people) via its official

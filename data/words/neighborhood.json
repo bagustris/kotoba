@@ -1,0 +1,695 @@
+[
+  {
+    "word": "一度",
+    "reading": "いちど",
+    "meaning": "once",
+    "context": "neighborhood",
+    "frequencyRank": 1
+  },
+  {
+    "word": "行ってみる",
+    "reading": "いってみる",
+    "meaning": "to try to go",
+    "context": "neighborhood",
+    "frequencyRank": 2
+  },
+  {
+    "word": "田舎",
+    "reading": "いなか",
+    "meaning": "countryside",
+    "context": "neighborhood",
+    "frequencyRank": 3
+  },
+  {
+    "word": "美しい",
+    "reading": "うつくしい",
+    "meaning": "beautiful",
+    "context": "neighborhood",
+    "frequencyRank": 4
+  },
+  {
+    "word": "多い",
+    "reading": "おおい",
+    "meaning": "many",
+    "context": "neighborhood",
+    "frequencyRank": 5
+  },
+  {
+    "word": "丘",
+    "reading": "おか",
+    "meaning": "hill",
+    "context": "neighborhood",
+    "frequencyRank": 6
+  },
+  {
+    "word": "おすすめ",
+    "reading": "おすすめ",
+    "meaning": "recommended",
+    "context": "neighborhood",
+    "frequencyRank": 7
+  },
+  {
+    "word": "おもしろい",
+    "reading": "おもしろい",
+    "meaning": "interesting / entertaining",
+    "context": "neighborhood",
+    "frequencyRank": 8
+  },
+  {
+    "word": "泳ぐ",
+    "reading": "およぐ",
+    "meaning": "to swim",
+    "context": "neighborhood",
+    "frequencyRank": 9
+  },
+  {
+    "word": "休憩所",
+    "reading": "きゅうけいじょ",
+    "meaning": "rest area",
+    "context": "neighborhood",
+    "frequencyRank": 10
+  },
+  {
+    "word": "きれい",
+    "reading": "きれい",
+    "meaning": "beautiful",
+    "context": "neighborhood",
+    "frequencyRank": 11
+  },
+  {
+    "word": "サイクリングコース",
+    "reading": "サイクリングコース",
+    "meaning": "cycling course",
+    "context": "neighborhood",
+    "frequencyRank": 12
+  },
+  {
+    "word": "知っている",
+    "reading": "しっている",
+    "meaning": "know",
+    "context": "neighborhood",
+    "frequencyRank": 13
+  },
+  {
+    "word": "ショッピングモール",
+    "reading": "ショッピングモール",
+    "meaning": "shopping mall",
+    "context": "neighborhood",
+    "frequencyRank": 14
+  },
+  {
+    "word": "知る",
+    "reading": "しる",
+    "meaning": "to know",
+    "context": "neighborhood",
+    "frequencyRank": 15
+  },
+  {
+    "word": "親切",
+    "reading": "しんせつ",
+    "meaning": "kind / helpful",
+    "context": "neighborhood",
+    "frequencyRank": 16
+  },
+  {
+    "word": "少ない",
+    "reading": "すくない",
+    "meaning": "few / a little",
+    "context": "neighborhood",
+    "frequencyRank": 17
+  },
+  {
+    "word": "砂浜",
+    "reading": "すなはま",
+    "meaning": "sandy beach",
+    "context": "neighborhood",
+    "frequencyRank": 18
+  },
+  {
+    "word": "スポーツセンター",
+    "reading": "スポーツセンター",
+    "meaning": "sports center",
+    "context": "neighborhood",
+    "frequencyRank": 19
+  },
+  {
+    "word": "住みやすい",
+    "reading": "すみやすい",
+    "meaning": "comfortable",
+    "context": "neighborhood",
+    "frequencyRank": 20
+  },
+  {
+    "word": "ぜひ",
+    "reading": "ぜひ",
+    "meaning": "definitely",
+    "context": "neighborhood",
+    "frequencyRank": 21
+  },
+  {
+    "word": "そうだなあ",
+    "reading": "そうだなあ",
+    "meaning": "Let’s see... (used when the speaker is",
+    "context": "neighborhood",
+    "frequencyRank": 22
+  },
+  {
+    "word": "そうね……",
+    "reading": "そうね……",
+    "meaning": "Hmm... (used when the speaker is thinking)",
+    "context": "neighborhood",
+    "frequencyRank": 23
+  },
+  {
+    "word": "タウンマップ",
+    "reading": "タウンマップ",
+    "meaning": "map of town",
+    "context": "neighborhood",
+    "frequencyRank": 24
+  },
+  {
+    "word": "確かに",
+    "reading": "たしかに",
+    "meaning": "certainly",
+    "context": "neighborhood",
+    "frequencyRank": 25
+  },
+  {
+    "word": "建物",
+    "reading": "たてもの",
+    "meaning": "building",
+    "context": "neighborhood",
+    "frequencyRank": 26
+  },
+  {
+    "word": "冷たい",
+    "reading": "つめたい",
+    "meaning": "cold / indifferent",
+    "context": "neighborhood",
+    "frequencyRank": 27
+  },
+  {
+    "word": "展望台",
+    "reading": "てんぼうだい",
+    "meaning": "observation platform",
+    "context": "neighborhood",
+    "frequencyRank": 28
+  },
+  {
+    "word": "遠い",
+    "reading": "とおい",
+    "meaning": "far",
+    "context": "neighborhood",
+    "frequencyRank": 29
+  },
+  {
+    "word": "都会",
+    "reading": "とかい",
+    "meaning": "city",
+    "context": "neighborhood",
+    "frequencyRank": 30
+  },
+  {
+    "word": "ところ",
+    "reading": "ところ",
+    "meaning": "place",
+    "context": "neighborhood",
+    "frequencyRank": 31
+  },
+  {
+    "word": "どこか",
+    "reading": "どこか",
+    "meaning": "somewhere",
+    "context": "neighborhood",
+    "frequencyRank": 32
+  },
+  {
+    "word": "どんな",
+    "reading": "どんな",
+    "meaning": "what kind of",
+    "context": "neighborhood",
+    "frequencyRank": 33
+  },
+  {
+    "word": "にぎやか",
+    "reading": "にぎやか",
+    "meaning": "lively",
+    "context": "neighborhood",
+    "frequencyRank": 34
+  },
+  {
+    "word": "人気",
+    "reading": "にんき",
+    "meaning": "popular",
+    "context": "neighborhood",
+    "frequencyRank": 35
+  },
+  {
+    "word": "場所",
+    "reading": "ばしょ",
+    "meaning": "place",
+    "context": "neighborhood",
+    "frequencyRank": 36
+  },
+  {
+    "word": "バーベキュー場",
+    "reading": "バーベキューじょう",
+    "meaning": "barbecue area",
+    "context": "neighborhood",
+    "frequencyRank": 37
+  },
+  {
+    "word": "人",
+    "reading": "ひと",
+    "meaning": "people",
+    "context": "neighborhood",
+    "frequencyRank": 38
+  },
+  {
+    "word": "評判",
+    "reading": "ひょうばん",
+    "meaning": "reputation",
+    "context": "neighborhood",
+    "frequencyRank": 39
+  },
+  {
+    "word": "ビーチ",
+    "reading": "ビーチ",
+    "meaning": "beach",
+    "context": "neighborhood",
+    "frequencyRank": 40
+  },
+  {
+    "word": "不便",
+    "reading": "ふべん",
+    "meaning": "inconvenient",
+    "context": "neighborhood",
+    "frequencyRank": 41
+  },
+  {
+    "word": "便利",
+    "reading": "べんり",
+    "meaning": "convenient",
+    "context": "neighborhood",
+    "frequencyRank": 42
+  },
+  {
+    "word": "町",
+    "reading": "まち",
+    "meaning": "town",
+    "context": "neighborhood",
+    "frequencyRank": 43
+  },
+  {
+    "word": "店",
+    "reading": "みせ",
+    "meaning": "store / restaurant",
+    "context": "neighborhood",
+    "frequencyRank": 44
+  },
+  {
+    "word": "緑",
+    "reading": "みどり",
+    "meaning": "greenery",
+    "context": "neighborhood",
+    "frequencyRank": 45
+  },
+  {
+    "word": "見渡す",
+    "reading": "みわたす",
+    "meaning": "to overlook",
+    "context": "neighborhood",
+    "frequencyRank": 46
+  },
+  {
+    "word": "名物",
+    "reading": "めいぶつ",
+    "meaning": "local specialty",
+    "context": "neighborhood",
+    "frequencyRank": 47
+  },
+  {
+    "word": "やさしい",
+    "reading": "やさしい",
+    "meaning": "kind / friendly",
+    "context": "neighborhood",
+    "frequencyRank": 48
+  },
+  {
+    "word": "安い",
+    "reading": "やすい",
+    "meaning": "cheap",
+    "context": "neighborhood",
+    "frequencyRank": 49
+  },
+  {
+    "word": "夕日",
+    "reading": "ゆうひ",
+    "meaning": "sunset",
+    "context": "neighborhood",
+    "frequencyRank": 50
+  },
+  {
+    "word": "有名",
+    "reading": "ゆうめい",
+    "meaning": "famous",
+    "context": "neighborhood",
+    "frequencyRank": 51
+  },
+  {
+    "word": "青い",
+    "reading": "あおい",
+    "meaning": "blue",
+    "context": "neighborhood",
+    "frequencyRank": 52
+  },
+  {
+    "word": "アジア食材",
+    "reading": "アジアしょくざい",
+    "meaning": "Asian ingredients",
+    "context": "neighborhood",
+    "frequencyRank": 53
+  },
+  {
+    "word": "ある",
+    "reading": "ある",
+    "meaning": "to be present in",
+    "context": "neighborhood",
+    "frequencyRank": 54
+  },
+  {
+    "word": "横断歩道",
+    "reading": "おうだんほどう",
+    "meaning": "pedestrian crossing",
+    "context": "neighborhood",
+    "frequencyRank": 55
+  },
+  {
+    "word": "大きな",
+    "reading": "おおきな",
+    "meaning": "large",
+    "context": "neighborhood",
+    "frequencyRank": 56
+  },
+  {
+    "word": "送る",
+    "reading": "おくる",
+    "meaning": "to take someone home",
+    "context": "neighborhood",
+    "frequencyRank": 57
+  },
+  {
+    "word": "お待ちしております",
+    "reading": "おまちしております",
+    "meaning": "We look forward to seeing you.",
+    "context": "neighborhood",
+    "frequencyRank": 58
+  },
+  {
+    "word": "帰る",
+    "reading": "かえる",
+    "meaning": "to go home",
+    "context": "neighborhood",
+    "frequencyRank": 59
+  },
+  {
+    "word": "科学",
+    "reading": "かがく",
+    "meaning": "science",
+    "context": "neighborhood",
+    "frequencyRank": 60
+  },
+  {
+    "word": "角",
+    "reading": "かど",
+    "meaning": "corner",
+    "context": "neighborhood",
+    "frequencyRank": 61
+  },
+  {
+    "word": "北口",
+    "reading": "きたぐち",
+    "meaning": "north exit / entrance",
+    "context": "neighborhood",
+    "frequencyRank": 62
+  },
+  {
+    "word": "銀行",
+    "reading": "ぎんこう",
+    "meaning": "bank",
+    "context": "neighborhood",
+    "frequencyRank": 63
+  },
+  {
+    "word": "黒い",
+    "reading": "くろい",
+    "meaning": "black",
+    "context": "neighborhood",
+    "frequencyRank": 64
+  },
+  {
+    "word": "高校",
+    "reading": "こうこう",
+    "meaning": "high school",
+    "context": "neighborhood",
+    "frequencyRank": 65
+  },
+  {
+    "word": "交差点",
+    "reading": "こうさてん",
+    "meaning": "intersection",
+    "context": "neighborhood",
+    "frequencyRank": 66
+  },
+  {
+    "word": "交番",
+    "reading": "こうばん",
+    "meaning": "police substation",
+    "context": "neighborhood",
+    "frequencyRank": 67
+  },
+  {
+    "word": "ここでいいです",
+    "reading": "ここでいいです",
+    "meaning": "Here is fine.",
+    "context": "neighborhood",
+    "frequencyRank": 68
+  },
+  {
+    "word": "市立",
+    "reading": "しりつ",
+    "meaning": "municipal",
+    "context": "neighborhood",
+    "frequencyRank": 69
+  },
+  {
+    "word": "白い",
+    "reading": "しろい",
+    "meaning": "white",
+    "context": "neighborhood",
+    "frequencyRank": 70
+  },
+  {
+    "word": "信号",
+    "reading": "しんごう",
+    "meaning": "traffic lights",
+    "context": "neighborhood",
+    "frequencyRank": 71
+  },
+  {
+    "word": "神社",
+    "reading": "じんじゃ",
+    "meaning": "shrine",
+    "context": "neighborhood",
+    "frequencyRank": 72
+  },
+  {
+    "word": "すぐ",
+    "reading": "すぐ",
+    "meaning": "just",
+    "context": "neighborhood",
+    "frequencyRank": 73
+  },
+  {
+    "word": "ずっと",
+    "reading": "ずっと",
+    "meaning": "all the way / without turning",
+    "context": "neighborhood",
+    "frequencyRank": 74
+  },
+  {
+    "word": "そうすると",
+    "reading": "そうすると",
+    "meaning": "after that",
+    "context": "neighborhood",
+    "frequencyRank": 75
+  },
+  {
+    "word": "そちら",
+    "reading": "そちら",
+    "meaning": "there",
+    "context": "neighborhood",
+    "frequencyRank": 76
+  },
+  {
+    "word": "駐車場",
+    "reading": "ちゅうしゃじょう",
+    "meaning": "parking lot",
+    "context": "neighborhood",
+    "frequencyRank": 77
+  },
+  {
+    "word": "デパート",
+    "reading": "デパート",
+    "meaning": "department store",
+    "context": "neighborhood",
+    "frequencyRank": 78
+  },
+  {
+    "word": "どの辺？",
+    "reading": "どのへん？",
+    "meaning": "Where is it?",
+    "context": "neighborhood",
+    "frequencyRank": 79
+  },
+  {
+    "word": "入る",
+    "reading": "はいる",
+    "meaning": "to turn",
+    "context": "neighborhood",
+    "frequencyRank": 80
+  },
+  {
+    "word": "博物館",
+    "reading": "はくぶつかん",
+    "meaning": "museum",
+    "context": "neighborhood",
+    "frequencyRank": 81
+  },
+  {
+    "word": "橋",
+    "reading": "はし",
+    "meaning": "bridge",
+    "context": "neighborhood",
+    "frequencyRank": 82
+  },
+  {
+    "word": "バス停",
+    "reading": "バスてい",
+    "meaning": "bus stop",
+    "context": "neighborhood",
+    "frequencyRank": 83
+  },
+  {
+    "word": "左",
+    "reading": "ひだり",
+    "meaning": "left",
+    "context": "neighborhood",
+    "frequencyRank": 84
+  },
+  {
+    "word": "1つ目",
+    "reading": "ひとつめ",
+    "meaning": "the first",
+    "context": "neighborhood",
+    "frequencyRank": 85
+  },
+  {
+    "word": "病院",
+    "reading": "びょういん",
+    "meaning": "hospital",
+    "context": "neighborhood",
+    "frequencyRank": 86
+  },
+  {
+    "word": "ビル",
+    "reading": "ビル",
+    "meaning": "building",
+    "context": "neighborhood",
+    "frequencyRank": 87
+  },
+  {
+    "word": "2つ目",
+    "reading": "ふたつめ",
+    "meaning": "the second",
+    "context": "neighborhood",
+    "frequencyRank": 88
+  },
+  {
+    "word": "曲がったところ",
+    "reading": "まがったところ",
+    "meaning": "after turning",
+    "context": "neighborhood",
+    "frequencyRank": 89
+  },
+  {
+    "word": "曲がる",
+    "reading": "まがる",
+    "meaning": "to turn",
+    "context": "neighborhood",
+    "frequencyRank": 90
+  },
+  {
+    "word": "まっすぐ",
+    "reading": "まっすぐ",
+    "meaning": "straight",
+    "context": "neighborhood",
+    "frequencyRank": 91
+  },
+  {
+    "word": "見える",
+    "reading": "みえる",
+    "meaning": "to see",
+    "context": "neighborhood",
+    "frequencyRank": 92
+  },
+  {
+    "word": "右",
+    "reading": "みぎ",
+    "meaning": "right",
+    "context": "neighborhood",
+    "frequencyRank": 93
+  },
+  {
+    "word": "道",
+    "reading": "みち",
+    "meaning": "road",
+    "context": "neighborhood",
+    "frequencyRank": 94
+  },
+  {
+    "word": "道案内",
+    "reading": "みちあんない",
+    "meaning": "directions",
+    "context": "neighborhood",
+    "frequencyRank": 95
+  },
+  {
+    "word": "もの",
+    "reading": "もの",
+    "meaning": "thing / something",
+    "context": "neighborhood",
+    "frequencyRank": 96
+  },
+  {
+    "word": "郵便局",
+    "reading": "ゆうびんきょく",
+    "meaning": "post office",
+    "context": "neighborhood",
+    "frequencyRank": 97
+  },
+  {
+    "word": "渡る",
+    "reading": "わたる",
+    "meaning": "to cross / to go across",
+    "context": "neighborhood",
+    "frequencyRank": 98
+  },
+  {
+    "word": "～つ目",
+    "reading": "～つめ",
+    "meaning": "the ～ th (number)",
+    "context": "neighborhood",
+    "frequencyRank": 99
+  }
+]

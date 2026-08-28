@@ -17,7 +17,13 @@ SENT_KEYS = {'sentence', 'target', 'reading', 'fullReading', 'meaning',
              'translation', 'context'}
 # Optional provenance metadata (second-set entries sourced from textbooks).
 SENT_OPT_KEYS = {'source', 'note'}
-SOURCE_WHITELIST = {'irodori-l1', 'irodori-l2', 'irodori-l3', 'dekiru-l1'}
+SOURCE_WHITELIST = {
+    'irodori-l1', 'irodori-l2', 'irodori-l3', 'irodori-l4',
+    'irodori-l5', 'irodori-l6', 'irodori-l7', 'irodori-l8',
+    'irodori-l9', 'irodori-l10', 'irodori-l11', 'irodori-l12',
+    'irodori-l13', 'irodori-l14', 'irodori-l15', 'irodori-l16',
+    'irodori-l17', 'irodori-l18', 'dekiru-l1',
+}
 NOTE_WHITELIST = {'verbatim', 'reconstructed'}
 issues = []
 
