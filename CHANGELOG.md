@@ -30,6 +30,10 @@ source of truth for the app version.
   `source: "irodori-l4"` with their official English glosses.
 
 ### Changed
+- Tapping a revealed example sentence now reads it aloud (its whole-sentence
+  kana reading), like tapping the quizzed word — an explicit tap works
+  regardless of the 読み上げ auto-speak setting, and only needs a Web Speech
+  voice. A small speaker mark appears on each sentence when audio is available.
 - With auto-advance off, only tapping つづける (or Enter/Space/→) now moves to
   the next question — tapping elsewhere no longer advances. Tapping the
   revealed word/sentence instead replays its reading aloud, regardless of the

@@ -555,6 +555,21 @@ function renderExamples(q) {
   const label = q.examples.length > 1 ? 'れい文<span>Example sentences</span>' : 'れい文<span>Example sentence</span>';
   el.quizExamples.innerHTML = `<div class="quiz-examples-label">${label}</div><ul>${rows}${more}</ul>`;
   el.quizExamples.classList.remove('hidden');
+  // Tap-to-hear: an explicit tap on a sentence speaks it aloud, so like
+  // replayReading it ignores the playAudio setting (which only gates the
+  // automatic speech-on-reveal) and needs Web Speech support alone. The
+  // speaker affordance is likewise shown only when audio is actually usable.
+  el.quizExamples.classList.toggle('has-audio', AudioPlayer.isSupported());
+  // Bound per-render via closure — the panel is rebuilt every reveal, so the
+  // old node and its listeners are discarded with innerHTML replacement.
+  el.quizExamples.querySelectorAll('.ex-sentence').forEach((span, i) => {
+    const example = shown[i];
+    if (!example) return;
+    span.addEventListener('click', () => {
+      const text = (example.fullReading || example.sentence || '').replace(/\./g, '');
+      if (text) AudioPlayer.speak(text);
+    });
+  });
 }
 
 function startRound() {

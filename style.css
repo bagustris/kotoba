@@ -820,7 +820,26 @@ html, body {
 
 .quiz-examples li:first-child { border-top: none; }
 
-.ex-sentence { display: block; font-size: 1.05rem; }
+.ex-sentence {
+  display: block;
+  font-size: 1.05rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.ex-sentence:hover, .ex-sentence:active {
+  background: rgba(128, 128, 128, 0.08);
+}
+
+/* Speaker affordance on each sentence — shown only when Web Speech is
+   actually available (renderExamples toggles .has-audio). */
+.quiz-examples.has-audio .ex-sentence::after {
+  content: '🔊';
+  font-size: 0.8em;
+  margin-left: 0.35em;
+  color: var(--accent);
+  vertical-align: 1px;
+}
 
 .ex-gloss {
   display: block;
