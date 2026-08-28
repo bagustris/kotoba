@@ -23,6 +23,10 @@ SOURCE_WHITELIST = {
     'irodori-l9', 'irodori-l10', 'irodori-l11', 'irodori-l12',
     'irodori-l13', 'irodori-l14', 'irodori-l15', 'irodori-l16',
     'irodori-l17', 'irodori-l18', 'dekiru-l1',
+    'irodori2-l1', 'irodori2-l2', 'irodori2-l3', 'irodori2-l4',
+    'irodori2-l5', 'irodori2-l6', 'irodori2-l7', 'irodori2-l8',
+    'irodori2-l9', 'irodori2-l10', 'irodori2-l11', 'irodori2-l12',
+    'irodori2-l13', 'irodori2-l14', 'irodori2-l15', 'irodori2-l16',
 }
 NOTE_WHITELIST = {'verbatim', 'reconstructed'}
 issues = []

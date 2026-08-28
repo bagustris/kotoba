@@ -122,6 +122,20 @@ Fill-in-blank: 昨日、ラーメンを＿＿＿＿ました。   → 食べ
   vocabulary of the same two contexts additionally draws on Lesson 1's
   sub-topics (新しい一歩: job hunting and meeting people) via its official
   English translation list (`resource/7024084_list_English.pdf`);
+- [IRODORI online course / いろどり 生活の日本語](https://www.irodori.jpf.go.jp/) —
+  The Japan Foundation Japanese-Language Institute, Urawa. A second,
+  higher-level lesson set (`res2/lesson{1..16}-words-en.pdf`, distinct
+  lesson numbering from the Lesson 1–18 set above) provides full word and
+  sentence coverage for `life-story` (Lessons 1–2), `life-events` (9–10),
+  `errands` (13–14), and `disaster-prep` (15–16), plus extensions to the
+  existing `restaurant` (Lesson 3), `cooking` (4), `outings` (5–8), and
+  `neighborhood` (11–12) contexts. Word/reading/meaning and example
+  sentences are recovered from the PDFs' selectable text (no OCR needed),
+  tagged `source: "irodori2-l1"` through `"irodori2-l16"`; most sentences
+  are `note: "verbatim"`, with `note: "reconstructed"` where a PDF example
+  was a dialogue, shared by multiple headwords, or otherwise needed light
+  adaptation. — © The Japan Foundation, free for non-commercial use with
+  attribution.
 - All other example sentences are original kotoba sentences written around
   the extracted words, not copied from any textbook.
 
