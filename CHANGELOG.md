@@ -12,6 +12,11 @@ source of truth for the app version.
 ## [Unreleased]
 
 ### Added
+- New Settings toggle "Show example sentence after answering" (on by default):
+  for Word-only scope in Reading and Meaning mode, reveals an existing
+  sentence from the context's `data/sentences/` that uses the word, once the
+  question is answered — reusing data already in the app rather than writing
+  new example sentences.
 - New IRODORI contexts, built from the bundled Lesson 5–18 word pages with
   their distinct authentic example sentences and provenance: 私の町 "My Town"
   (`neighborhood`, Lessons 5–6; 99 words / 73 sentences), 一緒に出かける
@@ -23,6 +28,12 @@ source of truth for the app version.
 - The 天気 "Weather & Seasons" context now includes IRODORI Lesson 4's 34
   vocabulary entries and 27 unique example sentences, tagged
   `source: "irodori-l4"` with their official English glosses.
+
+### Changed
+- With auto-advance off, only tapping つづける (or Enter/Space/→) now moves to
+  the next question — tapping elsewhere no longer advances. Tapping the
+  revealed word/sentence instead replays its reading aloud, regardless of the
+  読み上げ auto-speak setting.
 
 ### Fixed
 - Context progress now uses each fetched dataset's actual item count instead

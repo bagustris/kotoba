@@ -693,6 +693,12 @@ html, body {
   line-height: 1.7;
 }
 
+/* Tap-to-replay is only wired up while awaiting a manual continue (autoNext
+   off, answer already revealed) — see armContinue/replayReading in app.js. */
+.quiz-word.replayable {
+  cursor: pointer;
+}
+
 .quiz-sentence-target {
   color: var(--accent);
   font-weight: bold;
@@ -773,6 +779,55 @@ html, body {
 @keyframes quiz-continue-fade {
   from { opacity: 0; }
   to { opacity: 1; }
+}
+
+/* Example sentence revealed after answering (Word-only scope, Reading/Meaning
+   mode) — an existing sentence from data/sentences/ that uses this word,
+   reusing rather than inventing content (see CLAUDE.md "Data conventions"). */
+.quiz-examples {
+  margin: 1rem 0 0;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--card-bg);
+  text-align: left;
+}
+
+.quiz-examples.hidden { display: none; }
+
+.quiz-examples-label {
+  font-size: 0.7rem;
+  color: #8a9188;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.3rem;
+}
+
+.quiz-examples-label span {
+  display: block;
+  margin-top: 0.15rem;
+}
+
+.quiz-examples ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.quiz-examples li {
+  padding: 0.3rem 0;
+  border-top: 1px solid var(--border);
+}
+
+.quiz-examples li:first-child { border-top: none; }
+
+.ex-sentence { display: block; font-size: 1.05rem; }
+
+.ex-gloss {
+  display: block;
+  font-size: 0.85rem;
+  color: #8a9188;
+  font-style: italic;
+  margin-top: 0.15rem;
 }
 
 /* "Weak spot" marker for a leech (an item the learner keeps missing). Subtle,

@@ -45,6 +45,7 @@ const el = {
   quizHint: document.getElementById('quiz-hint'),
   quizInstruction: document.getElementById('quiz-instruction'),
   quizOptions: document.getElementById('quiz-options'),
+  quizExamples: document.getElementById('quiz-examples'),
   quizContinue: document.getElementById('quiz-continue'),
   quizLeechBadge: document.getElementById('quiz-leech-badge'),
   summaryScore: document.getElementById('summary-score'),
@@ -59,6 +60,7 @@ const el = {
   settingFurigana: document.getElementById('setting-furigana'),
   settingAutoNext: document.getElementById('setting-auto-next'),
   settingPlayAudio: document.getElementById('setting-play-audio'),
+  settingShowExamples: document.getElementById('setting-show-examples'),
   settingRoundSizeButtons: document.querySelectorAll('#setting-round-size .segmented-btn'),
   installButton: document.getElementById('btn-install'),
   installHint: document.getElementById('settings-install-hint'),
@@ -243,6 +245,37 @@ el.btnQuit.addEventListener('click', () => showScreen('home'));
 el.btnHome.addEventListener('click', () => showScreen('home'));
 el.btnRetry.addEventListener('click', () => startRound());
 
+// The only way to advance past a revealed answer when autoNext is off —
+// tapping elsewhere on the page (including the word/sentence, see below) no
+// longer advances. A single listener that only acts while armContinue() has
+// set awaitingContinue, so nothing to add/remove per question.
+el.quizContinue.addEventListener('click', () => {
+  if (awaitingContinue) advanceQuestion();
+});
+
+// Tapping the word/sentence while awaiting a manual continue replays the
+// revealed reading instead of advancing (see replayReading/armContinue) — a
+// no-op before answering or while autoNext is on (awaitingContinue is only
+// ever true during the manual-continue wait).
+el.quizWord.addEventListener('click', () => {
+  if (awaitingContinue) replayReading();
+});
+
+// Word-only scope has no sentence of its own, but data/sentences/<context>.json
+// often carries a sentence whose `target` is exactly this word — reused (never
+// invented, see CLAUDE.md "Data conventions") as the optional post-answer
+// example (see renderExamples). Not every word has a match (sentence coverage
+// varies per context), so callers get an empty array for those.
+async function loadExamplesByWord(context) {
+  const sentences = await fetchJSON(`data/sentences/${context}.json`);
+  const byWord = new Map();
+  sentences.forEach((s) => {
+    if (!byWord.has(s.target)) byWord.set(s.target, []);
+    byWord.get(s.target).push(s);
+  });
+  return byWord;
+}
+
 // Reshapes the raw data/*.json entries into a uniform shape the learning
 // engine understands: `readings` holds the correct-answer string(s) being
 // quizzed, `meaning` holds whatever secondary text is used as a togglable
@@ -255,7 +288,10 @@ async function loadItemList(mode, scope, context) {
     return entries.map((e) => ({ sentence: e.sentence, target: e.target, readings: [e.target], meaning: e.translation, hintReading: e.reading, fullReading: e.fullReading }));
   }
   if (scope === 'word') {
-    const entries = await fetchJSON(`data/words/${context}.json`);
+    const [entries, examplesByWord] = await Promise.all([
+      fetchJSON(`data/words/${context}.json`),
+      loadExamplesByWord(context),
+    ]);
     if (mode === 'reading') {
       // Kana-only words (メニュー, ノート, ...) read identically to their
       // surface form, so quizzing their reading is trivial — the correct answer
@@ -263,9 +299,9 @@ async function loadItemList(mode, scope, context) {
       // drilled in Meaning (non-trivial gloss) and Fill-in-blank (word hidden).
       return entries
         .filter((e) => hasKanji(e.word))
-        .map((e) => ({ word: e.word, readings: [e.reading], meaning: e.meaning, frequencyRank: e.frequencyRank }));
+        .map((e) => ({ word: e.word, readings: [e.reading], meaning: e.meaning, frequencyRank: e.frequencyRank, examples: examplesByWord.get(e.word) }));
     }
-    return entries.map((e) => ({ word: e.word, readings: [e.meaning], meaning: e.reading, frequencyRank: e.frequencyRank }));
+    return entries.map((e) => ({ word: e.word, readings: [e.meaning], meaning: e.reading, frequencyRank: e.frequencyRank, examples: examplesByWord.get(e.word) }));
   }
   const entries = await fetchJSON(`data/sentences/${context}.json`);
   // Reading-scope-sentence's hint is the sentence's full translation (not
@@ -320,6 +356,7 @@ function buildQuestion(target, itemList, pMode, context) {
     meaning: target.meaning,
     hintReading: target.hintReading, // fillblank only; undefined otherwise
     fullReading: target.fullReading, // sentence scope and fillblank; undefined otherwise
+    examples: target.examples, // word scope only; undefined otherwise (see loadExamplesByWord)
     correctAnswer,
     options,
   };
@@ -361,8 +398,10 @@ function clearAdvanceTimer() {
 }
 
 // True between an answer being graded and the next question appearing, when
-// autoNext is off (the default) — the learner advances manually via tap/click
-// or a key. See armContinue()/onContinueClick().
+// autoNext is off (the default) — the learner advances manually by tapping
+// つづける or a key (Enter/Space/→). See armContinue(). While true, tapping
+// the word/sentence itself replays the revealed reading instead of advancing
+// (see the quizWord click listener below) — advancing is つづける's job alone.
 let awaitingContinue = false;
 
 // Advances past the current question — the single exit point for both the
@@ -378,29 +417,20 @@ function advanceQuestion() {
   else showSummary();
 }
 
-// Fires on a click anywhere while awaiting a manual continue. Registered on the
-// next macrotask so the click that answered the question doesn't bubble up and
-// instantly satisfy its own continue gate; a plain (non-once) listener removed
-// by cancelContinue() means exactly one is ever live, so a keyboard advance
-// can't leave a stale listener that swallows the next answering click.
-function onContinueClick() {
-  if (awaitingContinue) advanceQuestion();
-}
-
 function armContinue() {
   awaitingContinue = true;
   el.quizContinue.classList.remove('hidden');
-  setTimeout(() => {
-    if (awaitingContinue) document.addEventListener('click', onContinueClick);
-  }, 0);
+  // Marks the word/sentence as tap-to-replay for the duration of the manual
+  // continue wait (see the quizWord click listener and its CSS rule).
+  el.quizWord.classList.add('replayable');
 }
 
 function cancelContinue() {
   awaitingContinue = false;
-  document.removeEventListener('click', onContinueClick);
   // Hide the hint here (not only in advanceQuestion) so quitting mid-reveal
   // and starting a new round doesn't leave "つづける →" showing on question 1.
   el.quizContinue.classList.add('hidden');
+  el.quizWord.classList.remove('replayable');
 }
 
 // Resolves the tri-state playAudio preference (see settings.js): explicit
@@ -441,6 +471,17 @@ function speakReading(reading, onEnd) {
   }
 }
 
+// Tapping the revealed word/sentence while awaiting a manual continue
+// replays its reading — a deliberate, explicit request, so unlike
+// speakReading() it ignores the playAudio setting (which only gates the
+// automatic speech-on-reveal) and only needs Web Speech support.
+function replayReading() {
+  const q = state.questions[state.index];
+  if (!q || !AudioPlayer.isSupported()) return;
+  const text = readingToSpeak(q);
+  if (text) AudioPlayer.speak(text.replace(/\./g, ''));
+}
+
 // How long the reveal stays on screen before auto-advancing, scaled to how much
 // there is to read: a short word needs less time than a long compound word or a
 // full sentence. `text` is the reading being shown/spoken; a wrong answer gets a
@@ -451,6 +492,39 @@ function advanceDelayMs(text, isCorrect) {
   const len = (text || '').length;
   const ms = (isCorrect ? 650 : 1300) + len * 120;
   return Math.min(isCorrect ? 6000 : 8000, Math.max(isCorrect ? 700 : 1500, ms));
+}
+
+// Auto-advance's floor while the example-sentence panel is on screen (see
+// handleAnswer) — long enough to actually read it regardless of how short the
+// word/answer itself is.
+const EXAMPLES_READ_MS = 5000;
+
+// Whether q's example sentence(s) will actually be shown on the answer
+// reveal — Word-only scope, Reading or Meaning mode (sentence scope already
+// shows its own sentence as the question), q carries example data, and the
+// setting is on. Shared by renderExamples and handleAnswer's auto-advance delay.
+function hasVisibleExamples(q) {
+  return state.scope === 'word' && (state.mode === 'reading' || state.mode === 'meaning')
+    && Array.isArray(q.examples) && q.examples.length > 0 && SettingsManager.get('showExamples');
+}
+
+// Renders the answer-reveal example-sentence panel: existing sentences from
+// data/sentences/ whose target matches this word (see loadExamplesByWord). A
+// no-op — hiding the panel — when there's nothing to show, so words with no
+// matching sentence simply show nothing.
+function renderExamples(q) {
+  if (!hasVisibleExamples(q)) {
+    el.quizExamples.innerHTML = '';
+    el.quizExamples.classList.add('hidden');
+    return;
+  }
+  const rows = q.examples.map((ex) =>
+    `<li><span class="ex-sentence">${highlightTarget(ex.sentence, q.text)}</span>` +
+    `<span class="ex-gloss">${ex.translation || ''}</span></li>`
+  ).join('');
+  const label = q.examples.length > 1 ? 'れい文<span>Example sentences</span>' : 'れい文<span>Example sentence</span>';
+  el.quizExamples.innerHTML = `<div class="quiz-examples-label">${label}</div><ul>${rows}</ul>`;
+  el.quizExamples.classList.remove('hidden');
 }
 
 function startRound() {
@@ -511,6 +585,11 @@ function renderQuestion() {
 
   el.quizHint.textContent = q.meaning || '';
   applyHintVisibility();
+
+  // Reset the answer-reveal example-sentence panel so it doesn't carry over
+  // from the previous question — renderExamples() shows it again on answer.
+  el.quizExamples.innerHTML = '';
+  el.quizExamples.classList.add('hidden');
 
   // A leech (an item this learner keeps missing) gets extra scaffolding: a
   // "weak spot" marker, plus its hint revealed even when the setting is off —
@@ -576,6 +655,10 @@ function handleAnswer(selected, btnEl) {
     el.quizWord.innerHTML = highlightTarget(q.sentence, q.target, revealInner);
   }
 
+  // Word-only Reading/Meaning questions reveal an example sentence that uses
+  // this word, reinforcing it in context (see hasVisibleExamples/renderExamples).
+  renderExamples(q);
+
   ProgressManager.recordAnswer(progressModeKey(), state.context, q.text, isCorrect, selected, latencyMs);
   if (isCorrect) { state.score++; state.correctItems.push(q); }
   else state.missed.push(q);
@@ -589,8 +672,11 @@ function handleAnswer(selected, btnEl) {
 
   clearAdvanceTimer();
   if (SettingsManager.get('autoNext')) {
-    // Length-adaptive pause so longer words/sentences get more reading time.
-    const delay = advanceDelayMs(spokenText, isCorrect);
+    // Length-adaptive pause so longer words/sentences get more reading time,
+    // floored to EXAMPLES_READ_MS when the example-sentence panel is also on
+    // screen, since that needs its own reading time the length formula doesn't
+    // know about.
+    const delay = Math.max(advanceDelayMs(spokenText, isCorrect), hasVisibleExamples(q) ? EXAMPLES_READ_MS : 0);
     const willSpeak = audioEnabled() && AudioPlayer.isSupported() && !!spokenText;
     if (willSpeak) {
       // With audio on, don't cut the spoken sentence off: advance only once
@@ -752,6 +838,16 @@ function initSettingsPanel() {
   el.settingPlayAudio.checked = audioEnabled();
   el.settingPlayAudio.addEventListener('change', () => {
     SettingsManager.set('playAudio', el.settingPlayAudio.checked);
+  });
+
+  el.settingShowExamples.checked = SettingsManager.get('showExamples');
+  el.settingShowExamples.addEventListener('change', () => {
+    SettingsManager.set('showExamples', el.settingShowExamples.checked);
+    // Only re-render if this question was already answered (options
+    // disabled) — toggling the setting on before answering must not reveal
+    // the example sentence early and give away the answer.
+    const answered = state.screen === 'quiz' && el.quizOptions.children[0] && el.quizOptions.children[0].disabled;
+    if (answered) renderExamples(state.questions[state.index]);
   });
 
   el.settingRoundSizeButtons.forEach((btn) => {
