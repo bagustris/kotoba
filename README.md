@@ -106,8 +106,7 @@ Fill-in-blank: 昨日、ラーメンを＿＿＿＿ました。   → 食べ
 - [IRODORI online course / いろどり 生活の日本語](https://www.irodori.jpf.go.jp/) —
   The Japan Foundation Japanese-Language Institute, Urawa. Word-level
   vocabulary of the `workplace` and `hobby` contexts comes from Lessons 1 and
-  2. The bundled Lesson 3–18 resources
-  (`resources/lesson{3..18}-words-en.pdf`) provide the `weather` (Lessons
+  2. The bundled Lesson 3–18 word lists provide the `weather` (Lessons
   3–4), `neighborhood` (5–6), `outings` (7–8), `japanese-study` (9–10),
   `cooking` (11–12), `work-communication` (13–14), `health` (15–16), and
   `relationships` (17–18) contexts. An additional **authentic sentence set**
@@ -124,8 +123,8 @@ Fill-in-blank: 昨日、ラーメンを＿＿＿＿ました。   → 食べ
   English translation list (`resource/7024084_list_English.pdf`);
 - [IRODORI online course / いろどり 生活の日本語](https://www.irodori.jpf.go.jp/) —
   The Japan Foundation Japanese-Language Institute, Urawa. A second,
-  higher-level lesson set (`res2/lesson{1..16}-words-en.pdf`, distinct
-  lesson numbering from the Lesson 1–18 set above) provides full word and
+  higher-level lesson set (distinct lesson numbering from the Lesson 1–18
+  set above) provides full word and
   sentence coverage for `life-story` (Lessons 1–2), `life-events` (9–10),
   `errands` (13–14), and `disaster-prep` (15–16), plus extensions to the
   existing `restaurant` (Lesson 3), `cooking` (4), `outings` (5–8), and
