@@ -9,7 +9,7 @@ The version shown in the app's Settings → About panel is read from the latest
 entry below (see `loadAppVersion()` in `js/app.js`), so this file is the single
 source of truth for the app version.
 
-## [Unreleased]
+## [2026.08.29]
 
 ### Added
 - New Settings toggle "Show example sentence after answering" (on by default):
