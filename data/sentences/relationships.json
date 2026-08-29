@@ -11,10 +11,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": ":いらつっつしゃい。ようここそ。さ、上がって。",
+    "sentence": "B:いらっしゃい。ようこそ。さ、上がって。",
     "target": "上がって",
     "reading": "あがって",
-    "fullReading": ":いらつっつしゃい。ようここそ。さ、あがって。",
+    "fullReading": "B:いらっしゃい。ようこそ。さ、あがって。",
     "meaning": "to come in",
     "translation": "B : Come in. Welcome. Here, get in.",
     "context": "relationships",
@@ -245,7 +245,7 @@
     "sentence": "この飾りは、壁にかけると、悪いものが入って来ません。",
     "target": "かける",
     "reading": "かける",
-    "fullReading": "このかざりは、かべにかけると、わるいものがいっってきません。",
+    "fullReading": "このかざりは、かべにかけると、わるいものがはいってきません。",
     "meaning": "to hang on (e.g. hang on a wall)",
     "translation": "Evil things won't get in if you hang this decoration on a wall.",
     "context": "relationships",
@@ -583,17 +583,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": ":いらつしやい。ようこそ。さ、上がって。",
-    "target": "上がって",
-    "reading": "あがって",
-    "fullReading": ":いらつしやい。ようこそ。さ、あがって。",
-    "meaning": "to come in",
-    "translation": "B : Come in. Welcome. Here, get in.",
-    "context": "relationships",
-    "source": "irodori-l17",
-    "note": "verbatim"
-  },
-  {
     "sentence": "アナさん、あいさつをお願いします。",
     "target": "あいさつ",
     "reading": "あいさつ",
@@ -682,23 +671,23 @@
     "note": "verbatim"
   },
   {
-    "sentence": ":これ、私たちからのプレゼントです。",
+    "sentence": "A:これ、私たちからのプレゼントです。",
     "target": "プレゼント",
     "reading": "ぷれぜんと",
-    "fullReading": ":これ、わたしたちからのぷれぜんとです。",
+    "fullReading": "A:これ、わたしたちからのぷれぜんとです。",
     "meaning": "present",
-    "translation": ": This is a present from us.",
+    "translation": "A: This is a present from us.",
     "context": "relationships",
     "source": "irodori-l18",
     "note": "verbatim"
   },
   {
-    "sentence": ":えー、ありがとう。うれしい。",
+    "sentence": "B:えー、ありがとう。うれしい。",
     "target": "うれしい",
     "reading": "うれしい",
-    "fullReading": ":えー、ありがとう。うれしい。",
+    "fullReading": "B:えー、ありがとう。うれしい。",
     "meaning": "glad",
-    "translation": ": Really, thank you. I'm so happy.",
+    "translation": "B: Really, thank you. I'm so happy.",
     "context": "relationships",
     "source": "irodori-l18",
     "note": "verbatim"
@@ -1144,21 +1133,21 @@
     "note": "verbatim"
   },
   {
-    "sentence": ":名前は決めましたか?",
+    "sentence": "A:名前は決めましたか?",
     "target": "決めました",
     "reading": "きめました",
-    "fullReading": ":なまえはきめましたか?",
+    "fullReading": "A:なまえはきめましたか?",
     "meaning": "to decide",
-    "translation": ": Have you decided on a name?",
+    "translation": "A: Have you decided on a name?",
     "context": "relationships",
     "source": "irodori-l18",
     "note": "verbatim"
   },
   {
-    "sentence": ":ううん、まだ。これから考える。A:楽しみですね。",
+    "sentence": "B:ううん、まだ。これから考える。A:楽しみですね。",
     "target": "楽しみですね",
     "reading": "たのしみですね",
-    "fullReading": ":ううん、まだ。これからかんがえる。A:たのしみですね。",
+    "fullReading": "B:ううん、まだ。これからかんがえる。A:たのしみですね。",
     "meaning": "That sounds exciting.",
     "translation": "A : I'm looking forward to it. : Hmm, not yet. I'll be thinking about it.",
     "context": "relationships",

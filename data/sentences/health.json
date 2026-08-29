@@ -55,10 +55,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "こちらの楽は、熱が38度5分以上あるときに、飲んでください。",
+    "sentence": "こちらの薬は、熱が38度5分以上あるときに、飲んでください。",
     "target": "飲んで",
     "reading": "のんで",
-    "fullReading": "こちらのらくは、ねつが38ど5ふんいじょうあるときに、のんでください。",
+    "fullReading": "こちらのくすりは、ねつが38ど5ふんいじょうあるときに、のんでください。",
     "meaning": "to take (e.g. take medicine)",
     "translation": "Please take this medicine if your fever is 38.5 degrees or higher.",
     "context": "health",
@@ -146,7 +146,7 @@
     "sentence": "おとといから、お腹が痛くて、吐き気がするんです。",
     "target": "吐き気がする",
     "reading": "はきけがする",
-    "fullReading": "おとといから、おはらがいたくて、はきけがするんです。",
+    "fullReading": "おとといから、おなかがいたくて、はきけがするんです。",
     "meaning": "to have a nausea",
     "translation": "My stomach hurts and I feel nauseous since the day before yesterday.",
     "context": "health",
@@ -157,7 +157,7 @@
     "sentence": "お腹が痛くて、吐き気がするんです。",
     "target": "吐き気がする",
     "reading": "はきけがする",
-    "fullReading": "おはらがいたくて、はきけがするんです。",
+    "fullReading": "おなかがいたくて、はきけがするんです。",
     "meaning": "to have a nausea",
     "translation": "My stomach hurts and I feel nauseous.",
     "context": "health",
@@ -368,18 +368,18 @@
     "reading": "ごめしはたべてますか?",
     "fullReading": "ごめしはたべてますか?",
     "meaning": "source example sentence",
-    "translation": ": Have you been eating?",
+    "translation": "A: Have you been eating?",
     "context": "health",
     "source": "irodori-l15",
     "note": "verbatim"
   },
   {
-    "sentence": ":いえ、食欲がなくて…。",
+    "sentence": "B:いえ、食欲がなくて…。",
     "target": "食欲",
     "reading": "しょくよく",
-    "fullReading": ":いえ、しょくよくがなくて…。",
+    "fullReading": "B:いえ、しょくよくがなくて…。",
     "meaning": "appetite",
-    "translation": ": No, I have no appetite...",
+    "translation": "B: No, I have no appetite...",
     "context": "health",
     "source": "irodori-l15",
     "note": "verbatim"
@@ -718,7 +718,7 @@
     "sentence": "胃の調子が悪いときは、お腹を温めるといいですよ。",
     "target": "調子が悪い",
     "reading": "ちょうしがわるい",
-    "fullReading": "いのちょうしがわるいときは、おはらをあたためるといいですよ。",
+    "fullReading": "いのちょうしがわるいときは、おなかをあためるといいですよ。",
     "meaning": "feel unwell",
     "translation": "You should warm up your belly when you have an upset stomach.",
     "context": "health",
@@ -847,10 +847,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "かんせんよぼう選ば5どうしたら、ノロウイルスの感染を予防できるでしょうか。予防のポイントは、手洗いと、食品の十分な加熱です。",
+    "sentence": "どうしたら、ノロウイルスの感染を予防できるでしょうか。予防のポイントは、手洗いと、食品の十分な加熱です。",
     "target": "ノロウイルス",
     "reading": "のろういるす",
-    "fullReading": "かんせんよぼうえらば5どうしたら、のろういるすのかんせんをよぼうできるでしょうか。よぼうのぽいんとは、てあらいと、しょくひんのじゅうぶんなかねつです。",
+    "fullReading": "どうしたら、のろういるすのかんせんをよぼうできるでしょうか。よぼうのぽいんとは、てあらいと、しょくひんのじゅうぶんなかねつです。",
     "meaning": "norovirus",
     "translation": "What can we do to prevent a norovirus infection? Preventive steps are hand washing and sufficient heating of food.",
     "context": "health",
@@ -1089,17 +1089,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": "どうしたら、ノロウイルスの感染を予防できるでしょうか。予防のポイントは、手洗いと、食品の十分な加熱です。",
-    "target": "ノロウイルス",
-    "reading": "のろういるす",
-    "fullReading": "どうしたら、のろういるすのかんせんをよぼうできるでしょうか。よぼうのぽいんとは、てあらいと、しょくひんのじゅうぶんなかねつです。",
-    "meaning": "norovirus",
-    "translation": "What can we do to prevent a norovirus infection? Preventive steps are hand washing and sufficient heating of food.",
-    "context": "health",
-    "source": "irodori-l16",
-    "note": "verbatim"
-  },
-  {
     "sentence": "よく眠れないときは、ぬるいお風呂にゆっくり入るといいですよ。",
     "target": "眠れない",
     "reading": "ねむれない",
@@ -1221,10 +1210,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "せきやくしやゃみが出ている間はマスクをしましょよう。",
+    "sentence": "せきやくしゃみが出ている間はマスクをしましょう。",
     "target": "マスク",
     "reading": "ますく",
-    "fullReading": "せきやくしやゃみがでているかんはますくをしましょよう。",
+    "fullReading": "せきやくしゃみがでているかんはますくをしましょう。",
     "meaning": "mask",
     "translation": "Make sure to wear a mask while you're coughing or sneezing.",
     "context": "health",
@@ -1235,7 +1224,7 @@
     "sentence": "胃の調子が悪いときは、お腹をマッサージするといいですよ。",
     "target": "マッサージする",
     "reading": "まっさーじする",
-    "fullReading": "いのちょうしがわるいときは、おはらをまっさーじするといいですよ。",
+    "fullReading": "いのちょうしがわるいときは、おなかをまっさーじするといいですよ。",
     "meaning": "to massage",
     "translation": "You should massage your belly when you have an upset stomach.",
     "context": "health",
@@ -1287,10 +1276,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "指と指の間まで、ごまめにしっかりと手を洗いましよう。",
+    "sentence": "指と指の間まで、こまめにしっかりと手を洗いましょう。",
     "target": "しっかりと",
     "reading": "しっかりと",
-    "fullReading": "ゆびとゆびのかんまで、ごまめにしっかりとてをあらいましよう。",
+    "fullReading": "ゆびとゆびのかんまで、こまめにしっかりとてをあらいましょう。",
     "meaning": "properly",
     "translation": "Make sure to wash your hands frequently and properly, including the area between your fingers.",
     "context": "health",
@@ -1320,12 +1309,12 @@
     "note": "verbatim"
   },
   {
-    "sentence": ":それはいけませんね。",
+    "sentence": "B:それはいけませんね。",
     "target": "それはいけませんね",
     "reading": "それはいけませんね",
-    "fullReading": ":それはいけませんね。",
+    "fullReading": "B:それはいけませんね。",
     "meaning": "That is not good.",
-    "translation": ": That's not good.",
+    "translation": "B: That's not good.",
     "context": "health",
     "source": "irodori-l16",
     "note": "verbatim"
@@ -1364,23 +1353,23 @@
     "note": "verbatim"
   },
   {
-    "sentence": ":健康のためにできるだけ運動するようにしています。",
+    "sentence": "A:健康のためにできるだけ運動するようにしています。",
     "target": "運動",
     "reading": "うんどう",
-    "fullReading": ":けんこうのためにできるだけうんどうするようにしています。",
+    "fullReading": "A:けんこうのためにできるだけうんどうするようにしています。",
     "meaning": "exercise",
-    "translation": ": I try to exercise as much as I can to stay fit.",
+    "translation": "A: I try to exercise as much as I can to stay fit.",
     "context": "health",
     "source": "irodori-l16",
     "note": "verbatim"
   },
   {
-    "sentence": ":なるほど。",
+    "sentence": "B:なるほど。",
     "target": "なるほど",
     "reading": "なるほど",
-    "fullReading": ":なるほど。",
+    "fullReading": "B:なるほど。",
     "meaning": "I see.",
-    "translation": ": I see.",
+    "translation": "B: I see.",
     "context": "health",
     "source": "irodori-l16",
     "note": "verbatim"

@@ -220,17 +220,6 @@
     "note": "verbatim"
   },
   {
-    "sentence": "あしたまへいわ放りぞう。まえ:明日の待ち合わせ、「平和の鳥」の像の前はどうですか?",
-    "target": "待ち合わせ",
-    "reading": "まちあわせ",
-    "fullReading": "あしたまへいわほうりぞう。まえ:あしたのまちあわせ、「へいわのとり」のぞうのまえはどうですか?",
-    "meaning": "meeting up (at a certain time and place)",
-    "translation": ": How about we meet in front of the Heiwa-no-tori statue tomorrow?",
-    "context": "outings",
-    "source": "irodori-l7",
-    "note": "verbatim"
-  },
-  {
     "sentence": "新しいアウトレットモール、もう行きましたか?",
     "target": "アウトレットモール",
     "reading": "あうとれっともーる",
@@ -300,7 +289,7 @@
     "sentence": "お腹がすきましたね。何か食べませんか?",
     "target": "何か",
     "reading": "なにか",
-    "fullReading": "おはらがすきましたね。なにかたべませんか?",
+    "fullReading": "おなかがすきましたね。なにかたべませんか?",
     "meaning": "something",
     "translation": "I'm hungry. Would you like to eat something?",
     "context": "outings",

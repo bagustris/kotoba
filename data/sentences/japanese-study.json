@@ -66,10 +66,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "日本語は、読おのは少し難しいです。でも、会話は得意です。",
+    "sentence": "日本語は、読むのは少し難しいです。でも、会話は得意です。",
     "target": "難しい",
     "reading": "むずかしい",
-    "fullReading": "にほんごは、どくおのはすこしむずかしいです。でも、かいわはとくいです。",
+    "fullReading": "にほんごは、よむのはすこしむずかしいです。でも、かいわはとくいです。",
     "meaning": "difficult",
     "translation": "Reading Japanese is a bit difficult, but I am good at speaking in Japanese.",
     "context": "japanese-study",
@@ -215,17 +215,6 @@
     "fullReading": "わたしのめーる、にほんごをちえっくしてもらえませんか?",
     "meaning": "Japanese language",
     "translation": "Can you check the Japanese in my email?",
-    "context": "japanese-study",
-    "source": "irodori-l9",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "日本語は、読むのは少し難しいです。でも、会話は得意です。",
-    "target": "難しい",
-    "reading": "むずかしい",
-    "fullReading": "にほんごは、よむのはすこしむずかしいです。でも、かいわはとくいです。",
-    "meaning": "difficult",
-    "translation": "Reading Japanese is a bit difficult, but I am good at speaking in Japanese.",
     "context": "japanese-study",
     "source": "irodori-l9",
     "note": "verbatim"
@@ -407,21 +396,21 @@
     "note": "verbatim"
   },
   {
-    "sentence": ":いえ、まだまだです。",
+    "sentence": "B:いえ、まだまだです。",
     "target": "まだまだです",
     "reading": "まだまだです",
-    "fullReading": ":いえ、まだまだです。",
+    "fullReading": "B:いえ、まだまだです。",
     "meaning": "Not even close.",
-    "translation": ": Not even close.",
+    "translation": "B: Not even close.",
     "context": "japanese-study",
     "source": "irodori-l9",
     "note": "verbatim"
   },
   {
-    "sentence": "最初はTシャツでちもだいじょうぶですよ。あとは先生に聞いてください。",
+    "sentence": "最初はTシャツでもだいじょうぶですよ。あとは先生に聞いてください。",
     "target": "聞いて",
     "reading": "きいて",
-    "fullReading": "さいしょはTしゃつでちもだいじょうぶですよ。あとはせんせいにきいてください。",
+    "fullReading": "さいしょはTしゃつでもだいじょうぶですよ。あとはせんせいにきいてください。",
     "meaning": "to ask",
     "translation": "A T-shirt is fine in the beginning. For others, please ask the teacher.",
     "context": "japanese-study",
@@ -517,10 +506,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": "りょうりきょうしつéこうみんかんねが料理教室の問い合わせは、ときわ公民館までお願いします。",
+    "sentence": "料理教室の問い合わせは、ときわ公民館までお願いします。",
     "target": "問い合わせ",
     "reading": "といあわせ",
-    "fullReading": "りょうりきょうしつéこうみんかんねがりょうりきょうしつのといあわせは、ときわこうみんかんまでおねがいします。",
+    "fullReading": "りょうりきょうしつのといあわせは、ときわこうみんかんまでおねがいします。",
     "meaning": "inquiry",
     "translation": "For inquiries about the cooking class, please contact the Tokiwa Community Center.",
     "context": "japanese-study",
@@ -528,12 +517,12 @@
     "note": "verbatim"
   },
   {
-    "sentence": ":体験教室ですか?それとも毎週のコースですか?",
+    "sentence": "B:体験教室ですか?それとも毎週のコースですか?",
     "target": "体験教室",
     "reading": "たいけんきょうしつ",
-    "fullReading": ":たいけんきょうしつですか?それともまいしゅうのこーすですか?",
+    "fullReading": "B:たいけんきょうしつですか?それともまいしゅうのこーすですか?",
     "meaning": "trial lesson",
-    "translation": ": Do you mean a trial lesson or a weekly course?",
+    "translation": "B: Do you mean a trial lesson or a weekly course?",
     "context": "japanese-study",
     "source": "irodori-l10",
     "note": "verbatim"
@@ -561,10 +550,10 @@
     "note": "verbatim"
   },
   {
-    "sentence": ":最初はTシャツでもだいじょうぶですよ。",
+    "sentence": "B:最初はTシャツでもだいじょうぶですよ。",
     "target": "最初",
     "reading": "さいしょ",
-    "fullReading": ":さいしょはTしゃつでもだいじょうぶですよ。",
+    "fullReading": "B:さいしょはTしゃつでもだいじょうぶですよ。",
     "meaning": "at first",
     "translation": "B: A T-shirt is fine in the beginning.",
     "context": "japanese-study",
@@ -718,20 +707,9 @@
     "sentence": "本町公民館の日本語教室は月500円です。",
     "target": "日本語",
     "reading": "にほんご",
-    "fullReading": "ほんちょうこうみんかんのにほんごきょうしつはがつ500えんです。",
+    "fullReading": "ほんちょうこうみんかんのにほんごきょうしつはつき500えんです。",
     "meaning": "Japanese language",
     "translation": "The Japanese language class at Motomachi Community Center is 500 yen a month.",
-    "context": "japanese-study",
-    "source": "irodori-l10",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "料理教室の問い合わせは、ときわ公民館までお願いします。",
-    "target": "問い合わせ",
-    "reading": "といあわせ",
-    "fullReading": "りょうりきょうしつのといあわせは、ときわこうみんかんまでおねがいします。",
-    "meaning": "inquiry",
-    "translation": "For inquiries about the cooking class, please contact the Tokiwa Community Center.",
     "context": "japanese-study",
     "source": "irodori-l10",
     "note": "verbatim"
@@ -880,12 +858,12 @@
     "note": "verbatim"
   },
   {
-    "sentence": ":料理教室ですね。少々お待ちください。",
+    "sentence": "B:料理教室ですね。少々お待ちください。",
     "target": "少々お待ちください",
     "reading": "しょうしょうおまちください",
-    "fullReading": ":りょうりきょうしつですね。しょうしょうおまちください。",
+    "fullReading": "B:りょうりきょうしつですね。しょうしょうおまちください。",
     "meaning": "Please wait a moment. (polite expression)",
-    "translation": ": The cooking class, right? Please wait a moment.",
+    "translation": "B: The cooking class, right? Please wait a moment.",
     "context": "japanese-study",
     "source": "irodori-l10",
     "note": "verbatim"

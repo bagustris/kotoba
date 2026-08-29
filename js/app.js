@@ -274,10 +274,12 @@ el.quizWord.addEventListener('click', () => {
 });
 
 // Word-only scope has no sentence of its own, but data/sentences/<context>.json
-// often carries a sentence whose `target` is exactly this word — reused (never
-// invented, see CLAUDE.md "Data conventions") as the optional post-answer
-// example (see renderExamples). Not every word has a match (sentence coverage
-// varies per context), so callers get an empty array for those.
+// often carries a sentence related to this word — reused (never invented, see
+// CLAUDE.md "Data conventions") as the optional post-answer example (see
+// renderExamples). Matching is graded, best first: sentences whose target IS
+// the word, then inflected targets sharing the word's stem (食べる → 食べて),
+// then any sentence mentioning the word at all. Words with no related sentence
+// get an empty array.
 async function loadExamplesByWord(context) {
   // Best-effort: examples are an optional enhancement, so a fetch failure here
   // must not take down the word quiz itself. init() already fetches every
@@ -291,7 +293,37 @@ async function loadExamplesByWord(context) {
       if (!byWord.has(s.target)) byWord.set(s.target, []);
       byWord.get(s.target).push(s);
     });
-    return byWord;
+    // Graded fallback for words without an exact-target sentence: the word's
+    // parts (split on ～/〜 for pattern words like ～ずつ, まったく～ない) must
+    // all appear in the text, or their stems do (word minus final char:
+    // 決める → 決め matches 決めて). Exact matches always win and stay first.
+    const partsOf = (word) => word.split(/[～〜]/).filter((p) => p.length > 0);
+    const partsCache = new Map([...byWord.keys()].map((word) => [word, partsOf(word)]));
+    const matchesWord = (text, parts) =>
+      parts.every((p) => text.includes(p))
+      || parts.every((p) => (p.length >= 3 ? text.includes(p.slice(0, -1)) : text.includes(p)));
+    const byStem = new Map();
+    const byMention = new Map();
+    sentences.forEach((s) => {
+      for (const word of byWord.keys()) {
+        const parts = partsCache.get(word);
+        if (matchesWord(s.target, parts)) {
+          if (!byStem.has(word)) byStem.set(word, []);
+          byStem.get(word).push(s);
+        }
+        if (matchesWord(s.sentence, parts)) {
+          if (!byMention.has(word)) byMention.set(word, []);
+          byMention.get(word).push(s);
+        }
+      }
+    });
+    return new Map([...byWord.keys()].map((word) => {
+      const seen = new Set();
+      const matches = byWord.get(word)
+        .concat(byStem.get(word) ?? [], byMention.get(word) ?? [])
+        .filter((s) => (seen.has(s) ? false : (seen.add(s), true)));
+      return [word, matches];
+    }));
   } catch {
     return new Map();
   }
