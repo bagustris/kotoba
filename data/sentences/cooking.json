@@ -1758,5 +1758,877 @@
     "context": "cooking",
     "source": "irodori2-l4",
     "note": "reconstructed"
+  },
+  {
+    "sentence": "スーパーでイカを買いました。",
+    "target": "イカ",
+    "reading": "イカ",
+    "fullReading": "スーパーでイカをかいました。",
+    "meaning": "squid",
+    "translation": "I bought squid at the supermarket.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "彼はこの店で野菜を売る仕事をしています。",
+    "target": "売る",
+    "reading": "うる",
+    "fullReading": "かれはこのみせでやさいをうるしごとをしています。",
+    "meaning": "to sell",
+    "translation": "He has a job selling vegetables at this store.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "このスープにはエビが入っています。",
+    "target": "エビ",
+    "reading": "エビ",
+    "fullReading": "このスープにはエビがはいっています。",
+    "meaning": "shrimp",
+    "translation": "This soup contains shrimp.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "レストランでエビピラフを注文しました。",
+    "target": "エビピラフ",
+    "reading": "エビピラフ",
+    "fullReading": "レストランでエビピラフをちゅうもんしました。",
+    "meaning": "shrimp pilaf",
+    "translation": "I ordered shrimp pilaf at the restaurant.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "父はお酒が好きです。",
+    "target": "お酒",
+    "reading": "おさけ",
+    "fullReading": "ちちはおさけがすきです。",
+    "meaning": "alcohol",
+    "translation": "My father likes alcohol.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "お皿を洗ってください。",
+    "target": "お皿",
+    "reading": "おさら",
+    "fullReading": "おさらをあらってください。",
+    "meaning": "plate",
+    "translation": "Please wash the plates.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "食後にお茶を飲みます。",
+    "target": "お茶",
+    "reading": "おちゃ",
+    "fullReading": "しょくごにおちゃをのみます。",
+    "meaning": "tea / Japanese tea",
+    "translation": "I drink tea after meals.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "お昼はおにぎりを食べました。",
+    "target": "おにぎり",
+    "reading": "おにぎり",
+    "fullReading": "おひるはおにぎりをたべました。",
+    "meaning": "onigiri (rice ball)",
+    "translation": "I ate onigiri for lunch.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "牛肉を薄く切ってください。",
+    "target": "牛肉",
+    "reading": "ぎゅうにく",
+    "fullReading": "ぎゅうにくをうすくきってください。",
+    "meaning": "beef",
+    "translation": "Please slice the beef thinly.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "パッケージの原材料名を確認しましょう。",
+    "target": "原材料名",
+    "reading": "げんざいりょうめい",
+    "fullReading": "パッケージのげんざいりょうめいをかくにんしましょう。",
+    "meaning": "list of raw ingredients",
+    "translation": "Let's check the list of raw ingredients on the package.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "紅茶にミルクを入れますか。",
+    "target": "紅茶",
+    "reading": "こうちゃ",
+    "fullReading": "こうちゃにミルクをいれますか。",
+    "meaning": "black tea",
+    "translation": "Do you put milk in your black tea?",
+    "context": "cooking"
+  },
+  {
+    "sentence": "テーブルにコップを並べました。",
+    "target": "コップ",
+    "reading": "コップ",
+    "fullReading": "テーブルにコップをならべました。",
+    "meaning": "drinking cup",
+    "translation": "I lined up cups on the table.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "ごみ袋がなくなりました。",
+    "target": "ごみ袋",
+    "reading": "ごみぶくろ",
+    "fullReading": "ごみぶくろがなくなりました。",
+    "meaning": "garbage bag",
+    "translation": "We ran out of garbage bags.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "毎朝、市場で魚を買います。",
+    "target": "魚",
+    "reading": "さかな",
+    "fullReading": "まいあさ、いちばでさかなをかいます。",
+    "meaning": "fish",
+    "translation": "I buy fish at the market every morning.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "この製品の殺菌方法は加熱です。",
+    "target": "殺菌方法",
+    "reading": "さっきんほうほう",
+    "fullReading": "このせいひんのさっきんほうほうはかねつです。",
+    "meaning": "sterilization method",
+    "translation": "The sterilization method for this product is heating.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "スープに塩を少し入れます。",
+    "target": "塩",
+    "reading": "しお",
+    "fullReading": "スープにしおをすこしいれます。",
+    "meaning": "salt",
+    "translation": "I add a little salt to the soup.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "祖父は焼酎が大好きです。",
+    "target": "焼酎",
+    "reading": "しょうちゅう",
+    "fullReading": "そふはしょうちゅうがだいすきです。",
+    "meaning": "shochu (Japanese distilled liquor)",
+    "translation": "My grandfather loves shochu.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "この商品は人気があります。",
+    "target": "商品",
+    "reading": "しょうひん",
+    "fullReading": "このしょうひんはにんきがあります。",
+    "meaning": "product",
+    "translation": "This product is popular.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "賞味期限を確認してから食べてください。",
+    "target": "賞味期限",
+    "reading": "しょうみきげん",
+    "fullReading": "しょうみきげんをかくにんしてからたべてください。",
+    "meaning": "best-before date",
+    "translation": "Please check the best-before date before eating.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "夕食の準備を始めましょう。",
+    "target": "準備",
+    "reading": "じゅんび",
+    "fullReading": "ゆうしょくのじゅんびをはじめましょう。",
+    "meaning": "preparation",
+    "translation": "Let's start preparing dinner.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "材料はすべてそろっています。",
+    "target": "すべて",
+    "reading": "すべて",
+    "fullReading": "ざいりょうはすべてそろっています。",
+    "meaning": "everything",
+    "translation": "All the ingredients are ready.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "ラベルに製造者の名前が書いてあります。",
+    "target": "製造者",
+    "reading": "せいぞうしゃ",
+    "fullReading": "ラベルにせいぞうしゃのなまえがかいてあります。",
+    "meaning": "manufacturer",
+    "translation": "The manufacturer's name is written on the label.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "朝食にソーセージを焼きました。",
+    "target": "ソーセージ",
+    "reading": "ソーセージ",
+    "fullReading": "ちょうしょくにソーセージをやきました。",
+    "meaning": "sausage",
+    "translation": "I grilled sausages for breakfast.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "餃子はたれをつけて食べます。",
+    "target": "たれ",
+    "reading": "たれ",
+    "fullReading": "ぎょうざはたれをつけてたべます。",
+    "meaning": "tare (dipping sauce)",
+    "translation": "You eat dumplings with dipping sauce.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "みそは大豆から作られます。",
+    "target": "大豆",
+    "reading": "だいず",
+    "fullReading": "みそはだいずからつくられます。",
+    "meaning": "soy",
+    "translation": "Miso is made from soybeans.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "誕生日にチーズケーキを買いました。",
+    "target": "チーズケーキ",
+    "reading": "チーズケーキ",
+    "fullReading": "たんじょうびにチーズケーキをかいました。",
+    "meaning": "cheesecake",
+    "translation": "I bought a cheesecake for the birthday.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "週末はいつも母の料理を手伝う。",
+    "target": "手伝う",
+    "reading": "てつだう",
+    "fullReading": "しゅうまつはいつもははのりょうりをてつだう。",
+    "meaning": "to help",
+    "translation": "On weekends, I always help my mother cook.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "パッケージに内容量が表示されています。",
+    "target": "内容量",
+    "reading": "ないようりょう",
+    "fullReading": "パッケージにないようりょうがひょうじされています。",
+    "meaning": "volume",
+    "translation": "The net content is indicated on the package.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "この店では日本酒がたくさん飲めます。",
+    "target": "日本酒",
+    "reading": "にほんしゅ",
+    "fullReading": "このみせではにほんしゅがたくさんのめます。",
+    "meaning": "sake (Japanese rice wine)",
+    "translation": "You can drink a lot of sake at this restaurant.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "このお菓子には乳成分が含まれています。",
+    "target": "乳成分",
+    "reading": "にゅうせいぶん",
+    "fullReading": "このおかしにはにゅうせいぶんがふくまれています。",
+    "meaning": "milk constituent",
+    "translation": "This sweet contains milk constituents.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "この箱にはお菓子が入っている。",
+    "target": "入っている",
+    "reading": "はいっている",
+    "fullReading": "このはこにはおかしがはいっている。",
+    "meaning": "contain",
+    "translation": "This box contains sweets.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "ラベルに販売者の住所があります。",
+    "target": "販売者",
+    "reading": "はんばいしゃ",
+    "fullReading": "ラベルにはんばいしゃのじゅうしょがあります。",
+    "meaning": "seller",
+    "translation": "The seller's address is on the label.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "朝ごはんにバナナを食べます。",
+    "target": "バナナ",
+    "reading": "バナナ",
+    "fullReading": "あさごはんにバナナをたべます。",
+    "meaning": "banana",
+    "translation": "I eat a banana for breakfast.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "夏はよく冷たいビールを飲みます。",
+    "target": "ビール",
+    "reading": "ビール",
+    "fullReading": "なつはよくつめたいビールをのみます。",
+    "meaning": "beer",
+    "translation": "In summer I often drink cold beer.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "この料理には卵が含まれる。",
+    "target": "含まれる",
+    "reading": "ふくまれる",
+    "fullReading": "このりょうりにはたまごがふくまれる。",
+    "meaning": "be included",
+    "translation": "This dish contains egg.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "袋に保存方法が書いてあります。",
+    "target": "保存方法",
+    "reading": "ほぞんほうほう",
+    "fullReading": "ふくろにほぞんほうほうがかいてあります。",
+    "meaning": "how to store",
+    "translation": "The storage method is written on the bag.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "本品は冷蔵庫で保存してください。",
+    "target": "本品",
+    "reading": "ほんぴん",
+    "fullReading": "ほんぴんはれいぞうこでほぞんしてください。",
+    "meaning": "this product",
+    "translation": "Please store this product in the refrigerator.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "ラベルに商品の名称が書いてあります。",
+    "target": "名称",
+    "reading": "めいしょう",
+    "fullReading": "ラベルにしょうひんのめいしょうがかいてあります。",
+    "meaning": "name",
+    "translation": "The product's name is written on the label.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "明日はお弁当を持って行く。",
+    "target": "持って行く",
+    "reading": "もっていく",
+    "fullReading": "あしたはおべんとうをもっていく。",
+    "meaning": "to take (something with you)",
+    "translation": "Tomorrow I will take a bento with me.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "この魚は冷蔵庫で三日もつ。",
+    "target": "もつ",
+    "reading": "もつ",
+    "fullReading": "このさかなはれいぞうこでみっかもつ。",
+    "meaning": "to be good for",
+    "translation": "This fish keeps for three days in the fridge.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "夕食に魚を焼く。",
+    "target": "焼く",
+    "reading": "やく",
+    "fullReading": "ゆうしょくにさかなをやく。",
+    "meaning": "to grill",
+    "translation": "I grill fish for dinner.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "肉と魚、両方とも好きです。",
+    "target": "両方",
+    "reading": "りょうほう",
+    "fullReading": "にくとさかな、りょうほうともすきです。",
+    "meaning": "both",
+    "translation": "I like both meat and fish.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "毎朝りんごを一つ食べます。",
+    "target": "りんご",
+    "reading": "りんご",
+    "fullReading": "まいあさりんごをひとつたべます。",
+    "meaning": "apple",
+    "translation": "I eat one apple every morning.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "赤ワインとチーズはよく合います。",
+    "target": "ワイン",
+    "reading": "ワイン",
+    "fullReading": "あかワインとチーズはよくあいます。",
+    "meaning": "wine",
+    "translation": "Red wine and cheese go well together.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "コンビニでわりばしをもらいました。",
+    "target": "わりばし",
+    "reading": "わりばし",
+    "fullReading": "コンビニでわりばしをもらいました。",
+    "meaning": "disposable wooden chopsticks",
+    "translation": "I got disposable chopsticks at the convenience store.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "袋の中身をボウルにあける。",
+    "target": "あける",
+    "reading": "あける",
+    "fullReading": "ふくろのなかみをボウルにあける。",
+    "meaning": "to empty into / onto",
+    "translation": "Empty the contents of the bag into the bowl.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "このスープは味がいいです。",
+    "target": "味",
+    "reading": "あじ",
+    "fullReading": "このスープはあじがいいです。",
+    "meaning": "taste / flavor",
+    "translation": "This soup tastes good.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "このケーキはとても甘いです。",
+    "target": "甘い",
+    "reading": "あまい",
+    "fullReading": "このケーキはとてもあまいです。",
+    "meaning": "sweet",
+    "translation": "This cake is very sweet.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "コーヒーに砂糖を入れる。",
+    "target": "入れる",
+    "reading": "いれる",
+    "fullReading": "コーヒーにさとうをいれる。",
+    "meaning": "to put in",
+    "translation": "Put sugar in the coffee.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "皮の内側に具を入れます。",
+    "target": "内側",
+    "reading": "うちがわ",
+    "fullReading": "かわのうちがわにぐをいれます。",
+    "meaning": "on the inside",
+    "translation": "Put the filling on the inside of the wrapper.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "おにぎりに梅干しを入れました。",
+    "target": "梅干し",
+    "reading": "うめぼし",
+    "fullReading": "おにぎりにうめぼしをいれました。",
+    "meaning": "umeboshi (pickled plum)",
+    "translation": "I put a pickled plum in the onigiri.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "お湯を沸かしてください。",
+    "target": "お湯",
+    "reading": "おゆ",
+    "fullReading": "おゆをわかしてください。",
+    "meaning": "hot water",
+    "translation": "Please boil water.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "サラダにドレッシングをかける。",
+    "target": "かける",
+    "reading": "かける",
+    "fullReading": "サラダにドレッシングをかける。",
+    "meaning": "to sprinkle",
+    "translation": "Pour dressing over the salad.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "カップ麺のかやくを先に入れます。",
+    "target": "かやく",
+    "reading": "かやく",
+    "fullReading": "カップめんのかやくをさきにいれます。",
+    "meaning": "condiment",
+    "translation": "Add the condiment packet of the cup noodles first.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "このカレーはとても辛いです。",
+    "target": "辛い",
+    "reading": "からい",
+    "fullReading": "このカレーはとてもからいです。",
+    "meaning": "spicy / hot",
+    "translation": "This curry is very spicy.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "スープにきのこを入れました。",
+    "target": "きのこ",
+    "reading": "きのこ",
+    "fullReading": "スープにきのこをいれました。",
+    "meaning": "mushroom",
+    "translation": "I put mushrooms in the soup.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "秋になると銀杏を拾いに行きます。",
+    "target": "銀杏",
+    "reading": "ぎんなん",
+    "fullReading": "あきになるとぎんなんをひろいにいきます。",
+    "meaning": "gingko nuts",
+    "translation": "In autumn, I go to pick up gingko nuts.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "このレモンはとてもすっぱいです。",
+    "target": "すっぱい",
+    "reading": "すっぱい",
+    "fullReading": "このレモンはとてもすっぱいです。",
+    "meaning": "sour",
+    "translation": "This lemon is very sour.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "使わない野菜のくずを捨てる。",
+    "target": "捨てる",
+    "reading": "すてる",
+    "fullReading": "つかわないやさいのくずをすてる。",
+    "meaning": "to discard",
+    "translation": "Discard the vegetable scraps you don't use.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "今日はトマトスープを作ります。",
+    "target": "スープ",
+    "reading": "スープ",
+    "fullReading": "きょうはトマトスープをつくります。",
+    "meaning": "soup",
+    "translation": "Today I'm making tomato soup.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "パッケージの線に沿って切ってください。",
+    "target": "線",
+    "reading": "せん",
+    "fullReading": "パッケージのせんにそってきってください。",
+    "meaning": "line",
+    "translation": "Please cut along the line on the package.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "コップに水を注ぐ。",
+    "target": "注ぐ",
+    "reading": "そそぐ",
+    "fullReading": "コップにみずをそそぐ。",
+    "meaning": "to pour",
+    "translation": "Pour water into the cup.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "この料理はまずいと思いましたが、そんなことないですよ。",
+    "target": "そんなことない",
+    "reading": "そんなことない",
+    "fullReading": "このりょうりはまずいとおもいましたが、そんなことないですよ。",
+    "meaning": "Actually, it isn’t.",
+    "translation": "I thought this dish tasted bad, but actually, it isn't.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "お弁当に卵焼きを入れました。",
+    "target": "卵焼き",
+    "reading": "たまごやき",
+    "fullReading": "おべんとうにたまごやきをいれました。",
+    "meaning": "tamago-yaki (rolled omelet)",
+    "translation": "I put a rolled omelet in the bento.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "みそ汁はだしから作ります。",
+    "target": "だし",
+    "reading": "だし",
+    "fullReading": "みそしるはだしからつくります。",
+    "meaning": "dashi (Japanese soup stock)",
+    "translation": "Miso soup is made starting from dashi stock.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "冷蔵庫から卵を取り出す。",
+    "target": "取り出す",
+    "reading": "とりだす",
+    "fullReading": "れいぞうこからたまごをとりだす。",
+    "meaning": "to take out",
+    "translation": "Take the eggs out of the refrigerator.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "この畑ではトマトがよくとれる。",
+    "target": "とれる",
+    "reading": "とれる",
+    "fullReading": "このはたけではトマトがよくとれる。",
+    "meaning": "to pick",
+    "translation": "Tomatoes are grown well in this field.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "この魚は生で食べられます。",
+    "target": "生",
+    "reading": "なま",
+    "fullReading": "このさかなはなまでたべられます。",
+    "meaning": "raw",
+    "translation": "This fish can be eaten raw.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "このコーヒーは苦いです。",
+    "target": "苦い",
+    "reading": "にがい",
+    "fullReading": "このコーヒーはにがいです。",
+    "meaning": "bitter",
+    "translation": "This coffee is bitter.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "庭でハーブを育てています。",
+    "target": "庭",
+    "reading": "にわ",
+    "fullReading": "にわでハーブをそだてています。",
+    "meaning": "garden",
+    "translation": "I'm growing herbs in the garden.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "カップ麺に熱湯を注ぎます。",
+    "target": "熱湯",
+    "reading": "ねっとう",
+    "fullReading": "カップめんにねっとうをそそぎます。",
+    "meaning": "boiling water",
+    "translation": "Pour boiling water into the cup noodles.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "食べる前にラベルをはがす。",
+    "target": "はがす",
+    "reading": "はがす",
+    "fullReading": "たべるまえにラベルをはがす。",
+    "meaning": "to remove",
+    "translation": "Peel off the label before eating.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "鍋にフタをかぶせます。",
+    "target": "フタ",
+    "reading": "フタ",
+    "fullReading": "なべにフタをかぶせます。",
+    "meaning": "lid",
+    "translation": "Put the lid on the pot.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "沸騰したらフタをする。",
+    "target": "フタをする",
+    "reading": "フタをする",
+    "fullReading": "ふっとうしたらフタをする。",
+    "meaning": "to put the lid on",
+    "translation": "Once it boils, put the lid on.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "ご飯にふりかけをかけます。",
+    "target": "ふりかけ",
+    "reading": "ふりかけ",
+    "fullReading": "ごはんにふりかけをかけます。",
+    "meaning": "dried topping",
+    "translation": "Sprinkle furikake on the rice.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "デザートにプリンを食べました。",
+    "target": "プリン",
+    "reading": "プリン",
+    "fullReading": "デザートにプリンをたべました。",
+    "meaning": "pudding",
+    "translation": "I ate pudding for dessert.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "まあ、悪くないですね。",
+    "target": "まあ",
+    "reading": "まあ",
+    "fullReading": "まあ、わるくないですね。",
+    "meaning": "well…",
+    "translation": "Well, it's not bad.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "この料理は少しまずいです。",
+    "target": "まずい",
+    "reading": "まずい",
+    "fullReading": "このりょうりはすこしまずいです。",
+    "meaning": "tastes bad",
+    "translation": "This dish tastes a bit bad.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "卵と砂糖を混ぜる。",
+    "target": "混ぜる",
+    "reading": "まぜる",
+    "fullReading": "たまごとさとうをまぜる。",
+    "meaning": "to mix",
+    "translation": "Mix the egg and sugar.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "ラーメンのめんは自分で選べます。",
+    "target": "めん",
+    "reading": "めん",
+    "fullReading": "ラーメンのめんはじぶんでえらべます。",
+    "meaning": "noodles",
+    "translation": "You can choose the noodles for the ramen yourself.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "カップ麺の湯切り口からお湯を捨てます。",
+    "target": "湯切り口",
+    "reading": "ゆきりぐち",
+    "fullReading": "カップめんのゆきりぐちからおゆをすてます。",
+    "meaning": "drainage opening",
+    "translation": "Drain the hot water from the drainage opening of the cup noodles.",
+    "context": "cooking"
+  },
+  {
+    "sentence": "天ぷらは油で揚げると、サクサクになります。",
+    "target": "揚げる",
+    "reading": "あげる",
+    "fullReading": "てんぷらはあぶらであげると、サクサクになります。",
+    "meaning": "to deep-fry",
+    "translation": "When you deep-fry tempura in oil, it becomes crispy.",
+    "context": "cooking",
+    "source": "irodori2-l4",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "このシュウマイは味がついているので、たれはいりません。",
+    "target": "味がついている",
+    "reading": "あじがついている",
+    "fullReading": "このシュウマイはあじがついているので、たれはいりません。",
+    "meaning": "seasoned",
+    "translation": "This shumai is already seasoned, so you don't need dipping sauce.",
+    "context": "cooking",
+    "source": "irodori2-l4",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "野菜をいためるときは、強火がいいです。",
+    "target": "いためる",
+    "reading": "いためる",
+    "fullReading": "やさいをいためるときは、つよびがいいです。",
+    "meaning": "to fry (stir-fry)",
+    "translation": "When stir-frying vegetables, high heat is good.",
+    "context": "cooking",
+    "source": "irodori2-l4",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "今、友達に地図を送るね。",
+    "target": "送る",
+    "reading": "おくる",
+    "fullReading": "いま、ともだちにちずをおくるね。",
+    "meaning": "to send",
+    "translation": "I'll send my friend a map now.",
+    "context": "cooking",
+    "source": "irodori2-l4",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "野菜を切るときは、指に気をつけてください。",
+    "target": "切る",
+    "reading": "きる",
+    "fullReading": "やさいをきるときは、ゆびにきをつけてください。",
+    "meaning": "to cut",
+    "translation": "When cutting vegetables, be careful of your fingers.",
+    "context": "cooking",
+    "source": "irodori2-l4",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "天ぷらはつゆにつけると、おいしいです。",
+    "target": "つける",
+    "reading": "つける",
+    "fullReading": "てんぷらはつゆにつけると、おいしいです。",
+    "meaning": "to dip",
+    "translation": "Tempura is delicious when you dip it in the sauce.",
+    "context": "cooking",
+    "source": "irodori2-l4",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "駅前に新しいカフェができる。",
+    "target": "できる",
+    "reading": "できる",
+    "fullReading": "えきまえにあたらしいカフェができる。",
+    "meaning": "to open",
+    "translation": "A new cafe will open in front of the station.",
+    "context": "cooking",
+    "source": "irodori2-l4",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "野菜を弱火で煮ると、やわらかくなります。",
+    "target": "煮る",
+    "reading": "にる",
+    "fullReading": "やさいをよわびでにると、やわらかくなります。",
+    "meaning": "to simmer / to stew",
+    "translation": "If you simmer the vegetables on low heat, they become soft.",
+    "context": "cooking",
+    "source": "irodori2-l4",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "ご飯の上に刺身をのせる。",
+    "target": "のせる",
+    "reading": "のせる",
+    "fullReading": "ごはんのうえにさしみをのせる。",
+    "meaning": "to put on top",
+    "translation": "Put the sashimi on top of the rice.",
+    "context": "cooking",
+    "source": "irodori2-l4",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "のりでご飯を巻くと、手巻きずしになります。",
+    "target": "巻く",
+    "reading": "まく",
+    "fullReading": "のりでごはんをまくと、てまきずしになります。",
+    "meaning": "to roll",
+    "translation": "If you roll rice with seaweed, it becomes temaki-zushi.",
+    "context": "cooking",
+    "source": "irodori2-l4",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "りんごの皮をむくのが好きです。",
+    "target": "むく",
+    "reading": "むく",
+    "fullReading": "りんごのかわをむくのがすきです。",
+    "meaning": "to peel",
+    "translation": "I like peeling apples.",
+    "context": "cooking",
+    "source": "irodori2-l4",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "肉まんは蒸すと、ふわふわになります。",
+    "target": "蒸す",
+    "reading": "むす",
+    "fullReading": "にくまんはむすと、ふわふわになります。",
+    "meaning": "to steam",
+    "translation": "When you steam a niku-man, it becomes fluffy.",
+    "context": "cooking",
+    "source": "irodori2-l4",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "卵をゆでるのに何分かかりますか。",
+    "target": "ゆでる",
+    "reading": "ゆでる",
+    "fullReading": "たまごをゆでるのになんぷんかかりますか。",
+    "meaning": "to boil",
+    "translation": "How many minutes does it take to boil an egg?",
+    "context": "cooking",
+    "source": "irodori2-l4",
+    "note": "reconstructed"
   }
 ]

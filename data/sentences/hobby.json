@@ -822,5 +822,32 @@
     "context": "hobby",
     "source": "irodori-l2",
     "note": "reconstructed"
+  },
+  {
+    "sentence": "休日は昼まで寝る。",
+    "target": "寝る",
+    "reading": "ねる",
+    "fullReading": "きゅうじつはひるまでねる。",
+    "meaning": "to sleep",
+    "translation": "On my day off, I sleep until noon.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "週末にギターを習う。",
+    "target": "習う",
+    "reading": "ならう",
+    "fullReading": "しゅうまつにギターをならう。",
+    "meaning": "to learn",
+    "translation": "I take guitar lessons on weekends.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "英語のニュースを聞き取るのは難しい。",
+    "target": "聞き取る",
+    "reading": "ききとる",
+    "fullReading": "えいごのニュースをききとるのはむずかしい。",
+    "meaning": "to hear and understand",
+    "translation": "It's difficult to catch English news by ear.",
+    "context": "hobby"
   }
 ]

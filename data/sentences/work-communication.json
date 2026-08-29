@@ -933,5 +933,1013 @@
     "context": "work-communication",
     "source": "irodori-l14",
     "note": "verbatim"
+  },
+  {
+    "sentence": "後ろの席をあける必要があります。",
+    "target": "あける",
+    "reading": "あける",
+    "fullReading": "うしろのせきをあけるひつようがあります。",
+    "meaning": "to make room",
+    "translation": "We need to leave the seat at the back open.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "会議の前に窓を開けるのを忘れないでください。",
+    "target": "開ける",
+    "reading": "あける",
+    "fullReading": "かいぎのまえにまどをあけるのをわすれないでください。",
+    "meaning": "to open",
+    "translation": "Don't forget to open the window before the meeting.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "入口の横に受付があります。",
+    "target": "入口",
+    "reading": "いりぐち",
+    "fullReading": "いりぐちのよこにうけつけがあります。",
+    "meaning": "entrance",
+    "translation": "There is a reception desk next to the entrance.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "パスワードを入れるとログインできます。",
+    "target": "入れる",
+    "reading": "いれる",
+    "fullReading": "パスワードをいれるとログインできます。",
+    "meaning": "to input",
+    "translation": "If you enter the password, you can log in.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "エレベーターが動くまで、少し待ちましょう。",
+    "target": "動く",
+    "reading": "うごく",
+    "fullReading": "エレベーターがうごくまで、すこしまちましょう。",
+    "meaning": "to work / to move",
+    "translation": "Let's wait a bit until the elevator starts moving.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "後ろの棚に用紙があります。",
+    "target": "後ろ",
+    "reading": "うしろ",
+    "fullReading": "うしろのたなにようしがあります。",
+    "meaning": "back",
+    "translation": "There is paper on the shelf in the back.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "資料は机の上に置くようにしてください。",
+    "target": "置く",
+    "reading": "おく",
+    "fullReading": "しりょうはつくえのうえにおくようにしてください。",
+    "meaning": "to place",
+    "translation": "Please make sure to put the documents on the desk.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "会議室の変更についてお知らせがあります。",
+    "target": "お知らせ",
+    "reading": "おしらせ",
+    "fullReading": "かいぎしつのへんこうについておしらせがあります。",
+    "meaning": "notification",
+    "translation": "There is a notice about a change to the meeting room.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "この赤いボタンを押すと、電源が切れます。",
+    "target": "押す",
+    "reading": "おす",
+    "fullReading": "このあかいボタンをおすと、でんげんがきれます。",
+    "meaning": "to press",
+    "translation": "Pressing this red button turns off the power.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "スキャナから変な音がします。",
+    "target": "音",
+    "reading": "おと",
+    "fullReading": "スキャナからへんなおとがします。",
+    "meaning": "sound",
+    "translation": "A strange sound is coming from the scanner.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "会議は3時に終わる予定です。",
+    "target": "終わる",
+    "reading": "おわる",
+    "fullReading": "かいぎは3じにおわるよていです。",
+    "meaning": "to finish",
+    "translation": "The meeting is scheduled to finish at 3 o'clock.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "この資料を拡大コピーしてください。",
+    "target": "拡大",
+    "reading": "かくだい",
+    "fullReading": "このしりょうをかくだいコピーしてください。",
+    "meaning": "enlarge",
+    "translation": "Please make an enlarged copy of this document.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "片面だけ印刷してください。",
+    "target": "片面",
+    "reading": "かためん",
+    "fullReading": "かためんだけいんさつしてください。",
+    "meaning": "one side",
+    "translation": "Please print only one side.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "カラーで印刷しますか、それとも白黒ですか。",
+    "target": "カラー",
+    "reading": "カラー",
+    "fullReading": "カラーでいんさつしますか、それともしろくろですか。",
+    "meaning": "color",
+    "translation": "Would you like it in color, or black and white?",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "鍵は管理室で借りてください。",
+    "target": "管理室",
+    "reading": "かんりしつ",
+    "fullReading": "かぎはかんりしつでかりてください。",
+    "meaning": "control room / management office",
+    "translation": "Please borrow the key from the management office.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "コピー機の修理を業者に頼みました。",
+    "target": "業者",
+    "reading": "ぎょうしゃ",
+    "fullReading": "コピーきのしゅうりをぎょうしゃにたのみました。",
+    "meaning": "supplier / contractor",
+    "translation": "We asked a contractor to repair the copier.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "メールの件名に日付を書いてください。",
+    "target": "件名",
+    "reading": "けんめい",
+    "fullReading": "メールのけんめいにひづけをかいてください。",
+    "meaning": "subject",
+    "translation": "Please write the date in the email subject line.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "原稿をスキャナにセットしてください。",
+    "target": "原稿",
+    "reading": "げんこう",
+    "fullReading": "げんこうをスキャナにセットしてください。",
+    "meaning": "paperwork",
+    "translation": "Please set the original on the scanner.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "机をコの字に並べてください。",
+    "target": "コの字",
+    "reading": "コのじ",
+    "fullReading": "つくえをコのじにならべてください。",
+    "meaning": "u-shaped",
+    "translation": "Please arrange the desks in a U-shape.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "コーヒーマシーンの調子が悪いです。",
+    "target": "コーヒーマシーン",
+    "reading": "コーヒーマシーン",
+    "fullReading": "コーヒーマシーンのちょうしがわるいです。",
+    "meaning": "coffeemaker",
+    "translation": "The coffee maker isn't working well.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "パソコンを再起動すると直ります。",
+    "target": "再起動する",
+    "reading": "さいきどうする",
+    "fullReading": "パソコンをさいきどうするとなおります。",
+    "meaning": "to restart",
+    "translation": "Restarting the computer will fix it.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "差出人の欄に名前を書いてください。",
+    "target": "差出人",
+    "reading": "さしだしにん",
+    "fullReading": "さしだしにんのらんになまえをかいてください。",
+    "meaning": "sender",
+    "translation": "Please write your name in the sender field.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "この部屋には四角いテーブルが3つあります。",
+    "target": "四角い",
+    "reading": "しかくい",
+    "fullReading": "このへやにはしかくいテーブルが3つあります。",
+    "meaning": "square",
+    "translation": "There are three square tables in this room.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "社内メールで日程を伝えます。",
+    "target": "社内メール",
+    "reading": "しゃないメール",
+    "fullReading": "しゃないメールでにっていをつたえます。",
+    "meaning": "internal company email",
+    "translation": "I will convey the schedule via internal company email.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "資料を縮小コピーしてください。",
+    "target": "縮小",
+    "reading": "しゅくしょう",
+    "fullReading": "しりょうをしゅくしょうコピーしてください。",
+    "meaning": "reduce",
+    "translation": "Please make a reduced copy of the document.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "会議の資料をコピーしておいてください。",
+    "target": "資料",
+    "reading": "しりょう",
+    "fullReading": "かいぎのしりょうをコピーしておいてください。",
+    "meaning": "material / document",
+    "translation": "Please make copies of the meeting materials beforehand.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "白黒で十分です、カラーは要りません。",
+    "target": "白黒",
+    "reading": "しろくろ",
+    "fullReading": "しろくろでじゅうぶんです、カラーはいりません。",
+    "meaning": "black and white",
+    "translation": "Black and white is enough; we don't need color.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "コピー機の自動選択モードを使ってください。",
+    "target": "自動選択",
+    "reading": "じどうせんたく",
+    "fullReading": "コピーきのじどうせんたくモードをつかってください。",
+    "meaning": "automatic selection",
+    "translation": "Please use the copier's automatic selection mode.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "自動濃度に設定すると、きれいに印刷できます。",
+    "target": "自動濃度",
+    "reading": "じどうのうど",
+    "fullReading": "じどうのうどにせっていすると、きれいにいんさつできます。",
+    "meaning": "automatic saturation",
+    "translation": "If you set it to automatic density, you can print cleanly.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "会議の資料を準備するのを手伝ってください。",
+    "target": "準備する",
+    "reading": "じゅんびする",
+    "fullReading": "かいぎのしりょうをじゅんびするのをてつだってください。",
+    "meaning": "to prepare / to set up",
+    "translation": "Please help me prepare the materials for the meeting.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "この数字を確認してください。",
+    "target": "数字",
+    "reading": "すうじ",
+    "fullReading": "このすうじをかくにんしてください。",
+    "meaning": "number",
+    "translation": "Please check this number.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "コピー機の横にスキャナがあります。",
+    "target": "スキャナ",
+    "reading": "スキャナ",
+    "fullReading": "コピーきのよこにスキャナがあります。",
+    "meaning": "scanner",
+    "translation": "There is a scanner next to the copier.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "原稿をセットする前に、電源を確認してください。",
+    "target": "セットする",
+    "reading": "セットする",
+    "fullReading": "げんこうをセットするまえに、でんげんをかくにんしてください。",
+    "meaning": "to set",
+    "translation": "Before setting the original, please check the power.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "コピーする時はソートを選んでください。",
+    "target": "ソート",
+    "reading": "ソート",
+    "fullReading": "コピーするときはソートをえらんでください。",
+    "meaning": "sort",
+    "translation": "When copying, please select sort.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "資料は棚の一番上にあります。",
+    "target": "棚",
+    "reading": "たな",
+    "fullReading": "しりょうはたなのいちばんうえにあります。",
+    "meaning": "shelf",
+    "translation": "The documents are on the top shelf.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "コピーを頼むときは、主任に言ってください。",
+    "target": "頼む",
+    "reading": "たのむ",
+    "fullReading": "コピーをたのむときは、しゅにんにいってください。",
+    "meaning": "to request / to ask",
+    "translation": "When you want to ask for copies, please tell the chief.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "単色で印刷すると、インクが節約できます。",
+    "target": "単色",
+    "reading": "たんしょく",
+    "fullReading": "たんしょくでいんさつすると、インクがせつやくできます。",
+    "meaning": "monochrome",
+    "translation": "Printing in monochrome saves ink.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "机から資料を出すのを手伝ってください。",
+    "target": "出す",
+    "reading": "だす",
+    "fullReading": "つくえからしりょうをだすのをてつだってください。",
+    "meaning": "to take out",
+    "translation": "Please help me take the documents out of the desk.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "電気がつくと、部屋が明るくなります。",
+    "target": "つく",
+    "reading": "つく",
+    "fullReading": "でんきがつくと、へやがあかるくなります。",
+    "meaning": "to be on (e.g. light turns on)",
+    "translation": "When the light turns on, the room becomes bright.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "その日は都合が悪いので、別の日にしましょう。",
+    "target": "都合が悪い",
+    "reading": "つごうがわるい",
+    "fullReading": "そのひはつごうがわるいので、べつのひにしましょう。",
+    "meaning": "inconvenient",
+    "translation": "That day is inconvenient for me, so let's choose another day.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "この用紙は手差しでセットしてください。",
+    "target": "手差し",
+    "reading": "てざし",
+    "fullReading": "このようしはてざしでセットしてください。",
+    "meaning": "insert by hand",
+    "translation": "Please insert this paper by hand.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "資料はもうすぐできると思います。",
+    "target": "できる",
+    "reading": "できる",
+    "fullReading": "しりょうはもうすぐできるとおもいます。",
+    "meaning": "to finish",
+    "translation": "I think the documents will be finished soon.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "帰る前に電気を消してください。",
+    "target": "電気",
+    "reading": "でんき",
+    "fullReading": "かえるまえにでんきをけしてください。",
+    "meaning": "light",
+    "translation": "Please turn off the light before going home.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "後で電話するので、今は大丈夫です。",
+    "target": "電話する",
+    "reading": "でんわする",
+    "fullReading": "あとででんわするので、いまはだいじょうぶです。",
+    "meaning": "to telephone",
+    "translation": "I'll call later, so it's fine for now.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "等倍でコピーしてください。",
+    "target": "等倍",
+    "reading": "とうばい",
+    "fullReading": "とうばいでコピーしてください。",
+    "meaning": "same size",
+    "translation": "Please copy at the same size (100%).",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "資料を取って来るので、少々お待ちください。",
+    "target": "取って来る",
+    "reading": "とってくる",
+    "fullReading": "しりょうをとってくるので、しょうしょうおまちください。",
+    "meaning": "to get and come back",
+    "translation": "I'll go get the documents, so please wait a moment.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "扉を開けたままにしないでください。",
+    "target": "扉",
+    "reading": "とびら",
+    "fullReading": "とびらをあけたままにしないでください。",
+    "meaning": "door",
+    "translation": "Please don't leave the door open.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "とりあえず、これで進めましょう。",
+    "target": "とりあえず",
+    "reading": "とりあえず",
+    "fullReading": "とりあえず、これですすめましょう。",
+    "meaning": "tentatively",
+    "translation": "Let's go ahead with this for now.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "なお、会議室は変更になりました。",
+    "target": "なお",
+    "reading": "なお",
+    "fullReading": "なお、かいぎしつはへんこうになりました。",
+    "meaning": "furthermore",
+    "translation": "Furthermore, the meeting room has been changed.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "そろそろ用紙がなくなるので、注文してください。",
+    "target": "なくなる",
+    "reading": "なくなる",
+    "fullReading": "そろそろようしがなくなるので、ちゅうもんしてください。",
+    "meaning": "to be out of",
+    "translation": "The paper is about to run out, so please order more.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "椅子をきれいに並べるのを手伝ってください。",
+    "target": "並べる",
+    "reading": "ならべる",
+    "fullReading": "いすをきれいにならべるのをてつだってください。",
+    "meaning": "to line up",
+    "translation": "Please help me line up the chairs neatly.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "2色で印刷できますか。",
+    "target": "2色",
+    "reading": "にしょく",
+    "fullReading": "2しょくでいんさつできますか。",
+    "meaning": "two colors",
+    "translation": "Can you print in two colors?",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "会議の日程を教えてください。",
+    "target": "日程",
+    "reading": "にってい",
+    "fullReading": "かいぎのにっていをおしえてください。",
+    "meaning": "schedule",
+    "translation": "Please tell me the schedule for the meeting.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "資料を人数分コピーしてください。",
+    "target": "人数分",
+    "reading": "にんずうぶん",
+    "fullReading": "しりょうをにんずうぶんコピーしてください。",
+    "meaning": "for the number of people",
+    "translation": "Please copy the documents for the number of people attending.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "コピーの倍率を確認してください。",
+    "target": "倍率",
+    "reading": "ばいりつ",
+    "fullReading": "コピーのばいりつをかくにんしてください。",
+    "meaning": "scaling",
+    "translation": "Please check the copy scaling ratio.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "書類に日付を書いてください。",
+    "target": "日付",
+    "reading": "ひづけ",
+    "fullReading": "しょるいにひづけをかいてください。",
+    "meaning": "date",
+    "translation": "Please write the date on the document.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "この資料をファックスで送ってください。",
+    "target": "ファックス",
+    "reading": "ファックス",
+    "fullReading": "このしりょうをファックスでおくってください。",
+    "meaning": "fax",
+    "translation": "Please send this document by fax.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "この資料はフルカラーで印刷してください。",
+    "target": "フルカラー",
+    "reading": "フルカラー",
+    "fullReading": "このしりょうはフルカラーでいんさつしてください。",
+    "meaning": "full color",
+    "translation": "Please print this document in full color.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "その音、ちょっと変ですね。",
+    "target": "変",
+    "reading": "へん",
+    "fullReading": "そのおと、ちょっとへんですね。",
+    "meaning": "strange",
+    "translation": "That sound is a bit strange, isn't it?",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "変倍を使って、資料をA3に拡大しました。",
+    "target": "変倍",
+    "reading": "へんばい",
+    "fullReading": "へんばいをつかって、しりょうをA3にかくだいしました。",
+    "meaning": "different size",
+    "translation": "I used the zoom function to enlarge the document to A3.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "この緑のボタンを押すとコピーが始まります。",
+    "target": "ボタン",
+    "reading": "ボタン",
+    "fullReading": "このみどりのボタンをおすとコピーがはじまります。",
+    "meaning": "button",
+    "translation": "Pressing this green button starts copying.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "枚数を確認してから、印刷してください。",
+    "target": "枚数",
+    "reading": "まいすう",
+    "fullReading": "まいすうをかくにんしてから、いんさつしてください。",
+    "meaning": "number of copies",
+    "translation": "Please check the number of copies before printing.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "丸いテーブルは会議室にあります。",
+    "target": "丸い",
+    "reading": "まるい",
+    "fullReading": "まるいテーブルはかいぎしつにあります。",
+    "meaning": "round",
+    "translation": "The round table is in the meeting room.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "皆様、お疲れ様でした。",
+    "target": "皆様",
+    "reading": "みなさま",
+    "fullReading": "みなさま、おつかれさまでした。",
+    "meaning": "dear all (polite expression)",
+    "translation": "Everyone, thank you for your hard work today.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "もうすぐ会議が始まります。",
+    "target": "もうすぐ",
+    "reading": "もうすぐ",
+    "fullReading": "もうすぐかいぎがはじまります。",
+    "meaning": "soon / almost",
+    "translation": "The meeting will start soon.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "本を棚に戻すよう頼まれました。",
+    "target": "戻す",
+    "reading": "もどす",
+    "fullReading": "ほんをたなにもどすようたのまれました。",
+    "meaning": "to return",
+    "translation": "I was asked to put the book back on the shelf.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "このコピー機のやり方を教えてください。",
+    "target": "やり方",
+    "reading": "やりかた",
+    "fullReading": "このコピーきのやりかたをおしえてください。",
+    "meaning": "how to do (something)",
+    "translation": "Please show me how to use this copier.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "用紙がなくなったら、教えてください。",
+    "target": "用紙",
+    "reading": "ようし",
+    "fullReading": "ようしがなくなったら、おしえてください。",
+    "meaning": "paper",
+    "translation": "Please let me know if the paper runs out.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "両面に印刷してください。",
+    "target": "両面",
+    "reading": "りょうめん",
+    "fullReading": "りょうめんにいんさつしてください。",
+    "meaning": "both sides",
+    "translation": "Please print on both sides.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "何かあったら、すぐに連絡するようにしてください。",
+    "target": "連絡する",
+    "reading": "れんらくする",
+    "fullReading": "なにかあったら、すぐにれんらくするようにしてください。",
+    "meaning": "to contact",
+    "translation": "If anything happens, please make sure to contact me right away.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "あとでもう一度確認します。",
+    "target": "あとで",
+    "reading": "あとで",
+    "fullReading": "あとでもういちどかくにんします。",
+    "meaning": "later",
+    "translation": "I'll check again later.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "忘れ物は家に置いてきました。",
+    "target": "家",
+    "reading": "いえ",
+    "fullReading": "わすれものはいえにおいてきました。",
+    "meaning": "house",
+    "translation": "I left the item I forgot at home.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "郵便局に行って来ると言っていました。",
+    "target": "行って来る",
+    "reading": "いってくる",
+    "fullReading": "ゆうびんきょくにいってくるといっていました。",
+    "meaning": "to go (and come back after)",
+    "translation": "He said he was going to the post office and would come back.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "コピーには許可がいる。",
+    "target": "いる",
+    "reading": "いる",
+    "fullReading": "コピーにはきょかがいる。",
+    "meaning": "to require",
+    "translation": "Copying requires permission.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "皆様のご健康をお祈りいたします。",
+    "target": "お祈り",
+    "reading": "おいのり",
+    "fullReading": "みなさまのごけんこうをおいのりいたします。",
+    "meaning": "prayer",
+    "translation": "We pray for everyone's good health.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "電車が遅れて、到着が遅くなるかもしれません。",
+    "target": "遅くなる",
+    "reading": "おそくなる",
+    "fullReading": "でんしゃがおくれて、とうちゃくがおそくなるかもしれません。",
+    "meaning": "to be late",
+    "translation": "The train is delayed, so my arrival might be late.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "今日は早く帰る予定です。",
+    "target": "帰る",
+    "reading": "かえる",
+    "fullReading": "きょうははやくかえるよていです。",
+    "meaning": "to go home",
+    "translation": "I plan to go home early today.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "休暇届を提出してください。",
+    "target": "休暇届",
+    "reading": "きゅうかとどけ",
+    "fullReading": "きゅうかとどけをていしゅつしてください。",
+    "meaning": "vacation request / leave form",
+    "translation": "Please submit the vacation request form.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "今日は具合が悪いので、早退します。",
+    "target": "具合が悪い",
+    "reading": "ぐあいがわるい",
+    "fullReading": "きょうはぐあいがわるいので、そうたいします。",
+    "meaning": "feel bad / unwell",
+    "translation": "I feel unwell today, so I will leave early.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "これから会議を始めます。",
+    "target": "これから",
+    "reading": "これから",
+    "fullReading": "これからかいぎをはじめます。",
+    "meaning": "from now",
+    "translation": "We will start the meeting from now.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "電車が混んでいるので、少し遅れます。",
+    "target": "混んでいる",
+    "reading": "こんでいる",
+    "fullReading": "でんしゃがこんでいるので、すこしおくれます。",
+    "meaning": "crowded",
+    "translation": "The train is crowded, so I'll be a little late.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "財布を机の上に忘れました。",
+    "target": "財布",
+    "reading": "さいふ",
+    "fullReading": "さいふをつくえのうえにわすれました。",
+    "meaning": "wallet",
+    "translation": "I left my wallet on the desk.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "書類に氏名を書いてください。",
+    "target": "氏名",
+    "reading": "しめい",
+    "fullReading": "しょるいにしめいをかいてください。",
+    "meaning": "full name",
+    "translation": "Please write your full name on the document.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "主任に確認してから、提出してください。",
+    "target": "主任",
+    "reading": "しゅにん",
+    "fullReading": "しゅにんにかくにんしてから、ていしゅつしてください。",
+    "meaning": "chief",
+    "translation": "Please check with the chief before submitting.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "この書類には承認印が必要です。",
+    "target": "承認印",
+    "reading": "しょうにんいん",
+    "fullReading": "このしょるいにはしょうにんいんがひつようです。",
+    "meaning": "seal of approval",
+    "translation": "This document requires a seal of approval.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "所属と氏名を書いてください。",
+    "target": "所属",
+    "reading": "しょぞく",
+    "fullReading": "しょぞくとしめいをかいてください。",
+    "meaning": "affiliation",
+    "translation": "Please write your affiliation and full name.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "私用のため、少し遅れます。",
+    "target": "私用",
+    "reading": "しよう",
+    "fullReading": "しようのため、すこしおくれます。",
+    "meaning": "for private reason",
+    "translation": "I will be a little late due to a personal matter.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "休みを取る時は、事前に連絡してください。",
+    "target": "事前に",
+    "reading": "じぜんに",
+    "fullReading": "やすみをとるときは、じぜんにれんらくしてください。",
+    "meaning": "in advance",
+    "translation": "When taking a day off, please contact us in advance.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "たばこを吸う人はここに来てください。",
+    "target": "吸う",
+    "reading": "すう",
+    "fullReading": "たばこをすうひとはここにきてください。",
+    "meaning": "to smoke (e.g. smoke a cigarette)",
+    "translation": "People who smoke, please come here.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "この仕事はすぐ済むと思います。",
+    "target": "済む",
+    "reading": "すむ",
+    "fullReading": "このしごとはすぐすむとおもいます。",
+    "meaning": "to finish",
+    "translation": "I think this work will be finished soon.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "せきが出るので、マスクをしています。",
+    "target": "せき",
+    "reading": "せき",
+    "fullReading": "せきがでるので、マスクをしています。",
+    "meaning": "cough",
+    "translation": "I'm wearing a mask because I have a cough.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "熱があるので、早退することにしました。",
+    "target": "早退する",
+    "reading": "そうたいする",
+    "fullReading": "ねつがあるので、そうたいすることにしました。",
+    "meaning": "to leave early",
+    "translation": "I have a fever, so I decided to leave early.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "電車が遅れました。それで、遅刻しました。",
+    "target": "それで",
+    "reading": "それで",
+    "fullReading": "でんしゃがおくれました。それで、ちこくしました。",
+    "meaning": "because of that",
+    "translation": "The train was delayed. Because of that, I was late.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "たばこは外で吸ってください。",
+    "target": "たばこ",
+    "reading": "たばこ",
+    "fullReading": "たばこはそとですってください。",
+    "meaning": "tobacco / cigarette",
+    "translation": "Please smoke cigarettes outside.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "電車が止まって、遅刻するかもしれません。",
+    "target": "遅刻する",
+    "reading": "ちこくする",
+    "fullReading": "でんしゃがとまって、ちこくするかもしれません。",
+    "meaning": "to be late",
+    "translation": "The train stopped, so I might be late.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "ちょっと、いいでしょうか？資料について聞きたいことがあります。",
+    "target": "ちょっと、いいでしょうか？",
+    "reading": "ちょっと、いいでしょうか？",
+    "fullReading": "ちょっと、いいでしょうか？しりょうについてききたいことがあります。",
+    "meaning": "Excuse me, but may I interrupt?",
+    "translation": "Excuse me, may I interrupt? I have something to ask about the documents.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "後で結果を伝えるので、待っていてください。",
+    "target": "伝える",
+    "reading": "つたえる",
+    "fullReading": "あとでけっかをつたえるので、まっていてください。",
+    "meaning": "to tell",
+    "translation": "I will tell you the results later, so please wait.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "明日までに書類を提出するようにしてください。",
+    "target": "提出する",
+    "reading": "ていしゅつする",
+    "fullReading": "あしたまでにしょるいをていしゅつするようにしてください。",
+    "meaning": "to submit",
+    "translation": "Please make sure to submit the documents by tomorrow.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "誰が電話を取るか決めましょう。",
+    "target": "取る",
+    "reading": "とる",
+    "fullReading": "だれがでんわをとるかきめましょう。",
+    "meaning": "to pick up",
+    "translation": "Let's decide who will answer the phone.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "熱を測ったら、37度でした。",
+    "target": "熱",
+    "reading": "ねつ",
+    "fullReading": "ねつをはかったら、37どでした。",
+    "meaning": "fever",
+    "translation": "When I took my temperature, it was 37 degrees.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "熱があるので、病院に行きます。",
+    "target": "熱がある",
+    "reading": "ねつがある",
+    "fullReading": "ねつがあるので、びょういんにいきます。",
+    "meaning": "to have a fever",
+    "translation": "I have a fever, so I'm going to the hospital.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "早く帰ってもいいですか。",
+    "target": "早く",
+    "reading": "はやく",
+    "fullReading": "はやくかえってもいいですか。",
+    "meaning": "early",
+    "translation": "May I go home early?",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "今日はひどい雨ですね。",
+    "target": "ひどい",
+    "reading": "ひどい",
+    "fullReading": "きょうはひどいあめですね。",
+    "meaning": "bad / awful",
+    "translation": "It's terrible rain today, isn't it?",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "備考欄に理由を書いてください。",
+    "target": "備考",
+    "reading": "びこう",
+    "fullReading": "びこうらんにりゆうをかいてください。",
+    "meaning": "remarks",
+    "translation": "Please write the reason in the remarks column.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "近くに病院はありますか。",
+    "target": "病院",
+    "reading": "びょういん",
+    "fullReading": "ちかくにびょういんはありますか。",
+    "meaning": "hospital",
+    "translation": "Is there a hospital nearby?",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "このフォームに必要事項を記入してください。",
+    "target": "フォーム",
+    "reading": "フォーム",
+    "fullReading": "このフォームにひつようじこうをきにゅうしてください。",
+    "meaning": "form",
+    "translation": "Please fill in the required information on this form.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "今、傘を持っている人はいますか。",
+    "target": "持っている",
+    "reading": "もっている",
+    "fullReading": "いま、かさをもっているひとはいますか。",
+    "meaning": "have",
+    "translation": "Is there anyone who has an umbrella right now?",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "会議の資料は各自持つようにしてください。",
+    "target": "持つ",
+    "reading": "もつ",
+    "fullReading": "かいぎのしりょうはかくじもつようにしてください。",
+    "meaning": "to have",
+    "translation": "Please make sure each person brings the meeting materials.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "何時に戻るか教えてください。",
+    "target": "戻る",
+    "reading": "もどる",
+    "fullReading": "なんじにもどるかおしえてください。",
+    "meaning": "to return",
+    "translation": "Please tell me what time you will return.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "明日は休むつもりです。",
+    "target": "休む",
+    "reading": "やすむ",
+    "fullReading": "あしたはやすむつもりです。",
+    "meaning": "to take a day off / to get a leave",
+    "translation": "I plan to take tomorrow off.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "遅刻した理由を教えてください。",
+    "target": "理由",
+    "reading": "りゆう",
+    "fullReading": "ちこくしたりゆうをおしえてください。",
+    "meaning": "reason",
+    "translation": "Please tell me the reason you were late.",
+    "context": "work-communication"
+  },
+  {
+    "sentence": "大事な物を忘れる前に確認してください。",
+    "target": "忘れる",
+    "reading": "わすれる",
+    "fullReading": "だいじなものをわすれるまえにかくにんしてください。",
+    "meaning": "to forget",
+    "translation": "Please check before you forget something important.",
+    "context": "work-communication"
   }
 ]

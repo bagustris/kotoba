@@ -911,5 +911,815 @@
     "context": "japanese-study",
     "source": "irodori-l10",
     "note": "verbatim"
+  },
+  {
+    "sentence": "毎日シャドーイングすると発音がよくなります。",
+    "target": "シャドーイングする",
+    "reading": "しゃどーいんぐする",
+    "fullReading": "まいにちシャドーイングするとはつおんがよくなります。",
+    "meaning": "to shadow",
+    "translation": "If you shadow every day, your pronunciation improves.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "日本語の勉強のためにアプリをダウンロードしました。",
+    "target": "アプリ",
+    "reading": "アプリ",
+    "fullReading": "にほんごのべんきょうのためにアプリをダウンロードしました。",
+    "meaning": "app / application",
+    "translation": "I downloaded an app to study Japanese.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "「ありがとう」は英語で何と言うか知っていますか。",
+    "target": "言う",
+    "reading": "いう",
+    "fullReading": "「ありがとう」はえいごでなんというかしっていますか。",
+    "meaning": "to say / to tell",
+    "translation": "Do you know how to say \"arigatou\" in English?",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "友だちに漢字の読み方を教えるのが好きです。",
+    "target": "教える",
+    "reading": "おしえる",
+    "fullReading": "ともだちにかんじのよみかたをおしえるのがすきです。",
+    "meaning": "to teach",
+    "translation": "I like teaching my friends how to read kanji.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "授業中におしゃべりするのはよくないです。",
+    "target": "おしゃべりする",
+    "reading": "おしゃべりする",
+    "fullReading": "じゅぎょうちゅうにおしゃべりするのはよくないです。",
+    "meaning": "to chat",
+    "translation": "It's not good to chat during class.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "日本語で会話をするのが好きです。",
+    "target": "会話",
+    "reading": "かいわ",
+    "fullReading": "にほんごでかいわをするのがすきです。",
+    "meaning": "conversation",
+    "translation": "I like having conversations in Japanese.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "毎日日記を書くようにしています。",
+    "target": "書く",
+    "reading": "かく",
+    "fullReading": "まいにちにっきをかくようにしています。",
+    "meaning": "to write",
+    "translation": "I try to write a diary every day.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "友だちに辞書を貸すことにしました。",
+    "target": "貸す",
+    "reading": "かす",
+    "fullReading": "ともだちにじしょをかすことにしました。",
+    "meaning": "to lend",
+    "translation": "I decided to lend my dictionary to a friend.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "単語をカテゴリーごとに分けて覚えます。",
+    "target": "カテゴリー",
+    "reading": "カテゴリー",
+    "fullReading": "たんごをカテゴリーごとにわけておぼえます。",
+    "meaning": "category",
+    "translation": "I memorize words by sorting them into categories.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "紙に漢字を書く練習をします。",
+    "target": "紙",
+    "reading": "かみ",
+    "fullReading": "かみにかんじをかくれんしゅうをします。",
+    "meaning": "paper",
+    "translation": "I practice writing kanji on paper.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "漢字を覚えるのは大変です。",
+    "target": "漢字",
+    "reading": "かんじ",
+    "fullReading": "かんじをおぼえるのはたいへんです。",
+    "meaning": "kanji",
+    "translation": "Memorizing kanji is hard.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "ひらがなは漢字より簡単です。",
+    "target": "簡単",
+    "reading": "かんたん",
+    "fullReading": "ひらがなはかんじよりかんたんです。",
+    "meaning": "easy",
+    "translation": "Hiragana is easier than kanji.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "知らない単語はインターネットで検索します。",
+    "target": "検索",
+    "reading": "けんさく",
+    "fullReading": "しらないたんごはインターネットでけんさくします。",
+    "meaning": "search",
+    "translation": "I search the internet for words I don't know.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "姉は高校で日本語を勉強しています。",
+    "target": "高校",
+    "reading": "こうこう",
+    "fullReading": "あねはこうこうでにほんごをべんきょうしています。",
+    "meaning": "high school",
+    "translation": "My older sister is studying Japanese in high school.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "分からない言葉の意味を探す。",
+    "target": "探す",
+    "reading": "さがす",
+    "fullReading": "わからないことばのいみをさがす。",
+    "meaning": "to look for",
+    "translation": "I look for the meaning of words I don't understand.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "授業の後で先生に質問をしました。",
+    "target": "質問",
+    "reading": "しつもん",
+    "fullReading": "じゅぎょうのあとでせんせいにしつもんをしました。",
+    "meaning": "question",
+    "translation": "I asked the teacher a question after class.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "分からない単語は辞書で調べます。",
+    "target": "辞書",
+    "reading": "じしょ",
+    "fullReading": "わからないたんごはじしょでしらべます。",
+    "meaning": "dictionary",
+    "translation": "I look up words I don't know in the dictionary.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "漢字を書くのは自信がありません。",
+    "target": "自信がありません",
+    "reading": "じしんがありません",
+    "fullReading": "かんじをかくのはじしんがありません。",
+    "meaning": "I am not confident.",
+    "translation": "I'm not confident about writing kanji.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "彼は日本語の発音が上手です。",
+    "target": "上手",
+    "reading": "じょうず",
+    "fullReading": "かれはにほんごのはつおんがじょうずです。",
+    "meaning": "well / good at",
+    "translation": "He is good at Japanese pronunciation.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "この文法を説明するのは難しいです。",
+    "target": "説明する",
+    "reading": "せつめいする",
+    "fullReading": "このぶんぽうをせつめいするのはむずかしいです。",
+    "meaning": "to explain",
+    "translation": "It's difficult to explain this grammar.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "先生に質問の答えを聞きました。",
+    "target": "先生",
+    "reading": "せんせい",
+    "fullReading": "せんせいにしつもんのこたえをききました。",
+    "meaning": "teacher / instructor",
+    "translation": "I asked the teacher for the answer to the question.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "勉強の方法について先生に相談しました。",
+    "target": "相談",
+    "reading": "そうだん",
+    "fullReading": "べんきょうのほうほうについてせんせいにそうだんしました。",
+    "meaning": "discussion",
+    "translation": "I discussed my study methods with the teacher.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "大学で日本語を専攻しています。",
+    "target": "大学",
+    "reading": "だいがく",
+    "fullReading": "だいがくでにほんごをせんこうしています。",
+    "meaning": "university / college",
+    "translation": "I'm majoring in Japanese at university.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "宿題の答えをもう一度チェックする。",
+    "target": "チェックする",
+    "reading": "チェックする",
+    "fullReading": "しゅくだいのこたえをもういちどチェックする。",
+    "meaning": "to check",
+    "translation": "I check my homework answers once more.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "祖父はいつも知恵のある言葉を教えてくれます。",
+    "target": "知恵",
+    "reading": "ちえ",
+    "fullReading": "そふはいつもちえのあることばをおしえてくれます。",
+    "meaning": "wisdom",
+    "translation": "My grandfather always teaches me wise words.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "この漢字とその漢字は意味が違う。",
+    "target": "違う",
+    "reading": "ちがう",
+    "fullReading": "このかんじとそのかんじはいみがちがう。",
+    "meaning": "different",
+    "translation": "This kanji and that kanji have different meanings.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "彼女は漢字の暗記が得意です。",
+    "target": "得意",
+    "reading": "とくい",
+    "fullReading": "かのじょはかんじのあんきがとくいです。",
+    "meaning": "good at",
+    "translation": "She is good at memorizing kanji.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "テストの点数でクラスのトップになりました。",
+    "target": "トップ",
+    "reading": "トップ",
+    "fullReading": "テストのてんすうでクラスのトップになりました。",
+    "meaning": "top",
+    "translation": "I got the top score in the class on the test.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "この漢字は何回も練習しました。",
+    "target": "何回も",
+    "reading": "なんかいも",
+    "fullReading": "このかんじはなんかいもれんしゅうしました。",
+    "meaning": "several times",
+    "translation": "I practiced this kanji several times.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "私は漢字の書き取りが苦手です。",
+    "target": "苦手",
+    "reading": "にがて",
+    "fullReading": "わたしはかんじのかきとりがにがてです。",
+    "meaning": "poor at",
+    "translation": "I'm not good at writing kanji from dictation.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "この二つの漢字はとても似ている。",
+    "target": "似ている",
+    "reading": "にている",
+    "fullReading": "このふたつのかんじはとてもにている。",
+    "meaning": "similar",
+    "translation": "These two kanji are very similar.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "先生の辞書を少し拝借する。",
+    "target": "拝借する",
+    "reading": "はいしゃくする",
+    "fullReading": "せんせいのじしょをすこしはいしゃくする。",
+    "meaning": "to borrow",
+    "translation": "I borrow the teacher's dictionary for a bit.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "毎日発音の練習をしています。",
+    "target": "発音",
+    "reading": "はつおん",
+    "fullReading": "まいにちはつおんのれんしゅうをしています。",
+    "meaning": "pronunciation",
+    "translation": "I practice pronunciation every day.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "まずひらがなから勉強しました。",
+    "target": "ひらがな",
+    "reading": "ひらがな",
+    "fullReading": "まずひらがなからべんきょうしました。",
+    "meaning": "hiragana",
+    "translation": "I studied hiragana first.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "この文法はまだよく分かりません。",
+    "target": "文法",
+    "reading": "ぶんぽう",
+    "fullReading": "このぶんぽうはまだよくわかりません。",
+    "meaning": "grammar",
+    "translation": "I still don't understand this grammar well.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "毎晩一時間日本語の勉強をします。",
+    "target": "勉強",
+    "reading": "べんきょう",
+    "fullReading": "まいばんいちじかんにほんごのべんきょうをします。",
+    "meaning": "study",
+    "translation": "I study Japanese for one hour every night.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "先生にノートを見せる。",
+    "target": "見せる",
+    "reading": "みせる",
+    "fullReading": "せんせいにノートをみせる。",
+    "meaning": "to show",
+    "translation": "I show my notebook to the teacher.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "このアプリは無料で使えます。",
+    "target": "無料",
+    "reading": "むりょう",
+    "fullReading": "このアプリはむりょうでつかえます。",
+    "meaning": "free of charge",
+    "translation": "This app can be used for free.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "先生に質問をメールで送りました。",
+    "target": "メール",
+    "reading": "メール",
+    "fullReading": "せんせいにしつもんをメールでおくりました。",
+    "meaning": "email",
+    "translation": "I sent my question to the teacher by email.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "日本語には三種類の文字があります。",
+    "target": "文字",
+    "reading": "もじ",
+    "fullReading": "にほんごにはさんしゅるいのもじがあります。",
+    "meaning": "characters",
+    "translation": "There are three types of characters in Japanese.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "友だちはモンゴル語と日本語を話せます。",
+    "target": "モンゴル語",
+    "reading": "モンゴルご",
+    "fullReading": "ともだちはモンゴルごとにほんごをはなせます。",
+    "meaning": "Mongolian language",
+    "translation": "My friend can speak Mongolian and Japanese.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "先生はいつもゆっくり話してくれます。",
+    "target": "ゆっくり",
+    "reading": "ゆっくり",
+    "fullReading": "せんせいはいつもゆっくりはなしてくれます。",
+    "meaning": "slowly",
+    "translation": "The teacher always speaks slowly for us.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "日本語のラジオを聞いて勉強しています。",
+    "target": "ラジオ",
+    "reading": "ラジオ",
+    "fullReading": "にほんごのラジオをきいてべんきょうしています。",
+    "meaning": "radio",
+    "translation": "I study by listening to Japanese radio.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "このアプリの人気ランキングを見ました。",
+    "target": "ランキング",
+    "reading": "ランキング",
+    "fullReading": "このアプリのにんきランキングをみました。",
+    "meaning": "ranking",
+    "translation": "I looked at this app's popularity ranking.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "毎日漢字の練習をしています。",
+    "target": "練習",
+    "reading": "れんしゅう",
+    "fullReading": "まいにちかんじのれんしゅうをしています。",
+    "meaning": "practice",
+    "translation": "I practice kanji every day.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "わしは若いころ日本語を勉強したんじゃ。",
+    "target": "わし",
+    "reading": "わし",
+    "fullReading": "わしはわかいころにほんごをべんきょうしたんじゃ。",
+    "meaning": "I (role language for an elderly person)",
+    "translation": "I studied Japanese when I was young.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "日本語の詩を読んでその美しさを味わう。",
+    "target": "味わう",
+    "reading": "あじわう",
+    "fullReading": "にほんごのしをよんでそのうつくしさをあじわう。",
+    "meaning": "to taste / to savor",
+    "translation": "I read Japanese poetry and savor its beauty.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "宿題は半分終わりました。あとは漢字だけです。",
+    "target": "あとは",
+    "reading": "あとは",
+    "fullReading": "しゅくだいははんぶんおわりました。あとはかんじだけです。",
+    "meaning": "after that",
+    "translation": "I finished half of my homework. After that, only the kanji is left.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "この言葉の意味が分かりません。",
+    "target": "意味",
+    "reading": "いみ",
+    "fullReading": "このことばのいみがわかりません。",
+    "meaning": "meaning",
+    "translation": "I don't understand the meaning of this word.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "質問があれば、いつでも研究室にいらしてください。",
+    "target": "いらしてください",
+    "reading": "いらしてください",
+    "fullReading": "しつもんがあれば、いつでもけんきゅうしつにいらしてください。",
+    "meaning": "Please come. (polite expression)",
+    "translation": "If you have questions, please come to my office anytime.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "授業には辞書をお持ちください。",
+    "target": "お持ちください",
+    "reading": "おもちください",
+    "fullReading": "じゅぎょうにはじしょをおもちください。",
+    "meaning": "Please bring ～ . (polite expression)",
+    "translation": "Please bring a dictionary to class.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "この漢字を覚えるのに時間がかかる。",
+    "target": "かかる",
+    "reading": "かかる",
+    "fullReading": "このかんじをおぼえるのにじかんがかかる。",
+    "meaning": "to cost (a fee)",
+    "translation": "It takes time to memorize this kanji.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "各授業の後で復習をします。",
+    "target": "各",
+    "reading": "かく",
+    "fullReading": "かくじゅぎょうのあとでふくしゅうをします。",
+    "meaning": "each",
+    "translation": "I review after each class.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "各自で単語を復習してください。",
+    "target": "各自",
+    "reading": "かくじ",
+    "fullReading": "かくじでたんごをふくしゅうしてください。",
+    "meaning": "each person",
+    "translation": "Please review the vocabulary on your own.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "分からないことは先生に聞くようにしています。",
+    "target": "聞く",
+    "reading": "きく",
+    "fullReading": "わからないことはせんせいにきくようにしています。",
+    "meaning": "to ask",
+    "translation": "I make it a habit to ask the teacher when I don't understand something.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "私は日本の文化に興味がある。",
+    "target": "興味がある",
+    "reading": "きょうみがある",
+    "fullReading": "わたしはにほんのぶんかにきょうみがある。",
+    "meaning": "to be interested in",
+    "translation": "I'm interested in Japanese culture.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "大学の授業を見学に行きました。",
+    "target": "見学",
+    "reading": "けんがく",
+    "fullReading": "だいがくのじゅぎょうをけんがくにいきました。",
+    "meaning": "observation",
+    "translation": "I went to observe a university class.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "初心者向けの日本語コースに申し込みました。",
+    "target": "コース",
+    "reading": "コース",
+    "fullReading": "しょしんしゃむけのにほんごコースにもうしこみました。",
+    "meaning": "course",
+    "translation": "I signed up for a Japanese course for beginners.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "来週の勉強会に参加するつもりです。",
+    "target": "参加する",
+    "reading": "さんかする",
+    "fullReading": "らいしゅうのべんきょうかいにさんかするつもりです。",
+    "meaning": "to join",
+    "translation": "I plan to join next week's study group.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "週に三回日本語のクラスがあります。",
+    "target": "週",
+    "reading": "しゅう",
+    "fullReading": "しゅうにさんかいにほんごのクラスがあります。",
+    "meaning": "week",
+    "translation": "There are Japanese classes three times a week.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "教科書に旬の野菜についての文章がありました。",
+    "target": "旬",
+    "reading": "しゅん",
+    "fullReading": "きょうかしょにしゅんのやさいについてのぶんしょうがありました。",
+    "meaning": "seasonal food",
+    "translation": "There was a passage about seasonal vegetables in the textbook.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "自己紹介する練習をしました。",
+    "target": "紹介する",
+    "reading": "しょうかいする",
+    "fullReading": "じこしょうかいするれんしゅうをしました。",
+    "meaning": "to introduce",
+    "translation": "I practiced introducing myself.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "大学のクラブで書道を習っています。",
+    "target": "書道",
+    "reading": "しょどう",
+    "fullReading": "だいがくのクラブでしょどうをならっています。",
+    "meaning": "Japanese calligraphy",
+    "translation": "I'm learning calligraphy in a university club.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "漢字の勉強に時間をかけています。",
+    "target": "時間",
+    "reading": "じかん",
+    "fullReading": "かんじのべんきょうにじかんをかけています。",
+    "meaning": "time",
+    "translation": "I spend time studying kanji.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "新しい日本語コースは十月にスタートします。",
+    "target": "スタート",
+    "reading": "スタート",
+    "fullReading": "あたらしいにほんごコースはじゅうがつにスタートします。",
+    "meaning": "starting in / on (e.g. starting in October)",
+    "translation": "The new Japanese course starts in October.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "このコースは先着二十名です。",
+    "target": "先着",
+    "reading": "せんちゃく",
+    "fullReading": "このコースはせんちゃくにじゅうめいです。",
+    "meaning": "first (people to apply)",
+    "translation": "This course is limited to the first twenty people.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "単語を全部覚えました。",
+    "target": "全部",
+    "reading": "ぜんぶ",
+    "fullReading": "たんごをぜんぶおぼえました。",
+    "meaning": "all",
+    "translation": "I memorized all the words.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "ひらがなを勉強しますか、それともカタカナを勉強しますか。",
+    "target": "それとも",
+    "reading": "それとも",
+    "fullReading": "ひらがなをべんきょうしますか、それともカタカナをべんきょうしますか。",
+    "meaning": "or",
+    "translation": "Will you study hiragana, or will you study katakana?",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "体育室で日本語のクラブ活動をしています。",
+    "target": "体育室",
+    "reading": "たいいくしつ",
+    "fullReading": "たいいくしつでにほんごのクラブかつどうをしています。",
+    "meaning": "exercise room",
+    "translation": "We do Japanese club activities in the exercise room.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "このセミナーはただで参加できます。",
+    "target": "ただ",
+    "reading": "ただ",
+    "fullReading": "このセミナーはただでさんかできます。",
+    "meaning": "free of charge",
+    "translation": "You can join this seminar for free.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "調理室で日本語の料理教室があります。",
+    "target": "調理室",
+    "reading": "ちょうりしつ",
+    "fullReading": "ちょうりしつでにほんごのりょうりきょうしつがあります。",
+    "meaning": "kitchen",
+    "translation": "There's a Japanese cooking class in the kitchen.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "先生、ちょっといいですか？質問があります。",
+    "target": "ちょっといいですか？",
+    "reading": "ちょっといいですか？",
+    "fullReading": "せんせい、ちょっといいですか？しつもんがあります。",
+    "meaning": "Can I have a minute?",
+    "translation": "Teacher, do you have a minute? I have a question.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "授業では日本語だけを使うようにしています。",
+    "target": "使う",
+    "reading": "つかう",
+    "fullReading": "じゅぎょうではにほんごだけをつかうようにしています。",
+    "meaning": "to use",
+    "translation": "I try to use only Japanese during class.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "この学校では月に一度テストがあります。",
+    "target": "月",
+    "reading": "つき",
+    "fullReading": "このがっこうではつきにいちどテストがあります。",
+    "meaning": "month",
+    "translation": "At this school, there's a test once a month.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "剣道の道着を新しく買いました。",
+    "target": "道着",
+    "reading": "どうぎ",
+    "fullReading": "けんどうのどうぎをあたらしくかいました。",
+    "meaning": "dougi (martial arts uniform)",
+    "translation": "I bought a new kendo uniform.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "書道の道具を用意しました。",
+    "target": "道具",
+    "reading": "どうぐ",
+    "fullReading": "しょどうのどうぐをよういしました。",
+    "meaning": "equipment",
+    "translation": "I prepared the calligraphy equipment.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "この漢字は何回書きましたか。",
+    "target": "何回",
+    "reading": "なんかい",
+    "fullReading": "このかんじはなんかいかきましたか。",
+    "meaning": "how many times",
+    "translation": "How many times did you write this kanji?",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "テストの日時はまだ決まっていません。",
+    "target": "日時",
+    "reading": "にちじ",
+    "fullReading": "テストのにちじはまだきまっていません。",
+    "meaning": "date and time",
+    "translation": "The date and time of the test haven't been decided yet.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "コースの費用を払う必要があります。",
+    "target": "払う",
+    "reading": "はらう",
+    "fullReading": "コースのひようをはらうひつようがあります。",
+    "meaning": "to pay",
+    "translation": "I need to pay the course fee.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "この授業には辞書が必要です。",
+    "target": "必要",
+    "reading": "ひつよう",
+    "fullReading": "このじゅぎょうにはじしょがひつようです。",
+    "meaning": "necessary",
+    "translation": "A dictionary is necessary for this class.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "このコースの費用はいくらですか。",
+    "target": "費用",
+    "reading": "ひよう",
+    "fullReading": "このコースのひようはいくらですか。",
+    "meaning": "cost",
+    "translation": "How much is the cost of this course?",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "私の母語は英語です。",
+    "target": "母語",
+    "reading": "ぼご",
+    "fullReading": "わたしのぼごはえいごです。",
+    "meaning": "mother tongue",
+    "translation": "My mother tongue is English.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "授業の前に単語を復習します。",
+    "target": "前に",
+    "reading": "まえに",
+    "fullReading": "じゅぎょうのまえにたんごをふくしゅうします。",
+    "meaning": "before",
+    "translation": "I review the vocabulary before class.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "書道のコースはまだ空いていますか？",
+    "target": "まだ空いていますか？",
+    "reading": "まだあいていますか？",
+    "fullReading": "しょどうのコースはまだあいていますか？",
+    "meaning": "Is there still availability?",
+    "translation": "Is there still availability in the calligraphy course?",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "正しい発音を身につけるまで練習します。",
+    "target": "身につける",
+    "reading": "みにつける",
+    "fullReading": "ただしいはつおんをみにつけるまでれんしゅうします。",
+    "meaning": "to learn",
+    "translation": "I'll practice until I acquire the correct pronunciation.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "コースの申し込みは来週までです。",
+    "target": "申し込み",
+    "reading": "もうしこみ",
+    "fullReading": "コースのもうしこみはらいしゅうまでです。",
+    "meaning": "application",
+    "translation": "The application for the course is due next week.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "明日は辞書を持って来るのを忘れないでください。",
+    "target": "持って来る",
+    "reading": "もってくる",
+    "fullReading": "あしたはじしょをもってくるのをわすれないでください。",
+    "meaning": "to bring",
+    "translation": "Please don't forget to bring your dictionary tomorrow.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "もっと漢字を覚えたいです。",
+    "target": "もっと",
+    "reading": "もっと",
+    "fullReading": "もっとかんじをおぼえたいです。",
+    "meaning": "more",
+    "translation": "I want to memorize more kanji.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "授業の前にノートと辞書を用意する。",
+    "target": "用意する",
+    "reading": "よういする",
+    "fullReading": "じゅぎょうのまえにノートとじしょをよういする。",
+    "meaning": "to prepare / to offer",
+    "translation": "I prepare my notebook and dictionary before class.",
+    "context": "japanese-study"
+  },
+  {
+    "sentence": "日本語のクラスは何曜日にありますか。",
+    "target": "曜日",
+    "reading": "ようび",
+    "fullReading": "にほんごのクラスはなんようびにありますか。",
+    "meaning": "a day of the week",
+    "translation": "What day of the week is the Japanese class?",
+    "context": "japanese-study"
   }
 ]

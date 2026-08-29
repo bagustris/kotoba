@@ -1560,5 +1560,248 @@
     "context": "life-events",
     "source": "irodori2-l10",
     "note": "verbatim"
+  },
+  {
+    "sentence": "赤は春節にふさわしい色です。",
+    "target": "赤",
+    "reading": "あか",
+    "fullReading": "あかはしゅんせつにふさわしいいろです。",
+    "meaning": "red",
+    "translation": "Red is a fitting color for Chinese New Year.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "つきたてのお餅を味わうのは、いい経験でした。",
+    "target": "味わう",
+    "reading": "あじわう",
+    "fullReading": "つきたてのおもちをあじわうのは、いいけいけんでした。",
+    "meaning": "to taste",
+    "translation": "Tasting the freshly-pounded rice cake was a good experience.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "お正月には、家族が実家に集まることが多いです。",
+    "target": "集まる",
+    "reading": "あつまる",
+    "fullReading": "おしょうがつには、かぞくがじっかにあつまることがおおいです。",
+    "meaning": "to get together",
+    "translation": "During New Year's, family often gathers at the family home.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "お祭りで歌を歌う人がたくさんいます。",
+    "target": "歌う",
+    "reading": "うたう",
+    "fullReading": "おまつりでうたをうたうひとがたくさんいます。",
+    "meaning": "to sing",
+    "translation": "There are many people who sing songs at the festival.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "成人式では、おしゃれをする人が多いです。",
+    "target": "おしゃれをする",
+    "reading": "おしゃれをする",
+    "fullReading": "せいじんしきでは、おしゃれをするひとがおおいです。",
+    "meaning": "to dress up",
+    "translation": "Many people dress up for the Coming-of-Age Ceremony.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "お祭りで踊る人を見るのが好きです。",
+    "target": "踊る",
+    "reading": "おどる",
+    "fullReading": "おまつりでおどるひとをみるのがすきです。",
+    "meaning": "to dance",
+    "translation": "I like watching people dance at festivals.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "ソンクラーンでは、水をかけ合う人たちを見ました。",
+    "target": "かけ合う",
+    "reading": "かけあう",
+    "fullReading": "ソンクラーンでは、みずをかけあうひとたちをみました。",
+    "meaning": "to throw/splash on each other",
+    "translation": "At Songkran, I saw people splashing water on each other.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "餅つきの感想を語る人もいました。",
+    "target": "語る",
+    "reading": "かたる",
+    "fullReading": "もちつきのかんそうをかたるひともいました。",
+    "meaning": "to talk",
+    "translation": "There were also people who talked about their impressions of the mochi-pounding.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "休みの日は家でごろごろする人が多いです。",
+    "target": "ごろごろする",
+    "reading": "ごろごろする",
+    "fullReading": "やすみのひはいえでごろごろするひとがおおいです。",
+    "meaning": "to laze around",
+    "translation": "Many people laze around at home on their days off.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "私の国では、クリスマスを家族と過ごすのが普通です。",
+    "target": "過ごす",
+    "reading": "すごす",
+    "fullReading": "わたしのくにでは、クリスマスをかぞくとすごすのがふつうです。",
+    "meaning": "to spend (time)",
+    "translation": "In my country, it's normal to spend Christmas with family.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "ラマダンの間は、断食する人が多いです。",
+    "target": "断食する",
+    "reading": "だんじきする",
+    "fullReading": "ラマダンのあいだは、だんじきするひとがおおいです。",
+    "meaning": "to fast",
+    "translation": "During Ramadan, many people fast.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "お餅をつく作業は思ったより大変でした。",
+    "target": "つく",
+    "reading": "つく",
+    "fullReading": "おもちをつくさぎょうはおもったよりたいへんでした。",
+    "meaning": "to pound (mochi)",
+    "translation": "The work of pounding rice cakes was harder than I expected.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "七夕には、笹の葉に飾りをつける風習があります。",
+    "target": "つける",
+    "reading": "つける",
+    "fullReading": "たなばたには、ささのはにかざりをつけるふうしゅうがあります。",
+    "meaning": "to attach",
+    "translation": "For Tanabata, there's a custom of attaching decorations to bamboo leaves.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "クリスマスには恋人とデートする人が多いです。",
+    "target": "デートする",
+    "reading": "デートする",
+    "fullReading": "クリスマスにはこいびととデートするひとがおおいです。",
+    "meaning": "to go out on a date",
+    "translation": "Many people go on dates with their boyfriend/girlfriend on Christmas.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "成人式で友だちと会って盛り上がる人が多いです。",
+    "target": "盛り上がる",
+    "reading": "もりあがる",
+    "fullReading": "せいじんしきでともだちとあってもりあがるひとがおおいです。",
+    "meaning": "to have a blast",
+    "translation": "Many people get excited meeting friends at the Coming-of-Age Ceremony.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "頼んでいない料理でお金を取る店もあります。",
+    "target": "お金を取る",
+    "reading": "おかねをとる",
+    "fullReading": "たのんでいないりょうりでおかねをとるみせもあります。",
+    "meaning": "to charge money",
+    "translation": "There are shops that charge money for dishes you didn't order.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "赤信号を渡ると怒る人がいます。",
+    "target": "怒る",
+    "reading": "おこる",
+    "fullReading": "あかしんごうをわたるとおこるひとがいます。",
+    "meaning": "to get angry",
+    "translation": "There are people who get angry when you cross on a red light.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "ラーメンを食べるとき音を立てる人が多いです。",
+    "target": "音を立てる",
+    "reading": "おとをたてる",
+    "fullReading": "ラーメンをたべるときおとをたてるひとがおおいです。",
+    "meaning": "to make noise",
+    "translation": "Many people make noise when eating ramen.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "気に入る店が見つかるまで、いろいろ試しました。",
+    "target": "気に入る",
+    "reading": "きにいる",
+    "fullReading": "きにいるみせがみつかるまで、いろいろためしました。",
+    "meaning": "to come to like",
+    "translation": "I tried various places until I found one I liked.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "紙はごみ箱に捨てるようにしています。",
+    "target": "捨てる",
+    "reading": "すてる",
+    "fullReading": "かみはごみばこにすてるようにしています。",
+    "meaning": "to throw away",
+    "translation": "I make sure to throw paper away in the trash can.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "食べ終わる前に会計をすることが多いです。",
+    "target": "食べ終わる",
+    "reading": "たべおわる",
+    "fullReading": "たべおわるまえにかいけいをすることがおおいです。",
+    "meaning": "to finish eating",
+    "translation": "People often pay the bill before they finish eating.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "紙を流しすぎるとトイレがつまることがあります。",
+    "target": "つまる",
+    "reading": "つまる",
+    "fullReading": "かみをながしすぎるとトイレがつまることがあります。",
+    "meaning": "to clog; to be jammed",
+    "translation": "If you flush too much paper, the toilet can get clogged.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "トイレットペーパーはトイレに流すことができます。",
+    "target": "流す",
+    "reading": "ながす",
+    "fullReading": "トイレットペーパーはトイレにながすことができます。",
+    "meaning": "to flush",
+    "translation": "You can flush toilet paper down the toilet.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "運動をするとすぐのどが渇く人もいます。",
+    "target": "のどが渇く",
+    "reading": "のどがかわく",
+    "fullReading": "うんどうをするとすぐのどがかわくひともいます。",
+    "meaning": "to get thirsty",
+    "translation": "Some people get thirsty quickly when they exercise.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "スキーで転んで骨を折ることがあります。",
+    "target": "骨を折る",
+    "reading": "ほねをおる",
+    "fullReading": "スキーでころんでほねをおることがあります。",
+    "meaning": "to break a bone",
+    "translation": "You can break a bone if you fall while skiing.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "子どもは親のまねをすることがよくあります。",
+    "target": "まねをする",
+    "reading": "まねをする",
+    "fullReading": "こどもはおやのまねをすることがよくあります。",
+    "meaning": "to imitate",
+    "translation": "Children often imitate their parents.",
+    "context": "life-events"
+  },
+  {
+    "sentence": "祭りに参加するときは、ルールを守ることが大切です。",
+    "target": "ルールを守る",
+    "reading": "ルールをまもる",
+    "fullReading": "まつりにさんかするときは、ルールをまもることがたいせつです。",
+    "meaning": "to follow the rules",
+    "translation": "It's important to follow the rules when participating in a festival.",
+    "context": "life-events"
   }
 ]

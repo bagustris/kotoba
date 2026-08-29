@@ -2682,5 +2682,918 @@
     "context": "neighborhood",
     "source": "irodori2-l12",
     "note": "reconstructed"
+  },
+  {
+    "sentence": "この公園には一度行ったことがあります。",
+    "target": "一度",
+    "reading": "いちど",
+    "fullReading": "このこうえんにはいちどいったことがあります。",
+    "meaning": "once",
+    "translation": "I've been to this park once.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "評判がいいので、あのカフェに行ってみるつもりです。",
+    "target": "行ってみる",
+    "reading": "いってみる",
+    "fullReading": "ひょうばんがいいので、あのカフェにいってみるつもりです。",
+    "meaning": "to try to go",
+    "translation": "It has a good reputation, so I'm planning to try going to that cafe.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この町には公園が多いです。",
+    "target": "多い",
+    "reading": "おおい",
+    "fullReading": "このまちにはこうえんがおおいです。",
+    "meaning": "many",
+    "translation": "There are many parks in this town.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "丘の上から町がよく見えます。",
+    "target": "丘",
+    "reading": "おか",
+    "fullReading": "おかのうえからまちがよくみえます。",
+    "meaning": "hill",
+    "translation": "You can see the town well from the top of the hill.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "夏になると、みんなでこの川で泳ぐんです。",
+    "target": "泳ぐ",
+    "reading": "およぐ",
+    "fullReading": "なつになると、みんなでこのかわでおよぐんです。",
+    "meaning": "to swim",
+    "translation": "When summer comes, everyone swims in this river.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "公園の休憩所で少し休みましょう。",
+    "target": "休憩所",
+    "reading": "きゅうけいじょ",
+    "fullReading": "こうえんのきゅうけいじょですこしやすみましょう。",
+    "meaning": "rest area",
+    "translation": "Let's rest a little at the park's rest area.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "彼はこの町のことを何でも知っている。",
+    "target": "知っている",
+    "reading": "しっている",
+    "fullReading": "かれはこのまちのことをなんでもしっている。",
+    "meaning": "know",
+    "translation": "He knows everything about this town.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "新しい町のことをもっと知るために、散歩してみた。",
+    "target": "知る",
+    "reading": "しる",
+    "fullReading": "あたらしいまちのことをもっとしるために、さんぽしてみた。",
+    "meaning": "to know",
+    "translation": "I went for a walk to learn more about the new town.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この町の人はとても親切です。",
+    "target": "親切",
+    "reading": "しんせつ",
+    "fullReading": "このまちのひとはとてもしんせつです。",
+    "meaning": "kind / helpful",
+    "translation": "The people in this town are very kind.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "砂浜を歩いて、海まで行きました。",
+    "target": "砂浜",
+    "reading": "すなはま",
+    "fullReading": "すなはまをあるいて、うみまでいきました。",
+    "meaning": "sandy beach",
+    "translation": "I walked along the sandy beach to the sea.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "近くにいい店があるので、ぜひ行ってみてください。",
+    "target": "ぜひ",
+    "reading": "ぜひ",
+    "fullReading": "ちかくにいいみせがあるので、ぜひいってみてください。",
+    "meaning": "definitely",
+    "translation": "There's a good shop nearby, so please definitely go and check it out.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "そうだなあ、この町で一番好きな場所は公園かな。",
+    "target": "そうだなあ",
+    "reading": "そうだなあ",
+    "fullReading": "そうだなあ、このまちでいちばんすきなばしょはこうえんかな。",
+    "meaning": "Let's see... (used when the speaker is thinking)",
+    "translation": "Let's see... I guess my favorite place in this town is the park.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "そうね……、駅の近くにいいレストランがあるわよ。",
+    "target": "そうね……",
+    "reading": "そうね……",
+    "fullReading": "そうね……、えきのちかくにいいレストランがあるわよ。",
+    "meaning": "Hmm... (used when the speaker is thinking)",
+    "translation": "Hmm... there's a nice restaurant near the station.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "駅でタウンマップをもらいました。",
+    "target": "タウンマップ",
+    "reading": "タウンマップ",
+    "fullReading": "えきでタウンマップをもらいました。",
+    "meaning": "map of town",
+    "translation": "I got a town map at the station.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "あの白い建物が図書館です。",
+    "target": "建物",
+    "reading": "たてもの",
+    "fullReading": "あのしろいたてものがとしょかんです。",
+    "meaning": "building",
+    "translation": "That white building is the library.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "展望台から町全体が見えます。",
+    "target": "展望台",
+    "reading": "てんぼうだい",
+    "fullReading": "てんぼうだいからまちぜんたいがみえます。",
+    "meaning": "observation platform",
+    "translation": "You can see the whole town from the observation platform.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "駅からこの家までは少し遠いです。",
+    "target": "遠い",
+    "reading": "とおい",
+    "fullReading": "えきからこのいえまではすこしとおいです。",
+    "meaning": "far",
+    "translation": "It's a bit far from the station to this house.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "彼女は都会より田舎が好きだそうです。",
+    "target": "都会",
+    "reading": "とかい",
+    "fullReading": "かのじょはとかいよりいなかがすきだそうです。",
+    "meaning": "city",
+    "translation": "I heard she likes the countryside more than the city.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "静かなところに住みたいです。",
+    "target": "ところ",
+    "reading": "ところ",
+    "fullReading": "しずかなところにすみたいです。",
+    "meaning": "place",
+    "translation": "I want to live in a quiet place.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "どこかいい公園を知りませんか。",
+    "target": "どこか",
+    "reading": "どこか",
+    "fullReading": "どこかいいこうえんをしりませんか。",
+    "meaning": "somewhere",
+    "translation": "Do you know of a nice park somewhere?",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この辺りには、どんな店がありますか。",
+    "target": "どんな",
+    "reading": "どんな",
+    "fullReading": "このあたりには、どんなみせがありますか。",
+    "meaning": "what kind of",
+    "translation": "What kind of shops are there around here?",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この公園は子供たちに人気があります。",
+    "target": "人気",
+    "reading": "にんき",
+    "fullReading": "このこうえんはこどもたちににんきがあります。",
+    "meaning": "popular",
+    "translation": "This park is popular with children.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "待ち合わせの場所を決めましょう。",
+    "target": "場所",
+    "reading": "ばしょ",
+    "fullReading": "まちあわせのばしょをきめましょう。",
+    "meaning": "place",
+    "translation": "Let's decide on a place to meet.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "川の近くにバーベキュー場があります。",
+    "target": "バーベキュー場",
+    "reading": "バーベキューじょう",
+    "fullReading": "かわのちかくにバーベキューじょうがあります。",
+    "meaning": "barbecue area",
+    "translation": "There is a barbecue area near the river.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この町には親切な人が多いです。",
+    "target": "人",
+    "reading": "ひと",
+    "fullReading": "このまちにはしんせつなひとがおおいです。",
+    "meaning": "people",
+    "translation": "There are many kind people in this town.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "あのパン屋さんは評判がいいです。",
+    "target": "評判",
+    "reading": "ひょうばん",
+    "fullReading": "あのパンやさんはひょうばんがいいです。",
+    "meaning": "reputation",
+    "translation": "That bakery has a good reputation.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "バスがないので、少し不便です。",
+    "target": "不便",
+    "reading": "ふべん",
+    "fullReading": "バスがないので、すこしふべんです。",
+    "meaning": "inconvenient",
+    "translation": "There's no bus, so it's a bit inconvenient.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "駅に近くて、とても便利な場所です。",
+    "target": "便利",
+    "reading": "べんり",
+    "fullReading": "えきにちかくて、とてもべんりなばしょです。",
+    "meaning": "convenient",
+    "translation": "It's close to the station, so it's a very convenient place.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この町にはきれいな公園があります。",
+    "target": "町",
+    "reading": "まち",
+    "fullReading": "このまちにはきれいなこうえんがあります。",
+    "meaning": "town",
+    "translation": "There is a beautiful park in this town.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "あの店でパンを買いました。",
+    "target": "店",
+    "reading": "みせ",
+    "fullReading": "あのみせでパンをかいました。",
+    "meaning": "store / restaurant",
+    "translation": "I bought bread at that store.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この辺りは緑が多いです。",
+    "target": "緑",
+    "reading": "みどり",
+    "fullReading": "このあたりはみどりがおおいです。",
+    "meaning": "greenery",
+    "translation": "There is a lot of greenery around here.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "近所の人はみんなやさしいです。",
+    "target": "やさしい",
+    "reading": "やさしい",
+    "fullReading": "きんじょのひとはみんなやさしいです。",
+    "meaning": "kind / friendly",
+    "translation": "Everyone in the neighborhood is friendly.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この店の野菜は安いです。",
+    "target": "安い",
+    "reading": "やすい",
+    "fullReading": "このみせのやさいはやすいです。",
+    "meaning": "cheap",
+    "translation": "The vegetables at this shop are cheap.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "丘の上から夕日がきれいに見えます。",
+    "target": "夕日",
+    "reading": "ゆうひ",
+    "fullReading": "おかのうえからゆうひがきれいにみえます。",
+    "meaning": "sunset",
+    "translation": "You can see a beautiful sunset from the top of the hill.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この神社は桜で有名です。",
+    "target": "有名",
+    "reading": "ゆうめい",
+    "fullReading": "このじんじゃはさくらでゆうめいです。",
+    "meaning": "famous",
+    "translation": "This shrine is famous for its cherry blossoms.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "空が青いので、散歩に行きましょう。",
+    "target": "青い",
+    "reading": "あおい",
+    "fullReading": "そらがあおいので、さんぽにいきましょう。",
+    "meaning": "blue",
+    "translation": "The sky is blue, so let's go for a walk.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この店ではアジア食材が買えます。",
+    "target": "アジア食材",
+    "reading": "アジアしょくざい",
+    "fullReading": "このみせではアジアしょくざいがかえます。",
+    "meaning": "Asian ingredients",
+    "translation": "You can buy Asian ingredients at this store.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "駅の近くに大きな公園があるんです。",
+    "target": "ある",
+    "reading": "ある",
+    "fullReading": "えきのちかくにおおきなこうえんがあるんです。",
+    "meaning": "to be present in",
+    "translation": "There's a big park near the station.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "横断歩道を渡って、まっすぐ行ってください。",
+    "target": "横断歩道",
+    "reading": "おうだんほどう",
+    "fullReading": "おうだんほどうをわたって、まっすぐいってください。",
+    "meaning": "pedestrian crossing",
+    "translation": "Cross the pedestrian crossing and go straight.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "駅前に大きな建物があります。",
+    "target": "大きな",
+    "reading": "おおきな",
+    "fullReading": "えきまえにおおきなたてものがあります。",
+    "meaning": "large",
+    "translation": "There is a large building in front of the station.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "暗くなる前に帰るつもりです。",
+    "target": "帰る",
+    "reading": "かえる",
+    "fullReading": "くらくなるまえにかえるつもりです。",
+    "meaning": "to go home",
+    "translation": "I'm planning to go home before it gets dark.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "子供たちは科学博物館が好きです。",
+    "target": "科学",
+    "reading": "かがく",
+    "fullReading": "こどもたちはかがくはくぶつかんがすきです。",
+    "meaning": "science",
+    "translation": "The children like the science museum.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "その角を右に曲がってください。",
+    "target": "角",
+    "reading": "かど",
+    "fullReading": "そのかどをみぎにまがってください。",
+    "meaning": "corner",
+    "translation": "Please turn right at that corner.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "次の交差点を左に曲がります。",
+    "target": "交差点",
+    "reading": "こうさてん",
+    "fullReading": "つぎのこうさてんをひだりにまがります。",
+    "meaning": "intersection",
+    "translation": "I'll turn left at the next intersection.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "駅の前に交番があります。",
+    "target": "交番",
+    "reading": "こうばん",
+    "fullReading": "えきのまえにこうばんがあります。",
+    "meaning": "police substation",
+    "translation": "There's a police substation in front of the station.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "ここは市立図書館です。",
+    "target": "市立",
+    "reading": "しりつ",
+    "fullReading": "ここはしりつとしょかんです。",
+    "meaning": "municipal",
+    "translation": "This is the municipal library.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "あの白い建物が病院です。",
+    "target": "白い",
+    "reading": "しろい",
+    "fullReading": "あのしろいたてものがびょういんです。",
+    "meaning": "white",
+    "translation": "That white building is the hospital.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "信号を渡って、右に曲がってください。",
+    "target": "信号",
+    "reading": "しんごう",
+    "fullReading": "しんごうをわたって、みぎにまがってください。",
+    "meaning": "traffic lights",
+    "translation": "Cross at the traffic lights and turn right.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この神社は桜がきれいです。",
+    "target": "神社",
+    "reading": "じんじゃ",
+    "fullReading": "このじんじゃはさくらがきれいです。",
+    "meaning": "shrine",
+    "translation": "The cherry blossoms at this shrine are beautiful.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "駅を出てすぐ右にコンビニがあります。",
+    "target": "すぐ",
+    "reading": "すぐ",
+    "fullReading": "えきをでてすぐみぎにコンビニがあります。",
+    "meaning": "just",
+    "translation": "There's a convenience store just to the right as you leave the station.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この道をずっと行くと、公園があります。",
+    "target": "ずっと",
+    "reading": "ずっと",
+    "fullReading": "このみちをずっといくと、こうえんがあります。",
+    "meaning": "all the way / without turning",
+    "translation": "If you keep going straight along this road, there's a park.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "その店、どの辺？",
+    "target": "どの辺？",
+    "reading": "どのへん？",
+    "fullReading": "そのみせ、どのへん？",
+    "meaning": "Where is it?",
+    "translation": "That shop, where is it around?",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "二つ目の角を左に入ると、郵便局があります。",
+    "target": "入る",
+    "reading": "はいる",
+    "fullReading": "ふたつめのかどをひだりにはいると、ゆうびんきょくがあります。",
+    "meaning": "to turn",
+    "translation": "If you turn left at the second corner, there's a post office.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "その橋を渡ると、神社が見えます。",
+    "target": "橋",
+    "reading": "はし",
+    "fullReading": "そのはしをわたると、じんじゃがみえます。",
+    "meaning": "bridge",
+    "translation": "If you cross that bridge, you'll see the shrine.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "その角を左に曲がってください。",
+    "target": "左",
+    "reading": "ひだり",
+    "fullReading": "そのかどをひだりにまがってください。",
+    "meaning": "left",
+    "translation": "Please turn left at that corner.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "1つ目の信号を右に曲がってください。",
+    "target": "1つ目",
+    "reading": "ひとつめ",
+    "fullReading": "1つめのしんごうをみぎにまがってください。",
+    "meaning": "the first",
+    "translation": "Please turn right at the first traffic light.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この道をまっすぐ行くと、病院があります。",
+    "target": "病院",
+    "reading": "びょういん",
+    "fullReading": "このみちをまっすぐいくと、びょういんがあります。",
+    "meaning": "hospital",
+    "translation": "If you go straight down this road, there's a hospital.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "駅前に高いビルが建ちました。",
+    "target": "ビル",
+    "reading": "ビル",
+    "fullReading": "えきまえにたかいビルがたちました。",
+    "meaning": "building",
+    "translation": "A tall building was built in front of the station.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "次の角を右に曲がると、公園が見えます。",
+    "target": "曲がる",
+    "reading": "まがる",
+    "fullReading": "つぎのかどをみぎにまがると、こうえんがみえます。",
+    "meaning": "to turn",
+    "translation": "If you turn right at the next corner, you'll see the park.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "ここから海が見えるんです。",
+    "target": "見える",
+    "reading": "みえる",
+    "fullReading": "ここからうみがみえるんです。",
+    "meaning": "to see",
+    "translation": "You can see the ocean from here.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "その信号を右に曲がってください。",
+    "target": "右",
+    "reading": "みぎ",
+    "fullReading": "そのしんごうをみぎにまがってください。",
+    "meaning": "right",
+    "translation": "Please turn right at that traffic light.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この道をまっすぐ行ってください。",
+    "target": "道",
+    "reading": "みち",
+    "fullReading": "このみちをまっすぐいってください。",
+    "meaning": "road",
+    "translation": "Please go straight down this road.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "駅までの道案内をお願いできますか。",
+    "target": "道案内",
+    "reading": "みちあんない",
+    "fullReading": "えきまでのみちあんないをおねがいできますか。",
+    "meaning": "directions",
+    "translation": "Could you give me directions to the station?",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "この店には珍しいものがたくさんあります。",
+    "target": "もの",
+    "reading": "もの",
+    "fullReading": "このみせにはめずらしいものがたくさんあります。",
+    "meaning": "thing / something",
+    "translation": "This shop has a lot of unusual things.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "橋を渡ると、右に神社が見えます。",
+    "target": "渡る",
+    "reading": "わたる",
+    "fullReading": "はしをわたると、みぎにじんじゃがみえます。",
+    "meaning": "to cross / to go across",
+    "translation": "If you cross the bridge, you'll see the shrine on the right.",
+    "context": "neighborhood"
+  },
+  {
+    "sentence": "困っているお客様がいたら、レジまで案内するようにしています。",
+    "target": "案内する",
+    "reading": "あんないする",
+    "fullReading": "こまっているおきゃくさまがいたら、レジまであんないするようにしています。",
+    "meaning": "to inform",
+    "translation": "If a customer looks troubled, I make sure to guide them to the register.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "自転車をあっちの駐輪場に移動することにしました。",
+    "target": "移動する",
+    "reading": "いどうする",
+    "fullReading": "じてんしゃをあっちのちゅうりんじょうにいどうすることにしました。",
+    "meaning": "to move to",
+    "translation": "I decided to move the bicycle to the bike parking area over there.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "このレストラン街は、夜11時まで営業する予定です。",
+    "target": "営業する",
+    "reading": "えいぎょうする",
+    "fullReading": "このレストランがいは、よる11じまでえいぎょうするよていです。",
+    "meaning": "to open / to do business",
+    "translation": "This restaurant area is scheduled to be open until 11 pm.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "冬のセール中は、営業時間を30分延長することにした。",
+    "target": "延長する",
+    "reading": "えんちょうする",
+    "fullReading": "ふゆのセールちゅうは、えいぎょうじかんを30ぷんえんちょうすることにした。",
+    "meaning": "to extend",
+    "translation": "During the winter sale, we decided to extend business hours by 30 minutes.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "スマホをなくしたことに、あとで気づくかもしれません。",
+    "target": "気づく",
+    "reading": "きづく",
+    "fullReading": "スマホをなくしたことに、あとできづくかもしれません。",
+    "meaning": "to notice",
+    "translation": "You might not notice that you lost your phone until later.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "電車の中で急に気分が悪くなることがあります。",
+    "target": "気分が悪くなる",
+    "reading": "きぶんがわるくなる",
+    "fullReading": "でんしゃのなかできゅうにきぶんがわるくなることがあります。",
+    "meaning": "to start to feel sick",
+    "translation": "Sometimes you suddenly start to feel sick on the train.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "何かあったら、警察に連絡することにしています。",
+    "target": "警察に連絡する",
+    "reading": "けいさつにれんらくする",
+    "fullReading": "なにかあったら、けいさつにれんらくすることにしています。",
+    "meaning": "to contact the police",
+    "translation": "If something happens, I make it a rule to contact the police.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "なくした自転車を探すために、駐輪場に行ってみた。",
+    "target": "探す",
+    "reading": "さがす",
+    "fullReading": "なくしたじてんしゃをさがすために、ちゅうりんじょうにいってみた。",
+    "meaning": "to look for",
+    "translation": "I went to the bike parking area to look for my lost bicycle.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "気に入った服があったら、必ず試着することにしている。",
+    "target": "試着する",
+    "reading": "しちゃくする",
+    "fullReading": "きにいったふくがあったら、かならずしちゃくすることにしている。",
+    "meaning": "to try on",
+    "translation": "If I like a piece of clothing, I always make sure to try it on.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "レシートにスタンプを押す前に、ポイントカードを出してください。",
+    "target": "スタンプを押す",
+    "reading": "すたんぷをおす",
+    "fullReading": "レシートにスタンプをおすまえに、ポイントカードをだしてください。",
+    "meaning": "to put a stamp",
+    "translation": "Please show your point card before I stamp your receipt.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "そのスマホには、犬の絵のカバーがついている。",
+    "target": "ついている",
+    "reading": "ついている",
+    "fullReading": "そのスマホには、いぬのえのカバーがついている。",
+    "meaning": "has / is attached",
+    "translation": "That smartphone has a case with a dog picture on it.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "夜遅い時間でも、この電話番号ならつながることが多い。",
+    "target": "つながる",
+    "reading": "つながる",
+    "fullReading": "よるおそいじかんでも、このでんわばんごうならつながることがおおい。",
+    "meaning": "to connect",
+    "translation": "Even late at night, this phone number usually gets through.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "なくし物は、交番に届くことがよくあります。",
+    "target": "届く",
+    "reading": "とどく",
+    "fullReading": "なくしものは、こうばんにとどくことがよくあります。",
+    "meaning": "to be handed in",
+    "translation": "Lost items are often handed in at the police substation.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "この道の角に、自転車を停めることができます。",
+    "target": "停める",
+    "reading": "とめる",
+    "fullReading": "このみちのかどに、じてんしゃをとめることができます。",
+    "meaning": "to park",
+    "translation": "You can park your bicycle at the corner of this street.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "暗い道では、バッグをとる人がいるので気をつけてください。",
+    "target": "とる",
+    "reading": "とる",
+    "fullReading": "くらいみちでは、バッグをとるひとがいるのできをつけてください。",
+    "meaning": "to steal",
+    "translation": "Be careful on dark streets, as there are people who steal bags.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "大切なものをなくすと、とても困ります。",
+    "target": "なくす",
+    "reading": "なくす",
+    "fullReading": "たいせつなものをなくすと、とてもこまります。",
+    "meaning": "to lose",
+    "translation": "It's very troubling when you lose something important.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "夜に自転車を盗む人がいるようです。",
+    "target": "盗む",
+    "reading": "ぬすむ",
+    "fullReading": "よるにじてんしゃをぬすむひとがいるようです。",
+    "meaning": "to steal",
+    "translation": "It seems there are people who steal bicycles at night.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "なくしたスマホは、あとで見つかるかもしれません。",
+    "target": "見つかる",
+    "reading": "みつかる",
+    "fullReading": "なくしたスマホは、あとでみつかるかもしれません。",
+    "meaning": "to find",
+    "translation": "Your lost smartphone may turn up later.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "何かあったら、いつでも連絡をとることができます。",
+    "target": "連絡をとる",
+    "reading": "れんらくをとる",
+    "fullReading": "なにかあったら、いつでもれんらくをとることができます。",
+    "meaning": "to get in touch",
+    "translation": "If anything happens, you can get in touch with me anytime.",
+    "context": "neighborhood",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "この荷物は重いので、一人で動かすのは大変だ。",
+    "target": "動かす",
+    "reading": "うごかす",
+    "fullReading": "このにもつはおもいので、ひとりでうごかすのはたいへんだ。",
+    "meaning": "to move around",
+    "translation": "This luggage is heavy, so it's hard to move by yourself.",
+    "context": "neighborhood",
+    "source": "irodori2-l12",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "この商品は、送料が別にかかる。",
+    "target": "かかる",
+    "reading": "かかる",
+    "fullReading": "このしょうひんは、そうりょうがべつにかかる。",
+    "meaning": "to cost",
+    "translation": "Shipping costs apply separately for this product.",
+    "context": "neighborhood",
+    "source": "irodori2-l12",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "この道を渡ると、町の雰囲気ががらりと変わる。",
+    "target": "変わる",
+    "reading": "かわる",
+    "fullReading": "このみちをわたると、まちのふんいきががらりとかわる。",
+    "meaning": "to change",
+    "translation": "Once you cross this road, the atmosphere of the town changes completely.",
+    "context": "neighborhood",
+    "source": "irodori2-l12",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "二つの店の値段を比べることにした。",
+    "target": "比べる",
+    "reading": "くらべる",
+    "fullReading": "ふたつのみせのねだんをくらべることにした。",
+    "meaning": "to compare",
+    "translation": "I decided to compare the prices of the two stores.",
+    "context": "neighborhood",
+    "source": "irodori2-l12",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "駅まで送ってほしいなら、車を出すこともできるよ。",
+    "target": "車を出す",
+    "reading": "くるまをだす",
+    "fullReading": "えきまでおくってほしいなら、くるまをだすこともできるよ。",
+    "meaning": "to give a ride",
+    "translation": "If you want a ride to the station, I can take the car out for you.",
+    "context": "neighborhood",
+    "source": "irodori2-l12",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "傷のない商品を購入することにした。",
+    "target": "購入する",
+    "reading": "こうにゅうする",
+    "fullReading": "きずのないしょうひんをこうにゅうすることにした。",
+    "meaning": "to buy",
+    "translation": "I decided to buy a product with no scratches.",
+    "context": "neighborhood",
+    "source": "irodori2-l12",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "家を選ぶときは、駅からの近さを重視することが多い。",
+    "target": "重視する",
+    "reading": "じゅうしする",
+    "fullReading": "いえをえらぶときは、えきからのちかさをじゅうしすることがおおい。",
+    "meaning": "to prioritize",
+    "translation": "When choosing a home, people often prioritize how close it is to the station.",
+    "context": "neighborhood",
+    "source": "irodori2-l12",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "このカードは、買い物のたびにポイントが貯まる。",
+    "target": "貯まる",
+    "reading": "たまる",
+    "fullReading": "このカードは、かいもののたびにポイントがたまる。",
+    "meaning": "to accumulate",
+    "translation": "Points accumulate on this card every time you shop.",
+    "context": "neighborhood",
+    "source": "irodori2-l12",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "新しい商品には、たいてい説明書がつく。",
+    "target": "つく",
+    "reading": "つく",
+    "fullReading": "あたらしいしょうひんには、たいていせつめいしょがつく。",
+    "meaning": "to attach / to include",
+    "translation": "New products usually come with an instruction manual.",
+    "context": "neighborhood",
+    "source": "irodori2-l12",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "重い荷物は、両手で持つほうが安全だ。",
+    "target": "持つ",
+    "reading": "もつ",
+    "fullReading": "おもいにもつは、りょうてでもつほうがあんぜんだ。",
+    "meaning": "to carry",
+    "translation": "It's safer to carry heavy luggage with both hands.",
+    "context": "neighborhood",
+    "source": "irodori2-l12",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "この道は、まっすぐな区間が長く連続する。",
+    "target": "連続する",
+    "reading": "れんぞくする",
+    "fullReading": "このみちは、まっすぐなくかんがながくれんぞくする。",
+    "meaning": "to continue",
+    "translation": "This road has a long stretch that continues straight.",
+    "context": "neighborhood"
   }
 ]

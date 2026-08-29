@@ -3760,5 +3760,1036 @@
     "context": "outings",
     "source": "irodori2-l8",
     "note": "reconstructed"
+  },
+  {
+    "sentence": "東京は、電車も混んでいる。ラッシュのときはすごく大変だよ。",
+    "target": "混んでいる",
+    "reading": "こんでいる",
+    "fullReading": "とうきょうは、でんしゃもこんでいる。ラッシュのときはすごくたいへんだよ。",
+    "meaning": "crowded",
+    "translation": "Tokyo's trains are crowded too. It's really tough during rush hour.",
+    "context": "outings",
+    "source": "irodori2-l5",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "船の時間は、どうやって調べるといいですか？",
+    "target": "調べる",
+    "reading": "しらべる",
+    "fullReading": "ふねのじかんは、どうやってしらべるといいですか？",
+    "meaning": "to check / to look up",
+    "translation": "How should I go about checking the ship's schedule?",
+    "context": "outings",
+    "source": "irodori2-l5",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "帰りにオルゴール美術館に寄ってみて、意外に楽しむことができました。",
+    "target": "楽しむ",
+    "reading": "たのしむ",
+    "fullReading": "かえりにオルゴールびじゅつかんによってみて、いがいにたのしむことができました。",
+    "meaning": "to enjoy",
+    "translation": "I stopped by the music box museum on the way home, and surprisingly I was able to enjoy it.",
+    "context": "outings",
+    "source": "irodori2-l5",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "あの店は日曜日、１時間ぐらい並ぶことが多いですよ。",
+    "target": "並ぶ",
+    "reading": "ならぶ",
+    "fullReading": "あのみせはにちようび、いちじかんぐらいならぶことがおおいですよ。",
+    "meaning": "to line up",
+    "translation": "That restaurant, you often have to line up for about an hour on Sundays.",
+    "context": "outings",
+    "source": "irodori2-l5",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "京都は、海外からの観光客にもすごく人気がある。",
+    "target": "人気がある",
+    "reading": "にんきがある",
+    "fullReading": "きょうとは、かいがいからのかんこうきゃくにもすごくにんきがある。",
+    "meaning": "popular",
+    "translation": "Kyoto is also very popular with tourists from overseas.",
+    "context": "outings",
+    "source": "irodori2-l5",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "この国立公園は、自然が豊かだ。",
+    "target": "豊か",
+    "reading": "ゆたか",
+    "fullReading": "このこくりつこうえんは、しぜんがゆたかだ。",
+    "meaning": "abundant",
+    "translation": "This national park is rich in nature.",
+    "context": "outings",
+    "source": "irodori2-l5",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "帰りに美術館に寄るつもりです。",
+    "target": "寄る",
+    "reading": "よる",
+    "fullReading": "かえりにびじゅつかんによるつもりです。",
+    "meaning": "to stop by",
+    "translation": "I plan to stop by the museum on the way home.",
+    "context": "outings",
+    "source": "irodori2-l5",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "スキーをすると日焼けする。",
+    "target": "日焼けする",
+    "reading": "ひやけする",
+    "fullReading": "スキーをするとひやけする。",
+    "meaning": "to get a suntan",
+    "translation": "If you go skiing, you get sunburned.",
+    "context": "outings",
+    "source": "irodori2-l5",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "あべのハルカスに登りました。すごく高いビルで、驚いた。",
+    "target": "驚いた",
+    "reading": "おどろいた",
+    "fullReading": "あべのハルカスにのぼりました。すごくたかいビルで、おどろいた。",
+    "meaning": "it was unexpected / surprising",
+    "translation": "I went up Abeno Harukas. It was a really tall building, and it was surprising.",
+    "context": "outings",
+    "source": "irodori2-l6",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "夜のイルミネーションを見ました。滝がきらきら光って、すごくきれいだった。",
+    "target": "きれいだった",
+    "reading": "きれいだった",
+    "fullReading": "よるのイルミネーションをみました。たきがきらきらひかって、すごくきれいだった。",
+    "meaning": "it was beautiful",
+    "translation": "I saw the illumination at night. The waterfall sparkled with light and it was very beautiful.",
+    "context": "outings",
+    "source": "irodori2-l6",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "電車が30分遅れるので、困る。",
+    "target": "困る",
+    "reading": "こまる",
+    "fullReading": "でんしゃがさんじゅっぷんおくれるので、こまる。",
+    "meaning": "to be troubled",
+    "translation": "The train is going to be 30 minutes late, which is troubling.",
+    "context": "outings",
+    "source": "irodori2-l6",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "信号が壊れることがあります。",
+    "target": "壊れる",
+    "reading": "こわれる",
+    "fullReading": "しんごうがこわれることがあります。",
+    "meaning": "to break",
+    "translation": "Traffic lights sometimes break.",
+    "context": "outings",
+    "source": "irodori2-l6",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "ショーが見られなくて、残念だった。",
+    "target": "残念だった",
+    "reading": "ざんねんだった",
+    "fullReading": "ショーがみられなくて、ざんねんだった。",
+    "meaning": "it was disappointing",
+    "translation": "It was disappointing that I couldn't see the show.",
+    "context": "outings",
+    "source": "irodori2-l6",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "ハウステンボスは、オランダの町並みや花畑がすてきだった。",
+    "target": "すてきだった",
+    "reading": "すてきだった",
+    "fullReading": "ハウステンボスは、オランダのまちなみやはなばたけがすてきだった。",
+    "meaning": "it was lovely",
+    "translation": "Huis Ten Bosch was lovely, with its Dutch streetscapes and flower fields.",
+    "context": "outings",
+    "source": "irodori2-l6",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "今日は歩きすぎて、疲れた。",
+    "target": "疲れた",
+    "reading": "つかれた",
+    "fullReading": "きょうはあるきすぎて、つかれた。",
+    "meaning": "it was tiring",
+    "translation": "I walked too much today, and it was tiring.",
+    "context": "outings",
+    "source": "irodori2-l6",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "岡山駅で、こだまに乗り換える。",
+    "target": "乗り換える",
+    "reading": "のりかえる",
+    "fullReading": "おかやまえきで、こだまにのりかえる。",
+    "meaning": "to transfer",
+    "translation": "Transfer to the Kodama at Okayama Station.",
+    "context": "outings",
+    "source": "irodori2-l6",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "夜、星がきらきら光る。",
+    "target": "光る",
+    "reading": "ひかる",
+    "fullReading": "よる、ほしがきらきらひかる。",
+    "meaning": "to shine",
+    "translation": "At night, the stars shine and sparkle.",
+    "context": "outings",
+    "source": "irodori2-l6",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "花火の音に、びっくりした。",
+    "target": "びっくりした",
+    "reading": "びっくりした",
+    "fullReading": "はなびのおとに、びっくりした。",
+    "meaning": "it was surprising",
+    "translation": "I was surprised by the sound of the fireworks.",
+    "context": "outings",
+    "source": "irodori2-l6",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "たこ焼きを食べました。まあまあだった。",
+    "target": "まあまあだった",
+    "reading": "まあまあだった",
+    "fullReading": "たこやきをたべました。まあまあだった。",
+    "meaning": "it was okay",
+    "translation": "I ate takoyaki. It was okay.",
+    "context": "outings",
+    "source": "irodori2-l6",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "ご迷惑をおかけしますが、少々お待ちください。",
+    "target": "ご迷惑をおかけします",
+    "reading": "ごめいわくをおかけします",
+    "fullReading": "ごめいわくをおかけしますが、しょうしょうおまちください。",
+    "meaning": "Sorry for the inconvenience",
+    "translation": "Sorry for the inconvenience. Please wait a moment.",
+    "context": "outings",
+    "source": "irodori2-l7",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "雨天の場合、6月9日に延期する。",
+    "target": "延期する",
+    "reading": "えんきする",
+    "fullReading": "うてんのばあい、ろくがつここのかにえんきする。",
+    "meaning": "to postpone",
+    "translation": "If it rains, it will be postponed to June 9.",
+    "context": "outings",
+    "source": "irodori2-l7",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "明日、18時から、海岸で、花火大会を行う。",
+    "target": "行う",
+    "reading": "おこなう",
+    "fullReading": "あした、じゅうはちじから、かいがんで、はなびたいかいをおこなう。",
+    "meaning": "to hold / to do",
+    "translation": "Tomorrow, a fireworks display will be held on the beach from 6 p.m.",
+    "context": "outings",
+    "source": "irodori2-l7",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "盆踊りは、音楽に合わせて踊る。",
+    "target": "踊る",
+    "reading": "おどる",
+    "fullReading": "ぼんおどりは、おんがくにあわせておどる。",
+    "meaning": "to dance",
+    "translation": "Bon-odori is dancing in time to the music.",
+    "context": "outings",
+    "source": "irodori2-l7",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "みんなでおみこしをかつぐのは楽しいです。",
+    "target": "かつぐ",
+    "reading": "かつぐ",
+    "fullReading": "みんなでおみこしをかつぐのはたのしいです。",
+    "meaning": "to carry over the shoulder",
+    "translation": "Carrying the portable shrine together with everyone is fun.",
+    "context": "outings",
+    "source": "irodori2-l7",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "本日、午後1時から「ふるさとまつり」が開く。",
+    "target": "開く",
+    "reading": "ひらく",
+    "fullReading": "ほんじつ、ごごいちじから「ふるさとまつり」がひらく。",
+    "meaning": "to hold / to open",
+    "translation": "The Furusato Matsuri will open today from 1:00 pm.",
+    "context": "outings",
+    "source": "irodori2-l7",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "海岸でごみを拾うボランティアに参加しました。",
+    "target": "拾う",
+    "reading": "ひろう",
+    "fullReading": "かいがんでごみをひろうボランティアにさんかしました。",
+    "meaning": "to pick up",
+    "translation": "I took part in a volunteer activity to pick up trash on the beach.",
+    "context": "outings",
+    "source": "irodori2-l7",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "台風のあと、川の水が濁る。",
+    "target": "濁る",
+    "reading": "にごる",
+    "fullReading": "たいふうのあと、かわのみずがにごる。",
+    "meaning": "to become cloudy (water)",
+    "translation": "After a typhoon, the river water becomes cloudy.",
+    "context": "outings",
+    "source": "irodori2-l7",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "この紙に名前を書いて申し込む。",
+    "target": "申し込む",
+    "reading": "もうしこむ",
+    "fullReading": "このかみになまえをかいてもうしこむ。",
+    "meaning": "to sign up",
+    "translation": "Write your name on this paper to apply.",
+    "context": "outings",
+    "source": "irodori2-l7",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "外で遊ぶと、服がすぐ汚れる。",
+    "target": "汚れる",
+    "reading": "よごれる",
+    "fullReading": "そとであそぶと、ふくがすぐよごれる。",
+    "meaning": "to get dirty",
+    "translation": "If you play outside, your clothes get dirty quickly.",
+    "context": "outings",
+    "source": "irodori2-l7",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "盆踊りでは、みんなで輪になる。",
+    "target": "輪になる",
+    "reading": "わになる",
+    "fullReading": "ぼんおどりでは、みんなでわになる。",
+    "meaning": "to form a circle",
+    "translation": "In bon-odori, everyone forms a circle.",
+    "context": "outings",
+    "source": "irodori2-l7",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "個数が限られているので、ロールケーキをお求めのお客様は、こちらの列にお並びください。",
+    "target": "限られている",
+    "reading": "かぎられている",
+    "fullReading": "こすうがかぎられているので、ロールケーキをおもとめのおきゃくさまは、こちらのれつにおならびください。",
+    "meaning": "to be limited",
+    "translation": "Since the quantity is limited, customers who would like to purchase the roll cake, please line up here.",
+    "context": "outings",
+    "source": "irodori2-l8",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "スピーチコンテスト中、写真の撮影はかまいません。",
+    "target": "撮影",
+    "reading": "さつえい",
+    "fullReading": "スピーチコンテストちゅう、しゃしんのさつえいはかまいません。",
+    "meaning": "photograph / video (filming)",
+    "translation": "During the speech contest, taking photographs is fine.",
+    "context": "outings",
+    "source": "irodori2-l8",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "太鼓体験コーナーで太鼓をたたく。",
+    "target": "たたく",
+    "reading": "たたく",
+    "fullReading": "たいこたいけんコーナーでたいこをたたく。",
+    "meaning": "to beat",
+    "translation": "At the drum experience corner, you beat the drums.",
+    "context": "outings",
+    "source": "irodori2-l8",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "映画館に入る前に、携帯電話の電源を切る。",
+    "target": "電源を切る",
+    "reading": "でんげんをきる",
+    "fullReading": "えいがかんにはいるまえに、けいたいでんわのでんげんをきる。",
+    "meaning": "to turn off the power",
+    "translation": "Before entering the movie theater, I turn off my mobile phone.",
+    "context": "outings",
+    "source": "irodori2-l8",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "バスは9時に出発する。",
+    "target": "出発する",
+    "reading": "しゅっぱつする",
+    "fullReading": "バスはくじにしゅっぱつする。",
+    "meaning": "to depart",
+    "translation": "The bus departs at 9 o'clock.",
+    "context": "outings"
+  },
+  {
+    "sentence": "旅行の前に、荷物を準備する。",
+    "target": "準備する",
+    "reading": "じゅんびする",
+    "fullReading": "りょこうのまえに、にもつをじゅんびする。",
+    "meaning": "to prepare",
+    "translation": "Before the trip, I prepare my luggage.",
+    "context": "outings"
+  },
+  {
+    "sentence": "この市場の魚はとても新鮮だ。",
+    "target": "新鮮",
+    "reading": "しんせん",
+    "fullReading": "このいちばのさかなはとてもしんせんだ。",
+    "meaning": "fresh",
+    "translation": "The fish at this market is very fresh.",
+    "context": "outings"
+  },
+  {
+    "sentence": "雨がひどいので、山登りをあきらめる。",
+    "target": "あきらめる",
+    "reading": "あきらめる",
+    "fullReading": "あめがひどいので、やまのぼりをあきらめる。",
+    "meaning": "to give up",
+    "translation": "Since the rain is heavy, I give up on the mountain climb.",
+    "context": "outings"
+  },
+  {
+    "sentence": "公園で景色の絵を描く。",
+    "target": "絵を描く",
+    "reading": "えをかく",
+    "fullReading": "こうえんでけしきのえをかく。",
+    "meaning": "to draw a picture",
+    "translation": "I draw a picture of the scenery in the park.",
+    "context": "outings"
+  },
+  {
+    "sentence": "夕日の美しさに感動した。",
+    "target": "感動した",
+    "reading": "かんどうした",
+    "fullReading": "ゆうひのうつくしさにかんどうした。",
+    "meaning": "it was deeply moving",
+    "translation": "I was deeply moved by the beauty of the sunset.",
+    "context": "outings"
+  },
+  {
+    "sentence": "この駅から乗車してください。",
+    "target": "乗車",
+    "reading": "じょうしゃ",
+    "fullReading": "このえきからじょうしゃしてください。",
+    "meaning": "to board / get on (a train)",
+    "translation": "Please board the train from this station.",
+    "context": "outings"
+  },
+  {
+    "sentence": "山登りは大変だった。",
+    "target": "大変だった",
+    "reading": "たいへんだった",
+    "fullReading": "やまのぼりはたいへんだった。",
+    "meaning": "it was tough",
+    "translation": "The mountain climb was tough.",
+    "context": "outings"
+  },
+  {
+    "sentence": "予定より早く到着する。",
+    "target": "到着する",
+    "reading": "とうちゃくする",
+    "fullReading": "よていよりはやくとうちゃくする。",
+    "meaning": "to arrive",
+    "translation": "We will arrive earlier than planned.",
+    "context": "outings"
+  },
+  {
+    "sentence": "電車はまもなく発車する。",
+    "target": "発車する",
+    "reading": "はっしゃする",
+    "fullReading": "でんしゃはまもなくはっしゃする。",
+    "meaning": "to depart",
+    "translation": "The train will depart shortly.",
+    "context": "outings"
+  },
+  {
+    "sentence": "来月、この公園で祭りを開催する。",
+    "target": "開催する",
+    "reading": "かいさいする",
+    "fullReading": "らいげつ、このこうえんでまつりをかいさいする。",
+    "meaning": "to hold (an event)",
+    "translation": "Next month, a festival will be held in this park.",
+    "context": "outings"
+  },
+  {
+    "sentence": "工場の中を見学する。",
+    "target": "見学する",
+    "reading": "けんがくする",
+    "fullReading": "こうじょうのなかをけんがくする。",
+    "meaning": "to observe",
+    "translation": "We tour the inside of the factory.",
+    "context": "outings"
+  },
+  {
+    "sentence": "会場のトイレを自由に使用する。",
+    "target": "使用する",
+    "reading": "しようする",
+    "fullReading": "かいじょうのトイレをじゆうにしようする。",
+    "meaning": "to use",
+    "translation": "You may freely use the restrooms at the venue.",
+    "context": "outings"
+  },
+  {
+    "sentence": "この工場では自動車を生産する。",
+    "target": "生産する",
+    "reading": "せいさんする",
+    "fullReading": "このこうじょうではじどうしゃをせいさんする。",
+    "meaning": "to produce",
+    "translation": "This factory produces cars.",
+    "context": "outings"
+  },
+  {
+    "sentence": "会場内での撮影は遠慮する。",
+    "target": "遠慮する",
+    "reading": "えんりょする",
+    "fullReading": "かいじょうないでのさつえいはえんりょする。",
+    "meaning": "to refrain (from doing something)",
+    "translation": "I refrain from taking photos inside the venue.",
+    "context": "outings"
+  },
+  {
+    "sentence": "ボランティアとして、清掃活動に協力する。",
+    "target": "協力する",
+    "reading": "きょうりょくする",
+    "fullReading": "ボランティアとして、せいそうかつどうにきょうりょくする。",
+    "meaning": "to cooperate",
+    "translation": "As a volunteer, I cooperate in the cleanup activity.",
+    "context": "outings"
+  },
+  {
+    "sentence": "イベントは午後5時に終了する。",
+    "target": "終了する",
+    "reading": "しゅうりょうする",
+    "fullReading": "イベントはごごごじにしゅうりょうする。",
+    "meaning": "to end",
+    "translation": "The event ends at 5 p.m.",
+    "context": "outings"
+  },
+  {
+    "sentence": "このゲームに勝つと、賞品が出る。",
+    "target": "賞品が出る",
+    "reading": "しょうひんがでる",
+    "fullReading": "このゲームにかつと、しょうひんがでる。",
+    "meaning": "awards are offered",
+    "translation": "If you win this game, you get a prize.",
+    "context": "outings"
+  },
+  {
+    "sentence": "携帯電話をマナーモードに設定する。",
+    "target": "設定する",
+    "reading": "せっていする",
+    "fullReading": "けいたいでんわをマナーモードにせっていする。",
+    "meaning": "to set",
+    "translation": "Set your mobile phone to silent mode.",
+    "context": "outings"
+  },
+  {
+    "sentence": "旅行の計画をスタッフに相談する。",
+    "target": "相談する",
+    "reading": "そうだんする",
+    "fullReading": "りょこうのけいかくをスタッフにそうだんする。",
+    "meaning": "to consult",
+    "translation": "I consult the staff about the travel plan.",
+    "context": "outings"
+  },
+  {
+    "sentence": "電車の中では通話する人が少ない。",
+    "target": "通話する",
+    "reading": "つうわする",
+    "fullReading": "でんしゃのなかではつうわするひとがすくない。",
+    "meaning": "to talk on the phone",
+    "translation": "Few people talk on the phone inside the train.",
+    "context": "outings"
+  },
+  {
+    "sentence": "今年こそ、このチームが優勝する。",
+    "target": "優勝する",
+    "reading": "ゆうしょうする",
+    "fullReading": "ことしこそ、このチームがゆうしょうする。",
+    "meaning": "to win first prize",
+    "translation": "This team will win first prize this year for sure.",
+    "context": "outings"
+  },
+  {
+    "sentence": "駅までの道を案内する。",
+    "target": "案内する",
+    "reading": "あんないする",
+    "fullReading": "えきまでのみちをあんないする。",
+    "meaning": "to show / to guide",
+    "translation": "I show the way to the station.",
+    "context": "outings"
+  },
+  {
+    "sentence": "電車に間に合うように急ぐ。",
+    "target": "急ぐ",
+    "reading": "いそぐ",
+    "fullReading": "でんしゃにまにあうようにいそぐ。",
+    "meaning": "to hurry",
+    "translation": "I hurry so as to catch the train.",
+    "context": "outings"
+  },
+  {
+    "sentence": "今から出かけます。",
+    "target": "今から",
+    "reading": "いまから",
+    "fullReading": "いまからでかけます。",
+    "meaning": "from now on",
+    "translation": "I'm going out now.",
+    "context": "outings"
+  },
+  {
+    "sentence": "バスが少し遅れる。",
+    "target": "遅れる",
+    "reading": "おくれる",
+    "fullReading": "バスがすこしおくれる。",
+    "meaning": "to be late",
+    "translation": "The bus will be a little late.",
+    "context": "outings"
+  },
+  {
+    "sentence": "駅前のカフェで待ち合わせよう。",
+    "target": "カフェ",
+    "reading": "カフェ",
+    "fullReading": "えきまえのカフェでまちあわせよう。",
+    "meaning": "café",
+    "translation": "Let's meet at the café in front of the station.",
+    "context": "outings"
+  },
+  {
+    "sentence": "私が先に行きます。",
+    "target": "先に",
+    "reading": "さきに",
+    "fullReading": "わたしがさきにいきます。",
+    "meaning": "before",
+    "translation": "I'll go ahead first.",
+    "context": "outings"
+  },
+  {
+    "sentence": "集合の時間を確認する。",
+    "target": "時間",
+    "reading": "じかん",
+    "fullReading": "しゅうごうのじかんをかくにんする。",
+    "meaning": "time",
+    "translation": "I check the meeting time.",
+    "context": "outings"
+  },
+  {
+    "sentence": "電車が事故で止まっている。",
+    "target": "事故",
+    "reading": "じこ",
+    "fullReading": "でんしゃがじこでとまっている。",
+    "meaning": "accident",
+    "translation": "The train has stopped due to an accident.",
+    "context": "outings"
+  },
+  {
+    "sentence": "会場のスタッフに聞いてみよう。",
+    "target": "スタッフ",
+    "reading": "スタッフ",
+    "fullReading": "かいじょうのスタッフにきいてみよう。",
+    "meaning": "staff",
+    "translation": "Let's ask the staff at the venue.",
+    "context": "outings"
+  },
+  {
+    "sentence": "それ、何ですか？",
+    "target": "それ、何ですか？",
+    "reading": "それ、なんですか？",
+    "fullReading": "それ、なんですか？",
+    "meaning": "What's that? (used to ask again what the",
+    "translation": "What's that?",
+    "context": "outings"
+  },
+  {
+    "sentence": "公園に大きな像がある。",
+    "target": "像",
+    "reading": "ぞう",
+    "fullReading": "こうえんにおおきなぞうがある。",
+    "meaning": "statue",
+    "translation": "There is a large statue in the park.",
+    "context": "outings"
+  },
+  {
+    "sentence": "遅れても大丈夫です。",
+    "target": "大丈夫",
+    "reading": "だいじょうぶ",
+    "fullReading": "おくれてもだいじょうぶです。",
+    "meaning": "fine / OK",
+    "translation": "It's fine even if you're late.",
+    "context": "outings"
+  },
+  {
+    "sentence": "もうすぐ駅に着く。",
+    "target": "着く",
+    "reading": "つく",
+    "fullReading": "もうすぐえきにつく。",
+    "meaning": "to arrive",
+    "translation": "We'll arrive at the station soon.",
+    "context": "outings"
+  },
+  {
+    "sentence": "電車が急に止まる。",
+    "target": "止まる",
+    "reading": "とまる",
+    "fullReading": "でんしゃがきゅうにとまる。",
+    "meaning": "to stop",
+    "translation": "The train suddenly stops.",
+    "context": "outings"
+  },
+  {
+    "sentence": "公園にたくさんの鳥がいる。",
+    "target": "鳥",
+    "reading": "とり",
+    "fullReading": "こうえんにたくさんのとりがいる。",
+    "meaning": "bird",
+    "translation": "There are many birds in the park.",
+    "context": "outings"
+  },
+  {
+    "sentence": "休みの日は、よくねぼうする。",
+    "target": "ねぼうする",
+    "reading": "ねぼうする",
+    "fullReading": "やすみのひは、よくねぼうする。",
+    "meaning": "to oversleep",
+    "translation": "I often oversleep on my days off.",
+    "context": "outings"
+  },
+  {
+    "sentence": "コンサートは7時に始まる。",
+    "target": "始まる",
+    "reading": "はじまる",
+    "fullReading": "コンサートはしちじにはじまる。",
+    "meaning": "to start",
+    "translation": "The concert starts at 7 o'clock.",
+    "context": "outings"
+  },
+  {
+    "sentence": "そろそろ準備を始める。",
+    "target": "始める",
+    "reading": "はじめる",
+    "fullReading": "そろそろじゅんびをはじめる。",
+    "meaning": "to start",
+    "translation": "It's about time to start preparing.",
+    "context": "outings"
+  },
+  {
+    "sentence": "この公園には平和な雰囲気がある。",
+    "target": "平和",
+    "reading": "へいわ",
+    "fullReading": "このこうえんにはへいわなふんいきがある。",
+    "meaning": "peace",
+    "translation": "This park has a peaceful atmosphere.",
+    "context": "outings"
+  },
+  {
+    "sentence": "コンサートはこのホールで行われる。",
+    "target": "ホール",
+    "reading": "ホール",
+    "fullReading": "コンサートはこのホールでおこなわれる。",
+    "meaning": "hall",
+    "translation": "The concert will be held in this hall.",
+    "context": "outings"
+  },
+  {
+    "sentence": "駅前で待ち合わせする。",
+    "target": "待ち合わせする",
+    "reading": "まちあわせする",
+    "fullReading": "えきまえでまちあわせする。",
+    "meaning": "to meet (each other)",
+    "translation": "We meet up in front of the station.",
+    "context": "outings"
+  },
+  {
+    "sentence": "道をまちがえる。",
+    "target": "まちがえる",
+    "reading": "まちがえる",
+    "fullReading": "みちをまちがえる。",
+    "meaning": "to misunderstand",
+    "translation": "I take the wrong way.",
+    "context": "outings"
+  },
+  {
+    "sentence": "友達をカフェで待つ。",
+    "target": "待つ",
+    "reading": "まつ",
+    "fullReading": "ともだちをカフェでまつ。",
+    "meaning": "to wait",
+    "translation": "I wait for my friend at the café.",
+    "context": "outings"
+  },
+  {
+    "sentence": "知らない町で道に迷う。",
+    "target": "道に迷う",
+    "reading": "みちにまよう",
+    "fullReading": "しらないまちでみちにまよう。",
+    "meaning": "to get lost",
+    "translation": "I get lost in an unfamiliar town.",
+    "context": "outings"
+  },
+  {
+    "sentence": "お城の門の前で写真を撮る。",
+    "target": "門",
+    "reading": "もん",
+    "fullReading": "おしろのもんのまえでしゃしんをとる。",
+    "meaning": "gate",
+    "translation": "I take a photo in front of the castle gate.",
+    "context": "outings"
+  },
+  {
+    "sentence": "着いたらすぐに連絡する。",
+    "target": "連絡する",
+    "reading": "れんらくする",
+    "fullReading": "ついたらすぐにれんらくする。",
+    "meaning": "to contact",
+    "translation": "I'll contact you as soon as I arrive.",
+    "context": "outings"
+  },
+  {
+    "sentence": "この博物館にはアジアの美術品が多い。",
+    "target": "アジア",
+    "reading": "アジア",
+    "fullReading": "このはくぶつかんにはアジアのびじゅつひんがおおい。",
+    "meaning": "Asia",
+    "translation": "This museum has many Asian art pieces.",
+    "context": "outings"
+  },
+  {
+    "sentence": "旅行のためにお金をためる。",
+    "target": "お金",
+    "reading": "おかね",
+    "fullReading": "りょこうのためにおかねをためる。",
+    "meaning": "money",
+    "translation": "I save money for the trip.",
+    "context": "outings"
+  },
+  {
+    "sentence": "この町には有名なお城がある。",
+    "target": "お城",
+    "reading": "おしろ",
+    "fullReading": "このまちにはゆうめいなおしろがある。",
+    "meaning": "castle",
+    "translation": "This town has a famous castle.",
+    "context": "outings"
+  },
+  {
+    "sentence": "歩き回って、お腹がすく。",
+    "target": "お腹がすく",
+    "reading": "おなかがすく",
+    "fullReading": "あるきまわって、おなかがすく。",
+    "meaning": "to get hungry",
+    "translation": "After walking around a lot, I get hungry.",
+    "context": "outings"
+  },
+  {
+    "sentence": "銀行でお金をおろす。",
+    "target": "おろす",
+    "reading": "おろす",
+    "fullReading": "ぎんこうでおかねをおろす。",
+    "meaning": "to withdraw",
+    "translation": "I withdraw money at the bank.",
+    "context": "outings"
+  },
+  {
+    "sentence": "動物園のパンダがかわいい。",
+    "target": "かわいい",
+    "reading": "かわいい",
+    "fullReading": "どうぶつえんのパンダがかわいい。",
+    "meaning": "cute",
+    "translation": "The panda at the zoo is cute.",
+    "context": "outings"
+  },
+  {
+    "sentence": "美しい景色を見ると感動する。",
+    "target": "感動する",
+    "reading": "かんどうする",
+    "fullReading": "うつくしいけしきをみるとかんどうする。",
+    "meaning": "to be deeply moved",
+    "translation": "Seeing beautiful scenery moves me.",
+    "context": "outings"
+  },
+  {
+    "sentence": "この美術館には現代アートが多い。",
+    "target": "現代",
+    "reading": "げんだい",
+    "fullReading": "このびじゅつかんにはげんだいアートがおおい。",
+    "meaning": "modern",
+    "translation": "This museum has a lot of modern art.",
+    "context": "outings"
+  },
+  {
+    "sentence": "このあと、公園に行きましょう。",
+    "target": "このあと",
+    "reading": "このあと",
+    "fullReading": "このあと、こうえんにいきましょう。",
+    "meaning": "after this",
+    "translation": "Let's go to the park after this.",
+    "context": "outings"
+  },
+  {
+    "sentence": "この美術館には有名な作品が多い。",
+    "target": "作品",
+    "reading": "さくひん",
+    "fullReading": "このびじゅつかんにはゆうめいなさくひんがおおい。",
+    "meaning": "art",
+    "translation": "This museum has many famous works of art.",
+    "context": "outings"
+  },
+  {
+    "sentence": "今日は野球の試合を見に行く。",
+    "target": "試合",
+    "reading": "しあい",
+    "fullReading": "きょうはやきゅうのしあいをみにいく。",
+    "meaning": "match",
+    "translation": "Today I'm going to watch a baseball match.",
+    "context": "outings"
+  },
+  {
+    "sentence": "この景色はすごくきれいだ。",
+    "target": "すごく",
+    "reading": "すごく",
+    "fullReading": "このけしきはすごくきれいだ。",
+    "meaning": "very",
+    "translation": "This scenery is really beautiful.",
+    "context": "outings"
+  },
+  {
+    "sentence": "この景色は本当にすばらしい。",
+    "target": "すばらしい",
+    "reading": "すばらしい",
+    "fullReading": "このけしきはほんとうにすばらしい。",
+    "meaning": "wonderful",
+    "translation": "This scenery is truly wonderful.",
+    "context": "outings"
+  },
+  {
+    "sentence": "その前に、チケットを買っておこう。",
+    "target": "その前に",
+    "reading": "そのまえに",
+    "fullReading": "そのまえに、チケットをかっておこう。",
+    "meaning": "before that",
+    "translation": "Before that, let's buy the tickets.",
+    "context": "outings"
+  },
+  {
+    "sentence": "待っている時間は退屈だ。",
+    "target": "退屈",
+    "reading": "たいくつ",
+    "fullReading": "まっているじかんはたいくつだ。",
+    "meaning": "boring",
+    "translation": "The waiting time is boring.",
+    "context": "outings"
+  },
+  {
+    "sentence": "時間が足りない。",
+    "target": "足りない",
+    "reading": "たりない",
+    "fullReading": "じかんがたりない。",
+    "meaning": "not enough",
+    "translation": "There isn't enough time.",
+    "context": "outings"
+  },
+  {
+    "sentence": "待つだけの時間はつまらない。",
+    "target": "つまらない",
+    "reading": "つまらない",
+    "fullReading": "まつだけのじかんはつまらない。",
+    "meaning": "boring",
+    "translation": "Just waiting around is boring.",
+    "context": "outings"
+  },
+  {
+    "sentence": "動物園でパンダを見た。",
+    "target": "パンダ",
+    "reading": "パンダ",
+    "fullReading": "どうぶつえんでパンダをみた。",
+    "meaning": "panda",
+    "translation": "I saw a panda at the zoo.",
+    "context": "outings"
+  },
+  {
+    "sentence": "バスはまだ来ない。",
+    "target": "まだ",
+    "reading": "まだ",
+    "fullReading": "バスはまだこない。",
+    "meaning": "not yet",
+    "translation": "The bus hasn't come yet.",
+    "context": "outings"
+  },
+  {
+    "sentence": "この地図は難しい。",
+    "target": "難しい",
+    "reading": "むずかしい",
+    "fullReading": "このちずはむずかしい。",
+    "meaning": "difficult",
+    "translation": "This map is difficult.",
+    "context": "outings"
+  },
+  {
+    "sentence": "ツアーのメンバーが集まる。",
+    "target": "メンバー",
+    "reading": "メンバー",
+    "fullReading": "ツアーのメンバーがあつまる。",
+    "meaning": "member",
+    "translation": "The tour members gather.",
+    "context": "outings"
+  },
+  {
+    "sentence": "もう出発しましょう。",
+    "target": "もう",
+    "reading": "もう",
+    "fullReading": "もうしゅっぱつしましょう。",
+    "meaning": "already",
+    "translation": "Let's depart already.",
+    "context": "outings"
+  },
+  {
+    "sentence": "ベンチで少し休む。",
+    "target": "休む",
+    "reading": "やすむ",
+    "fullReading": "ベンチですこしやすむ。",
+    "meaning": "to rest",
+    "translation": "I rest a little on the bench.",
+    "context": "outings"
+  },
+  {
+    "sentence": "何をやるか決めよう。",
+    "target": "やる",
+    "reading": "やる",
+    "fullReading": "なにをやるかきめよう。",
+    "meaning": "to do",
+    "translation": "Let's decide what to do.",
+    "context": "outings"
+  },
+  {
+    "sentence": "地図を見れば道がわかる。",
+    "target": "わかる",
+    "reading": "わかる",
+    "fullReading": "ちずをみればみちがわかる。",
+    "meaning": "to understand",
+    "translation": "If you look at the map, you'll understand the way.",
+    "context": "outings"
   }
 ]

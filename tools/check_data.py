@@ -41,6 +41,13 @@ def is_counter(word):
     return bool(re.fullmatch(r'[0-9]+(人|か月|年)', word)) or word in ('何人',)
 
 
+def is_bound_form(word):
+    """Bound affixes/patterns (～様, ～cm, ノー～) and slash-joined register
+    variants (昭和／昭) can't stand alone as a sentence target verbatim, so
+    they're structurally exempt from needing their own dedicated sentence."""
+    return '～' in word or '〜' in word or '／' in word
+
+
 def main():
     contexts = json.loads((ROOT / 'contexts.json').read_text())
     ids = [c['id'] for c in contexts]
@@ -114,7 +121,8 @@ def main():
             fail(ctx, 'duplicate sentences')
 
         uncovered = [w['word'] for w in words
-                     if w['word'] not in hits and not is_counter(w['word'])]
+                     if w['word'] not in hits and not is_counter(w['word'])
+                     and not is_bound_form(w['word'])]
         if uncovered:
             print(f'note[{ctx}]: words without own sentence target '
                   f'(must be covered by inflected targets): {uncovered}')
