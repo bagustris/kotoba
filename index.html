@@ -15,7 +15,7 @@
   <button id="btn-settings" type="button" class="icon-btn settings-btn" aria-haspopup="dialog" aria-label="設定 Settings">
     <span class="hamburger-icon"><span></span><span></span><span></span></span>
   </button>
-  <h1>ことば</h1>
+  <h1><button id="btn-home-title" type="button" class="app-title-btn">ことば</button></h1>
 </header>
 
 <div id="settings-overlay" class="settings-overlay hidden">
@@ -42,6 +42,14 @@
     </div>
 
     <div class="settings-row">
+      <span class="settings-row-label" id="setting-show-examples-label">答えた後に例文を表示<span>Show example sentence after answering</span></span>
+      <label class="switch">
+        <input type="checkbox" id="setting-show-examples" aria-labelledby="setting-show-examples-label">
+        <span class="switch-slider"></span>
+      </label>
+    </div>
+
+    <div class="settings-row">
       <span class="settings-row-label" id="setting-play-audio-label">読み上げ<span>Speak the reading aloud</span></span>
       <label class="switch">
         <input type="checkbox" id="setting-play-audio" aria-labelledby="setting-play-audio-label">
@@ -53,14 +61,6 @@
       <span class="settings-row-label" id="setting-auto-next-label">自動で次へ<span>Advance automatically after answering</span></span>
       <label class="switch">
         <input type="checkbox" id="setting-auto-next" aria-labelledby="setting-auto-next-label">
-        <span class="switch-slider"></span>
-      </label>
-    </div>
-
-    <div class="settings-row">
-      <span class="settings-row-label" id="setting-show-examples-label">答えた後に例文を表示<span>Show example sentence after answering</span></span>
-      <label class="switch">
-        <input type="checkbox" id="setting-show-examples" aria-labelledby="setting-show-examples-label">
         <span class="switch-slider"></span>
       </label>
     </div>
@@ -144,7 +144,7 @@
       <p id="quiz-instruction" class="quiz-instruction">正しい答えは？<span>Choose the correct answer</span></p>
       <div id="quiz-options" class="quiz-options"></div>
       <div id="quiz-examples" class="quiz-examples hidden"></div>
-      <p id="quiz-continue" class="quiz-continue hidden">つづける →<span>タップ / Tap or press → Enter Space</span></p>
+      <button id="quiz-continue" class="quiz-continue hidden" type="button">つづける →<span>タップ / Tap or press → Enter Space</span></button>
     </div>
   </section>
 

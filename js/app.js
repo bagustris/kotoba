@@ -40,6 +40,7 @@ const el = {
   btnQuit: document.getElementById('btn-quit'),
   btnRetry: document.getElementById('btn-retry'),
   btnHome: document.getElementById('btn-home'),
+  btnHomeTitle: document.getElementById('btn-home-title'),
   quizProgress: document.getElementById('quiz-progress'),
   quizWord: document.getElementById('quiz-word'),
   quizHint: document.getElementById('quiz-hint'),
@@ -255,6 +256,7 @@ el.modeButtons.forEach((btn) => btn.addEventListener('click', () => selectMode(b
 el.scopeButtons.forEach((btn) => btn.addEventListener('click', () => selectScope(btn.dataset.scope)));
 el.btnQuit.addEventListener('click', () => showScreen('home'));
 el.btnHome.addEventListener('click', () => showScreen('home'));
+el.btnHomeTitle.addEventListener('click', () => showScreen('home'));
 el.btnRetry.addEventListener('click', () => startRound());
 
 // The only way to advance past a revealed answer when autoNext is off —
@@ -580,7 +582,7 @@ function renderExamples(q) {
   // Sentence/translation are escaped before hitting innerHTML (see escapeHtml)
   // — the highlight span is built afterward, so escaping can't corrupt it.
   const rows = shown.map((ex) =>
-    `<li><span class="ex-sentence">${highlightTarget(escapeHtml(ex.sentence), escapeHtml(q.text))}</span>` +
+    `<li><button type="button" class="ex-sentence" aria-label="例文を読み上げる Play example sentence">${highlightTarget(escapeHtml(ex.sentence), escapeHtml(q.text))}</button>` +
     `<span class="ex-gloss">${escapeHtml(ex.translation || '')}</span></li>`
   ).join('');
   const more = rest > 0 ? `<li class="ex-more">ほか ${rest} 文<span>+${rest} more</span></li>` : '';

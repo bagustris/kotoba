@@ -48,6 +48,19 @@ html, body {
   letter-spacing: 0.05em;
 }
 
+.app-title-btn {
+  background: none;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  letter-spacing: inherit;
+  padding: 0;
+}
+
+.app-title-btn:hover, .app-title-btn:focus-visible { color: var(--accent); }
+.app-title-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
 .icon-btn {
   background: none;
   border: none;
@@ -754,9 +767,14 @@ html, body {
   gap: 0.7rem;
 }
 
-/* Manual-continue hint shown after answering when auto-advance is off. The
-   whole document is clickable to continue; this is a cue, not the only target. */
+/* The explicit manual-continue control shown after answering when automatic
+   advance is off. */
 .quiz-continue {
+  background: none;
+  border: 0;
+  display: block;
+  padding: 0;
+  width: 100%;
   margin: 1rem 0 0;
   text-align: center;
   font-size: 1rem;
@@ -821,15 +839,21 @@ html, body {
 .quiz-examples li:first-child { border-top: none; }
 
 .ex-sentence {
+  background: none;
+  border: 0;
+  color: var(--fg);
   display: block;
   font-size: 1.05rem;
+  padding: 0;
   cursor: pointer;
   border-radius: 4px;
+  text-align: left;
 }
 
 .ex-sentence:hover, .ex-sentence:active {
   background: rgba(128, 128, 128, 0.08);
 }
+.ex-sentence:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
 /* Speaker affordance on each sentence — shown only when Web Speech is
    actually available (renderExamples toggles .has-audio). */
