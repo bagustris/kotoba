@@ -928,15 +928,20 @@ document.addEventListener('keydown', (e) => {
 
 // The About panel's version is read from CHANGELOG.md (the single source of
 // truth — see its header) rather than duplicated here: parse the newest
-// `## [x.y.z]` heading and show it. The static v-number in index.html is the
-// offline/pre-fetch fallback, so a failed fetch just leaves that in place.
+// CalVer (`YYYY.MM.DD`) or legacy SemVer (`[x.y.z]`) heading and show it.
+// The static value in index.html is the offline/pre-fetch fallback.
 async function loadAppVersion() {
   try {
     const res = await fetch('CHANGELOG.md');
     if (!res.ok) return;
     const text = await res.text();
-    const match = text.match(/^##\s*\[(\d+\.\d+\.\d+)\]/m);
-    if (match) el.aboutVersion.textContent = `v${match[1]}`;
+    const match = text.match(/^##\s*\[?((?:v)?(?:\d{4}\.\d{2}\.\d{2}|\d+\.\d+\.\d+))\]?(?:\s|$)/m);
+    if (match) {
+      const version = match[1];
+      el.aboutVersion.textContent = /^\d{4}\./.test(version)
+        ? version
+        : version.startsWith('v') ? version : `v${version}`;
+    }
   } catch {
     // offline / fetch blocked — keep the static fallback from index.html
   }
