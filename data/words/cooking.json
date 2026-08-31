@@ -1,0 +1,1430 @@
+[
+  {
+    "word": "アレルギー",
+    "reading": "アレルギー",
+    "meaning": "allergy",
+    "context": "cooking",
+    "frequencyRank": 1
+  },
+  {
+    "word": "アレルギー物質",
+    "reading": "アレルギーぶっしつ",
+    "meaning": "allergen",
+    "context": "cooking",
+    "frequencyRank": 2
+  },
+  {
+    "word": "イカ",
+    "reading": "イカ",
+    "meaning": "squid",
+    "context": "cooking",
+    "frequencyRank": 3
+  },
+  {
+    "word": "売る",
+    "reading": "うる",
+    "meaning": "to sell",
+    "context": "cooking",
+    "frequencyRank": 4
+  },
+  {
+    "word": "ウーロン茶",
+    "reading": "ウーロンちゃ",
+    "meaning": "oolong tea",
+    "context": "cooking",
+    "frequencyRank": 5
+  },
+  {
+    "word": "エビ",
+    "reading": "エビ",
+    "meaning": "shrimp",
+    "context": "cooking",
+    "frequencyRank": 6
+  },
+  {
+    "word": "エビピラフ",
+    "reading": "エビピラフ",
+    "meaning": "shrimp pilaf",
+    "context": "cooking",
+    "frequencyRank": 7
+  },
+  {
+    "word": "お菓子",
+    "reading": "おかし",
+    "meaning": "sweets",
+    "context": "cooking",
+    "frequencyRank": 8
+  },
+  {
+    "word": "お酒",
+    "reading": "おさけ",
+    "meaning": "alcohol",
+    "context": "cooking",
+    "frequencyRank": 9
+  },
+  {
+    "word": "お皿",
+    "reading": "おさら",
+    "meaning": "plate",
+    "context": "cooking",
+    "frequencyRank": 10
+  },
+  {
+    "word": "お茶",
+    "reading": "おちゃ",
+    "meaning": "tea / Japanese tea",
+    "context": "cooking",
+    "frequencyRank": 11
+  },
+  {
+    "word": "おにぎり",
+    "reading": "おにぎり",
+    "meaning": "onigiri (rice ball)",
+    "context": "cooking",
+    "frequencyRank": 12
+  },
+  {
+    "word": "カニ",
+    "reading": "カニ",
+    "meaning": "crab",
+    "context": "cooking",
+    "frequencyRank": 13
+  },
+  {
+    "word": "からあげ",
+    "reading": "からあげ",
+    "meaning": "fried chicken",
+    "context": "cooking",
+    "frequencyRank": 14
+  },
+  {
+    "word": "今日中に",
+    "reading": "きょうじゅうに",
+    "meaning": "by today",
+    "context": "cooking",
+    "frequencyRank": 15
+  },
+  {
+    "word": "牛肉",
+    "reading": "ぎゅうにく",
+    "meaning": "beef",
+    "context": "cooking",
+    "frequencyRank": 16
+  },
+  {
+    "word": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "meaning": "milk",
+    "context": "cooking",
+    "frequencyRank": 17
+  },
+  {
+    "word": "原材料名",
+    "reading": "げんざいりょうめい",
+    "meaning": "list of raw ingredients",
+    "context": "cooking",
+    "frequencyRank": 18
+  },
+  {
+    "word": "紅茶",
+    "reading": "こうちゃ",
+    "meaning": "black tea",
+    "context": "cooking",
+    "frequencyRank": 19
+  },
+  {
+    "word": "コップ",
+    "reading": "コップ",
+    "meaning": "drinking cup",
+    "context": "cooking",
+    "frequencyRank": 20
+  },
+  {
+    "word": "小麦",
+    "reading": "こむぎ",
+    "meaning": "wheat",
+    "context": "cooking",
+    "frequencyRank": 21
+  },
+  {
+    "word": "小麦粉",
+    "reading": "こむぎこ",
+    "meaning": "flour",
+    "context": "cooking",
+    "frequencyRank": 22
+  },
+  {
+    "word": "コーナー",
+    "reading": "コーナー",
+    "meaning": "section",
+    "context": "cooking",
+    "frequencyRank": 23
+  },
+  {
+    "word": "ごみ袋",
+    "reading": "ごみぶくろ",
+    "meaning": "garbage bag",
+    "context": "cooking",
+    "frequencyRank": 24
+  },
+  {
+    "word": "魚",
+    "reading": "さかな",
+    "meaning": "fish",
+    "context": "cooking",
+    "frequencyRank": 25
+  },
+  {
+    "word": "殺菌方法",
+    "reading": "さっきんほうほう",
+    "meaning": "sterilization method",
+    "context": "cooking",
+    "frequencyRank": 26
+  },
+  {
+    "word": "材料",
+    "reading": "ざいりょう",
+    "meaning": "ingredient",
+    "context": "cooking",
+    "frequencyRank": 27
+  },
+  {
+    "word": "塩",
+    "reading": "しお",
+    "meaning": "salt",
+    "context": "cooking",
+    "frequencyRank": 28
+  },
+  {
+    "word": "焼酎",
+    "reading": "しょうちゅう",
+    "meaning": "shochu (Japanese distilled liquor)",
+    "context": "cooking",
+    "frequencyRank": 29
+  },
+  {
+    "word": "消費期限",
+    "reading": "しょうひきげん",
+    "meaning": "expiration date",
+    "context": "cooking",
+    "frequencyRank": 30
+  },
+  {
+    "word": "商品",
+    "reading": "しょうひん",
+    "meaning": "product",
+    "context": "cooking",
+    "frequencyRank": 31
+  },
+  {
+    "word": "賞味期限",
+    "reading": "しょうみきげん",
+    "meaning": "best-before date",
+    "context": "cooking",
+    "frequencyRank": 32
+  },
+  {
+    "word": "シーフード",
+    "reading": "シーフード",
+    "meaning": "seafood",
+    "context": "cooking",
+    "frequencyRank": 33
+  },
+  {
+    "word": "準備",
+    "reading": "じゅんび",
+    "meaning": "preparation",
+    "context": "cooking",
+    "frequencyRank": 34
+  },
+  {
+    "word": "ジュース",
+    "reading": "ジュース",
+    "meaning": "juice",
+    "context": "cooking",
+    "frequencyRank": 35
+  },
+  {
+    "word": "すべて",
+    "reading": "すべて",
+    "meaning": "everything",
+    "context": "cooking",
+    "frequencyRank": 36
+  },
+  {
+    "word": "製造者",
+    "reading": "せいぞうしゃ",
+    "meaning": "manufacturer",
+    "context": "cooking",
+    "frequencyRank": 37
+  },
+  {
+    "word": "そば粉",
+    "reading": "そばこ",
+    "meaning": "buckwheat flour",
+    "context": "cooking",
+    "frequencyRank": 38
+  },
+  {
+    "word": "ソフトドリンク",
+    "reading": "ソフトドリンク",
+    "meaning": "soft drink",
+    "context": "cooking",
+    "frequencyRank": 39
+  },
+  {
+    "word": "ソース",
+    "reading": "ソース",
+    "meaning": "sauce",
+    "context": "cooking",
+    "frequencyRank": 40
+  },
+  {
+    "word": "ソーセージ",
+    "reading": "ソーセージ",
+    "meaning": "sausage",
+    "context": "cooking",
+    "frequencyRank": 41
+  },
+  {
+    "word": "卵",
+    "reading": "たまご",
+    "meaning": "egg",
+    "context": "cooking",
+    "frequencyRank": 42
+  },
+  {
+    "word": "たれ",
+    "reading": "たれ",
+    "meaning": "tare (dipping sauce)",
+    "context": "cooking",
+    "frequencyRank": 43
+  },
+  {
+    "word": "大豆",
+    "reading": "だいず",
+    "meaning": "soy",
+    "context": "cooking",
+    "frequencyRank": 44
+  },
+  {
+    "word": "チョコレート",
+    "reading": "チョコレート",
+    "meaning": "chocolate",
+    "context": "cooking",
+    "frequencyRank": 45
+  },
+  {
+    "word": "チョコレートケーキ",
+    "reading": "チョコレートケーキ",
+    "meaning": "chocolate cake",
+    "context": "cooking",
+    "frequencyRank": 46
+  },
+  {
+    "word": "チーズ",
+    "reading": "チーズ",
+    "meaning": "cheese",
+    "context": "cooking",
+    "frequencyRank": 47
+  },
+  {
+    "word": "チーズケーキ",
+    "reading": "チーズケーキ",
+    "meaning": "cheesecake",
+    "context": "cooking",
+    "frequencyRank": 48
+  },
+  {
+    "word": "手伝う",
+    "reading": "てつだう",
+    "meaning": "to help",
+    "context": "cooking",
+    "frequencyRank": 49
+  },
+  {
+    "word": "デザート",
+    "reading": "デザート",
+    "meaning": "dessert",
+    "context": "cooking",
+    "frequencyRank": 50
+  },
+  {
+    "word": "鶏肉",
+    "reading": "とりにく",
+    "meaning": "chicken",
+    "context": "cooking",
+    "frequencyRank": 51
+  },
+  {
+    "word": "どっち",
+    "reading": "どっち",
+    "meaning": "which (out of two, and casual style of speech)",
+    "context": "cooking",
+    "frequencyRank": 52
+  },
+  {
+    "word": "どれ",
+    "reading": "どれ",
+    "meaning": "which one (of three or more)",
+    "context": "cooking",
+    "frequencyRank": 53
+  },
+  {
+    "word": "内容量",
+    "reading": "ないようりょう",
+    "meaning": "volume",
+    "context": "cooking",
+    "frequencyRank": 54
+  },
+  {
+    "word": "肉",
+    "reading": "にく",
+    "meaning": "meat",
+    "context": "cooking",
+    "frequencyRank": 55
+  },
+  {
+    "word": "日本酒",
+    "reading": "にほんしゅ",
+    "meaning": "sake (Japanese rice wine)",
+    "context": "cooking",
+    "frequencyRank": 56
+  },
+  {
+    "word": "乳製品",
+    "reading": "にゅうせいひん",
+    "meaning": "dairy products",
+    "context": "cooking",
+    "frequencyRank": 57
+  },
+  {
+    "word": "乳成分",
+    "reading": "にゅうせいぶん",
+    "meaning": "milk constituent",
+    "context": "cooking",
+    "frequencyRank": 58
+  },
+  {
+    "word": "飲み物",
+    "reading": "のみもの",
+    "meaning": "drink",
+    "context": "cooking",
+    "frequencyRank": 59
+  },
+  {
+    "word": "入っている",
+    "reading": "はいっている",
+    "meaning": "contain",
+    "context": "cooking",
+    "frequencyRank": 60
+  },
+  {
+    "word": "ハラル",
+    "reading": "ハラル",
+    "meaning": "halal (ingredients and dishes that Muslims",
+    "context": "cooking",
+    "frequencyRank": 61
+  },
+  {
+    "word": "販売者",
+    "reading": "はんばいしゃ",
+    "meaning": "seller",
+    "context": "cooking",
+    "frequencyRank": 62
+  },
+  {
+    "word": "バター",
+    "reading": "バター",
+    "meaning": "butter",
+    "context": "cooking",
+    "frequencyRank": 63
+  },
+  {
+    "word": "バナナ",
+    "reading": "バナナ",
+    "meaning": "banana",
+    "context": "cooking",
+    "frequencyRank": 64
+  },
+  {
+    "word": "バーベキュー",
+    "reading": "バーベキュー",
+    "meaning": "barbecue",
+    "context": "cooking",
+    "frequencyRank": 65
+  },
+  {
+    "word": "バーベキュー場",
+    "reading": "バーベキューじょう",
+    "meaning": "barbecue area",
+    "context": "cooking",
+    "frequencyRank": 66
+  },
+  {
+    "word": "ビール",
+    "reading": "ビール",
+    "meaning": "beer",
+    "context": "cooking",
+    "frequencyRank": 67
+  },
+  {
+    "word": "ピザ",
+    "reading": "ピザ",
+    "meaning": "pizza",
+    "context": "cooking",
+    "frequencyRank": 68
+  },
+  {
+    "word": "ピーナッツ",
+    "reading": "ピーナッツ",
+    "meaning": "peanuts",
+    "context": "cooking",
+    "frequencyRank": 69
+  },
+  {
+    "word": "含まれる",
+    "reading": "ふくまれる",
+    "meaning": "be included",
+    "context": "cooking",
+    "frequencyRank": 70
+  },
+  {
+    "word": "豚肉",
+    "reading": "ぶたにく",
+    "meaning": "pork",
+    "context": "cooking",
+    "frequencyRank": 71
+  },
+  {
+    "word": "保存方法",
+    "reading": "ほぞんほうほう",
+    "meaning": "how to store",
+    "context": "cooking",
+    "frequencyRank": 72
+  },
+  {
+    "word": "ホタテ",
+    "reading": "ホタテ",
+    "meaning": "scallop",
+    "context": "cooking",
+    "frequencyRank": 73
+  },
+  {
+    "word": "本品",
+    "reading": "ほんぴん",
+    "meaning": "this product",
+    "context": "cooking",
+    "frequencyRank": 74
+  },
+  {
+    "word": "名称",
+    "reading": "めいしょう",
+    "meaning": "name",
+    "context": "cooking",
+    "frequencyRank": 75
+  },
+  {
+    "word": "持って行く",
+    "reading": "もっていく",
+    "meaning": "to take (something with you)",
+    "context": "cooking",
+    "frequencyRank": 76
+  },
+  {
+    "word": "もつ",
+    "reading": "もつ",
+    "meaning": "to be good for",
+    "context": "cooking",
+    "frequencyRank": 77
+  },
+  {
+    "word": "焼きそば",
+    "reading": "やきそば",
+    "meaning": "yakisoba (fried noodles)",
+    "context": "cooking",
+    "frequencyRank": 78
+  },
+  {
+    "word": "焼き鳥",
+    "reading": "やきとり",
+    "meaning": "yakitori (grilled chicken)",
+    "context": "cooking",
+    "frequencyRank": 79
+  },
+  {
+    "word": "焼肉",
+    "reading": "やきにく",
+    "meaning": "yakiniku (Japanese grilled meat)",
+    "context": "cooking",
+    "frequencyRank": 80
+  },
+  {
+    "word": "焼く",
+    "reading": "やく",
+    "meaning": "to grill",
+    "context": "cooking",
+    "frequencyRank": 81
+  },
+  {
+    "word": "よかったら",
+    "reading": "よかったら",
+    "meaning": "if you’d like",
+    "context": "cooking",
+    "frequencyRank": 82
+  },
+  {
+    "word": "ヨーグルト",
+    "reading": "ヨーグルト",
+    "meaning": "yoghurt",
+    "context": "cooking",
+    "frequencyRank": 83
+  },
+  {
+    "word": "落花生",
+    "reading": "らっかせい",
+    "meaning": "peanuts",
+    "context": "cooking",
+    "frequencyRank": 84
+  },
+  {
+    "word": "両方",
+    "reading": "りょうほう",
+    "meaning": "both",
+    "context": "cooking",
+    "frequencyRank": 85
+  },
+  {
+    "word": "りんご",
+    "reading": "りんご",
+    "meaning": "apple",
+    "context": "cooking",
+    "frequencyRank": 86
+  },
+  {
+    "word": "レトルト",
+    "reading": "レトルト",
+    "meaning": "boil-in-the-bag",
+    "context": "cooking",
+    "frequencyRank": 87
+  },
+  {
+    "word": "ワイン",
+    "reading": "ワイン",
+    "meaning": "wine",
+    "context": "cooking",
+    "frequencyRank": 88
+  },
+  {
+    "word": "わりばし",
+    "reading": "わりばし",
+    "meaning": "disposable wooden chopsticks",
+    "context": "cooking",
+    "frequencyRank": 89
+  },
+  {
+    "word": "あける",
+    "reading": "あける",
+    "meaning": "to empty into / onto",
+    "context": "cooking",
+    "frequencyRank": 90
+  },
+  {
+    "word": "味",
+    "reading": "あじ",
+    "meaning": "taste / flavor",
+    "context": "cooking",
+    "frequencyRank": 91
+  },
+  {
+    "word": "甘い",
+    "reading": "あまい",
+    "meaning": "sweet",
+    "context": "cooking",
+    "frequencyRank": 92
+  },
+  {
+    "word": "いいにおい",
+    "reading": "いいにおい",
+    "meaning": "smells good",
+    "context": "cooking",
+    "frequencyRank": 93
+  },
+  {
+    "word": "入れる",
+    "reading": "いれる",
+    "meaning": "to put in",
+    "context": "cooking",
+    "frequencyRank": 94
+  },
+  {
+    "word": "うすい",
+    "reading": "うすい",
+    "meaning": "weak (e.g. weak flavor)",
+    "context": "cooking",
+    "frequencyRank": 95
+  },
+  {
+    "word": "内側",
+    "reading": "うちがわ",
+    "meaning": "on the inside",
+    "context": "cooking",
+    "frequencyRank": 96
+  },
+  {
+    "word": "梅干し",
+    "reading": "うめぼし",
+    "meaning": "umeboshi (pickled plum)",
+    "context": "cooking",
+    "frequencyRank": 97
+  },
+  {
+    "word": "お好み焼き",
+    "reading": "おこのみやき",
+    "meaning": "okonomiyaki (Japanese-style pancake)",
+    "context": "cooking",
+    "frequencyRank": 98
+  },
+  {
+    "word": "お腹がいっぱい",
+    "reading": "おなかがいっぱい",
+    "meaning": "full",
+    "context": "cooking",
+    "frequencyRank": 99
+  },
+  {
+    "word": "お弁当",
+    "reading": "おべんとう",
+    "meaning": "obento (lunch box)",
+    "context": "cooking",
+    "frequencyRank": 100
+  },
+  {
+    "word": "お湯",
+    "reading": "おゆ",
+    "meaning": "hot water",
+    "context": "cooking",
+    "frequencyRank": 101
+  },
+  {
+    "word": "かける",
+    "reading": "かける",
+    "meaning": "to sprinkle",
+    "context": "cooking",
+    "frequencyRank": 102
+  },
+  {
+    "word": "かやく",
+    "reading": "かやく",
+    "meaning": "condiment",
+    "context": "cooking",
+    "frequencyRank": 103
+  },
+  {
+    "word": "辛い",
+    "reading": "からい",
+    "meaning": "spicy / hot",
+    "context": "cooking",
+    "frequencyRank": 104
+  },
+  {
+    "word": "きのこ",
+    "reading": "きのこ",
+    "meaning": "mushroom",
+    "context": "cooking",
+    "frequencyRank": 105
+  },
+  {
+    "word": "銀杏",
+    "reading": "ぎんなん",
+    "meaning": "gingko nuts",
+    "context": "cooking",
+    "frequencyRank": 106
+  },
+  {
+    "word": "こい",
+    "reading": "こい",
+    "meaning": "strong (e.g. strong flavor)",
+    "context": "cooking",
+    "frequencyRank": 107
+  },
+  {
+    "word": "しょっぱい",
+    "reading": "しょっぱい",
+    "meaning": "salty",
+    "context": "cooking",
+    "frequencyRank": 108
+  },
+  {
+    "word": "すき焼き",
+    "reading": "すきやき",
+    "meaning": "sukiyaki (Japanese beef hot pot)",
+    "context": "cooking",
+    "frequencyRank": 109
+  },
+  {
+    "word": "すっぱい",
+    "reading": "すっぱい",
+    "meaning": "sour",
+    "context": "cooking",
+    "frequencyRank": 110
+  },
+  {
+    "word": "捨てる",
+    "reading": "すてる",
+    "meaning": "to discard",
+    "context": "cooking",
+    "frequencyRank": 111
+  },
+  {
+    "word": "スープ",
+    "reading": "スープ",
+    "meaning": "soup",
+    "context": "cooking",
+    "frequencyRank": 112
+  },
+  {
+    "word": "線",
+    "reading": "せん",
+    "meaning": "line",
+    "context": "cooking",
+    "frequencyRank": 113
+  },
+  {
+    "word": "注ぐ",
+    "reading": "そそぐ",
+    "meaning": "to pour",
+    "context": "cooking",
+    "frequencyRank": 114
+  },
+  {
+    "word": "そんなことない",
+    "reading": "そんなことない",
+    "meaning": "Actually, it isn’t.",
+    "context": "cooking",
+    "frequencyRank": 115
+  },
+  {
+    "word": "卵焼き",
+    "reading": "たまごやき",
+    "meaning": "tamago-yaki (rolled omelet)",
+    "context": "cooking",
+    "frequencyRank": 116
+  },
+  {
+    "word": "だし",
+    "reading": "だし",
+    "meaning": "dashi (Japanese soup stock)",
+    "context": "cooking",
+    "frequencyRank": 117
+  },
+  {
+    "word": "茶碗蒸し",
+    "reading": "ちゃわんむし",
+    "meaning": "steamed egg custard",
+    "context": "cooking",
+    "frequencyRank": 118
+  },
+  {
+    "word": "調理方法",
+    "reading": "ちょうりほうほう",
+    "meaning": "cooking instructions",
+    "context": "cooking",
+    "frequencyRank": 119
+  },
+  {
+    "word": "チョコレートバニラクリームラテ",
+    "reading": "チョコレートバニラクリームラテ",
+    "meaning": "chocolate vanilla cream latte",
+    "context": "cooking",
+    "frequencyRank": 120
+  },
+  {
+    "word": "できあがり",
+    "reading": "できあがり",
+    "meaning": "finished",
+    "context": "cooking",
+    "frequencyRank": 121
+  },
+  {
+    "word": "取り出す",
+    "reading": "とりだす",
+    "meaning": "to take out",
+    "context": "cooking",
+    "frequencyRank": 122
+  },
+  {
+    "word": "とれる",
+    "reading": "とれる",
+    "meaning": "to pick",
+    "context": "cooking",
+    "frequencyRank": 123
+  },
+  {
+    "word": "どんどん",
+    "reading": "どんどん",
+    "meaning": "more",
+    "context": "cooking",
+    "frequencyRank": 124
+  },
+  {
+    "word": "生",
+    "reading": "なま",
+    "meaning": "raw",
+    "context": "cooking",
+    "frequencyRank": 125
+  },
+  {
+    "word": "苦い",
+    "reading": "にがい",
+    "meaning": "bitter",
+    "context": "cooking",
+    "frequencyRank": 126
+  },
+  {
+    "word": "苦手",
+    "reading": "にがて",
+    "meaning": "dislike",
+    "context": "cooking",
+    "frequencyRank": 127
+  },
+  {
+    "word": "庭",
+    "reading": "にわ",
+    "meaning": "garden",
+    "context": "cooking",
+    "frequencyRank": 128
+  },
+  {
+    "word": "熱湯",
+    "reading": "ねっとう",
+    "meaning": "boiling water",
+    "context": "cooking",
+    "frequencyRank": 129
+  },
+  {
+    "word": "はがす",
+    "reading": "はがす",
+    "meaning": "to remove",
+    "context": "cooking",
+    "frequencyRank": 130
+  },
+  {
+    "word": "バインセオ",
+    "reading": "バインセオ",
+    "meaning": "banh xeo (Vietnamese stuffed savory",
+    "context": "cooking",
+    "frequencyRank": 131
+  },
+  {
+    "word": "フタ",
+    "reading": "フタ",
+    "meaning": "lid",
+    "context": "cooking",
+    "frequencyRank": 132
+  },
+  {
+    "word": "フタをする",
+    "reading": "フタをする",
+    "meaning": "to put the lid on",
+    "context": "cooking",
+    "frequencyRank": 133
+  },
+  {
+    "word": "ふりかけ",
+    "reading": "ふりかけ",
+    "meaning": "dried topping",
+    "context": "cooking",
+    "frequencyRank": 134
+  },
+  {
+    "word": "プリン",
+    "reading": "プリン",
+    "meaning": "pudding",
+    "context": "cooking",
+    "frequencyRank": 135
+  },
+  {
+    "word": "まあ",
+    "reading": "まあ",
+    "meaning": "well…",
+    "context": "cooking",
+    "frequencyRank": 136
+  },
+  {
+    "word": "まずい",
+    "reading": "まずい",
+    "meaning": "tastes bad",
+    "context": "cooking",
+    "frequencyRank": 137
+  },
+  {
+    "word": "混ぜる",
+    "reading": "まぜる",
+    "meaning": "to mix",
+    "context": "cooking",
+    "frequencyRank": 138
+  },
+  {
+    "word": "みかん",
+    "reading": "みかん",
+    "meaning": "orange",
+    "context": "cooking",
+    "frequencyRank": 139
+  },
+  {
+    "word": "めん",
+    "reading": "めん",
+    "meaning": "noodles",
+    "context": "cooking",
+    "frequencyRank": 140
+  },
+  {
+    "word": "もう1つ",
+    "reading": "もうひとつ",
+    "meaning": "another one",
+    "context": "cooking",
+    "frequencyRank": 141
+  },
+  {
+    "word": "湯切り口",
+    "reading": "ゆきりぐち",
+    "meaning": "drainage opening",
+    "context": "cooking",
+    "frequencyRank": 142
+  },
+  {
+    "word": "揚げる",
+    "reading": "あげる",
+    "meaning": "to deep-fry",
+    "context": "cooking",
+    "frequencyRank": 143
+  },
+  {
+    "word": "味がついている",
+    "reading": "あじがついている",
+    "meaning": "seasoned",
+    "context": "cooking",
+    "frequencyRank": 144
+  },
+  {
+    "word": "新しく",
+    "reading": "あたらしく",
+    "meaning": "newly",
+    "context": "cooking",
+    "frequencyRank": 145
+  },
+  {
+    "word": "油",
+    "reading": "あぶら",
+    "meaning": "oil",
+    "context": "cooking",
+    "frequencyRank": 146
+  },
+  {
+    "word": "甘辛い",
+    "reading": "あまからい",
+    "meaning": "sweet and spicy",
+    "context": "cooking",
+    "frequencyRank": 147
+  },
+  {
+    "word": "いためる",
+    "reading": "いためる",
+    "meaning": "to fry (stir-fry)",
+    "context": "cooking",
+    "frequencyRank": 148
+  },
+  {
+    "word": "一度に",
+    "reading": "いちどに",
+    "meaning": "at once",
+    "context": "cooking",
+    "frequencyRank": 149
+  },
+  {
+    "word": "送る",
+    "reading": "おくる",
+    "meaning": "to send",
+    "context": "cooking",
+    "frequencyRank": 150
+  },
+  {
+    "word": "おばちゃん",
+    "reading": "おばちゃん",
+    "meaning": "middle-aged woman",
+    "context": "cooking",
+    "frequencyRank": 151
+  },
+  {
+    "word": "おれ",
+    "reading": "おれ",
+    "meaning": "I (used by male speakers)",
+    "context": "cooking",
+    "frequencyRank": 152
+  },
+  {
+    "word": "固い",
+    "reading": "かたい",
+    "meaning": "hard",
+    "context": "cooking",
+    "frequencyRank": 153
+  },
+  {
+    "word": "家庭料理",
+    "reading": "かていりょうり",
+    "meaning": "home-cooked dish",
+    "context": "cooking",
+    "frequencyRank": 154
+  },
+  {
+    "word": "皮",
+    "reading": "かわ",
+    "meaning": "skin / wrapper",
+    "context": "cooking",
+    "frequencyRank": 155
+  },
+  {
+    "word": "看板",
+    "reading": "かんばん",
+    "meaning": "sign",
+    "context": "cooking",
+    "frequencyRank": 156
+  },
+  {
+    "word": "餃子",
+    "reading": "ぎょうざ",
+    "meaning": "stuffed dumpling (gyoza)",
+    "context": "cooking",
+    "frequencyRank": 157
+  },
+  {
+    "word": "切る",
+    "reading": "きる",
+    "meaning": "to cut",
+    "context": "cooking",
+    "frequencyRank": 158
+  },
+  {
+    "word": "こうやって",
+    "reading": "こうやって",
+    "meaning": "like this",
+    "context": "cooking",
+    "frequencyRank": 159
+  },
+  {
+    "word": "こしょう",
+    "reading": "こしょう",
+    "meaning": "pepper",
+    "context": "cooking",
+    "frequencyRank": 160
+  },
+  {
+    "word": "このあたり",
+    "reading": "このあたり",
+    "meaning": "near here",
+    "context": "cooking",
+    "frequencyRank": 161
+  },
+  {
+    "word": "この辺",
+    "reading": "このへん",
+    "meaning": "around here",
+    "context": "cooking",
+    "frequencyRank": 162
+  },
+  {
+    "word": "ごまだれ",
+    "reading": "ごまだれ",
+    "meaning": "sesame sauce",
+    "context": "cooking",
+    "frequencyRank": 163
+  },
+  {
+    "word": "砂糖",
+    "reading": "さとう",
+    "meaning": "sugar",
+    "context": "cooking",
+    "frequencyRank": 164
+  },
+  {
+    "word": "シュウマイ",
+    "reading": "シュウマイ",
+    "meaning": "shumai (steamed dumpling)",
+    "context": "cooking",
+    "frequencyRank": 165
+  },
+  {
+    "word": "商店街",
+    "reading": "しょうてんがい",
+    "meaning": "shopping district",
+    "context": "cooking",
+    "frequencyRank": 166
+  },
+  {
+    "word": "しょうゆ",
+    "reading": "しょうゆ",
+    "meaning": "soy sauce",
+    "context": "cooking",
+    "frequencyRank": 167
+  },
+  {
+    "word": "～ずつ",
+    "reading": "ずつ",
+    "meaning": "~ at a time",
+    "context": "cooking",
+    "frequencyRank": 168
+  },
+  {
+    "word": "スパイス",
+    "reading": "スパイス",
+    "meaning": "spice",
+    "context": "cooking",
+    "frequencyRank": 169
+  },
+  {
+    "word": "その他",
+    "reading": "そのた",
+    "meaning": "others",
+    "context": "cooking",
+    "frequencyRank": 170
+  },
+  {
+    "word": "そのまま",
+    "reading": "そのまま",
+    "meaning": "as is",
+    "context": "cooking",
+    "frequencyRank": 171
+  },
+  {
+    "word": "そんなに",
+    "reading": "そんなに",
+    "meaning": "so much",
+    "context": "cooking",
+    "frequencyRank": 172
+  },
+  {
+    "word": "地図",
+    "reading": "ちず",
+    "meaning": "map",
+    "context": "cooking",
+    "frequencyRank": 173
+  },
+  {
+    "word": "つける",
+    "reading": "つける",
+    "meaning": "to dip",
+    "context": "cooking",
+    "frequencyRank": 174
+  },
+  {
+    "word": "つゆ",
+    "reading": "つゆ",
+    "meaning": "dipping sauce",
+    "context": "cooking",
+    "frequencyRank": 175
+  },
+  {
+    "word": "定食屋",
+    "reading": "ていしょくや",
+    "meaning": "restaurant specializing in Japanese-style set meals",
+    "context": "cooking",
+    "frequencyRank": 176
+  },
+  {
+    "word": "できる",
+    "reading": "できる",
+    "meaning": "to open",
+    "context": "cooking",
+    "frequencyRank": 177
+  },
+  {
+    "word": "手巻きずし",
+    "reading": "てまきずし",
+    "meaning": "temaki-zushi (hand-rolled sushi)",
+    "context": "cooking",
+    "frequencyRank": 178
+  },
+  {
+    "word": "土地",
+    "reading": "とち",
+    "meaning": "local",
+    "context": "cooking",
+    "frequencyRank": 179
+  },
+  {
+    "word": "トマト",
+    "reading": "トマト",
+    "meaning": "tomato",
+    "context": "cooking",
+    "frequencyRank": 180
+  },
+  {
+    "word": "どれも",
+    "reading": "どれも",
+    "meaning": "any (of them)",
+    "context": "cooking",
+    "frequencyRank": 181
+  },
+  {
+    "word": "～など",
+    "reading": "など",
+    "meaning": "~ etc.",
+    "context": "cooking",
+    "frequencyRank": 182
+  },
+  {
+    "word": "煮る",
+    "reading": "にる",
+    "meaning": "to simmer / to stew",
+    "context": "cooking",
+    "frequencyRank": 183
+  },
+  {
+    "word": "のせる",
+    "reading": "のせる",
+    "meaning": "to put on top",
+    "context": "cooking",
+    "frequencyRank": 184
+  },
+  {
+    "word": "のり",
+    "reading": "のり",
+    "meaning": "seaweed (nori)",
+    "context": "cooking",
+    "frequencyRank": 185
+  },
+  {
+    "word": "白菜",
+    "reading": "はくさい",
+    "meaning": "Chinese cabbage",
+    "context": "cooking",
+    "frequencyRank": 186
+  },
+  {
+    "word": "夫婦",
+    "reading": "ふうふ",
+    "meaning": "married couple",
+    "context": "cooking",
+    "frequencyRank": 187
+  },
+  {
+    "word": "ボリューム",
+    "reading": "ボリューム",
+    "meaning": "amount (volume)",
+    "context": "cooking",
+    "frequencyRank": 188
+  },
+  {
+    "word": "ポン酢",
+    "reading": "ポンず",
+    "meaning": "ponzu vinegar",
+    "context": "cooking",
+    "frequencyRank": 189
+  },
+  {
+    "word": "本物",
+    "reading": "ほんもの",
+    "meaning": "real",
+    "context": "cooking",
+    "frequencyRank": 190
+  },
+  {
+    "word": "巻く",
+    "reading": "まく",
+    "meaning": "to roll",
+    "context": "cooking",
+    "frequencyRank": 191
+  },
+  {
+    "word": "混ぜそば",
+    "reading": "まぜそば",
+    "meaning": "mixed soba",
+    "context": "cooking",
+    "frequencyRank": 192
+  },
+  {
+    "word": "豆",
+    "reading": "まめ",
+    "meaning": "bean",
+    "context": "cooking",
+    "frequencyRank": 193
+  },
+  {
+    "word": "満足",
+    "reading": "まんぞく",
+    "meaning": "satisfactory",
+    "context": "cooking",
+    "frequencyRank": 194
+  },
+  {
+    "word": "むく",
+    "reading": "むく",
+    "meaning": "to peel",
+    "context": "cooking",
+    "frequencyRank": 195
+  },
+  {
+    "word": "蒸す",
+    "reading": "むす",
+    "meaning": "to steam",
+    "context": "cooking",
+    "frequencyRank": 196
+  },
+  {
+    "word": "～屋",
+    "reading": "や",
+    "meaning": "~ store / ~ restaurant",
+    "context": "cooking",
+    "frequencyRank": 197
+  },
+  {
+    "word": "焼きいも",
+    "reading": "やきいも",
+    "meaning": "yaki-imo (baked sweet potato)",
+    "context": "cooking",
+    "frequencyRank": 198
+  },
+  {
+    "word": "ゆで卵",
+    "reading": "ゆでたまご",
+    "meaning": "boiled egg",
+    "context": "cooking",
+    "frequencyRank": 199
+  },
+  {
+    "word": "ゆでる",
+    "reading": "ゆでる",
+    "meaning": "to boil",
+    "context": "cooking",
+    "frequencyRank": 200
+  },
+  {
+    "word": "リーズナブル",
+    "reading": "リーズナブル",
+    "meaning": "reasonable",
+    "context": "cooking",
+    "frequencyRank": 201
+  },
+  {
+    "word": "量",
+    "reading": "りょう",
+    "meaning": "amount",
+    "context": "cooking",
+    "frequencyRank": 202
+  },
+  {
+    "word": "お待たせしました",
+    "reading": "おまたせしました",
+    "meaning": "Thank you for waiting.",
+    "context": "cooking",
+    "frequencyRank": 203
+  },
+  {
+    "word": "知りませんでした",
+    "reading": "しりませんでした",
+    "meaning": "I did not know.",
+    "context": "cooking",
+    "frequencyRank": 204
+  }
+]

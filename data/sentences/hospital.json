@@ -756,10 +756,10 @@
     "context": "hospital"
   },
   {
-    "sentence": "進みが緩いときは、陣痛促進剤を使うこともあります。",
+    "sentence": "進みが遅いときは、陣痛促進剤を使うこともあります。",
     "target": "陣痛促進剤",
     "reading": "じんつうそくしんざい",
-    "fullReading": "すすみがゆるいときは、じんつうそくしんざいをつかうこともあります。",
+    "fullReading": "すすみがおそいときは、じんつうそくしんざいをつかうこともあります。",
     "meaning": "labor-inducing drug",
     "translation": "If labor is slow, we sometimes use medication to move things along.",
     "context": "hospital"
@@ -777,7 +777,7 @@
     "sentence": "母親教室では、新生児ケアの基本を学びます。",
     "target": "新生児ケア",
     "reading": "しんせいじけあ",
-    "fullReading": "ぼはんきょうしつでは、しんせいじけあのきほんをまなびます。",
+    "fullReading": "ははおやきょうしつでは、しんせいじけあのきほんをまなびます。",
     "meaning": "newborn care",
     "translation": "At the mothers' class, you learn the basics of newborn care.",
     "context": "hospital"
@@ -876,9 +876,99 @@
     "sentence": "ナースコールしたら、すぐ手当てに来てくれました。",
     "target": "手当て",
     "reading": "てあて",
-    "fullReading": "ナースコールしたら、すくてあてにきてくれました。",
+    "fullReading": "ナースコールしたら、すぐてあてにきてくれました。",
     "meaning": "first aid; treatment",
     "translation": "When I used the call button, someone came to treat me right away.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "救急で運ばれてきた患者を診察しました。",
+    "target": "救急",
+    "reading": "きゅうきゅう",
+    "fullReading": "きゅうきゅうではこばれてきたかんじゃをしんさつしました。",
+    "meaning": "emergency",
+    "translation": "I examined a patient who was rushed in as an emergency case.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "この病院には最新の医療機器がそろっています。",
+    "target": "医療機器",
+    "reading": "いりょうきき",
+    "fullReading": "このびょういんにはさいしんのいりょうききがそろっています。",
+    "meaning": "medical equipment",
+    "translation": "This hospital is equipped with the latest medical equipment.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "病院内感染を防ぐため、手洗いを徹底しています。",
+    "target": "病院内感染",
+    "reading": "びょういんないかんせん",
+    "fullReading": "びょういんないかんせんをふせぐため、てあらいをてっていしています。",
+    "meaning": "hospital-acquired infection",
+    "translation": "We thoroughly wash our hands to prevent hospital-acquired infections.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "この地域では救急医療が不足しています。",
+    "target": "救急医療",
+    "reading": "きゅうきゅういりょう",
+    "fullReading": "このちいきではきゅうきゅういりょうがふそくしています。",
+    "meaning": "emergency medical care",
+    "translation": "Emergency medical care is lacking in this area.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "医療ミスを防ぐために、確認作業を徹底しています。",
+    "target": "医療ミス",
+    "reading": "いりょうみす",
+    "fullReading": "いりょうミスをふせぐために、かくにんさぎょうをてっていしています。",
+    "meaning": "medical error",
+    "translation": "We thoroughly check our work to prevent medical errors.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "彼女は10年間、病院勤務を続けています。",
+    "target": "病院勤務",
+    "reading": "びょういんきんむ",
+    "fullReading": "かのじょはじゅうねんかん、びょういんきんむをつづけています。",
+    "meaning": "hospital work",
+    "translation": "She has continued working at the hospital for ten years.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "地方では医療従事者不足が深刻な問題です。",
+    "target": "医療従事者不足",
+    "reading": "いりょうじゅうじしゃぶそく",
+    "fullReading": "ちほうではいりょうじゅうじしゃぶそくがしんこくなもんだいです。",
+    "meaning": "shortage of healthcare workers",
+    "translation": "In rural areas, the shortage of healthcare workers is a serious problem.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "父は長年、病院経営に携わってきました。",
+    "target": "病院経営",
+    "reading": "びょういんけいえい",
+    "fullReading": "ちちはながねん、びょういんけいえいにたずさわってきました。",
+    "meaning": "hospital management",
+    "translation": "My father has been involved in hospital management for many years.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "地域の救急医療体制を強化する必要があります。",
+    "target": "救急医療体制",
+    "reading": "きゅうきゅういりょうたいせい",
+    "fullReading": "ちいきのきゅうきゅういりょうたいせいをきょうかするひつようがあります。",
+    "meaning": "emergency medical system",
+    "translation": "There is a need to strengthen the regional emergency medical system.",
+    "context": "hospital"
+  },
+  {
+    "sentence": "第三者機関による病院評価を受けました。",
+    "target": "病院評価",
+    "reading": "びょういんひょうか",
+    "fullReading": "だいさんしゃきかんによるびょういんひょうかをうけました。",
+    "meaning": "hospital evaluation",
+    "translation": "The hospital underwent an evaluation by a third-party organization.",
     "context": "hospital"
   }
 ]

@@ -72,10 +72,10 @@
     "context": "workplace"
   },
   {
-    "sentence": "妹は毎朝日本語学校に通います。",
-    "target": "通います",
-    "reading": "かよいます",
-    "fullReading": "いもうとはまいあさにほんごがっこうにかよいます。",
+    "sentence": "妹は毎朝日本語学校に通っています。",
+    "target": "通っています",
+    "reading": "かよっています",
+    "fullReading": "いもうとはまいあさにほんごがっこうにかよっています。",
     "meaning": "to go to (a place regularly); to attend",
     "translation": "My younger sister goes to a Japanese-language school every morning.",
     "context": "workplace"
@@ -84,7 +84,7 @@
     "sentence": "去年の九月に日本に来ました。",
     "target": "去年",
     "reading": "きょねん",
-    "fullReading": "きょねんのくがつのにほんにきました。",
+    "fullReading": "きょねんのくがつににほんにきました。",
     "meaning": "last year",
     "translation": "I came to Japan last September.",
     "context": "workplace"
@@ -192,7 +192,7 @@
     "sentence": "大学時代の友達とよく食事に行きます。",
     "target": "友達",
     "reading": "ともだち",
-    "fullReading": "だいがくじだいのともだとよくしょくじにいきます。",
+    "fullReading": "だいがくじだいのともだちとよくしょくじにいきます。",
     "meaning": "friend(s)",
     "translation": "I often go out to eat with friends from my university days.",
     "context": "workplace"
@@ -273,7 +273,7 @@
     "sentence": "先週の日曜日に日本に来ました。",
     "target": "先週",
     "reading": "せんしゅう",
-    "fullReading": "せんしゅうのにちようびにきました。",
+    "fullReading": "せんしゅうのにちようびににほんにきました。",
     "meaning": "last week",
     "translation": "I came to Japan last Sunday.",
     "context": "workplace"
@@ -445,7 +445,7 @@
     "sentence": "日常会話は大丈夫ですが、電話越しの言葉は聞き慣れません。",
     "target": "日常会話",
     "reading": "にちじょうかいわ",
-    "fullReading": "にちじょうかいわはだいじょうぶですが、でんわごしのことはばはききなれません。",
+    "fullReading": "にちじょうかいわはだいじょうぶですが、でんわごしのことばはききなれません。",
     "meaning": "daily conversation",
     "translation": "Everyday conversation is fine, but I am not used to speech over the phone."
   },
@@ -759,5 +759,68 @@
     "note": "reconstructed",
     "context": "workplace",
     "source": "irodori-l1"
+  },
+  {
+    "sentence": "毎日残業が続くと疲れる。",
+    "target": "疲れる",
+    "reading": "つかれる",
+    "fullReading": "まいにちざんぎょうがつづくとつかれる。",
+    "meaning": "to get tired; tiring",
+    "translation": "Working overtime every day makes me tired.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "毎朝バスで会社に通う。",
+    "target": "通う",
+    "reading": "かよう",
+    "fullReading": "まいあさバスでかいしゃにかよう。",
+    "meaning": "to go to (a place regularly); to attend",
+    "translation": "I commute to the office by bus every morning.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "兄は大手企業に勤める。",
+    "target": "勤める",
+    "reading": "つとめる",
+    "fullReading": "あにはおおてきぎょうにつとめる。",
+    "meaning": "to be employed (at)",
+    "translation": "My older brother is employed at a major company.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "彼は工場で機械を使って働く。",
+    "target": "働く",
+    "reading": "はたらく",
+    "fullReading": "かれはこうじょうできかいをつかってはたらく。",
+    "meaning": "to work; to labor",
+    "translation": "He works at the factory using machines.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "この工場では自動車の部品を作る。",
+    "target": "作る",
+    "reading": "つくる",
+    "fullReading": "このこうじょうではじどうしゃのぶひんをつくる。",
+    "meaning": "to make; to grow (crops)",
+    "translation": "This factory makes automobile parts.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "新しい仕事にも、じきに慣れる。",
+    "target": "慣れる",
+    "reading": "なれる",
+    "fullReading": "あたらしいしごとにも、じきになれる。",
+    "meaning": "to get used to",
+    "translation": "I'll get used to the new job before long.",
+    "context": "workplace"
+  },
+  {
+    "sentence": "会議の内容をふと思い出す。",
+    "target": "思い出す",
+    "reading": "おもいだす",
+    "fullReading": "かいぎのないようをふとおもいだす。",
+    "meaning": "to remember; to recall",
+    "translation": "I suddenly recall the content of the meeting.",
+    "context": "workplace"
   }
 ]

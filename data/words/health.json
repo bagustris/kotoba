@@ -1,0 +1,1339 @@
+[
+  {
+    "word": "間をあける",
+    "reading": "あいだをあける",
+    "meaning": "to take at a time interval",
+    "context": "health",
+    "frequencyRank": 1
+  },
+  {
+    "word": "会う",
+    "reading": "あう",
+    "meaning": "to meet",
+    "context": "health",
+    "frequencyRank": 2
+  },
+  {
+    "word": "足",
+    "reading": "あし",
+    "meaning": "leg / foot",
+    "context": "health",
+    "frequencyRank": 3
+  },
+  {
+    "word": "頭",
+    "reading": "あたま",
+    "meaning": "head",
+    "context": "health",
+    "frequencyRank": 4
+  },
+  {
+    "word": "胃",
+    "reading": "い",
+    "meaning": "stomach",
+    "context": "health",
+    "frequencyRank": 5
+  },
+  {
+    "word": "医者",
+    "reading": "いしゃ",
+    "meaning": "doctor",
+    "context": "health",
+    "frequencyRank": 6
+  },
+  {
+    "word": "痛い",
+    "reading": "いたい",
+    "meaning": "hurts",
+    "context": "health",
+    "frequencyRank": 7
+  },
+  {
+    "word": "痛み止め",
+    "reading": "いたみどめ",
+    "meaning": "painkiller",
+    "context": "health",
+    "frequencyRank": 8
+  },
+  {
+    "word": "今までに",
+    "reading": "いままでに",
+    "meaning": "up to now",
+    "context": "health",
+    "frequencyRank": 9
+  },
+  {
+    "word": "インフルエンザ",
+    "reading": "インフルエンザ",
+    "meaning": "influenzas",
+    "context": "health",
+    "frequencyRank": 10
+  },
+  {
+    "word": "運転する",
+    "reading": "うんてんする",
+    "meaning": "to drive",
+    "context": "health",
+    "frequencyRank": 11
+  },
+  {
+    "word": "A型",
+    "reading": "エーがた",
+    "meaning": "type A",
+    "context": "health",
+    "frequencyRank": 12
+  },
+  {
+    "word": "おかゆ",
+    "reading": "おかゆ",
+    "meaning": "rice porridge",
+    "context": "health",
+    "frequencyRank": 13
+  },
+  {
+    "word": "お答えください",
+    "reading": "おこたえください",
+    "meaning": "Please answer. (polite expression)",
+    "context": "health",
+    "frequencyRank": 14
+  },
+  {
+    "word": "抑える",
+    "reading": "おさえる",
+    "meaning": "to suppress",
+    "context": "health",
+    "frequencyRank": 15
+  },
+  {
+    "word": "大事に",
+    "reading": "おだいじに",
+    "meaning": "Take care.(used to express sympathy for a",
+    "context": "health",
+    "frequencyRank": 16
+  },
+  {
+    "word": "おととい",
+    "reading": "おととい",
+    "meaning": "the day before yesterday",
+    "context": "health",
+    "frequencyRank": 17
+  },
+  {
+    "word": "お腹",
+    "reading": "おなか",
+    "meaning": "stomach",
+    "context": "health",
+    "frequencyRank": 18
+  },
+  {
+    "word": "お持ちですか？",
+    "reading": "おもちですか？",
+    "meaning": "Do you have?",
+    "context": "health",
+    "frequencyRank": 19
+  },
+  {
+    "word": "花粉症",
+    "reading": "かふんしょう",
+    "meaning": "pollen allergy",
+    "context": "health",
+    "frequencyRank": 20
+  },
+  {
+    "word": "かゆい",
+    "reading": "かゆい",
+    "meaning": "itchy",
+    "context": "health",
+    "frequencyRank": 21
+  },
+  {
+    "word": "辛い",
+    "reading": "からい",
+    "meaning": "spicy / hot",
+    "context": "health",
+    "frequencyRank": 22
+  },
+  {
+    "word": "がまんする",
+    "reading": "がまんする",
+    "meaning": "to bear with / to tolerate",
+    "context": "health",
+    "frequencyRank": 23
+  },
+  {
+    "word": "がまんできない",
+    "reading": "がまんできない",
+    "meaning": "unbearable",
+    "context": "health",
+    "frequencyRank": 24
+  },
+  {
+    "word": "記入する",
+    "reading": "きにゅうする",
+    "meaning": "to fill out",
+    "context": "health",
+    "frequencyRank": 25
+  },
+  {
+    "word": "記入日",
+    "reading": "きにゅうび",
+    "meaning": "date filled in",
+    "context": "health",
+    "frequencyRank": 26
+  },
+  {
+    "word": "記入例",
+    "reading": "きにゅうれい",
+    "meaning": "entry example",
+    "context": "health",
+    "frequencyRank": 27
+  },
+  {
+    "word": "くしゃみ",
+    "reading": "くしゃみ",
+    "meaning": "sneezing",
+    "context": "health",
+    "frequencyRank": 28
+  },
+  {
+    "word": "くじく",
+    "reading": "くじく",
+    "meaning": "to twist",
+    "context": "health",
+    "frequencyRank": 29
+  },
+  {
+    "word": "薬",
+    "reading": "くすり",
+    "meaning": "medicine",
+    "context": "health",
+    "frequencyRank": 30
+  },
+  {
+    "word": "口",
+    "reading": "くち",
+    "meaning": "mouth",
+    "context": "health",
+    "frequencyRank": 31
+  },
+  {
+    "word": "検査する",
+    "reading": "けんさする",
+    "meaning": "to examine",
+    "context": "health",
+    "frequencyRank": 32
+  },
+  {
+    "word": "解熱剤",
+    "reading": "げねつざい",
+    "meaning": "fever reducer",
+    "context": "health",
+    "frequencyRank": 33
+  },
+  {
+    "word": "現在",
+    "reading": "げんざい",
+    "meaning": "currently",
+    "context": "health",
+    "frequencyRank": 34
+  },
+  {
+    "word": "こう",
+    "reading": "こう",
+    "meaning": "this",
+    "context": "health",
+    "frequencyRank": 35
+  },
+  {
+    "word": "効能",
+    "reading": "こうのう",
+    "meaning": "efficacy",
+    "context": "health",
+    "frequencyRank": 36
+  },
+  {
+    "word": "答える",
+    "reading": "こたえる",
+    "meaning": "to answer",
+    "context": "health",
+    "frequencyRank": 37
+  },
+  {
+    "word": "こっち",
+    "reading": "こっち",
+    "meaning": "this",
+    "context": "health",
+    "frequencyRank": 38
+  },
+  {
+    "word": "転ぶ",
+    "reading": "ころぶ",
+    "meaning": "to fall",
+    "context": "health",
+    "frequencyRank": 39
+  },
+  {
+    "word": "下がる",
+    "reading": "さがる",
+    "meaning": "to go down (e.g. fever goes down)",
+    "context": "health",
+    "frequencyRank": 40
+  },
+  {
+    "word": "下げる",
+    "reading": "さげる",
+    "meaning": "to reduce (e.g. reduce a fever)",
+    "context": "health",
+    "frequencyRank": 41
+  },
+  {
+    "word": "症状",
+    "reading": "しょうじょう",
+    "meaning": "symptom",
+    "context": "health",
+    "frequencyRank": 42
+  },
+  {
+    "word": "昭和／昭",
+    "reading": "しょうわ",
+    "meaning": "Showa / S (a Japanese era name)",
+    "context": "health",
+    "frequencyRank": 43
+  },
+  {
+    "word": "食後",
+    "reading": "しょくご",
+    "meaning": "after meals",
+    "context": "health",
+    "frequencyRank": 44
+  },
+  {
+    "word": "食欲",
+    "reading": "しょくよく",
+    "meaning": "appetite",
+    "context": "health",
+    "frequencyRank": 45
+  },
+  {
+    "word": "処方せん",
+    "reading": "しょほうせん",
+    "meaning": "prescription",
+    "context": "health",
+    "frequencyRank": 46
+  },
+  {
+    "word": "診察券",
+    "reading": "しんさつけん",
+    "meaning": "hospital / clinic registration card",
+    "context": "health",
+    "frequencyRank": 47
+  },
+  {
+    "word": "女性",
+    "reading": "じょせい",
+    "meaning": "female",
+    "context": "health",
+    "frequencyRank": 48
+  },
+  {
+    "word": "性別",
+    "reading": "せいべつ",
+    "meaning": "gender",
+    "context": "health",
+    "frequencyRank": 49
+  },
+  {
+    "word": "せき",
+    "reading": "せき",
+    "meaning": "cough",
+    "context": "health",
+    "frequencyRank": 50
+  },
+  {
+    "word": "説明書",
+    "reading": "せつめいしょ",
+    "meaning": "instructions",
+    "context": "health",
+    "frequencyRank": 51
+  },
+  {
+    "word": "それと",
+    "reading": "それと",
+    "meaning": "and",
+    "context": "health",
+    "frequencyRank": 52
+  },
+  {
+    "word": "大正／大",
+    "reading": "たいしょう",
+    "meaning": "Taisho / T (a Japanese era name)",
+    "context": "health",
+    "frequencyRank": 53
+  },
+  {
+    "word": "注意事項",
+    "reading": "ちゅういじこう",
+    "meaning": "warning",
+    "context": "health",
+    "frequencyRank": 54
+  },
+  {
+    "word": "つらい",
+    "reading": "つらい",
+    "meaning": "feel awful / discomfort",
+    "context": "health",
+    "frequencyRank": 55
+  },
+  {
+    "word": "出る",
+    "reading": "でる",
+    "meaning": "to have (a cough / runny nose)",
+    "context": "health",
+    "frequencyRank": 56
+  },
+  {
+    "word": "どうされましたか？",
+    "reading": "どうされましたか？",
+    "meaning": "What’s wrong?",
+    "context": "health",
+    "frequencyRank": 57
+  },
+  {
+    "word": "どうしましたか？",
+    "reading": "どうしましたか？",
+    "meaning": "What’s wrong?",
+    "context": "health",
+    "frequencyRank": 58
+  },
+  {
+    "word": "妊娠する",
+    "reading": "にんしんする",
+    "meaning": "to get pregnant",
+    "context": "health",
+    "frequencyRank": 59
+  },
+  {
+    "word": "熱",
+    "reading": "ねつ",
+    "meaning": "fever",
+    "context": "health",
+    "frequencyRank": 60
+  },
+  {
+    "word": "熱が高い",
+    "reading": "ねつがたかい",
+    "meaning": "high fever",
+    "context": "health",
+    "frequencyRank": 61
+  },
+  {
+    "word": "眠い",
+    "reading": "ねむい",
+    "meaning": "sleepy",
+    "context": "health",
+    "frequencyRank": 62
+  },
+  {
+    "word": "寝る前／寝前",
+    "reading": "ねるまえ",
+    "meaning": "before sleeping / before sleep",
+    "context": "health",
+    "frequencyRank": 63
+  },
+  {
+    "word": "のど",
+    "reading": "のど",
+    "meaning": "throat",
+    "context": "health",
+    "frequencyRank": 64
+  },
+  {
+    "word": "飲む",
+    "reading": "のむ",
+    "meaning": "to take (e.g. take medicine)",
+    "context": "health",
+    "frequencyRank": 65
+  },
+  {
+    "word": "吐き気",
+    "reading": "はきけ",
+    "meaning": "nausea",
+    "context": "health",
+    "frequencyRank": 66
+  },
+  {
+    "word": "吐き気がする",
+    "reading": "はきけがする",
+    "meaning": "to have a nausea",
+    "context": "health",
+    "frequencyRank": 67
+  },
+  {
+    "word": "鼻水",
+    "reading": "はなみず",
+    "meaning": "runny nose",
+    "context": "health",
+    "frequencyRank": 68
+  },
+  {
+    "word": "病気",
+    "reading": "びょうき",
+    "meaning": "illness",
+    "context": "health",
+    "frequencyRank": 69
+  },
+  {
+    "word": "病気にかかる",
+    "reading": "びょうきにかかる",
+    "meaning": "to get sick",
+    "context": "health",
+    "frequencyRank": 70
+  },
+  {
+    "word": "病名",
+    "reading": "びょうめい",
+    "meaning": "name of illness",
+    "context": "health",
+    "frequencyRank": 71
+  },
+  {
+    "word": "フリガナ",
+    "reading": "フリガナ",
+    "meaning": "reading in katakana",
+    "context": "health",
+    "frequencyRank": 72
+  },
+  {
+    "word": "ぶつける",
+    "reading": "ぶつける",
+    "meaning": "to bump",
+    "context": "health",
+    "frequencyRank": 73
+  },
+  {
+    "word": "平成／平",
+    "reading": "へいせい",
+    "meaning": "Heisei / H (a Japanese era name)",
+    "context": "health",
+    "frequencyRank": 74
+  },
+  {
+    "word": "保険証",
+    "reading": "ほけんしょう",
+    "meaning": "health insurance card",
+    "context": "health",
+    "frequencyRank": 75
+  },
+  {
+    "word": "毎食後",
+    "reading": "まいしょくご",
+    "meaning": "after each meal",
+    "context": "health",
+    "frequencyRank": 76
+  },
+  {
+    "word": "守る",
+    "reading": "まもる",
+    "meaning": "to protect",
+    "context": "health",
+    "frequencyRank": 77
+  },
+  {
+    "word": "目",
+    "reading": "め",
+    "meaning": "eye",
+    "context": "health",
+    "frequencyRank": 78
+  },
+  {
+    "word": "もらう",
+    "reading": "もらう",
+    "meaning": "to receive",
+    "context": "health",
+    "frequencyRank": 79
+  },
+  {
+    "word": "問診票",
+    "reading": "もんしんひょう",
+    "meaning": "questionnaire",
+    "context": "health",
+    "frequencyRank": 80
+  },
+  {
+    "word": "薬局",
+    "reading": "やっきょく",
+    "meaning": "pharmacy",
+    "context": "health",
+    "frequencyRank": 81
+  },
+  {
+    "word": "やわらかい",
+    "reading": "やわらかい",
+    "meaning": "soft",
+    "context": "health",
+    "frequencyRank": 82
+  },
+  {
+    "word": "夕方／夕",
+    "reading": "ゆうがた",
+    "meaning": "early evening",
+    "context": "health",
+    "frequencyRank": 83
+  },
+  {
+    "word": "夕食後",
+    "reading": "ゆうしょくご",
+    "meaning": "after dinner",
+    "context": "health",
+    "frequencyRank": 84
+  },
+  {
+    "word": "用法",
+    "reading": "ようほう",
+    "meaning": "for use",
+    "context": "health",
+    "frequencyRank": 85
+  },
+  {
+    "word": "用量",
+    "reading": "ようりょう",
+    "meaning": "dosage",
+    "context": "health",
+    "frequencyRank": 86
+  },
+  {
+    "word": "令和／令",
+    "reading": "れいわ",
+    "meaning": "Reiwa / R (a Japanese era name)",
+    "context": "health",
+    "frequencyRank": 87
+  },
+  {
+    "word": "レントゲン",
+    "reading": "レントゲン",
+    "meaning": "X-ray",
+    "context": "health",
+    "frequencyRank": 88
+  },
+  {
+    "word": "～日分",
+    "reading": "～にちぶん",
+    "meaning": "for ～ days (e.g. for 5 days)",
+    "context": "health",
+    "frequencyRank": 89
+  },
+  {
+    "word": "～の方",
+    "reading": "～のかた",
+    "meaning": "person (polite expression) (e.g. women)",
+    "context": "health",
+    "frequencyRank": 90
+  },
+  {
+    "word": "つく",
+    "reading": "つく",
+    "meaning": "to stick (e.g. virus sticks)",
+    "context": "health",
+    "frequencyRank": 91
+  },
+  {
+    "word": "温かい",
+    "reading": "あたたかい",
+    "meaning": "warm",
+    "context": "health",
+    "frequencyRank": 92
+  },
+  {
+    "word": "温める",
+    "reading": "あたためる",
+    "meaning": "to warm up",
+    "context": "health",
+    "frequencyRank": 93
+  },
+  {
+    "word": "洗う",
+    "reading": "あらう",
+    "meaning": "to wash",
+    "context": "health",
+    "frequencyRank": 94
+  },
+  {
+    "word": "歩く",
+    "reading": "あるく",
+    "meaning": "to walk",
+    "context": "health",
+    "frequencyRank": 95
+  },
+  {
+    "word": "痛み",
+    "reading": "いたみ",
+    "meaning": "pain",
+    "context": "health",
+    "frequencyRank": 96
+  },
+  {
+    "word": "ウイルス",
+    "reading": "ウイルス",
+    "meaning": "virus",
+    "context": "health",
+    "frequencyRank": 97
+  },
+  {
+    "word": "ウォーキングする",
+    "reading": "ウォーキングする",
+    "meaning": "to go for a walk",
+    "context": "health",
+    "frequencyRank": 98
+  },
+  {
+    "word": "うがい",
+    "reading": "うがい",
+    "meaning": "gargling",
+    "context": "health",
+    "frequencyRank": 99
+  },
+  {
+    "word": "受付中",
+    "reading": "うけつけちゅう",
+    "meaning": "currently accepting",
+    "context": "health",
+    "frequencyRank": 100
+  },
+  {
+    "word": "受ける",
+    "reading": "うける",
+    "meaning": "to receive",
+    "context": "health",
+    "frequencyRank": 101
+  },
+  {
+    "word": "うつす",
+    "reading": "うつす",
+    "meaning": "to pass on",
+    "context": "health",
+    "frequencyRank": 102
+  },
+  {
+    "word": "腕",
+    "reading": "うで",
+    "meaning": "arm",
+    "context": "health",
+    "frequencyRank": 103
+  },
+  {
+    "word": "運動",
+    "reading": "うんどう",
+    "meaning": "exercise",
+    "context": "health",
+    "frequencyRank": 104
+  },
+  {
+    "word": "おう吐",
+    "reading": "おうと",
+    "meaning": "vomiting",
+    "context": "health",
+    "frequencyRank": 105
+  },
+  {
+    "word": "起きる",
+    "reading": "おきる",
+    "meaning": "to wake up",
+    "context": "health",
+    "frequencyRank": 106
+  },
+  {
+    "word": "起こす",
+    "reading": "おこす",
+    "meaning": "to cause",
+    "context": "health",
+    "frequencyRank": 107
+  },
+  {
+    "word": "汚染された",
+    "reading": "おせんされた",
+    "meaning": "contaminated",
+    "context": "health",
+    "frequencyRank": 108
+  },
+  {
+    "word": "お風呂に入る",
+    "reading": "おふろにはいる",
+    "meaning": "to take a bath",
+    "context": "health",
+    "frequencyRank": 109
+  },
+  {
+    "word": "泳ぐ",
+    "reading": "およぐ",
+    "meaning": "to swim",
+    "context": "health",
+    "frequencyRank": 110
+  },
+  {
+    "word": "貝",
+    "reading": "かい",
+    "meaning": "shell",
+    "context": "health",
+    "frequencyRank": 111
+  },
+  {
+    "word": "顔",
+    "reading": "かお",
+    "meaning": "face",
+    "context": "health",
+    "frequencyRank": 112
+  },
+  {
+    "word": "カキ",
+    "reading": "カキ",
+    "meaning": "oyster",
+    "context": "health",
+    "frequencyRank": 113
+  },
+  {
+    "word": "肩",
+    "reading": "かた",
+    "meaning": "shoulders",
+    "context": "health",
+    "frequencyRank": 114
+  },
+  {
+    "word": "肩がこる",
+    "reading": "かたがこる",
+    "meaning": "to have stiff shoulders",
+    "context": "health",
+    "frequencyRank": 115
+  },
+  {
+    "word": "体",
+    "reading": "からだ",
+    "meaning": "body",
+    "context": "health",
+    "frequencyRank": 116
+  },
+  {
+    "word": "関節痛",
+    "reading": "かんせつつう",
+    "meaning": "joint pain",
+    "context": "health",
+    "frequencyRank": 117
+  },
+  {
+    "word": "感染する",
+    "reading": "かんせんする",
+    "meaning": "to get infected",
+    "context": "health",
+    "frequencyRank": 118
+  },
+  {
+    "word": "外出先",
+    "reading": "がいしゅつさき",
+    "meaning": "outside",
+    "context": "health",
+    "frequencyRank": 119
+  },
+  {
+    "word": "帰宅する",
+    "reading": "きたくする",
+    "meaning": "to go home",
+    "context": "health",
+    "frequencyRank": 120
+  },
+  {
+    "word": "気持ち",
+    "reading": "きもち",
+    "meaning": "feeling",
+    "context": "health",
+    "frequencyRank": 121
+  },
+  {
+    "word": "急増",
+    "reading": "きゅうぞう",
+    "meaning": "rapid increase",
+    "context": "health",
+    "frequencyRank": 122
+  },
+  {
+    "word": "気をつける",
+    "reading": "きをつける",
+    "meaning": "to be mindful",
+    "context": "health",
+    "frequencyRank": 123
+  },
+  {
+    "word": "首",
+    "reading": "くび",
+    "meaning": "neck",
+    "context": "health",
+    "frequencyRank": 124
+  },
+  {
+    "word": "クリニック",
+    "reading": "クリニック",
+    "meaning": "clinic",
+    "context": "health",
+    "frequencyRank": 125
+  },
+  {
+    "word": "けっこう",
+    "reading": "けっこう",
+    "meaning": "quite",
+    "context": "health",
+    "frequencyRank": 126
+  },
+  {
+    "word": "健康",
+    "reading": "けんこう",
+    "meaning": "health",
+    "context": "health",
+    "frequencyRank": 127
+  },
+  {
+    "word": "県内",
+    "reading": "けんない",
+    "meaning": "within the prefecture",
+    "context": "health",
+    "frequencyRank": 128
+  },
+  {
+    "word": "下痢",
+    "reading": "げり",
+    "meaning": "diarrhea",
+    "context": "health",
+    "frequencyRank": 129
+  },
+  {
+    "word": "原因",
+    "reading": "げんいん",
+    "meaning": "cause",
+    "context": "health",
+    "frequencyRank": 130
+  },
+  {
+    "word": "腰",
+    "reading": "こし",
+    "meaning": "lower back",
+    "context": "health",
+    "frequencyRank": 131
+  },
+  {
+    "word": "こまめに",
+    "reading": "こまめに",
+    "meaning": "frequently",
+    "context": "health",
+    "frequencyRank": 132
+  },
+  {
+    "word": "最近",
+    "reading": "さいきん",
+    "meaning": "recently",
+    "context": "health",
+    "frequencyRank": 133
+  },
+  {
+    "word": "しっかりと",
+    "reading": "しっかりと",
+    "meaning": "properly",
+    "context": "health",
+    "frequencyRank": 134
+  },
+  {
+    "word": "食事前",
+    "reading": "しょくじまえ",
+    "meaning": "before meals",
+    "context": "health",
+    "frequencyRank": 135
+  },
+  {
+    "word": "食生活",
+    "reading": "しょくせいかつ",
+    "meaning": "eating habits",
+    "context": "health",
+    "frequencyRank": 136
+  },
+  {
+    "word": "食中毒",
+    "reading": "しょくちゅうどく",
+    "meaning": "food poisoning",
+    "context": "health",
+    "frequencyRank": 137
+  },
+  {
+    "word": "ジム",
+    "reading": "ジム",
+    "meaning": "gym",
+    "context": "health",
+    "frequencyRank": 138
+  },
+  {
+    "word": "十分",
+    "reading": "じゅうぶん",
+    "meaning": "enough / sufficient",
+    "context": "health",
+    "frequencyRank": 139
+  },
+  {
+    "word": "十分に",
+    "reading": "じゅうぶんに",
+    "meaning": "sufficiently",
+    "context": "health",
+    "frequencyRank": 140
+  },
+  {
+    "word": "ジョギングする",
+    "reading": "ジョギングする",
+    "meaning": "to go jogging",
+    "context": "health",
+    "frequencyRank": 141
+  },
+  {
+    "word": "睡眠",
+    "reading": "すいみん",
+    "meaning": "sleep",
+    "context": "health",
+    "frequencyRank": 142
+  },
+  {
+    "word": "背中",
+    "reading": "せなか",
+    "meaning": "back",
+    "context": "health",
+    "frequencyRank": 143
+  },
+  {
+    "word": "前後",
+    "reading": "ぜんご",
+    "meaning": "before and after",
+    "context": "health",
+    "frequencyRank": 144
+  },
+  {
+    "word": "全身",
+    "reading": "ぜんしん",
+    "meaning": "whole body",
+    "context": "health",
+    "frequencyRank": 145
+  },
+  {
+    "word": "それはいけませんね",
+    "reading": "それはいけませんね",
+    "meaning": "That is not good.",
+    "context": "health",
+    "frequencyRank": 146
+  },
+  {
+    "word": "大切",
+    "reading": "たいせつ",
+    "meaning": "important",
+    "context": "health",
+    "frequencyRank": 147
+  },
+  {
+    "word": "食べすぎる",
+    "reading": "たべすぎる",
+    "meaning": "to eat too much",
+    "context": "health",
+    "frequencyRank": 148
+  },
+  {
+    "word": "試す",
+    "reading": "ためす",
+    "meaning": "to try",
+    "context": "health",
+    "frequencyRank": 149
+  },
+  {
+    "word": "ダイエットする",
+    "reading": "ダイエットする",
+    "meaning": "to go on a diet",
+    "context": "health",
+    "frequencyRank": 150
+  },
+  {
+    "word": "だいたい",
+    "reading": "だいたい",
+    "meaning": "about / around",
+    "context": "health",
+    "frequencyRank": 151
+  },
+  {
+    "word": "だるい",
+    "reading": "だるい",
+    "meaning": "feel tired and listless",
+    "context": "health",
+    "frequencyRank": 152
+  },
+  {
+    "word": "だるさ",
+    "reading": "だるさ",
+    "meaning": "sense of fatigue",
+    "context": "health",
+    "frequencyRank": 153
+  },
+  {
+    "word": "チキンサラダ",
+    "reading": "チキンサラダ",
+    "meaning": "chicken salad",
+    "context": "health",
+    "frequencyRank": 154
+  },
+  {
+    "word": "中心部",
+    "reading": "ちゅうしんぶ",
+    "meaning": "the center",
+    "context": "health",
+    "frequencyRank": 155
+  },
+  {
+    "word": "調子が悪い",
+    "reading": "ちょうしがわるい",
+    "meaning": "feel unwell",
+    "context": "health",
+    "frequencyRank": 156
+  },
+  {
+    "word": "疲れている",
+    "reading": "つかれている",
+    "meaning": "tired",
+    "context": "health",
+    "frequencyRank": 157
+  },
+  {
+    "word": "手",
+    "reading": "て",
+    "meaning": "hand",
+    "context": "health",
+    "frequencyRank": 158
+  },
+  {
+    "word": "手洗い",
+    "reading": "てあらい",
+    "meaning": "hand washing",
+    "context": "health",
+    "frequencyRank": 159
+  },
+  {
+    "word": "トマトジュース",
+    "reading": "トマトジュース",
+    "meaning": "tomato juice",
+    "context": "health",
+    "frequencyRank": 160
+  },
+  {
+    "word": "どうしたら",
+    "reading": "どうしたら",
+    "meaning": "how",
+    "context": "health",
+    "frequencyRank": 161
+  },
+  {
+    "word": "どうしていますか？",
+    "reading": "どうしていますか？",
+    "meaning": "How do you deal with it?",
+    "context": "health",
+    "frequencyRank": 162
+  },
+  {
+    "word": "なるほど",
+    "reading": "なるほど",
+    "meaning": "I see.",
+    "context": "health",
+    "frequencyRank": 163
+  },
+  {
+    "word": "ぬるい",
+    "reading": "ぬるい",
+    "meaning": "warm",
+    "context": "health",
+    "frequencyRank": 164
+  },
+  {
+    "word": "寝不足",
+    "reading": "ねぶそく",
+    "meaning": "lack of sleep",
+    "context": "health",
+    "frequencyRank": 165
+  },
+  {
+    "word": "眠れない",
+    "reading": "ねむれない",
+    "meaning": "can’t sleep",
+    "context": "health",
+    "frequencyRank": 166
+  },
+  {
+    "word": "飲みすぎる",
+    "reading": "のみすぎる",
+    "meaning": "to drink too much",
+    "context": "health",
+    "frequencyRank": 167
+  },
+  {
+    "word": "ノロウイルス",
+    "reading": "ノロウイルス",
+    "meaning": "norovirus",
+    "context": "health",
+    "frequencyRank": 168
+  },
+  {
+    "word": "歯",
+    "reading": "は",
+    "meaning": "tooth",
+    "context": "health",
+    "frequencyRank": 169
+  },
+  {
+    "word": "走る",
+    "reading": "はしる",
+    "meaning": "to run",
+    "context": "health",
+    "frequencyRank": 170
+  },
+  {
+    "word": "発生する",
+    "reading": "はっせいする",
+    "meaning": "to occur",
+    "context": "health",
+    "frequencyRank": 171
+  },
+  {
+    "word": "発熱",
+    "reading": "はつねつ",
+    "meaning": "fever",
+    "context": "health",
+    "frequencyRank": 172
+  },
+  {
+    "word": "鼻",
+    "reading": "はな",
+    "meaning": "nose",
+    "context": "health",
+    "frequencyRank": 173
+  },
+  {
+    "word": "早く",
+    "reading": "はやく",
+    "meaning": "early",
+    "context": "health",
+    "frequencyRank": 174
+  },
+  {
+    "word": "増える",
+    "reading": "ふえる",
+    "meaning": "to spread",
+    "context": "health",
+    "frequencyRank": 175
+  },
+  {
+    "word": "腹痛",
+    "reading": "ふくつう",
+    "meaning": "abdominal pain",
+    "context": "health",
+    "frequencyRank": 176
+  },
+  {
+    "word": "二日酔い",
+    "reading": "ふつかよい",
+    "meaning": "hangover",
+    "context": "health",
+    "frequencyRank": 177
+  },
+  {
+    "word": "プール",
+    "reading": "プール",
+    "meaning": "swimming pool",
+    "context": "health",
+    "frequencyRank": 178
+  },
+  {
+    "word": "ポイント",
+    "reading": "ポイント",
+    "meaning": "key point",
+    "context": "health",
+    "frequencyRank": 179
+  },
+  {
+    "word": "マスク",
+    "reading": "マスク",
+    "meaning": "mask",
+    "context": "health",
+    "frequencyRank": 180
+  },
+  {
+    "word": "マッサージする",
+    "reading": "マッサージする",
+    "meaning": "to massage",
+    "context": "health",
+    "frequencyRank": 181
+  },
+  {
+    "word": "耳",
+    "reading": "みみ",
+    "meaning": "ear",
+    "context": "health",
+    "frequencyRank": 182
+  },
+  {
+    "word": "胸",
+    "reading": "むね",
+    "meaning": "breast",
+    "context": "health",
+    "frequencyRank": 183
+  },
+  {
+    "word": "指",
+    "reading": "ゆび",
+    "meaning": "finger / toe",
+    "context": "health",
+    "frequencyRank": 184
+  },
+  {
+    "word": "ヨガ",
+    "reading": "ヨガ",
+    "meaning": "yoga",
+    "context": "health",
+    "frequencyRank": 185
+  },
+  {
+    "word": "予防する",
+    "reading": "よぼうする",
+    "meaning": "to prevent",
+    "context": "health",
+    "frequencyRank": 186
+  },
+  {
+    "word": "予防接種",
+    "reading": "よぼうせっしゅ",
+    "meaning": "vaccination",
+    "context": "health",
+    "frequencyRank": 187
+  },
+  {
+    "word": "予防法",
+    "reading": "よぼうほう",
+    "meaning": "prevention method",
+    "context": "health",
+    "frequencyRank": 188
+  },
+  {
+    "word": "予約",
+    "reading": "よやく",
+    "meaning": "booking",
+    "context": "health",
+    "frequencyRank": 189
+  },
+  {
+    "word": "流行する",
+    "reading": "りゅうこうする",
+    "meaning": "to be prevalent",
+    "context": "health",
+    "frequencyRank": 190
+  },
+  {
+    "word": "話題",
+    "reading": "わだい",
+    "meaning": "topic",
+    "context": "health",
+    "frequencyRank": 191
+  }
+]

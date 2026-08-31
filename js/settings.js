@@ -4,9 +4,9 @@
 
 const SettingsManager = (() => {
   const STORAGE_KEY = 'kotoba-settings';
-  // showHint toggles the secondary text under the quiz prompt: the meaning
-  // in Reading mode, the reading in Meaning mode (see README "Modes" — both
-  // are togglable). Fill-in-the-blank never shows it.
+  // showHint toggles the secondary help: the meaning in Reading mode, the
+  // reading in Meaning mode, and the full-sentence translation in
+  // Fill-in-the-blank mode (see README "Modes").
   // furigana defaults to true: it's the master switch for reading annotations
   // (ruby) over kanji — the meaning-mode hint furigana and the post-answer
   // reveal furigana over the target word. Off means no ruby anywhere (spoken
@@ -18,8 +18,11 @@ const SettingsManager = (() => {
   // answer/furigana. playAudio defaults to false (spoken readings off); turning
   // it on speaks the word's reading. It stays a real boolean here (audioEnabled()
   // in app.js still treats a legacy `null` from earlier versions as "never
-  // chosen").
-  const DEFAULTS = { showHint: true, furigana: true, roundSize: 10, autoNext: true, playAudio: false };
+  // chosen"). showExamples defaults to true: for Word-only scope in Reading and
+  // Meaning mode, reveals an existing example sentence (from data/sentences/)
+  // that uses the word, once the question is answered (see renderExamples in
+  // app.js).
+  const DEFAULTS = { showHint: true, furigana: true, roundSize: 10, autoNext: true, playAudio: false, showExamples: true };
 
   function load() {
     try {

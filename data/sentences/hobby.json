@@ -252,7 +252,7 @@
     "context": "hobby"
   },
   {
-    "sentence": "今晚のカレーは本当においしいですね。",
+    "sentence": "今晩のカレーは本当においしいですね。",
     "target": "おいしい",
     "reading": "おいしい",
     "fullReading": "こんばんのカレーはほんとうにおいしいですね。",
@@ -264,7 +264,7 @@
     "sentence": "喫茶店で友達とおしゃべりをしました。",
     "target": "おしゃべり",
     "reading": "おしゃべり",
-    "fullReading": "きっさてんでともだとおしゃべりをしました。",
+    "fullReading": "きっさてんでともだちとおしゃべりをしました。",
     "meaning": "chatting",
     "translation": "I chatted with friends at a cafe.",
     "context": "hobby"
@@ -553,7 +553,7 @@
     "sentence": "冬の時期は、日の出の時間が遅いですね。",
     "target": "遅い",
     "reading": "おそい",
-    "fullReading": "ふゆのじきは、ひでのじかんがおそいですね。",
+    "fullReading": "ふゆのじきは、ひのでのじかんがおそいですね。",
     "meaning": "slow",
     "translation": "In winter, sunrise comes late, does it not."
   },
@@ -580,7 +580,7 @@
     "sentence": "姉は車の整備が得意で、家の車はいつも彼女が点検しています。",
     "target": "得意",
     "reading": "とくい",
-    "fullReading": "あねはくるまのせいびがとくいで、いえのくるまはいつもかのじてんけんしています。",
+    "fullReading": "あねはくるまのせいびがとくいで、いえのくるまはいつもかのじょがてんけんしています。",
     "meaning": "good at (something)",
     "translation": "My older sister is good at car maintenance and always checks ours herself."
   },
@@ -782,8 +782,8 @@
   {
     "sentence": "私は人と話すのが大好きです。",
     "target": "話す",
-    "reading": "はす",
-    "fullReading": "わたしはひととはすのがだいすきです。",
+    "reading": "はなす",
+    "fullReading": "わたしはひととはなすのがだいすきです。",
     "meaning": "to talk; to speak",
     "translation": "I love talking to people.",
     "note": "reconstructed",
@@ -822,5 +822,32 @@
     "context": "hobby",
     "source": "irodori-l2",
     "note": "reconstructed"
+  },
+  {
+    "sentence": "休日は昼まで寝る。",
+    "target": "寝る",
+    "reading": "ねる",
+    "fullReading": "きゅうじつはひるまでねる。",
+    "meaning": "to sleep",
+    "translation": "On my day off, I sleep until noon.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "週末にギターを習う。",
+    "target": "習う",
+    "reading": "ならう",
+    "fullReading": "しゅうまつにギターをならう。",
+    "meaning": "to learn",
+    "translation": "I take guitar lessons on weekends.",
+    "context": "hobby"
+  },
+  {
+    "sentence": "英語のニュースを聞き取るのは難しい。",
+    "target": "聞き取る",
+    "reading": "ききとる",
+    "fullReading": "えいごのニュースをききとるのはむずかしい。",
+    "meaning": "to hear and understand",
+    "translation": "It's difficult to catch English news by ear.",
+    "context": "hobby"
   }
 ]

@@ -9,7 +9,69 @@ The version shown in the app's Settings → About panel is read from the latest
 entry below (see `loadAppVersion()` in `js/app.js`), so this file is the single
 source of truth for the app version.
 
-## [Unreleased]
+## [2026.08.29]
+
+### Added
+- New Settings toggle "Show example sentence after answering" (on by default):
+  for Word-only scope in Reading and Meaning mode, reveals an existing
+  sentence from the context's `data/sentences/` that uses the word, once the
+  question is answered — reusing data already in the app rather than writing
+  new example sentences.
+- New IRODORI contexts, built from the bundled Lesson 5–18 word pages with
+  their distinct authentic example sentences and provenance: 私の町 "My Town"
+  (`neighborhood`, Lessons 5–6; 99 words / 73 sentences), 一緒に出かける
+  "Going Out Together" (`outings`, 7–8; 78 / 59), 日本語学習 "Japanese Study"
+  (`japanese-study`, 9–10; 125 / 91), 料理 "Cooking" (`cooking`, 11–12; 142 /
+  101), 仕事の連絡 "Work Communication" (`work-communication`, 13–14; 147 /
+  95), 健康な生活 "Healthy Living" (`health`, 15–16; 191 / 129), and 交際
+  "Social Relationships" (`relationships`, 17–18; 126 / 115).
+- The 天気 "Weather & Seasons" context now includes IRODORI Lesson 4's 34
+  vocabulary entries and 27 unique example sentences, tagged
+  `source: "irodori-l4"` with their official English glosses.
+
+### Changed
+- Tapping a revealed example sentence now reads it aloud (its whole-sentence
+  kana reading), like tapping the quizzed word — an explicit tap works
+  regardless of the 読み上げ auto-speak setting, and only needs a Web Speech
+  voice. A small speaker mark appears on each sentence when audio is available.
+- With auto-advance off, only tapping つづける (or Enter/Space/→) now moves to
+  the next question — tapping elsewhere no longer advances. Tapping the
+  revealed word/sentence instead replays its reading aloud, regardless of the
+  読み上げ auto-speak setting.
+
+### Fixed
+- Word-scope example sentences are now HTML-escaped before rendering, so a
+  sentence containing markup (e.g. `<`, `&`) displays as text instead of being
+  parsed as HTML; a word's example list is also capped at two sentences with a
+  "+N more" line (日本語 matched 26), keeping the panel readable within the
+  reveal timing.
+- Corrected OCR-corrupted sentences across several contexts (a `/(ラル`→`ハラル`
+  misread in a cooking halal sentence, a garbled Japanese-study pronunciation
+  sentence, work-communication copy/leave-day sentences, health sick-visit and
+  二日酔い lines, `こここに`→`ここに` form entries, and a few relationships
+  karaoke/お茶/Tシャツ lines) and removed 36 redundant/duplicate sentences
+  (mostly `A:`/`B:`-prefixed dialog copies), so the same sentence no longer
+  appears twice in one round.
+- Context progress now uses each fetched dataset's actual item count instead
+  of assuming every context has 15 questions, preventing expanded contexts
+  such as 天気 from appearing complete prematurely.
+- Audited all sentence drills and corrected a malformed Japanese sentence plus
+  fill-in-the-blank readings that omitted or mistranscribed sentence text.
+- Returning home after a round now refreshes the per-context progress list as
+  well as the overall dashboard, so completed-round results appear without a
+  browser refresh.
+- Fill-in-the-blank now shows its full-sentence English translation whenever
+  the hint setting is enabled, without revealing the missing word.
+- The workplace school-attendance sentence now uses the natural ongoing form
+  `通っています`, so its fill-in-the-blank answer is a complete conjugation.
+
+## [1.1.0] - 2026-08-28
+
+### Added
+- New context 天気 "Weather & Seasons" (`weather`), based on IRODORI Lesson 3
+  (`resources/lesson3-words-en.pdf`, The Japan Foundation). It contains all
+  40 listed vocabulary entries and 28 unique source example sentences, with
+  `source: "irodori-l3"` provenance and official English glosses.
 
 ### Added
 - New context 職場 "At Work" (`workplace`), whose vocabulary is extracted from

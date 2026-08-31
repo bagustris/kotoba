@@ -1,0 +1,884 @@
+[
+  {
+    "word": "上がる",
+    "reading": "あがる",
+    "meaning": "to come in",
+    "context": "relationships",
+    "frequencyRank": 1
+  },
+  {
+    "word": "足をくずす",
+    "reading": "あしをくずす",
+    "meaning": "to sit at ease",
+    "context": "relationships",
+    "frequencyRank": 2
+  },
+  {
+    "word": "遊びに来る",
+    "reading": "あそびにくる",
+    "meaning": "to come see me",
+    "context": "relationships",
+    "frequencyRank": 3
+  },
+  {
+    "word": "いいでしょう？",
+    "reading": "いいでしょう？",
+    "meaning": "Isn’t it nice?",
+    "context": "relationships",
+    "frequencyRank": 4
+  },
+  {
+    "word": "いらっしゃい",
+    "reading": "いらっしゃい",
+    "meaning": "Welcome. / Come in.",
+    "context": "relationships",
+    "frequencyRank": 5
+  },
+  {
+    "word": "うちの",
+    "reading": "うちの",
+    "meaning": "my",
+    "context": "relationships",
+    "frequencyRank": 6
+  },
+  {
+    "word": "絵葉書",
+    "reading": "えはがき",
+    "meaning": "picture postcard",
+    "context": "relationships",
+    "frequencyRank": 7
+  },
+  {
+    "word": "奥さん",
+    "reading": "おくさん",
+    "meaning": "wife",
+    "context": "relationships",
+    "frequencyRank": 8
+  },
+  {
+    "word": "おしゃれ",
+    "reading": "おしゃれ",
+    "meaning": "stylish",
+    "context": "relationships",
+    "frequencyRank": 9
+  },
+  {
+    "word": "おじゃましました",
+    "reading": "おじゃましました",
+    "meaning": "Sorry for having disturbed you.",
+    "context": "relationships",
+    "frequencyRank": 10
+  },
+  {
+    "word": "おじゃまします",
+    "reading": "おじゃまします",
+    "meaning": "Excuse me for disturbing you.",
+    "context": "relationships",
+    "frequencyRank": 11
+  },
+  {
+    "word": "おじゃまする",
+    "reading": "おじゃまする",
+    "meaning": "to visit",
+    "context": "relationships",
+    "frequencyRank": 12
+  },
+  {
+    "word": "お世話になっています",
+    "reading": "おせわになっています",
+    "meaning": "Thank you for everything you do.",
+    "context": "relationships",
+    "frequencyRank": 13
+  },
+  {
+    "word": "お宅",
+    "reading": "おたく",
+    "meaning": "home",
+    "context": "relationships",
+    "frequencyRank": 14
+  },
+  {
+    "word": "お茶",
+    "reading": "おちゃ",
+    "meaning": "Japanese tea",
+    "context": "relationships",
+    "frequencyRank": 15
+  },
+  {
+    "word": "お守り",
+    "reading": "おまもり",
+    "meaning": "amulet",
+    "context": "relationships",
+    "frequencyRank": 16
+  },
+  {
+    "word": "お土産",
+    "reading": "おみやげ",
+    "meaning": "souvenir",
+    "context": "relationships",
+    "frequencyRank": 17
+  },
+  {
+    "word": "かける",
+    "reading": "かける",
+    "meaning": "to hang on (e.g. hang on a wall)",
+    "context": "relationships",
+    "frequencyRank": 18
+  },
+  {
+    "word": "飾り",
+    "reading": "かざり",
+    "meaning": "decoration",
+    "context": "relationships",
+    "frequencyRank": 19
+  },
+  {
+    "word": "カップ",
+    "reading": "カップ",
+    "meaning": "cup",
+    "context": "relationships",
+    "frequencyRank": 20
+  },
+  {
+    "word": "かばん",
+    "reading": "かばん",
+    "meaning": "bag",
+    "context": "relationships",
+    "frequencyRank": 21
+  },
+  {
+    "word": "壁",
+    "reading": "かべ",
+    "meaning": "wall",
+    "context": "relationships",
+    "frequencyRank": 22
+  },
+  {
+    "word": "カンボジア",
+    "reading": "カンボジア",
+    "meaning": "Cambodia",
+    "context": "relationships",
+    "frequencyRank": 23
+  },
+  {
+    "word": "キーホルダー",
+    "reading": "キーホルダー",
+    "meaning": "key holder",
+    "context": "relationships",
+    "frequencyRank": 24
+  },
+  {
+    "word": "くれる",
+    "reading": "くれる",
+    "meaning": "to be given",
+    "context": "relationships",
+    "frequencyRank": 25
+  },
+  {
+    "word": "経験",
+    "reading": "けいけん",
+    "meaning": "experience",
+    "context": "relationships",
+    "frequencyRank": 26
+  },
+  {
+    "word": "こちらこそ",
+    "reading": "こちらこそ",
+    "meaning": "Same here.",
+    "context": "relationships",
+    "frequencyRank": 27
+  },
+  {
+    "word": "米／お米",
+    "reading": "こめ",
+    "meaning": "rice",
+    "context": "relationships",
+    "frequencyRank": 28
+  },
+  {
+    "word": "コーヒー",
+    "reading": "コーヒー",
+    "meaning": "coffee",
+    "context": "relationships",
+    "frequencyRank": 29
+  },
+  {
+    "word": "ごちそうさまでした",
+    "reading": "ごちそうさまでした",
+    "meaning": "Thank you for the meal.",
+    "context": "relationships",
+    "frequencyRank": 30
+  },
+  {
+    "word": "ごめんください",
+    "reading": "ごめんください",
+    "meaning": "Hello. / May I come in?",
+    "context": "relationships",
+    "frequencyRank": 31
+  },
+  {
+    "word": "写真集",
+    "reading": "しゃしんしゅう",
+    "meaning": "photo album / collection",
+    "context": "relationships",
+    "frequencyRank": 32
+  },
+  {
+    "word": "すてき",
+    "reading": "すてき",
+    "meaning": "nice",
+    "context": "relationships",
+    "frequencyRank": 33
+  },
+  {
+    "word": "スラーソー",
+    "reading": "スラーソー",
+    "meaning": "sra sor (Cambodian alcohol)",
+    "context": "relationships",
+    "frequencyRank": 34
+  },
+  {
+    "word": "タイ",
+    "reading": "タイ",
+    "meaning": "Thailand",
+    "context": "relationships",
+    "frequencyRank": 35
+  },
+  {
+    "word": "誕生日",
+    "reading": "たんじょうび",
+    "meaning": "birthday",
+    "context": "relationships",
+    "frequencyRank": 36
+  },
+  {
+    "word": "調味料",
+    "reading": "ちょうみりょう",
+    "meaning": "seasoning",
+    "context": "relationships",
+    "frequencyRank": 37
+  },
+  {
+    "word": "強い",
+    "reading": "つよい",
+    "meaning": "strong",
+    "context": "relationships",
+    "frequencyRank": 38
+  },
+  {
+    "word": "トゥロン",
+    "reading": "トゥロン",
+    "meaning": "turon (Filipino confectionary)",
+    "context": "relationships",
+    "frequencyRank": 39
+  },
+  {
+    "word": "ナンプラー",
+    "reading": "ナンプラー",
+    "meaning": "nam pla (Thai seasoning)",
+    "context": "relationships",
+    "frequencyRank": 40
+  },
+  {
+    "word": "人形",
+    "reading": "にんぎょう",
+    "meaning": "doll",
+    "context": "relationships",
+    "frequencyRank": 41
+  },
+  {
+    "word": "ネパール",
+    "reading": "ネパール",
+    "meaning": "Nepal",
+    "context": "relationships",
+    "frequencyRank": 42
+  },
+  {
+    "word": "入って来る",
+    "reading": "はいってくる",
+    "meaning": "to come in",
+    "context": "relationships",
+    "frequencyRank": 43
+  },
+  {
+    "word": "バッグ",
+    "reading": "バッグ",
+    "meaning": "bag",
+    "context": "relationships",
+    "frequencyRank": 44
+  },
+  {
+    "word": "バリ",
+    "reading": "バリ",
+    "meaning": "Bali",
+    "context": "relationships",
+    "frequencyRank": 45
+  },
+  {
+    "word": "ピアス",
+    "reading": "ピアス",
+    "meaning": "earrings",
+    "context": "relationships",
+    "frequencyRank": 46
+  },
+  {
+    "word": "フィリピン",
+    "reading": "フィリピン",
+    "meaning": "the Philippines",
+    "context": "relationships",
+    "frequencyRank": 47
+  },
+  {
+    "word": "プレゼント",
+    "reading": "プレゼント",
+    "meaning": "present",
+    "context": "relationships",
+    "frequencyRank": 48
+  },
+  {
+    "word": "ペン",
+    "reading": "ペン",
+    "meaning": "pen",
+    "context": "relationships",
+    "frequencyRank": 49
+  },
+  {
+    "word": "帽子",
+    "reading": "ぼうし",
+    "meaning": "hat / cap",
+    "context": "relationships",
+    "frequencyRank": 50
+  },
+  {
+    "word": "マグカップ",
+    "reading": "マグカップ",
+    "meaning": "mug",
+    "context": "relationships",
+    "frequencyRank": 51
+  },
+  {
+    "word": "魔よけ",
+    "reading": "まよけ",
+    "meaning": "talisman",
+    "context": "relationships",
+    "frequencyRank": 52
+  },
+  {
+    "word": "息子",
+    "reading": "むすこ",
+    "meaning": "son",
+    "context": "relationships",
+    "frequencyRank": 53
+  },
+  {
+    "word": "もらう",
+    "reading": "もらう",
+    "meaning": "to receive",
+    "context": "relationships",
+    "frequencyRank": 54
+  },
+  {
+    "word": "ようこそ",
+    "reading": "ようこそ",
+    "meaning": "Welcome.",
+    "context": "relationships",
+    "frequencyRank": 55
+  },
+  {
+    "word": "よろしくお伝えください",
+    "reading": "よろしくおつたえください",
+    "meaning": "Please say hello.",
+    "context": "relationships",
+    "frequencyRank": 56
+  },
+  {
+    "word": "楽にする",
+    "reading": "らくにする",
+    "meaning": "to make yourself at home",
+    "context": "relationships",
+    "frequencyRank": 57
+  },
+  {
+    "word": "両親",
+    "reading": "りょうしん",
+    "meaning": "parents",
+    "context": "relationships",
+    "frequencyRank": 58
+  },
+  {
+    "word": "悪い",
+    "reading": "わるい",
+    "meaning": "bad / evil",
+    "context": "relationships",
+    "frequencyRank": 59
+  },
+  {
+    "word": "～といいます",
+    "reading": "～といいます",
+    "meaning": "be called ～",
+    "context": "relationships",
+    "frequencyRank": 60
+  },
+  {
+    "word": "おめでとう",
+    "reading": "おめでとう",
+    "meaning": "Congratulations.",
+    "context": "relationships",
+    "frequencyRank": 61
+  },
+  {
+    "word": "あいさつ",
+    "reading": "あいさつ",
+    "meaning": "speech",
+    "context": "relationships",
+    "frequencyRank": 62
+  },
+  {
+    "word": "相手",
+    "reading": "あいて",
+    "meaning": "spouse",
+    "context": "relationships",
+    "frequencyRank": 63
+  },
+  {
+    "word": "アクセサリー",
+    "reading": "アクセサリー",
+    "meaning": "accessory",
+    "context": "relationships",
+    "frequencyRank": 64
+  },
+  {
+    "word": "あげる",
+    "reading": "あげる",
+    "meaning": "to give",
+    "context": "relationships",
+    "frequencyRank": 65
+  },
+  {
+    "word": "あたたかい",
+    "reading": "あたたかい",
+    "meaning": "warm / kind",
+    "context": "relationships",
+    "frequencyRank": 66
+  },
+  {
+    "word": "いつまでも",
+    "reading": "いつまでも",
+    "meaning": "for many years to come",
+    "context": "relationships",
+    "frequencyRank": 67
+  },
+  {
+    "word": "いなくなる",
+    "reading": "いなくなる",
+    "meaning": "to leave",
+    "context": "relationships",
+    "frequencyRank": 68
+  },
+  {
+    "word": "歌う",
+    "reading": "うたう",
+    "meaning": "to sing",
+    "context": "relationships",
+    "frequencyRank": 69
+  },
+  {
+    "word": "生まれる",
+    "reading": "うまれる",
+    "meaning": "to be born",
+    "context": "relationships",
+    "frequencyRank": 70
+  },
+  {
+    "word": "うれしい",
+    "reading": "うれしい",
+    "meaning": "glad",
+    "context": "relationships",
+    "frequencyRank": 71
+  },
+  {
+    "word": "選ぶ",
+    "reading": "えらぶ",
+    "meaning": "to choose",
+    "context": "relationships",
+    "frequencyRank": 72
+  },
+  {
+    "word": "お祝い",
+    "reading": "おいわい",
+    "meaning": "gift",
+    "context": "relationships",
+    "frequencyRank": 73
+  },
+  {
+    "word": "お元気で",
+    "reading": "おげんきで",
+    "meaning": "Take care.",
+    "context": "relationships",
+    "frequencyRank": 74
+  },
+  {
+    "word": "お幸せに",
+    "reading": "おしあわせに",
+    "meaning": "Wish you all the happiness.",
+    "context": "relationships",
+    "frequencyRank": 75
+  },
+  {
+    "word": "お世話になりました",
+    "reading": "おせわになりました",
+    "meaning": "Thank you for everything you have done for",
+    "context": "relationships",
+    "frequencyRank": 76
+  },
+  {
+    "word": "男の子",
+    "reading": "おとこのこ",
+    "meaning": "boy",
+    "context": "relationships",
+    "frequencyRank": 77
+  },
+  {
+    "word": "踊る",
+    "reading": "おどる",
+    "meaning": "to dance",
+    "context": "relationships",
+    "frequencyRank": 78
+  },
+  {
+    "word": "思い出",
+    "reading": "おもいで",
+    "meaning": "memories",
+    "context": "relationships",
+    "frequencyRank": 79
+  },
+  {
+    "word": "思う",
+    "reading": "おもう",
+    "meaning": "to think",
+    "context": "relationships",
+    "frequencyRank": 80
+  },
+  {
+    "word": "女の子",
+    "reading": "おんなのこ",
+    "meaning": "girl",
+    "context": "relationships",
+    "frequencyRank": 81
+  },
+  {
+    "word": "飾る",
+    "reading": "かざる",
+    "meaning": "to display",
+    "context": "relationships",
+    "frequencyRank": 82
+  },
+  {
+    "word": "活躍",
+    "reading": "かつやく",
+    "meaning": "success",
+    "context": "relationships",
+    "frequencyRank": 83
+  },
+  {
+    "word": "家庭",
+    "reading": "かてい",
+    "meaning": "home / household",
+    "context": "relationships",
+    "frequencyRank": 84
+  },
+  {
+    "word": "カラオケ",
+    "reading": "カラオケ",
+    "meaning": "karaoke",
+    "context": "relationships",
+    "frequencyRank": 85
+  },
+  {
+    "word": "考える",
+    "reading": "かんがえる",
+    "meaning": "to think",
+    "context": "relationships",
+    "frequencyRank": 86
+  },
+  {
+    "word": "乾杯",
+    "reading": "かんぱい",
+    "meaning": "Cheers.",
+    "context": "relationships",
+    "frequencyRank": 87
+  },
+  {
+    "word": "がんばってください",
+    "reading": "がんばってください",
+    "meaning": "Good luck.",
+    "context": "relationships",
+    "frequencyRank": 88
+  },
+  {
+    "word": "築く",
+    "reading": "きずく",
+    "meaning": "to create / to build",
+    "context": "relationships",
+    "frequencyRank": 89
+  },
+  {
+    "word": "期待する",
+    "reading": "きたいする",
+    "meaning": "to expect / to hope for",
+    "context": "relationships",
+    "frequencyRank": 90
+  },
+  {
+    "word": "きっと",
+    "reading": "きっと",
+    "meaning": "surely",
+    "context": "relationships",
+    "frequencyRank": 91
+  },
+  {
+    "word": "決める",
+    "reading": "きめる",
+    "meaning": "to decide",
+    "context": "relationships",
+    "frequencyRank": 92
+  },
+  {
+    "word": "ギフトカード",
+    "reading": "ギフトカード",
+    "meaning": "gift card",
+    "context": "relationships",
+    "frequencyRank": 93
+  },
+  {
+    "word": "ケーキ",
+    "reading": "ケーキ",
+    "meaning": "cake",
+    "context": "relationships",
+    "frequencyRank": 94
+  },
+  {
+    "word": "お元気でいてください",
+    "reading": "げんきでいてください",
+    "meaning": "Please take care of yourself.",
+    "context": "relationships",
+    "frequencyRank": 95
+  },
+  {
+    "word": "これまで",
+    "reading": "これまで",
+    "meaning": "up until now",
+    "context": "relationships",
+    "frequencyRank": 96
+  },
+  {
+    "word": "ごちそうする",
+    "reading": "ごちそうする",
+    "meaning": "to treat a meal",
+    "context": "relationships",
+    "frequencyRank": 97
+  },
+  {
+    "word": "さびしい",
+    "reading": "さびしい",
+    "meaning": "be missed",
+    "context": "relationships",
+    "frequencyRank": 98
+  },
+  {
+    "word": "参加者",
+    "reading": "さんかしゃ",
+    "meaning": "participants",
+    "context": "relationships",
+    "frequencyRank": 99
+  },
+  {
+    "word": "サービス",
+    "reading": "サービス",
+    "meaning": "service",
+    "context": "relationships",
+    "frequencyRank": 100
+  },
+  {
+    "word": "幸せ",
+    "reading": "しあわせ",
+    "meaning": "happy",
+    "context": "relationships",
+    "frequencyRank": 101
+  },
+  {
+    "word": "出産",
+    "reading": "しゅっさん",
+    "meaning": "childbirth",
+    "context": "relationships",
+    "frequencyRank": 102
+  },
+  {
+    "word": "末永く",
+    "reading": "すえながく",
+    "meaning": "forever",
+    "context": "relationships",
+    "frequencyRank": 103
+  },
+  {
+    "word": "素敵",
+    "reading": "すてき",
+    "meaning": "wonderful",
+    "context": "relationships",
+    "frequencyRank": 104
+  },
+  {
+    "word": "送別会",
+    "reading": "そうべつかい",
+    "meaning": "farewell party",
+    "context": "relationships",
+    "frequencyRank": 105
+  },
+  {
+    "word": "それでは",
+    "reading": "それでは",
+    "meaning": "now",
+    "context": "relationships",
+    "frequencyRank": 106
+  },
+  {
+    "word": "それなら",
+    "reading": "それなら",
+    "meaning": "if so",
+    "context": "relationships",
+    "frequencyRank": 107
+  },
+  {
+    "word": "大切にする",
+    "reading": "たいせつにする",
+    "meaning": "to take good care",
+    "context": "relationships",
+    "frequencyRank": 108
+  },
+  {
+    "word": "楽しみですね",
+    "reading": "たのしみですね",
+    "meaning": "That sounds exciting.",
+    "context": "relationships",
+    "frequencyRank": 109
+  },
+  {
+    "word": "デジタルフォトフレーム",
+    "reading": "デジタルフォトフレーム",
+    "meaning": "digital photo frame",
+    "context": "relationships",
+    "frequencyRank": 110
+  },
+  {
+    "word": "とうとう",
+    "reading": "とうとう",
+    "meaning": "finally",
+    "context": "relationships",
+    "frequencyRank": 111
+  },
+  {
+    "word": "時計",
+    "reading": "とけい",
+    "meaning": "watch",
+    "context": "relationships",
+    "frequencyRank": 112
+  },
+  {
+    "word": "友だちができる",
+    "reading": "ともだちができる",
+    "meaning": "to make friends",
+    "context": "relationships",
+    "frequencyRank": 113
+  },
+  {
+    "word": "ネクタイ",
+    "reading": "ネクタイ",
+    "meaning": "necktie",
+    "context": "relationships",
+    "frequencyRank": 114
+  },
+  {
+    "word": "残る",
+    "reading": "のこる",
+    "meaning": "to stay",
+    "context": "relationships",
+    "frequencyRank": 115
+  },
+  {
+    "word": "はじめ",
+    "reading": "はじめ",
+    "meaning": "at first",
+    "context": "relationships",
+    "frequencyRank": 116
+  },
+  {
+    "word": "ハンカチ",
+    "reading": "ハンカチ",
+    "meaning": "handkerchief",
+    "context": "relationships",
+    "frequencyRank": 117
+  },
+  {
+    "word": "フォトフレーム",
+    "reading": "フォトフレーム",
+    "meaning": "photo frame",
+    "context": "relationships",
+    "frequencyRank": 118
+  },
+  {
+    "word": "メッセージ",
+    "reading": "メッセージ",
+    "meaning": "message",
+    "context": "relationships",
+    "frequencyRank": 119
+  },
+  {
+    "word": "予算",
+    "reading": "よさん",
+    "meaning": "budget",
+    "context": "relationships",
+    "frequencyRank": 120
+  },
+  {
+    "word": "呼ぶ",
+    "reading": "よぶ",
+    "meaning": "to call",
+    "context": "relationships",
+    "frequencyRank": 121
+  },
+  {
+    "word": "予約する",
+    "reading": "よやくする",
+    "meaning": "to make a reservation",
+    "context": "relationships",
+    "frequencyRank": 122
+  },
+  {
+    "word": "忘れる",
+    "reading": "わすれる",
+    "meaning": "to forget",
+    "context": "relationships",
+    "frequencyRank": 123
+  },
+  {
+    "word": "私たち",
+    "reading": "わたしたち",
+    "meaning": "we",
+    "context": "relationships",
+    "frequencyRank": 124
+  },
+  {
+    "word": "～のこと",
+    "reading": "～のこと",
+    "meaning": "about ～ (e.g. about me)",
+    "context": "relationships",
+    "frequencyRank": 125
+  },
+  {
+    "word": "～ますように",
+    "reading": "～ますように",
+    "meaning": "I hope ～ . (used when expressing a wish)",
+    "context": "relationships",
+    "frequencyRank": 126
+  }
+]

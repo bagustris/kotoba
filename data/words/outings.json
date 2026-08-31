@@ -1,0 +1,2564 @@
+[
+  {
+    "word": "案内する",
+    "reading": "あんないする",
+    "meaning": "to show / to guide",
+    "context": "outings",
+    "frequencyRank": 1
+  },
+  {
+    "word": "急ぐ",
+    "reading": "いそぐ",
+    "meaning": "to hurry",
+    "context": "outings",
+    "frequencyRank": 2
+  },
+  {
+    "word": "イベント",
+    "reading": "イベント",
+    "meaning": "event",
+    "context": "outings",
+    "frequencyRank": 3
+  },
+  {
+    "word": "今から",
+    "reading": "いまから",
+    "meaning": "from now on",
+    "context": "outings",
+    "frequencyRank": 4
+  },
+  {
+    "word": "受付",
+    "reading": "うけつけ",
+    "meaning": "reception",
+    "context": "outings",
+    "frequencyRank": 5
+  },
+  {
+    "word": "駅",
+    "reading": "えき",
+    "meaning": "train station",
+    "context": "outings",
+    "frequencyRank": 6
+  },
+  {
+    "word": "遅れる",
+    "reading": "おくれる",
+    "meaning": "to be late",
+    "context": "outings",
+    "frequencyRank": 7
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "meaning": "company",
+    "context": "outings",
+    "frequencyRank": 8
+  },
+  {
+    "word": "カフェ",
+    "reading": "カフェ",
+    "meaning": "café",
+    "context": "outings",
+    "frequencyRank": 9
+  },
+  {
+    "word": "先に",
+    "reading": "さきに",
+    "meaning": "before",
+    "context": "outings",
+    "frequencyRank": 10
+  },
+  {
+    "word": "時間",
+    "reading": "じかん",
+    "meaning": "time",
+    "context": "outings",
+    "frequencyRank": 11
+  },
+  {
+    "word": "事故",
+    "reading": "じこ",
+    "meaning": "accident",
+    "context": "outings",
+    "frequencyRank": 12
+  },
+  {
+    "word": "スタッフ",
+    "reading": "スタッフ",
+    "meaning": "staff",
+    "context": "outings",
+    "frequencyRank": 13
+  },
+  {
+    "word": "それ、何ですか？",
+    "reading": "それ、なんですか？",
+    "meaning": "What’s that? (used to ask again what the",
+    "context": "outings",
+    "frequencyRank": 14
+  },
+  {
+    "word": "像",
+    "reading": "ぞう",
+    "meaning": "statue",
+    "context": "outings",
+    "frequencyRank": 15
+  },
+  {
+    "word": "大丈夫",
+    "reading": "だいじょうぶ",
+    "meaning": "fine / OK",
+    "context": "outings",
+    "frequencyRank": 16
+  },
+  {
+    "word": "着く",
+    "reading": "つく",
+    "meaning": "to arrive",
+    "context": "outings",
+    "frequencyRank": 17
+  },
+  {
+    "word": "では",
+    "reading": "では",
+    "meaning": "so",
+    "context": "outings",
+    "frequencyRank": 18
+  },
+  {
+    "word": "止まる",
+    "reading": "とまる",
+    "meaning": "to stop",
+    "context": "outings",
+    "frequencyRank": 19
+  },
+  {
+    "word": "鳥",
+    "reading": "とり",
+    "meaning": "bird",
+    "context": "outings",
+    "frequencyRank": 20
+  },
+  {
+    "word": "ねぼうする",
+    "reading": "ねぼうする",
+    "meaning": "to oversleep",
+    "context": "outings",
+    "frequencyRank": 21
+  },
+  {
+    "word": "始まる",
+    "reading": "はじまる",
+    "meaning": "to start",
+    "context": "outings",
+    "frequencyRank": 22
+  },
+  {
+    "word": "始める",
+    "reading": "はじめる",
+    "meaning": "to start",
+    "context": "outings",
+    "frequencyRank": 23
+  },
+  {
+    "word": "平和",
+    "reading": "へいわ",
+    "meaning": "peace",
+    "context": "outings",
+    "frequencyRank": 24
+  },
+  {
+    "word": "ホール",
+    "reading": "ホール",
+    "meaning": "hall",
+    "context": "outings",
+    "frequencyRank": 25
+  },
+  {
+    "word": "待ち合わせ",
+    "reading": "まちあわせ",
+    "meaning": "meeting up (at a certain time and place)",
+    "context": "outings",
+    "frequencyRank": 26
+  },
+  {
+    "word": "待ち合わせする",
+    "reading": "まちあわせする",
+    "meaning": "to meet (each other)",
+    "context": "outings",
+    "frequencyRank": 27
+  },
+  {
+    "word": "まちがえる",
+    "reading": "まちがえる",
+    "meaning": "to misunderstand",
+    "context": "outings",
+    "frequencyRank": 28
+  },
+  {
+    "word": "待つ",
+    "reading": "まつ",
+    "meaning": "to wait",
+    "context": "outings",
+    "frequencyRank": 29
+  },
+  {
+    "word": "道に迷う",
+    "reading": "みちにまよう",
+    "meaning": "to get lost",
+    "context": "outings",
+    "frequencyRank": 30
+  },
+  {
+    "word": "門",
+    "reading": "もん",
+    "meaning": "gate",
+    "context": "outings",
+    "frequencyRank": 31
+  },
+  {
+    "word": "連絡する",
+    "reading": "れんらくする",
+    "meaning": "to contact",
+    "context": "outings",
+    "frequencyRank": 32
+  },
+  {
+    "word": "アウトレットモール",
+    "reading": "アウトレットモール",
+    "meaning": "outlet mall",
+    "context": "outings",
+    "frequencyRank": 33
+  },
+  {
+    "word": "アジア",
+    "reading": "アジア",
+    "meaning": "Asia",
+    "context": "outings",
+    "frequencyRank": 34
+  },
+  {
+    "word": "いまいち",
+    "reading": "いまいち",
+    "meaning": "not so good",
+    "context": "outings",
+    "frequencyRank": 35
+  },
+  {
+    "word": "映画館",
+    "reading": "えいがかん",
+    "meaning": "movie theater",
+    "context": "outings",
+    "frequencyRank": 36
+  },
+  {
+    "word": "お金",
+    "reading": "おかね",
+    "meaning": "money",
+    "context": "outings",
+    "frequencyRank": 37
+  },
+  {
+    "word": "お城",
+    "reading": "おしろ",
+    "meaning": "castle",
+    "context": "outings",
+    "frequencyRank": 38
+  },
+  {
+    "word": "お腹がすく",
+    "reading": "おなかがすく",
+    "meaning": "to get hungry",
+    "context": "outings",
+    "frequencyRank": 39
+  },
+  {
+    "word": "おろす",
+    "reading": "おろす",
+    "meaning": "to withdraw",
+    "context": "outings",
+    "frequencyRank": 40
+  },
+  {
+    "word": "かわいい",
+    "reading": "かわいい",
+    "meaning": "cute",
+    "context": "outings",
+    "frequencyRank": 41
+  },
+  {
+    "word": "感動する",
+    "reading": "かんどうする",
+    "meaning": "to be deeply moved",
+    "context": "outings",
+    "frequencyRank": 42
+  },
+  {
+    "word": "現代",
+    "reading": "げんだい",
+    "meaning": "modern",
+    "context": "outings",
+    "frequencyRank": 43
+  },
+  {
+    "word": "ゲームコーナー",
+    "reading": "ゲームコーナー",
+    "meaning": "game arcade",
+    "context": "outings",
+    "frequencyRank": 44
+  },
+  {
+    "word": "このあと",
+    "reading": "このあと",
+    "meaning": "after this",
+    "context": "outings",
+    "frequencyRank": 45
+  },
+  {
+    "word": "作品",
+    "reading": "さくひん",
+    "meaning": "art",
+    "context": "outings",
+    "frequencyRank": 46
+  },
+  {
+    "word": "サル",
+    "reading": "サル",
+    "meaning": "monkey",
+    "context": "outings",
+    "frequencyRank": 47
+  },
+  {
+    "word": "試合",
+    "reading": "しあい",
+    "meaning": "match",
+    "context": "outings",
+    "frequencyRank": 48
+  },
+  {
+    "word": "市民体育館",
+    "reading": "しみんたいいくかん",
+    "meaning": "municipal gymnasium",
+    "context": "outings",
+    "frequencyRank": 49
+  },
+  {
+    "word": "食事",
+    "reading": "しょくじ",
+    "meaning": "meal / eating",
+    "context": "outings",
+    "frequencyRank": 50
+  },
+  {
+    "word": "ジョギングシューズ",
+    "reading": "ジョギングシューズ",
+    "meaning": "jogging shoes",
+    "context": "outings",
+    "frequencyRank": 51
+  },
+  {
+    "word": "すごく",
+    "reading": "すごく",
+    "meaning": "very",
+    "context": "outings",
+    "frequencyRank": 52
+  },
+  {
+    "word": "すばらしい",
+    "reading": "すばらしい",
+    "meaning": "wonderful",
+    "context": "outings",
+    "frequencyRank": 53
+  },
+  {
+    "word": "スポーツ店",
+    "reading": "スポーツてん",
+    "meaning": "sports shop",
+    "context": "outings",
+    "frequencyRank": 54
+  },
+  {
+    "word": "その前に",
+    "reading": "そのまえに",
+    "meaning": "before that",
+    "context": "outings",
+    "frequencyRank": 55
+  },
+  {
+    "word": "退屈",
+    "reading": "たいくつ",
+    "meaning": "boring",
+    "context": "outings",
+    "frequencyRank": 56
+  },
+  {
+    "word": "足りない",
+    "reading": "たりない",
+    "meaning": "not enough",
+    "context": "outings",
+    "frequencyRank": 57
+  },
+  {
+    "word": "タワー",
+    "reading": "タワー",
+    "meaning": "tower",
+    "context": "outings",
+    "frequencyRank": 58
+  },
+  {
+    "word": "ちょっと",
+    "reading": "ちょっと",
+    "meaning": "a little",
+    "context": "outings",
+    "frequencyRank": 59
+  },
+  {
+    "word": "つまらない",
+    "reading": "つまらない",
+    "meaning": "boring",
+    "context": "outings",
+    "frequencyRank": 60
+  },
+  {
+    "word": "展覧会",
+    "reading": "てんらんかい",
+    "meaning": "exhibition",
+    "context": "outings",
+    "frequencyRank": 61
+  },
+  {
+    "word": "動物園",
+    "reading": "どうぶつえん",
+    "meaning": "zoo",
+    "context": "outings",
+    "frequencyRank": 62
+  },
+  {
+    "word": "何か",
+    "reading": "なにか",
+    "meaning": "something",
+    "context": "outings",
+    "frequencyRank": 63
+  },
+  {
+    "word": "博物館",
+    "reading": "はくぶつかん",
+    "meaning": "museum",
+    "context": "outings",
+    "frequencyRank": 64
+  },
+  {
+    "word": "パンダ",
+    "reading": "パンダ",
+    "meaning": "panda",
+    "context": "outings",
+    "frequencyRank": 65
+  },
+  {
+    "word": "フードコート",
+    "reading": "フードコート",
+    "meaning": "food court",
+    "context": "outings",
+    "frequencyRank": 66
+  },
+  {
+    "word": "プロレス",
+    "reading": "プロレス",
+    "meaning": "professional wrestling",
+    "context": "outings",
+    "frequencyRank": 67
+  },
+  {
+    "word": "ホラー映画",
+    "reading": "ホラーえいが",
+    "meaning": "horror movie",
+    "context": "outings",
+    "frequencyRank": 68
+  },
+  {
+    "word": "まだ",
+    "reading": "まだ",
+    "meaning": "not yet",
+    "context": "outings",
+    "frequencyRank": 69
+  },
+  {
+    "word": "難しい",
+    "reading": "むずかしい",
+    "meaning": "difficult",
+    "context": "outings",
+    "frequencyRank": 70
+  },
+  {
+    "word": "無理",
+    "reading": "むり",
+    "meaning": "impossible",
+    "context": "outings",
+    "frequencyRank": 71
+  },
+  {
+    "word": "メンバー",
+    "reading": "メンバー",
+    "meaning": "member",
+    "context": "outings",
+    "frequencyRank": 72
+  },
+  {
+    "word": "もう",
+    "reading": "もう",
+    "meaning": "already",
+    "context": "outings",
+    "frequencyRank": 73
+  },
+  {
+    "word": "野球",
+    "reading": "やきゅう",
+    "meaning": "baseball",
+    "context": "outings",
+    "frequencyRank": 74
+  },
+  {
+    "word": "休む",
+    "reading": "やすむ",
+    "meaning": "to rest",
+    "context": "outings",
+    "frequencyRank": 75
+  },
+  {
+    "word": "やる",
+    "reading": "やる",
+    "meaning": "to do",
+    "context": "outings",
+    "frequencyRank": 76
+  },
+  {
+    "word": "レストラン",
+    "reading": "レストラン",
+    "meaning": "restaurant",
+    "context": "outings",
+    "frequencyRank": 77
+  },
+  {
+    "word": "わかる",
+    "reading": "わかる",
+    "meaning": "to understand",
+    "context": "outings",
+    "frequencyRank": 78
+  },
+  {
+    "word": "遊ぶところ",
+    "reading": "あそぶところ",
+    "meaning": "place to have fun",
+    "context": "outings",
+    "frequencyRank": 79
+  },
+  {
+    "word": "厚い",
+    "reading": "あつい",
+    "meaning": "thick / heavy",
+    "context": "outings",
+    "frequencyRank": 80
+  },
+  {
+    "word": "意外に",
+    "reading": "いがいに",
+    "meaning": "surprisingly",
+    "context": "outings",
+    "frequencyRank": 81
+  },
+  {
+    "word": "行き先",
+    "reading": "いきさき",
+    "meaning": "destination",
+    "context": "outings",
+    "frequencyRank": 82
+  },
+  {
+    "word": "いつか",
+    "reading": "いつか",
+    "meaning": "one day",
+    "context": "outings",
+    "frequencyRank": 83
+  },
+  {
+    "word": "上着",
+    "reading": "うわぎ",
+    "meaning": "jacket",
+    "context": "outings",
+    "frequencyRank": 84
+  },
+  {
+    "word": "オルゴール",
+    "reading": "オルゴール",
+    "meaning": "music box",
+    "context": "outings",
+    "frequencyRank": 85
+  },
+  {
+    "word": "海外",
+    "reading": "かいがい",
+    "meaning": "overseas",
+    "context": "outings",
+    "frequencyRank": 86
+  },
+  {
+    "word": "回転ずし",
+    "reading": "かいてんずし",
+    "meaning": "conveyor belt sushi",
+    "context": "outings",
+    "frequencyRank": 87
+  },
+  {
+    "word": "かなり",
+    "reading": "かなり",
+    "meaning": "quite",
+    "context": "outings",
+    "frequencyRank": 88
+  },
+  {
+    "word": "観光客",
+    "reading": "かんこうきゃく",
+    "meaning": "tourist",
+    "context": "outings",
+    "frequencyRank": 89
+  },
+  {
+    "word": "くわしい",
+    "reading": "くわしい",
+    "meaning": "knowledgeable (about something)",
+    "context": "outings",
+    "frequencyRank": 90
+  },
+  {
+    "word": "計画",
+    "reading": "けいかく",
+    "meaning": "plan",
+    "context": "outings",
+    "frequencyRank": 91
+  },
+  {
+    "word": "交通手段",
+    "reading": "こうつうしゅだん",
+    "meaning": "means of transportation",
+    "context": "outings",
+    "frequencyRank": 92
+  },
+  {
+    "word": "紅葉",
+    "reading": "こうよう",
+    "meaning": "autumn leaves",
+    "context": "outings",
+    "frequencyRank": 93
+  },
+  {
+    "word": "混んでいる",
+    "reading": "こんでいる",
+    "meaning": "crowded",
+    "context": "outings",
+    "frequencyRank": 94
+  },
+  {
+    "word": "サングラス",
+    "reading": "サングラス",
+    "meaning": "sunglasses",
+    "context": "outings",
+    "frequencyRank": 95
+  },
+  {
+    "word": "時期",
+    "reading": "じき",
+    "meaning": "time period / season",
+    "context": "outings",
+    "frequencyRank": 96
+  },
+  {
+    "word": "自然",
+    "reading": "しぜん",
+    "meaning": "nature",
+    "context": "outings",
+    "frequencyRank": 97
+  },
+  {
+    "word": "自転車",
+    "reading": "じてんしゃ",
+    "meaning": "bicycle",
+    "context": "outings",
+    "frequencyRank": 98
+  },
+  {
+    "word": "出発する",
+    "reading": "しゅっぱつする",
+    "meaning": "to depart",
+    "context": "outings",
+    "frequencyRank": 99
+  },
+  {
+    "word": "シュノーケリング",
+    "reading": "シュノーケリング",
+    "meaning": "snorkeling",
+    "context": "outings",
+    "frequencyRank": 100
+  },
+  {
+    "word": "準備する",
+    "reading": "じゅんびする",
+    "meaning": "to prepare",
+    "context": "outings",
+    "frequencyRank": 101
+  },
+  {
+    "word": "調べる",
+    "reading": "しらべる",
+    "meaning": "to check / to look up",
+    "context": "outings",
+    "frequencyRank": 102
+  },
+  {
+    "word": "新鮮",
+    "reading": "しんせん",
+    "meaning": "fresh",
+    "context": "outings",
+    "frequencyRank": 103
+  },
+  {
+    "word": "水族館",
+    "reading": "すいぞくかん",
+    "meaning": "aquarium",
+    "context": "outings",
+    "frequencyRank": 104
+  },
+  {
+    "word": "スキー板",
+    "reading": "スキーいた",
+    "meaning": "skis",
+    "context": "outings",
+    "frequencyRank": 105
+  },
+  {
+    "word": "スキーウェア",
+    "reading": "スキーウェア",
+    "meaning": "skiwear",
+    "context": "outings",
+    "frequencyRank": 106
+  },
+  {
+    "word": "スキー場",
+    "reading": "スキーじょう",
+    "meaning": "ski resort",
+    "context": "outings",
+    "frequencyRank": 107
+  },
+  {
+    "word": "先輩",
+    "reading": "せんぱい",
+    "meaning": "senior co-worker",
+    "context": "outings",
+    "frequencyRank": 108
+  },
+  {
+    "word": "楽しむ",
+    "reading": "たのしむ",
+    "meaning": "to enjoy",
+    "context": "outings",
+    "frequencyRank": 109
+  },
+  {
+    "word": "小さな",
+    "reading": "ちいさな",
+    "meaning": "small",
+    "context": "outings",
+    "frequencyRank": 110
+  },
+  {
+    "word": "手袋",
+    "reading": "てぶくろ",
+    "meaning": "gloves",
+    "context": "outings",
+    "frequencyRank": 111
+  },
+  {
+    "word": "泊まる",
+    "reading": "とまる",
+    "meaning": "to stay (at a hotel/inn)",
+    "context": "outings",
+    "frequencyRank": 112
+  },
+  {
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "meaning": "to line up",
+    "context": "outings",
+    "frequencyRank": 113
+  },
+  {
+    "word": "人気がある",
+    "reading": "にんきがある",
+    "meaning": "popular",
+    "context": "outings",
+    "frequencyRank": 114
+  },
+  {
+    "word": "速い",
+    "reading": "はやい",
+    "meaning": "fast",
+    "context": "outings",
+    "frequencyRank": 115
+  },
+  {
+    "word": "番組",
+    "reading": "ばんぐみ",
+    "meaning": "program (TV)",
+    "context": "outings",
+    "frequencyRank": 116
+  },
+  {
+    "word": "日帰り",
+    "reading": "ひがえり",
+    "meaning": "day trip",
+    "context": "outings",
+    "frequencyRank": 117
+  },
+  {
+    "word": "日焼けする",
+    "reading": "ひやけする",
+    "meaning": "to get a suntan",
+    "context": "outings",
+    "frequencyRank": 118
+  },
+  {
+    "word": "ボート",
+    "reading": "ボート",
+    "meaning": "boat",
+    "context": "outings",
+    "frequencyRank": 119
+  },
+  {
+    "word": "ホテル",
+    "reading": "ホテル",
+    "meaning": "hotel",
+    "context": "outings",
+    "frequencyRank": 120
+  },
+  {
+    "word": "まったく～ない",
+    "reading": "まったく～ない",
+    "meaning": "not ~ at all",
+    "context": "outings",
+    "frequencyRank": 121
+  },
+  {
+    "word": "湖",
+    "reading": "みずうみ",
+    "meaning": "lake",
+    "context": "outings",
+    "frequencyRank": 122
+  },
+  {
+    "word": "水着",
+    "reading": "みずぎ",
+    "meaning": "swimsuit",
+    "context": "outings",
+    "frequencyRank": 123
+  },
+  {
+    "word": "民宿",
+    "reading": "みんしゅく",
+    "meaning": "private lodging",
+    "context": "outings",
+    "frequencyRank": 124
+  },
+  {
+    "word": "やっぱり",
+    "reading": "やっぱり",
+    "meaning": "as expected",
+    "context": "outings",
+    "frequencyRank": 125
+  },
+  {
+    "word": "宿",
+    "reading": "やど",
+    "meaning": "inn",
+    "context": "outings",
+    "frequencyRank": 126
+  },
+  {
+    "word": "遊園地",
+    "reading": "ゆうえんち",
+    "meaning": "amusement park",
+    "context": "outings",
+    "frequencyRank": 127
+  },
+  {
+    "word": "豊か",
+    "reading": "ゆたか",
+    "meaning": "abundant",
+    "context": "outings",
+    "frequencyRank": 128
+  },
+  {
+    "word": "寄る",
+    "reading": "よる",
+    "meaning": "to stop by",
+    "context": "outings",
+    "frequencyRank": 129
+  },
+  {
+    "word": "ラッシュ",
+    "reading": "ラッシュ",
+    "meaning": "rush hour",
+    "context": "outings",
+    "frequencyRank": 130
+  },
+  {
+    "word": "旅館",
+    "reading": "りょかん",
+    "meaning": "Japanese inn",
+    "context": "outings",
+    "frequencyRank": 131
+  },
+  {
+    "word": "レンタサイクル",
+    "reading": "レンタサイクル",
+    "meaning": "bicycle rental",
+    "context": "outings",
+    "frequencyRank": 132
+  },
+  {
+    "word": "ロープウェイ",
+    "reading": "ロープウェイ",
+    "meaning": "ropeway",
+    "context": "outings",
+    "frequencyRank": 133
+  },
+  {
+    "word": "ごめんなさい",
+    "reading": "ごめんなさい",
+    "meaning": "Sorry / I'm sorry",
+    "context": "outings",
+    "frequencyRank": 134
+  },
+  {
+    "word": "あきらめる",
+    "reading": "あきらめる",
+    "meaning": "to give up",
+    "context": "outings",
+    "frequencyRank": 135
+  },
+  {
+    "word": "アナウンス",
+    "reading": "アナウンス",
+    "meaning": "announcement",
+    "context": "outings",
+    "frequencyRank": 136
+  },
+  {
+    "word": "あの辺",
+    "reading": "あのへん",
+    "meaning": "around there",
+    "context": "outings",
+    "frequencyRank": 137
+  },
+  {
+    "word": "イルミネーション",
+    "reading": "イルミネーション",
+    "meaning": "illumination",
+    "context": "outings",
+    "frequencyRank": 138
+  },
+  {
+    "word": "インスタントラーメン",
+    "reading": "インスタントラーメン",
+    "meaning": "instant noodles",
+    "context": "outings",
+    "frequencyRank": 139
+  },
+  {
+    "word": "ウミネコ",
+    "reading": "ウミネコ",
+    "meaning": "black-tailed gull",
+    "context": "outings",
+    "frequencyRank": 140
+  },
+  {
+    "word": "運転見合わせ",
+    "reading": "うんてんみあわせ",
+    "meaning": "suspended (train service)",
+    "context": "outings",
+    "frequencyRank": 141
+  },
+  {
+    "word": "絵を描く",
+    "reading": "えをかく",
+    "meaning": "to draw a picture",
+    "context": "outings",
+    "frequencyRank": 142
+  },
+  {
+    "word": "おいしかった",
+    "reading": "おいしかった",
+    "meaning": "it was delicious",
+    "context": "outings",
+    "frequencyRank": 143
+  },
+  {
+    "word": "大阪城",
+    "reading": "おおさかじょう",
+    "meaning": "Osaka Castle",
+    "context": "outings",
+    "frequencyRank": 144
+  },
+  {
+    "word": "遅れ",
+    "reading": "おくれ",
+    "meaning": "delay",
+    "context": "outings",
+    "frequencyRank": 145
+  },
+  {
+    "word": "驚いた",
+    "reading": "おどろいた",
+    "meaning": "it was unexpected / surprising",
+    "context": "outings",
+    "frequencyRank": 146
+  },
+  {
+    "word": "おもしろかった",
+    "reading": "おもしろかった",
+    "meaning": "it was interesting",
+    "context": "outings",
+    "frequencyRank": 147
+  },
+  {
+    "word": "外国",
+    "reading": "がいこく",
+    "meaning": "foreign country",
+    "context": "outings",
+    "frequencyRank": 148
+  },
+  {
+    "word": "感動した",
+    "reading": "かんどうした",
+    "meaning": "it was deeply moving",
+    "context": "outings",
+    "frequencyRank": 149
+  },
+  {
+    "word": "気持ちよかった",
+    "reading": "きもちよかった",
+    "meaning": "it felt great",
+    "context": "outings",
+    "frequencyRank": 150
+  },
+  {
+    "word": "きらきら",
+    "reading": "きらきら",
+    "meaning": "sparkling",
+    "context": "outings",
+    "frequencyRank": 151
+  },
+  {
+    "word": "きれいだった",
+    "reading": "きれいだった",
+    "meaning": "it was beautiful",
+    "context": "outings",
+    "frequencyRank": 152
+  },
+  {
+    "word": "串カツ",
+    "reading": "くしカツ",
+    "meaning": "kushi-katsu (skewered cutlet)",
+    "context": "outings",
+    "frequencyRank": 153
+  },
+  {
+    "word": "グリーン車",
+    "reading": "グリーンしゃ",
+    "meaning": "green car (first class car)",
+    "context": "outings",
+    "frequencyRank": 154
+  },
+  {
+    "word": "ケーブルカー",
+    "reading": "ケーブルカー",
+    "meaning": "cable car",
+    "context": "outings",
+    "frequencyRank": 155
+  },
+  {
+    "word": "～号",
+    "reading": "ごう",
+    "meaning": "train number ~",
+    "context": "outings",
+    "frequencyRank": 156
+  },
+  {
+    "word": "～号車",
+    "reading": "ごうしゃ",
+    "meaning": "train car number ~",
+    "context": "outings",
+    "frequencyRank": 157
+  },
+  {
+    "word": "乗車",
+    "reading": "じょうしゃ",
+    "meaning": "to board / get on (a train)",
+    "context": "outings",
+    "frequencyRank": 158
+  },
+  {
+    "word": "困る",
+    "reading": "こまる",
+    "meaning": "to be troubled",
+    "context": "outings",
+    "frequencyRank": 159
+  },
+  {
+    "word": "こわかった",
+    "reading": "こわかった",
+    "meaning": "it was scary",
+    "context": "outings",
+    "frequencyRank": 160
+  },
+  {
+    "word": "壊れる",
+    "reading": "こわれる",
+    "meaning": "to break",
+    "context": "outings",
+    "frequencyRank": 161
+  },
+  {
+    "word": "残念だった",
+    "reading": "ざんねんだった",
+    "meaning": "it was disappointing",
+    "context": "outings",
+    "frequencyRank": 162
+  },
+  {
+    "word": "指定席",
+    "reading": "していせき",
+    "meaning": "reserved seat",
+    "context": "outings",
+    "frequencyRank": 163
+  },
+  {
+    "word": "自由席",
+    "reading": "じゆうせき",
+    "meaning": "non-reserved seat",
+    "context": "outings",
+    "frequencyRank": 164
+  },
+  {
+    "word": "出発時間",
+    "reading": "しゅっぱつじかん",
+    "meaning": "departure time",
+    "context": "outings",
+    "frequencyRank": 165
+  },
+  {
+    "word": "出発地",
+    "reading": "しゅっぱつち",
+    "meaning": "departing station",
+    "context": "outings",
+    "frequencyRank": 166
+  },
+  {
+    "word": "出発日",
+    "reading": "しゅっぱつび",
+    "meaning": "departure date",
+    "context": "outings",
+    "frequencyRank": 167
+  },
+  {
+    "word": "順",
+    "reading": "じゅん",
+    "meaning": "in order of",
+    "context": "outings",
+    "frequencyRank": 168
+  },
+  {
+    "word": "ショー",
+    "reading": "ショー",
+    "meaning": "show",
+    "context": "outings",
+    "frequencyRank": 169
+  },
+  {
+    "word": "新幹線",
+    "reading": "しんかんせん",
+    "meaning": "Shinkansen / bullet train",
+    "context": "outings",
+    "frequencyRank": 170
+  },
+  {
+    "word": "信号故障",
+    "reading": "しんごうこしょう",
+    "meaning": "signal failure",
+    "context": "outings",
+    "frequencyRank": 171
+  },
+  {
+    "word": "人身事故",
+    "reading": "じんしんじこ",
+    "meaning": "fatal or serious accident",
+    "context": "outings",
+    "frequencyRank": 172
+  },
+  {
+    "word": "すてきだった",
+    "reading": "すてきだった",
+    "meaning": "it was lovely",
+    "context": "outings",
+    "frequencyRank": 173
+  },
+  {
+    "word": "～席",
+    "reading": "せき",
+    "meaning": "~ seat",
+    "context": "outings",
+    "frequencyRank": 174
+  },
+  {
+    "word": "～線",
+    "reading": "せん",
+    "meaning": "~ line",
+    "context": "outings",
+    "frequencyRank": 175
+  },
+  {
+    "word": "空",
+    "reading": "そら",
+    "meaning": "sky",
+    "context": "outings",
+    "frequencyRank": 176
+  },
+  {
+    "word": "台風",
+    "reading": "たいふう",
+    "meaning": "typhoon",
+    "context": "outings",
+    "frequencyRank": 177
+  },
+  {
+    "word": "大変だった",
+    "reading": "たいへんだった",
+    "meaning": "it was tough",
+    "context": "outings",
+    "frequencyRank": 178
+  },
+  {
+    "word": "だから",
+    "reading": "だから",
+    "meaning": "that is why",
+    "context": "outings",
+    "frequencyRank": 179
+  },
+  {
+    "word": "滝",
+    "reading": "たき",
+    "meaning": "waterfall",
+    "context": "outings",
+    "frequencyRank": 180
+  },
+  {
+    "word": "たこ焼き",
+    "reading": "たこやき",
+    "meaning": "takoyaki (octopus dumpling balls)",
+    "context": "outings",
+    "frequencyRank": 181
+  },
+  {
+    "word": "楽しかった",
+    "reading": "たのしかった",
+    "meaning": "it was fun",
+    "context": "outings",
+    "frequencyRank": 182
+  },
+  {
+    "word": "～着",
+    "reading": "ちゃく",
+    "meaning": "arrive at ~",
+    "context": "outings",
+    "frequencyRank": 183
+  },
+  {
+    "word": "中禅寺湖",
+    "reading": "ちゅうぜんじこ",
+    "meaning": "Chuzenji Lake",
+    "context": "outings",
+    "frequencyRank": 184
+  },
+  {
+    "word": "頂上",
+    "reading": "ちょうじょう",
+    "meaning": "summit",
+    "context": "outings",
+    "frequencyRank": 185
+  },
+  {
+    "word": "通天閣",
+    "reading": "つうてんかく",
+    "meaning": "Tsutenkaku Tower",
+    "context": "outings",
+    "frequencyRank": 186
+  },
+  {
+    "word": "疲れた",
+    "reading": "つかれた",
+    "meaning": "it was tiring",
+    "context": "outings",
+    "frequencyRank": 187
+  },
+  {
+    "word": "つり",
+    "reading": "つり",
+    "meaning": "fishing",
+    "context": "outings",
+    "frequencyRank": 188
+  },
+  {
+    "word": "東照宮",
+    "reading": "とうしょうぐう",
+    "meaning": "Toshogu Shrine",
+    "context": "outings",
+    "frequencyRank": 189
+  },
+  {
+    "word": "到着時間",
+    "reading": "とうちゃくじかん",
+    "meaning": "arrival time",
+    "context": "outings",
+    "frequencyRank": 190
+  },
+  {
+    "word": "到着する",
+    "reading": "とうちゃくする",
+    "meaning": "to arrive",
+    "context": "outings",
+    "frequencyRank": 191
+  },
+  {
+    "word": "特急",
+    "reading": "とっきゅう",
+    "meaning": "limited express",
+    "context": "outings",
+    "frequencyRank": 192
+  },
+  {
+    "word": "乗り換える",
+    "reading": "のりかえる",
+    "meaning": "to transfer",
+    "context": "outings",
+    "frequencyRank": 193
+  },
+  {
+    "word": "乗り場",
+    "reading": "のりば",
+    "meaning": "platform",
+    "context": "outings",
+    "frequencyRank": 194
+  },
+  {
+    "word": "～泊",
+    "reading": "はく",
+    "meaning": "~ night(s) stay",
+    "context": "outings",
+    "frequencyRank": 195
+  },
+  {
+    "word": "～発",
+    "reading": "はつ",
+    "meaning": "depart at ~",
+    "context": "outings",
+    "frequencyRank": 196
+  },
+  {
+    "word": "発車する",
+    "reading": "はっしゃする",
+    "meaning": "to depart",
+    "context": "outings",
+    "frequencyRank": 197
+  },
+  {
+    "word": "花畑",
+    "reading": "はなばたけ",
+    "meaning": "field of flowers",
+    "context": "outings",
+    "frequencyRank": 198
+  },
+  {
+    "word": "～番線",
+    "reading": "ばんせん",
+    "meaning": "track number ~",
+    "context": "outings",
+    "frequencyRank": 199
+  },
+  {
+    "word": "～番乗り場",
+    "reading": "ばんのりば",
+    "meaning": "platform number ~",
+    "context": "outings",
+    "frequencyRank": 200
+  },
+  {
+    "word": "光る",
+    "reading": "ひかる",
+    "meaning": "to shine",
+    "context": "outings",
+    "frequencyRank": 201
+  },
+  {
+    "word": "びっくりした",
+    "reading": "びっくりした",
+    "meaning": "it was surprising",
+    "context": "outings",
+    "frequencyRank": 202
+  },
+  {
+    "word": "～方面",
+    "reading": "ほうめん",
+    "meaning": "towards ~",
+    "context": "outings",
+    "frequencyRank": 203
+  },
+  {
+    "word": "まあまあだった",
+    "reading": "まあまあだった",
+    "meaning": "it was okay",
+    "context": "outings",
+    "frequencyRank": 204
+  },
+  {
+    "word": "町並み",
+    "reading": "まちなみ",
+    "meaning": "streetscape",
+    "context": "outings",
+    "frequencyRank": 205
+  },
+  {
+    "word": "名物",
+    "reading": "めいぶつ",
+    "meaning": "local specialty",
+    "context": "outings",
+    "frequencyRank": 206
+  },
+  {
+    "word": "もうすぐ",
+    "reading": "もうすぐ",
+    "meaning": "soon",
+    "context": "outings",
+    "frequencyRank": 207
+  },
+  {
+    "word": "約～",
+    "reading": "やく",
+    "meaning": "about ~",
+    "context": "outings",
+    "frequencyRank": 208
+  },
+  {
+    "word": "～行き",
+    "reading": "ゆき",
+    "meaning": "bound for ~",
+    "context": "outings",
+    "frequencyRank": 209
+  },
+  {
+    "word": "ゆば",
+    "reading": "ゆば",
+    "meaning": "yuba (tofu skin)",
+    "context": "outings",
+    "frequencyRank": 210
+  },
+  {
+    "word": "よかった",
+    "reading": "よかった",
+    "meaning": "it was good",
+    "context": "outings",
+    "frequencyRank": 211
+  },
+  {
+    "word": "リス",
+    "reading": "リス",
+    "meaning": "squirrel",
+    "context": "outings",
+    "frequencyRank": 212
+  },
+  {
+    "word": "～両",
+    "reading": "りょう",
+    "meaning": "~ -car train",
+    "context": "outings",
+    "frequencyRank": 213
+  },
+  {
+    "word": "料金",
+    "reading": "りょうきん",
+    "meaning": "fare",
+    "context": "outings",
+    "frequencyRank": 214
+  },
+  {
+    "word": "ご迷惑をおかけします",
+    "reading": "ごめいわくをおかけします",
+    "meaning": "Sorry for the inconvenience",
+    "context": "outings",
+    "frequencyRank": 215
+  },
+  {
+    "word": "ご利用ください",
+    "reading": "ごりようください",
+    "meaning": "Please use",
+    "context": "outings",
+    "frequencyRank": 216
+  },
+  {
+    "word": "何て言ってましたか？",
+    "reading": "なんていってましたか？",
+    "meaning": "What was it saying?",
+    "context": "outings",
+    "frequencyRank": 217
+  },
+  {
+    "word": "間",
+    "reading": "あいだ",
+    "meaning": "between",
+    "context": "outings",
+    "frequencyRank": 218
+  },
+  {
+    "word": "明日",
+    "reading": "あす",
+    "meaning": "tomorrow",
+    "context": "outings",
+    "frequencyRank": 219
+  },
+  {
+    "word": "居酒屋",
+    "reading": "いざかや",
+    "meaning": "Japanese pub",
+    "context": "outings",
+    "frequencyRank": 220
+  },
+  {
+    "word": "動きやすい",
+    "reading": "うごきやすい",
+    "meaning": "easy to move around in",
+    "context": "outings",
+    "frequencyRank": 221
+  },
+  {
+    "word": "雨天",
+    "reading": "うてん",
+    "meaning": "rain",
+    "context": "outings",
+    "frequencyRank": 222
+  },
+  {
+    "word": "運動靴",
+    "reading": "うんどうぐつ",
+    "meaning": "athletic shoes",
+    "context": "outings",
+    "frequencyRank": 223
+  },
+  {
+    "word": "延期する",
+    "reading": "えんきする",
+    "meaning": "to postpone",
+    "context": "outings",
+    "frequencyRank": 224
+  },
+  {
+    "word": "演奏",
+    "reading": "えんそう",
+    "meaning": "musical performance",
+    "context": "outings",
+    "frequencyRank": 225
+  },
+  {
+    "word": "行う",
+    "reading": "おこなう",
+    "meaning": "to hold / to do",
+    "context": "outings",
+    "frequencyRank": 226
+  },
+  {
+    "word": "踊る",
+    "reading": "おどる",
+    "meaning": "to dance",
+    "context": "outings",
+    "frequencyRank": 227
+  },
+  {
+    "word": "おみこし",
+    "reading": "おみこし",
+    "meaning": "portable shrine",
+    "context": "outings",
+    "frequencyRank": 228
+  },
+  {
+    "word": "おもちゃ",
+    "reading": "おもちゃ",
+    "meaning": "toy",
+    "context": "outings",
+    "frequencyRank": 229
+  },
+  {
+    "word": "音楽に合わせて",
+    "reading": "おんがくにあわせて",
+    "meaning": "to the music",
+    "context": "outings",
+    "frequencyRank": 230
+  },
+  {
+    "word": "海岸",
+    "reading": "かいがん",
+    "meaning": "beach",
+    "context": "outings",
+    "frequencyRank": 231
+  },
+  {
+    "word": "開催する",
+    "reading": "かいさいする",
+    "meaning": "to hold (an event)",
+    "context": "outings",
+    "frequencyRank": 232
+  },
+  {
+    "word": "貸し出し",
+    "reading": "かしだし",
+    "meaning": "rental",
+    "context": "outings",
+    "frequencyRank": 233
+  },
+  {
+    "word": "ガス点検",
+    "reading": "ガスてんけん",
+    "meaning": "gas inspection",
+    "context": "outings",
+    "frequencyRank": 234
+  },
+  {
+    "word": "かつぐ",
+    "reading": "かつぐ",
+    "meaning": "to carry over the shoulder",
+    "context": "outings",
+    "frequencyRank": 235
+  },
+  {
+    "word": "カラオケ大会",
+    "reading": "カラオケたいかい",
+    "meaning": "karaoke competition",
+    "context": "outings",
+    "frequencyRank": 236
+  },
+  {
+    "word": "寄付",
+    "reading": "きふ",
+    "meaning": "donation",
+    "context": "outings",
+    "frequencyRank": 237
+  },
+  {
+    "word": "希望",
+    "reading": "きぼう",
+    "meaning": "wish",
+    "context": "outings",
+    "frequencyRank": 238
+  },
+  {
+    "word": "協力",
+    "reading": "きょうりょく",
+    "meaning": "cooperation",
+    "context": "outings",
+    "frequencyRank": 239
+  },
+  {
+    "word": "軍手",
+    "reading": "ぐんて",
+    "meaning": "cotton work gloves",
+    "context": "outings",
+    "frequencyRank": 240
+  },
+  {
+    "word": "訓練",
+    "reading": "くんれん",
+    "meaning": "drill",
+    "context": "outings",
+    "frequencyRank": 241
+  },
+  {
+    "word": "見学する",
+    "reading": "けんがくする",
+    "meaning": "to observe",
+    "context": "outings",
+    "frequencyRank": 242
+  },
+  {
+    "word": "校庭",
+    "reading": "こうてい",
+    "meaning": "school field",
+    "context": "outings",
+    "frequencyRank": 243
+  },
+  {
+    "word": "公民館",
+    "reading": "こうみんかん",
+    "meaning": "community center",
+    "context": "outings",
+    "frequencyRank": 244
+  },
+  {
+    "word": "ごみ",
+    "reading": "ごみ",
+    "meaning": "trash",
+    "context": "outings",
+    "frequencyRank": 245
+  },
+  {
+    "word": "今月",
+    "reading": "こんげつ",
+    "meaning": "this month",
+    "context": "outings",
+    "frequencyRank": 246
+  },
+  {
+    "word": "市民センター",
+    "reading": "しみんセンター",
+    "meaning": "civic center",
+    "context": "outings",
+    "frequencyRank": 247
+  },
+  {
+    "word": "地元",
+    "reading": "じもと",
+    "meaning": "local",
+    "context": "outings",
+    "frequencyRank": 248
+  },
+  {
+    "word": "市役所",
+    "reading": "しやくしょ",
+    "meaning": "city hall",
+    "context": "outings",
+    "frequencyRank": 249
+  },
+  {
+    "word": "自由に",
+    "reading": "じゆうに",
+    "meaning": "as one likes",
+    "context": "outings",
+    "frequencyRank": 250
+  },
+  {
+    "word": "小学校",
+    "reading": "しょうがっこう",
+    "meaning": "elementary school",
+    "context": "outings",
+    "frequencyRank": 251
+  },
+  {
+    "word": "条件",
+    "reading": "じょうけん",
+    "meaning": "conditions",
+    "context": "outings",
+    "frequencyRank": 252
+  },
+  {
+    "word": "使用する",
+    "reading": "しようする",
+    "meaning": "to use",
+    "context": "outings",
+    "frequencyRank": 253
+  },
+  {
+    "word": "水道工事",
+    "reading": "すいどうこうじ",
+    "meaning": "water-service work",
+    "context": "outings",
+    "frequencyRank": 254
+  },
+  {
+    "word": "生産する",
+    "reading": "せいさんする",
+    "meaning": "to produce",
+    "context": "outings",
+    "frequencyRank": 255
+  },
+  {
+    "word": "～だけ",
+    "reading": "だけ",
+    "meaning": "only ~",
+    "context": "outings",
+    "frequencyRank": 256
+  },
+  {
+    "word": "～たち",
+    "reading": "たち",
+    "meaning": "plural for people",
+    "context": "outings",
+    "frequencyRank": 257
+  },
+  {
+    "word": "だれでも",
+    "reading": "だれでも",
+    "meaning": "anyone",
+    "context": "outings",
+    "frequencyRank": 258
+  },
+  {
+    "word": "断水",
+    "reading": "だんすい",
+    "meaning": "water outage",
+    "context": "outings",
+    "frequencyRank": 259
+  },
+  {
+    "word": "中止",
+    "reading": "ちゅうし",
+    "meaning": "cancel",
+    "context": "outings",
+    "frequencyRank": 260
+  },
+  {
+    "word": "手紙",
+    "reading": "てがみ",
+    "meaning": "letter",
+    "context": "outings",
+    "frequencyRank": 261
+  },
+  {
+    "word": "どなたでも",
+    "reading": "どなたでも",
+    "meaning": "anyone (polite)",
+    "context": "outings",
+    "frequencyRank": 262
+  },
+  {
+    "word": "隣近所の人",
+    "reading": "となりきんじょのひと",
+    "meaning": "neighbors",
+    "context": "outings",
+    "frequencyRank": 263
+  },
+  {
+    "word": "～において",
+    "reading": "において",
+    "meaning": "in ~",
+    "context": "outings",
+    "frequencyRank": 264
+  },
+  {
+    "word": "～について",
+    "reading": "について",
+    "meaning": "about ~",
+    "context": "outings",
+    "frequencyRank": 265
+  },
+  {
+    "word": "入場券",
+    "reading": "にゅうじょうけん",
+    "meaning": "entrance ticket",
+    "context": "outings",
+    "frequencyRank": 266
+  },
+  {
+    "word": "農家",
+    "reading": "のうか",
+    "meaning": "farmer",
+    "context": "outings",
+    "frequencyRank": 267
+  },
+  {
+    "word": "場合",
+    "reading": "ばあい",
+    "meaning": "in case of",
+    "context": "outings",
+    "frequencyRank": 268
+  },
+  {
+    "word": "はっぴ",
+    "reading": "はっぴ",
+    "meaning": "happi coat",
+    "context": "outings",
+    "frequencyRank": 269
+  },
+  {
+    "word": "花火大会",
+    "reading": "はなびたいかい",
+    "meaning": "fireworks display",
+    "context": "outings",
+    "frequencyRank": 270
+  },
+  {
+    "word": "販売会",
+    "reading": "はんばいかい",
+    "meaning": "marketing event",
+    "context": "outings",
+    "frequencyRank": 271
+  },
+  {
+    "word": "１人で",
+    "reading": "ひとりで",
+    "meaning": "by oneself",
+    "context": "outings",
+    "frequencyRank": 272
+  },
+  {
+    "word": "開く",
+    "reading": "ひらく",
+    "meaning": "to hold / to open",
+    "context": "outings",
+    "frequencyRank": 273
+  },
+  {
+    "word": "拾う",
+    "reading": "ひろう",
+    "meaning": "to pick up",
+    "context": "outings",
+    "frequencyRank": 274
+  },
+  {
+    "word": "広場",
+    "reading": "ひろば",
+    "meaning": "plaza",
+    "context": "outings",
+    "frequencyRank": 275
+  },
+  {
+    "word": "封筒",
+    "reading": "ふうとう",
+    "meaning": "envelope",
+    "context": "outings",
+    "frequencyRank": 276
+  },
+  {
+    "word": "ブラスバンド",
+    "reading": "ブラスバンド",
+    "meaning": "brass band",
+    "context": "outings",
+    "frequencyRank": 277
+  },
+  {
+    "word": "フリーマーケット",
+    "reading": "フリーマーケット",
+    "meaning": "flea market",
+    "context": "outings",
+    "frequencyRank": 278
+  },
+  {
+    "word": "防災",
+    "reading": "ぼうさい",
+    "meaning": "disaster preparedness",
+    "context": "outings",
+    "frequencyRank": 279
+  },
+  {
+    "word": "ポスト",
+    "reading": "ポスト",
+    "meaning": "mailbox",
+    "context": "outings",
+    "frequencyRank": 280
+  },
+  {
+    "word": "盆踊り",
+    "reading": "ぼんおどり",
+    "meaning": "Bon Odori dance",
+    "context": "outings",
+    "frequencyRank": 281
+  },
+  {
+    "word": "本日",
+    "reading": "ほんじつ",
+    "meaning": "today",
+    "context": "outings",
+    "frequencyRank": 282
+  },
+  {
+    "word": "濁る",
+    "reading": "にごる",
+    "meaning": "to become cloudy (water)",
+    "context": "outings",
+    "frequencyRank": 283
+  },
+  {
+    "word": "道の駅",
+    "reading": "みちのえき",
+    "meaning": "Michi-no-eki (roadside station)",
+    "context": "outings",
+    "frequencyRank": 284
+  },
+  {
+    "word": "娘たち",
+    "reading": "むすめたち",
+    "meaning": "my daughters",
+    "context": "outings",
+    "frequencyRank": 285
+  },
+  {
+    "word": "迷惑",
+    "reading": "めいわく",
+    "meaning": "inconvenience",
+    "context": "outings",
+    "frequencyRank": 286
+  },
+  {
+    "word": "申し込む",
+    "reading": "もうしこむ",
+    "meaning": "to sign up",
+    "context": "outings",
+    "frequencyRank": 287
+  },
+  {
+    "word": "持ち物",
+    "reading": "もちもの",
+    "meaning": "what to bring",
+    "context": "outings",
+    "frequencyRank": 288
+  },
+  {
+    "word": "浴衣",
+    "reading": "ゆかた",
+    "meaning": "yukata (light summer kimono)",
+    "context": "outings",
+    "frequencyRank": 289
+  },
+  {
+    "word": "汚れる",
+    "reading": "よごれる",
+    "meaning": "to get dirty",
+    "context": "outings",
+    "frequencyRank": 290
+  },
+  {
+    "word": "輪になる",
+    "reading": "わになる",
+    "meaning": "to form a circle",
+    "context": "outings",
+    "frequencyRank": 291
+  },
+  {
+    "word": "お気軽にお越しください",
+    "reading": "おきがるにおこしください",
+    "meaning": "Please feel free to stop by",
+    "context": "outings",
+    "frequencyRank": 292
+  },
+  {
+    "word": "お誘い合わせの上、お出かけください",
+    "reading": "おさそいあわせのうえ、おでかけください",
+    "meaning": "Please feel free to join us with family and friends",
+    "context": "outings",
+    "frequencyRank": 293
+  },
+  {
+    "word": "～からお知らせします",
+    "reading": "からおしらせします",
+    "meaning": "We have an announcement from ~",
+    "context": "outings",
+    "frequencyRank": 294
+  },
+  {
+    "word": "～についてお知らせします",
+    "reading": "についておしらせします",
+    "meaning": "We are pleased to announce that ~",
+    "context": "outings",
+    "frequencyRank": 295
+  },
+  {
+    "word": "皆様のご来場をお待ちしています",
+    "reading": "みなさまのごらいじょうをおまちしています",
+    "meaning": "We look forward to your visit",
+    "context": "outings",
+    "frequencyRank": 296
+  },
+  {
+    "word": "合気道デモンストレーション",
+    "reading": "あいきどうデモンストレーション",
+    "meaning": "aikido demonstration",
+    "context": "outings",
+    "frequencyRank": 297
+  },
+  {
+    "word": "あっち",
+    "reading": "あっち",
+    "meaning": "over there",
+    "context": "outings",
+    "frequencyRank": 298
+  },
+  {
+    "word": "飲食",
+    "reading": "いんしょく",
+    "meaning": "eating and drinking",
+    "context": "outings",
+    "frequencyRank": 299
+  },
+  {
+    "word": "受け付け",
+    "reading": "うけつけ",
+    "meaning": "reception desk",
+    "context": "outings",
+    "frequencyRank": 300
+  },
+  {
+    "word": "遠慮する",
+    "reading": "えんりょする",
+    "meaning": "to refrain (from doing something)",
+    "context": "outings",
+    "frequencyRank": 301
+  },
+  {
+    "word": "お子様",
+    "reading": "おこさま",
+    "meaning": "small children",
+    "context": "outings",
+    "frequencyRank": 302
+  },
+  {
+    "word": "観光紹介コーナー",
+    "reading": "かんこうしょうかいコーナー",
+    "meaning": "tourist information corner",
+    "context": "outings",
+    "frequencyRank": 303
+  },
+  {
+    "word": "協力する",
+    "reading": "きょうりょくする",
+    "meaning": "to cooperate",
+    "context": "outings",
+    "frequencyRank": 304
+  },
+  {
+    "word": "限られている",
+    "reading": "かぎられている",
+    "meaning": "to be limited",
+    "context": "outings",
+    "frequencyRank": 305
+  },
+  {
+    "word": "曲",
+    "reading": "きょく",
+    "meaning": "song",
+    "context": "outings",
+    "frequencyRank": 306
+  },
+  {
+    "word": "着る服",
+    "reading": "きるふく",
+    "meaning": "clothes to wear",
+    "context": "outings",
+    "frequencyRank": 307
+  },
+  {
+    "word": "禁止",
+    "reading": "きんし",
+    "meaning": "prohibited",
+    "context": "outings",
+    "frequencyRank": 308
+  },
+  {
+    "word": "公園内",
+    "reading": "こうえんない",
+    "meaning": "inside the park",
+    "context": "outings",
+    "frequencyRank": 309
+  },
+  {
+    "word": "～コーナー",
+    "reading": "コーナー",
+    "meaning": "~ corner",
+    "context": "outings",
+    "frequencyRank": 310
+  },
+  {
+    "word": "国際交流",
+    "reading": "こくさいこうりゅう",
+    "meaning": "international exchange",
+    "context": "outings",
+    "frequencyRank": 311
+  },
+  {
+    "word": "個数",
+    "reading": "こすう",
+    "meaning": "quantity",
+    "context": "outings",
+    "frequencyRank": 312
+  },
+  {
+    "word": "～コンテスト",
+    "reading": "コンテスト",
+    "meaning": "~ contest",
+    "context": "outings",
+    "frequencyRank": 313
+  },
+  {
+    "word": "撮影",
+    "reading": "さつえい",
+    "meaning": "photograph / video (filming)",
+    "context": "outings",
+    "frequencyRank": 314
+  },
+  {
+    "word": "参加費",
+    "reading": "さんかひ",
+    "meaning": "entry fee",
+    "context": "outings",
+    "frequencyRank": 315
+  },
+  {
+    "word": "終了する",
+    "reading": "しゅうりょうする",
+    "meaning": "to end",
+    "context": "outings",
+    "frequencyRank": 316
+  },
+  {
+    "word": "順番に",
+    "reading": "じゅんばんに",
+    "meaning": "in order",
+    "context": "outings",
+    "frequencyRank": 317
+  },
+  {
+    "word": "賞品",
+    "reading": "しょうひん",
+    "meaning": "award / prize",
+    "context": "outings",
+    "frequencyRank": 318
+  },
+  {
+    "word": "賞品が出る",
+    "reading": "しょうひんがでる",
+    "meaning": "awards are offered",
+    "context": "outings",
+    "frequencyRank": 319
+  },
+  {
+    "word": "～ショー",
+    "reading": "ショー",
+    "meaning": "~ show",
+    "context": "outings",
+    "frequencyRank": 320
+  },
+  {
+    "word": "スタンプラリー",
+    "reading": "スタンプラリー",
+    "meaning": "stamp collecting / rally",
+    "context": "outings",
+    "frequencyRank": 321
+  },
+  {
+    "word": "ステージ",
+    "reading": "ステージ",
+    "meaning": "stage",
+    "context": "outings",
+    "frequencyRank": 322
+  },
+  {
+    "word": "スピーチコンテスト",
+    "reading": "スピーチコンテスト",
+    "meaning": "speech contest",
+    "context": "outings",
+    "frequencyRank": 323
+  },
+  {
+    "word": "スピーチのテーマ",
+    "reading": "スピーチのテーマ",
+    "meaning": "speech topic",
+    "context": "outings",
+    "frequencyRank": 324
+  },
+  {
+    "word": "世界の遊び体験",
+    "reading": "せかいのあそびたいけん",
+    "meaning": "hands-on games from around the world",
+    "context": "outings",
+    "frequencyRank": 325
+  },
+  {
+    "word": "設定する",
+    "reading": "せっていする",
+    "meaning": "to set",
+    "context": "outings",
+    "frequencyRank": 326
+  },
+  {
+    "word": "先着順",
+    "reading": "せんちゃくじゅん",
+    "meaning": "first-come first-served basis",
+    "context": "outings",
+    "frequencyRank": 327
+  },
+  {
+    "word": "相談する",
+    "reading": "そうだんする",
+    "meaning": "to consult",
+    "context": "outings",
+    "frequencyRank": 328
+  },
+  {
+    "word": "～大会",
+    "reading": "たいかい",
+    "meaning": "~ competition",
+    "context": "outings",
+    "frequencyRank": 329
+  },
+  {
+    "word": "～体験",
+    "reading": "たいけん",
+    "meaning": "hands-on ~",
+    "context": "outings",
+    "frequencyRank": 330
+  },
+  {
+    "word": "太鼓",
+    "reading": "たいこ",
+    "meaning": "drums",
+    "context": "outings",
+    "frequencyRank": 331
+  },
+  {
+    "word": "たたく",
+    "reading": "たたく",
+    "meaning": "to beat",
+    "context": "outings",
+    "frequencyRank": 332
+  },
+  {
+    "word": "たぶん",
+    "reading": "たぶん",
+    "meaning": "probably",
+    "context": "outings",
+    "frequencyRank": 333
+  },
+  {
+    "word": "ダンス",
+    "reading": "ダンス",
+    "meaning": "dancing",
+    "context": "outings",
+    "frequencyRank": 334
+  },
+  {
+    "word": "中学生",
+    "reading": "ちゅうがくせい",
+    "meaning": "junior high school student",
+    "context": "outings",
+    "frequencyRank": 335
+  },
+  {
+    "word": "中国ゴマ",
+    "reading": "ちゅうごくゴマ",
+    "meaning": "diabolo",
+    "context": "outings",
+    "frequencyRank": 336
+  },
+  {
+    "word": "抽選",
+    "reading": "ちゅうせん",
+    "meaning": "lottery",
+    "context": "outings",
+    "frequencyRank": 337
+  },
+  {
+    "word": "通話する",
+    "reading": "つうわする",
+    "meaning": "to talk on the phone",
+    "context": "outings",
+    "frequencyRank": 338
+  },
+  {
+    "word": "つきあたり",
+    "reading": "つきあたり",
+    "meaning": "at the end of (the road)",
+    "context": "outings",
+    "frequencyRank": 339
+  },
+  {
+    "word": "～デモンストレーション",
+    "reading": "デモンストレーション",
+    "meaning": "~ demonstration",
+    "context": "outings",
+    "frequencyRank": 340
+  },
+  {
+    "word": "電源",
+    "reading": "でんげん",
+    "meaning": "power",
+    "context": "outings",
+    "frequencyRank": 341
+  },
+  {
+    "word": "電源を切る",
+    "reading": "でんげんをきる",
+    "meaning": "to turn off the power",
+    "context": "outings",
+    "frequencyRank": 342
+  },
+  {
+    "word": "動画",
+    "reading": "どうが",
+    "meaning": "video",
+    "context": "outings",
+    "frequencyRank": 343
+  },
+  {
+    "word": "～内",
+    "reading": "ない",
+    "meaning": "inside ~",
+    "context": "outings",
+    "frequencyRank": 344
+  },
+  {
+    "word": "日時",
+    "reading": "にちじ",
+    "meaning": "date and time",
+    "context": "outings",
+    "frequencyRank": 345
+  },
+  {
+    "word": "入場料",
+    "reading": "にゅうじょうりょう",
+    "meaning": "admission fee",
+    "context": "outings",
+    "frequencyRank": 346
+  },
+  {
+    "word": "パフォーマンス",
+    "reading": "パフォーマンス",
+    "meaning": "performance",
+    "context": "outings",
+    "frequencyRank": 347
+  },
+  {
+    "word": "必要事項",
+    "reading": "ひつようじこう",
+    "meaning": "necessary information",
+    "context": "outings",
+    "frequencyRank": 348
+  },
+  {
+    "word": "ピニャータ",
+    "reading": "ピニャータ",
+    "meaning": "pinata",
+    "context": "outings",
+    "frequencyRank": 349
+  },
+  {
+    "word": "ファッションショー",
+    "reading": "ファッションショー",
+    "meaning": "fashion show",
+    "context": "outings",
+    "frequencyRank": 350
+  },
+  {
+    "word": "フラダンスショー",
+    "reading": "フラダンスショー",
+    "meaning": "hula dance show",
+    "context": "outings",
+    "frequencyRank": 351
+  },
+  {
+    "word": "プロ",
+    "reading": "プロ",
+    "meaning": "professional",
+    "context": "outings",
+    "frequencyRank": 352
+  },
+  {
+    "word": "マナーモード",
+    "reading": "マナーモード",
+    "meaning": "silent mode",
+    "context": "outings",
+    "frequencyRank": 353
+  },
+  {
+    "word": "民族衣装",
+    "reading": "みんぞくいしょう",
+    "meaning": "traditional dress",
+    "context": "outings",
+    "frequencyRank": 354
+  },
+  {
+    "word": "持ち込み",
+    "reading": "もちこみ",
+    "meaning": "bring in",
+    "context": "outings",
+    "frequencyRank": 355
+  },
+  {
+    "word": "屋台",
+    "reading": "やたい",
+    "meaning": "food stalls",
+    "context": "outings",
+    "frequencyRank": 356
+  },
+  {
+    "word": "優勝する",
+    "reading": "ゆうしょうする",
+    "meaning": "to win first prize",
+    "context": "outings",
+    "frequencyRank": 357
+  },
+  {
+    "word": "来年",
+    "reading": "らいねん",
+    "meaning": "next year",
+    "context": "outings",
+    "frequencyRank": 358
+  },
+  {
+    "word": "列",
+    "reading": "れつ",
+    "meaning": "line",
+    "context": "outings",
+    "frequencyRank": 359
+  },
+  {
+    "word": "ロールケーキ",
+    "reading": "ロールケーキ",
+    "meaning": "roll cake",
+    "context": "outings",
+    "frequencyRank": 360
+  },
+  {
+    "word": "お見えです",
+    "reading": "おみえです",
+    "meaning": "to be present (polite)",
+    "context": "outings",
+    "frequencyRank": 361
+  },
+  {
+    "word": "お求めの",
+    "reading": "おもとめの",
+    "meaning": "who would like to purchase",
+    "context": "outings",
+    "frequencyRank": 362
+  },
+  {
+    "word": "ご遠慮くださいませ",
+    "reading": "ごえんりょくださいませ",
+    "meaning": "Please refrain",
+    "context": "outings",
+    "frequencyRank": 363
+  },
+  {
+    "word": "ご協力よろしくお願いいたします",
+    "reading": "ごきょうりょくよろしくおねがいいたします",
+    "meaning": "We ask for your kind cooperation",
+    "context": "outings",
+    "frequencyRank": 364
+  },
+  {
+    "word": "皆様にお願いいたします",
+    "reading": "みなさまにおねがいいたします",
+    "meaning": "We would like to request everyone",
+    "context": "outings",
+    "frequencyRank": 365
+  },
+  {
+    "word": "もう無理ですか？",
+    "reading": "もうむりですか？",
+    "meaning": "Is there no way?",
+    "context": "outings",
+    "frequencyRank": 366
+  }
+]

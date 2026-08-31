@@ -17,7 +17,17 @@ SENT_KEYS = {'sentence', 'target', 'reading', 'fullReading', 'meaning',
              'translation', 'context'}
 # Optional provenance metadata (second-set entries sourced from textbooks).
 SENT_OPT_KEYS = {'source', 'note'}
-SOURCE_WHITELIST = {'irodori-l1', 'irodori-l2', 'dekiru-l1'}
+SOURCE_WHITELIST = {
+    'irodori-l1', 'irodori-l2', 'irodori-l3', 'irodori-l4',
+    'irodori-l5', 'irodori-l6', 'irodori-l7', 'irodori-l8',
+    'irodori-l9', 'irodori-l10', 'irodori-l11', 'irodori-l12',
+    'irodori-l13', 'irodori-l14', 'irodori-l15', 'irodori-l16',
+    'irodori-l17', 'irodori-l18', 'dekiru-l1',
+    'irodori2-l1', 'irodori2-l2', 'irodori2-l3', 'irodori2-l4',
+    'irodori2-l5', 'irodori2-l6', 'irodori2-l7', 'irodori2-l8',
+    'irodori2-l9', 'irodori2-l10', 'irodori2-l11', 'irodori2-l12',
+    'irodori2-l13', 'irodori2-l14', 'irodori2-l15', 'irodori2-l16',
+}
 NOTE_WHITELIST = {'verbatim', 'reconstructed'}
 issues = []
 
@@ -29,6 +39,13 @@ def fail(ctx, msg):
 def is_counter(word):
     """People/month/year counters are exempted from needing their own sentence."""
     return bool(re.fullmatch(r'[0-9]+(人|か月|年)', word)) or word in ('何人',)
+
+
+def is_bound_form(word):
+    """Bound affixes/patterns (～様, ～cm, ノー～) and slash-joined register
+    variants (昭和／昭) can't stand alone as a sentence target verbatim, so
+    they're structurally exempt from needing their own dedicated sentence."""
+    return '～' in word or '〜' in word or '／' in word
 
 
 def main():
@@ -104,7 +121,8 @@ def main():
             fail(ctx, 'duplicate sentences')
 
         uncovered = [w['word'] for w in words
-                     if w['word'] not in hits and not is_counter(w['word'])]
+                     if w['word'] not in hits and not is_counter(w['word'])
+                     and not is_bound_form(w['word'])]
         if uncovered:
             print(f'note[{ctx}]: words without own sentence target '
                   f'(must be covered by inflected targets): {uncovered}')

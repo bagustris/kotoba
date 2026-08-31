@@ -15,7 +15,7 @@
   <button id="btn-settings" type="button" class="icon-btn settings-btn" aria-haspopup="dialog" aria-label="設定 Settings">
     <span class="hamburger-icon"><span></span><span></span><span></span></span>
   </button>
-  <h1>ことば</h1>
+  <h1><button id="btn-home-title" type="button" class="app-title-btn">ことば</button></h1>
 </header>
 
 <div id="settings-overlay" class="settings-overlay hidden">
@@ -37,6 +37,14 @@
       <span class="settings-row-label" id="setting-furigana-label">ふりがな<span>Show furigana over kanji</span></span>
       <label class="switch">
         <input type="checkbox" id="setting-furigana" aria-labelledby="setting-furigana-label">
+        <span class="switch-slider"></span>
+      </label>
+    </div>
+
+    <div class="settings-row">
+      <span class="settings-row-label" id="setting-show-examples-label">答えた後に例文を表示<span>Show example sentence after answering</span></span>
+      <label class="switch">
+        <input type="checkbox" id="setting-show-examples" aria-labelledby="setting-show-examples-label">
         <span class="switch-slider"></span>
       </label>
     </div>
@@ -75,7 +83,7 @@
 
     <div class="settings-row settings-row-column settings-about">
       <span class="settings-row-label">このアプリについて<span>About</span></span>
-      <p class="about-app">ことば — Kotoba <span class="about-version" id="about-version">v1.0.0</span></p>
+      <p class="about-app">ことば — Kotoba <span class="about-version" id="about-version">v1.1.0</span></p>
       <a class="about-link" href="https://github.com/bagustris/kotoba" target="_blank" rel="noopener noreferrer">貢献・問題報告<span>Contribute / report an issue on GitHub</span></a>
     </div>
   </div>
@@ -135,7 +143,8 @@
       <p id="quiz-hint" class="quiz-hint"></p>
       <p id="quiz-instruction" class="quiz-instruction">正しい答えは？<span>Choose the correct answer</span></p>
       <div id="quiz-options" class="quiz-options"></div>
-      <p id="quiz-continue" class="quiz-continue hidden">つづける →<span>タップ / Tap or press → Enter Space</span></p>
+      <div id="quiz-examples" class="quiz-examples hidden"></div>
+      <button id="quiz-continue" class="quiz-continue hidden" type="button">つづける →<span>タップ / Tap or press → Enter Space</span></button>
     </div>
   </section>
 

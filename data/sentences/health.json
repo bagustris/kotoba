@@ -1,0 +1,2637 @@
+[
+  {
+    "sentence": "この薬を飲むときは、6時間ぐらい間をあけてください。",
+    "target": "間をあけて",
+    "reading": "かんをあけて",
+    "fullReading": "このくすりをのむときは、6じかんぐらいかんをあけてください。",
+    "meaning": "to take at a time interval",
+    "translation": "Please wait about six hours before taking this medicine.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "昨日、道で転んで、足をくじいたんです。",
+    "target": "くじいた",
+    "reading": "くじいた",
+    "fullReading": "きのう、みちでころんで、あしをくじいたんです。",
+    "meaning": "to twist",
+    "translation": "I fell down on the street and sprained my foot yesterday.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "昨日、頭をぶつけてしまったんです。",
+    "target": "ぶつけて",
+    "reading": "ぶつけて",
+    "fullReading": "きのう、あたまをぶつけてしまったんです。",
+    "meaning": "to bump",
+    "translation": "I hit my head yesterday.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "この薬は、胃を守る薬といっしょに飲んでください。",
+    "target": "飲んで",
+    "reading": "のんで",
+    "fullReading": "このくすりは、いをまもるくすりといっしょにのんでください。",
+    "meaning": "to take (e.g. take medicine)",
+    "translation": "Please take it with a medicine to protect your stomach.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "私は40才のとき、医者になりました。",
+    "target": "医者",
+    "reading": "いしゃ",
+    "fullReading": "わたしは40さいのとき、いしゃになりました。",
+    "meaning": "doctor",
+    "translation": "I became a doctor when I was 40 years old.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "こちらの薬は、熱が38度5分以上あるときに、飲んでください。",
+    "target": "飲んで",
+    "reading": "のんで",
+    "fullReading": "こちらのくすりは、ねつが38ど5ふんいじょうあるときに、のんでください。",
+    "meaning": "to take (e.g. take medicine)",
+    "translation": "Please take this medicine if your fever is 38.5 degrees or higher.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "昨日から38度の熱があって、のどがすごく痛いんです。",
+    "target": "痛い",
+    "reading": "いたい",
+    "fullReading": "きのうから38どのねつがあって、のどがすごくいたいんです。",
+    "meaning": "hurts",
+    "translation": "I have had a 38-degree fever since yesterday, and my throat is very sore.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "これは痛み止めです。",
+    "target": "痛み止め",
+    "reading": "いたみどめ",
+    "fullReading": "これはいたみどめです。",
+    "meaning": "painkiller",
+    "translation": "This is a painkiller.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "インフルエンザの検査、してみましょう。",
+    "target": "インフルエンザ",
+    "reading": "いんふるえんざ",
+    "fullReading": "いんふるえんざのけんさ、してみましょう。",
+    "meaning": "influenzas",
+    "translation": "Make sure to get the influenza test.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "この薬を飲んだあとは、運転しないでくださいね。",
+    "target": "運転しない",
+    "reading": "うんてんしない",
+    "fullReading": "このくすりをのんだあとは、うんてんしないでくださいね。",
+    "meaning": "to drive",
+    "translation": "Please do not drive after taking this medicine.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "インフルエンザですね。A型です。",
+    "target": "インフルエンザ",
+    "reading": "いんふるえんざ",
+    "fullReading": "いんふるえんざですね。Aかたです。",
+    "meaning": "influenzas",
+    "translation": "It's influenza. Type A.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "食べ物は、うどんとか、おかゆとか、やわらかいものにしてください。",
+    "target": "やわらかい",
+    "reading": "やわらかい",
+    "fullReading": "たべものは、うどんとか、おかゆとか、やわらかいものにしてください。",
+    "meaning": "soft",
+    "translation": "For food, please choose soft foods, such as udon or rice porridge.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "こちらは、せきを抑える薬です。",
+    "target": "抑える",
+    "reading": "おさえる",
+    "fullReading": "こちらは、せきをおさえるくすりです。",
+    "meaning": "to suppress",
+    "translation": "This is a medicine to suppress coughing.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "おとといから、お腹が痛くて、吐き気がするんです。",
+    "target": "吐き気がする",
+    "reading": "はきけがする",
+    "fullReading": "おとといから、おなかがいたくて、はきけがするんです。",
+    "meaning": "to have a nausea",
+    "translation": "My stomach hurts and I feel nauseous since the day before yesterday.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "お腹が痛くて、吐き気がするんです。",
+    "target": "吐き気がする",
+    "reading": "はきけがする",
+    "fullReading": "おなかがいたくて、はきけがするんです。",
+    "meaning": "to have a nausea",
+    "translation": "My stomach hurts and I feel nauseous.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "花粉症がありますか?",
+    "target": "花粉症",
+    "reading": "かふんしょう",
+    "fullReading": "かふんしょうがありますか?",
+    "meaning": "pollen allergy",
+    "translation": "Do you have hay fever?",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "痛み止めは、痛くてがまんできないときに、飲んでください。",
+    "target": "がまんできない",
+    "reading": "がまんできない",
+    "fullReading": "いたみどめは、いたくてがまんできないときに、のんでください。",
+    "meaning": "unbearable",
+    "translation": "For painkillers, take them when you can't stand the pain.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "1週間ぐらい前から、目がかゆくて、鼻水も出るんです。",
+    "target": "かゆくて",
+    "reading": "かゆくて",
+    "fullReading": "1しゅうかんぐらいぜんから、めがかゆくて、はなみずもでるんです。",
+    "meaning": "itchy",
+    "translation": "My eyes are itchy and I have runny nose since about a week ago.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "こちらの問診ク票に記入してお待ちください。",
+    "target": "記入して",
+    "reading": "きにゅうして",
+    "fullReading": "こちらのもんしんくひょうにきにゅうしておまちください。",
+    "meaning": "to fill out",
+    "translation": "Please fill out this questionnaire and wait.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "昨日、道で転んで、足をくしじいたんです。",
+    "target": "転んで",
+    "reading": "ころんで",
+    "fullReading": "きのう、みちでころんで、あしをくしじいたんです。",
+    "meaning": "to fall",
+    "translation": "I fell down on the street and sprained my foot yesterday.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "この薬は、くしゃみや上鼻水を抑えます。",
+    "target": "抑えます",
+    "reading": "おさえます",
+    "fullReading": "このくすりは、くしゃみやうえはなみずをおさえます。",
+    "meaning": "to suppress",
+    "translation": "This medicine suppresses sneezing and runny nose.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "こちらが処方せんです。薬局に行って、薬をもらってください。",
+    "target": "もらって",
+    "reading": "もらって",
+    "fullReading": "こちらがしょほうせんです。やっきょくにいって、くすりをもらってください。",
+    "meaning": "to receive",
+    "translation": "Here is your prescription. Please go to the pharmacy and get your medication.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "のごどを見ますね。口を開けてください。",
+    "target": "口",
+    "reading": "くち",
+    "fullReading": "のごどをみますね。くちをひらけてください。",
+    "meaning": "mouth",
+    "translation": "I'm going to look at your throat. Please open your mouth.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "こちらは解熱剤です。熱を下げるお薬です。",
+    "target": "解熱剤",
+    "reading": "げねつざい",
+    "fullReading": "こちらはげねつざいです。ねつをさげるおくすりです。",
+    "meaning": "fever reducer",
+    "translation": "This is an antipyretic. It's a medicine to reduce fever.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "現在、楽を飲んでいますか?",
+    "target": "飲んで",
+    "reading": "のんで",
+    "fullReading": "げんざい、らくをのんでいますか?",
+    "meaning": "to take (e.g. take medicine)",
+    "translation": "Are you currently taking medication?",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "熱があるか、検査してみましょう。",
+    "target": "検査して",
+    "reading": "けんさして",
+    "fullReading": "ねつがあるか、けんさしてみましょう。",
+    "meaning": "to examine",
+    "translation": "Let's check if you have a fever.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "この楽の効能は何ですか?",
+    "target": "効能",
+    "reading": "こうのう",
+    "fullReading": "このらくのこうのうはなんですか?",
+    "meaning": "efficacy",
+    "translation": "What's the efficacy of this medicine?",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "痛み止めを飲むときは、こっちの胃を守る薬といっしょに飲んでください。",
+    "target": "痛み止め",
+    "reading": "いたみどめ",
+    "fullReading": "いたみどめをのむときは、こっちのいをまもるくすりといっしょにのんでください。",
+    "meaning": "painkiller",
+    "translation": "When taking painkillers, please take them with this medicine to protect your stomach.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "ここに、氏名を書いてください。",
+    "target": "ここに、氏名を書いてください。",
+    "reading": "ここに、しめいをかいてください。",
+    "fullReading": "ここに、しめいをかいてください。",
+    "meaning": "source example sentence",
+    "translation": "Please write your name here.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "138周間ぐらい前から、目がかゆくて、鼻水も出るんです。",
+    "target": "かゆくて",
+    "reading": "かゆくて",
+    "fullReading": "138しゅうかんぐらいぜんから、めがかゆくて、はなみずもでるんです。",
+    "meaning": "itchy",
+    "translation": "My eyes are itchy and I have runny nose since about a week ago.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "ここに、住所を書いてください。",
+    "target": "ここに、住所を書いてください。",
+    "reading": "ここに、じゅうしょをかいてください。",
+    "fullReading": "ここに、じゅうしょをかいてください。",
+    "meaning": "source example sentence",
+    "translation": "Please write your address here.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "どんな症状がありますか?",
+    "target": "症状",
+    "reading": "しょうじょう",
+    "fullReading": "どんなしょうじょうがありますか?",
+    "meaning": "symptom",
+    "translation": "What are your symptoms?",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "この薬は、1日3回、食後に飲んでください。",
+    "target": "飲んで",
+    "reading": "のんで",
+    "fullReading": "このくすりは、1にち3かい、しょくごにのんでください。",
+    "meaning": "to take (e.g. take medicine)",
+    "translation": "Please take this medicine three times a day after meals.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "ご飯は食べてますか?",
+    "target": "ご飯は食べてますか?",
+    "reading": "ごめしはたべてますか?",
+    "fullReading": "ごめしはたべてますか?",
+    "meaning": "source example sentence",
+    "translation": "A: Have you been eating?",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "B:いえ、食欲がなくて…。",
+    "target": "食欲",
+    "reading": "しょくよく",
+    "fullReading": "B:いえ、しょくよくがなくて…。",
+    "meaning": "appetite",
+    "translation": "B: No, I have no appetite...",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "この項目は、女性の方だけお答えください。",
+    "target": "お答えください",
+    "reading": "おこたえください",
+    "fullReading": "このこうもくは、じょせいのほうだけおこたえください。",
+    "meaning": "Please answer. (polite expression)",
+    "translation": "Please answer this item only if you're female.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "こちら診察券です。次からは、これを受付に出してください。",
+    "target": "診察券",
+    "reading": "しんさつけん",
+    "fullReading": "こちらしんさつけんです。つぎからは、これをうけつけにだしてください。",
+    "meaning": "hospital / clinic registration card",
+    "translation": "This is your hospital registration card. Please show this to the reception from now on.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "ここに、生活習慣について書いてください。",
+    "target": "ついて",
+    "reading": "ついて",
+    "fullReading": "ここに、せいかつしゅうかんについてかいてください。",
+    "meaning": "to stick (e.g. virus sticks)",
+    "translation": "Please write about your lifestyle here.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "ここに、生年月日を書いてください。",
+    "target": "ここに、生年月日を書いてください。",
+    "reading": "ここに、せいねんがっぴをかいてください。",
+    "fullReading": "ここに、せいねんがっぴをかいてください。",
+    "meaning": "source example sentence",
+    "translation": "Please write your date of birth here.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "ごごに、性別を書いてください。",
+    "target": "性別",
+    "reading": "せいべつ",
+    "fullReading": "ごごに、せいべつをかいてください。",
+    "meaning": "gender",
+    "translation": "Please write your sex here.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "こちらは、せきを抑える楽です。",
+    "target": "抑える",
+    "reading": "おさえる",
+    "fullReading": "こちらは、せきをおさえるらくです。",
+    "meaning": "to suppress",
+    "translation": "This is a medicine to suppress coughing.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "注意事項をよく読んでください。",
+    "target": "注意事項",
+    "reading": "ちゅういじこう",
+    "fullReading": "ちゅういじこうをよくよんでください。",
+    "meaning": "warning",
+    "translation": "Please read the warnings carefully.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "解熱剤は、熱が高くてつらいときに、飲んでください。",
+    "target": "熱が高くて",
+    "reading": "ねつがたかくて",
+    "fullReading": "げねつざいは、ねつがたかくてつらいときに、のんでください。",
+    "meaning": "high fever",
+    "translation": "Please take antipyretics if you have a high fever and are having a hard time.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "ここに、電話番号を書いてください。",
+    "target": "ここに、電話番号を書いてください。",
+    "reading": "ここに、でんわばんごうをかいてください。",
+    "fullReading": "ここに、でんわばんごうをかいてください。",
+    "meaning": "source example sentence",
+    "translation": "Please write your phone number here.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "昨日の夜から、熱が38度5分あるんです。",
+    "target": "熱",
+    "reading": "ねつ",
+    "fullReading": "きのうのよるから、ねつが38ど5ふんあるんです。",
+    "meaning": "fever",
+    "translation": "I've had a 38.5 degree fever since last night.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "現在、妊娠していますか?",
+    "target": "妊娠して",
+    "reading": "にんしんして",
+    "fullReading": "げんざい、にんしんしていますか?",
+    "meaning": "to get pregnant",
+    "translation": "Are you currently pregnant?",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "楽を飲んで、よく寝てください。熱はすぐ下がります。",
+    "target": "下がります",
+    "reading": "さがります",
+    "fullReading": "らくをのんで、よくねてください。ねつはすぐさがります。",
+    "meaning": "to go down (e.g. fever goes down)",
+    "translation": "Please take the medicine and sleep well. Your fever will go down immediately.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "この薬は、飲むと、眠くなります。",
+    "target": "眠く",
+    "reading": "ねむく",
+    "fullReading": "このくすりは、のむと、ねむくなります。",
+    "meaning": "sleepy",
+    "translation": "This medicine will make you sleepy when taken.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "頭が痛くて、吐き気がするんです。",
+    "target": "吐き気がする",
+    "reading": "はきけがする",
+    "fullReading": "あたまがいたくて、はきけがするんです。",
+    "meaning": "to have a nausea",
+    "translation": "I have a headache and nausea.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "今までに大きながな病気にかかったことはありますか?",
+    "target": "病気にかかった",
+    "reading": "びょうきにかかった",
+    "fullReading": "いままでにおおきながなびょうきにかかったことはありますか?",
+    "meaning": "to get sick",
+    "translation": "Have you ever had a major illness until now?",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "ここに、ふりがなを書いてください。",
+    "target": "ここに、ふりがなを書いてください。",
+    "reading": "ここに、ふりがなをかいてください。",
+    "fullReading": "ここに、ふりがなをかいてください。",
+    "meaning": "source example sentence",
+    "translation": "Please write the furigana here.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "保険証はお持ちですか?",
+    "target": "保険証",
+    "reading": "ほけんしょう",
+    "fullReading": "ほけんしょうはおもちですか?",
+    "meaning": "health insurance card",
+    "translation": "Do you have an insurance card?",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "この薬は、胃を守る楽といっしょに飲んでください。",
+    "target": "飲んで",
+    "reading": "のんで",
+    "fullReading": "このくすりは、いをまもるらくといっしょにのんでください。",
+    "meaning": "to take (e.g. take medicine)",
+    "translation": "Please take it with a medicine to protect your stomach.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "ここちらが処方せんです。薬局に行って、薬をもらってください。",
+    "target": "もらって",
+    "reading": "もらって",
+    "fullReading": "ここちらがしょほうせんです。やっきょくにいって、くすりをもらってください。",
+    "meaning": "to receive",
+    "translation": "Here is your prescription. Please go to the pharmacy and get your medication.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "問診票に記入してお待ちください。",
+    "target": "記入して",
+    "reading": "きにゅうして",
+    "fullReading": "もんしんひょうにきにゅうしておまちください。",
+    "meaning": "to fill out",
+    "translation": "Please fill out this questionnaire and wait.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "この薬は、朝夕2回飲んでください。",
+    "target": "飲んで",
+    "reading": "のんで",
+    "fullReading": "このくすりは、あさゆう2かいのんでください。",
+    "meaning": "to take (e.g. take medicine)",
+    "translation": "Please take this medicine twice, once in the morning and once in the evening.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "楽の用法と用量をよく読んでください。",
+    "target": "用量",
+    "reading": "ようりょう",
+    "fullReading": "らくのようほうとようりょうをよくよんでください。",
+    "meaning": "dosage",
+    "translation": "Please read the medicine's directions for use and dosage carefully.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "薬の用法と用量をよく読んでください。",
+    "target": "用量",
+    "reading": "ようりょう",
+    "fullReading": "くすりのようほうとようりょうをよくよんでください。",
+    "meaning": "dosage",
+    "translation": "Please read the medicine's directions for use and dosage carefully.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "レントゲンを撮ってみましょうか。",
+    "target": "レントゲン",
+    "reading": "れんとげん",
+    "fullReading": "れんとげんをとってみましょうか。",
+    "meaning": "X-ray",
+    "translation": "Shall we get an X-ray?",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "B:ありがとうございます。",
+    "target": "B:ありがとうございます。",
+    "reading": "B:ありがとうございます。",
+    "fullReading": "B:ありがとうございます。",
+    "meaning": "source example sentence",
+    "translation": "B : Thank you.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "A:お大事に。",
+    "target": "大事に",
+    "reading": "だいじに",
+    "fullReading": "A:おだいじに。",
+    "meaning": "Take care.(used to express sympathy for a",
+    "translation": "A: Take care of yourself.",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "お薬はお持ちですか?",
+    "target": "薬",
+    "reading": "くすり",
+    "fullReading": "おくすりはおもちですか?",
+    "meaning": "medicine",
+    "translation": "Do you have?",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "どうされましたか?",
+    "target": "どうされましたか?",
+    "reading": "どうされましたか?",
+    "fullReading": "どうされましたか?",
+    "meaning": "source example sentence",
+    "translation": "How may I help you?",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "今日はこうされましたか?",
+    "target": "こう",
+    "reading": "こう",
+    "fullReading": "こんにちはこうされましたか?",
+    "meaning": "this",
+    "translation": "How may I help you today?",
+    "context": "health",
+    "source": "irodori-l15",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "足をくじきました。",
+    "target": "足",
+    "reading": "あし",
+    "fullReading": "あしをくじきました。",
+    "meaning": "leg / foot",
+    "translation": "I sprained my foot.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "胃の調子が悪いときは、お腹を温めるといいですよ。",
+    "target": "調子が悪い",
+    "reading": "ちょうしがわるい",
+    "fullReading": "いのちょうしがわるいときは、おなかをあためるといいですよ。",
+    "meaning": "feel unwell",
+    "translation": "You should warm up your belly when you have an upset stomach.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "肩がこって、頭が痛いんです。",
+    "target": "肩がこって",
+    "reading": "かたがこって",
+    "fullReading": "かたがこって、あたまがいたいんです。",
+    "meaning": "to have stiff shoulders",
+    "translation": "My shoulders are stiff and my head hurts.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "健康のために、歩いたり、走ったり、できるだけ運動するようにしています。",
+    "target": "走った",
+    "reading": "はしった",
+    "fullReading": "けんこうのために、あるいたり、はしったり、できるだけうんどうするようにしています。",
+    "meaning": "to run",
+    "translation": "I try to exercise, such as walking or running, as much as I can for my health.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "最近、胃の調子が悪いんです。",
+    "target": "調子が悪い",
+    "reading": "ちょうしがわるい",
+    "fullReading": "さいきん、いのちょうしがわるいんです。",
+    "meaning": "feel unwell",
+    "translation": "Recently, my stomach doesn't feel good.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "健康のために、ジムに行ったり、ウォーキングしたりしています。",
+    "target": "ウォーキングした",
+    "reading": "うぉーきんぐした",
+    "fullReading": "けんこうのために、じむにいったり、うぉーきんぐしたりしています。",
+    "meaning": "to go for a walk",
+    "translation": "I go to the gym or go walking for my health.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "外出先から帰宅したときなどは、しっかりうがいをしましょう。",
+    "target": "帰宅した",
+    "reading": "きたくした",
+    "fullReading": "がいしゅつさきからきたくしたときなどは、しっかりうがいをしましょう。",
+    "meaning": "to go home",
+    "translation": "Make sure to gargle well when you get home from outside or such.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "インフルエンザの予防には、みんなの「かからない」「うつさない」という気持ちが大切です。",
+    "target": "インフルエンザ",
+    "reading": "いんふるえんざ",
+    "fullReading": "いんふるえんざのよぼうには、みんなの「かからない」「うつさない」というきもちがたいせつです。",
+    "meaning": "influenzas",
+    "translation": "To prevent influenza, it's important that everyone takes care to \"not get sick\" and \"not pass it on to others.\" IC Ban arm",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "腕が痛いです。",
+    "target": "痛い",
+    "reading": "いたい",
+    "fullReading": "うでがいたいです。",
+    "meaning": "hurts",
+    "translation": "My arm hurts.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "ノロウイルスに感染すると、腹痛、おう吐、下痢などを起こします。",
+    "target": "ノロウイルス",
+    "reading": "のろういるす",
+    "fullReading": "のろういるすにかんせんすると、ふくつう、おうと、げりなどをおこします。",
+    "meaning": "norovirus",
+    "translation": "An infection by the norovirus causes abdominal pain, vomiting, and diarrhea, among others.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "よく眠れないときは、ぬるいお風呂に入るといいですよ。",
+    "target": "お風呂に入る",
+    "reading": "おふろにいる",
+    "fullReading": "よくねむれないときは、ぬるいおふろにいるといいですよ。",
+    "meaning": "to take a bath",
+    "translation": "Have a nice bath in lukewarm water if you cannot sleep well.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "健康のためにプールで泳いだり、できるだけり運動したりするようにしています。",
+    "target": "泳いだ",
+    "reading": "およいだ",
+    "fullReading": "けんこうのためにぷーるでおよいだり、できるだけりうんどうしたりするようにしています。",
+    "meaning": "to swim",
+    "translation": "I try to exercise as much as I can by swimming in the pool and such to stay fit.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "プロワイルズは、汚染されたカキなどの只を、生、または十分に加熱しないで食べるこことが原因で感染します。",
+    "target": "感染します",
+    "reading": "かんせんします",
+    "fullReading": "ぷろわいるずは、おせんされたかきなどのただを、なま、またはじゅうぶんにかねつしないでたべるこことがげんいんでかんせんします。",
+    "meaning": "to get infected",
+    "translation": "You can get infected by the norovirus as a result of eating raw, or insufficiently heated, contaminated oysters and other shellfish.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "どうしたら、ノロウイルスの感染を予防できるでしょうか。予防のポイントは、手洗いと、食品の十分な加熱です。",
+    "target": "ノロウイルス",
+    "reading": "のろういるす",
+    "fullReading": "どうしたら、のろういるすのかんせんをよぼうできるでしょうか。よぼうのぽいんとは、てあらいと、しょくひんのじゅうぶんなかねつです。",
+    "meaning": "norovirus",
+    "translation": "What can we do to prevent a norovirus infection? Preventive steps are hand washing and sufficient heating of food.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "最近よく眠れなくて、体がだるいんです。",
+    "target": "眠れなくて",
+    "reading": "ねむれなくて",
+    "fullReading": "さいきんよくねむれなくて、からだがだるいんです。",
+    "meaning": "can’t sleep",
+    "translation": "I haven't slept well lately, and I feel tired and listless.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "インフルエンザの症状には、関節痛などがあります。",
+    "target": "インフルエンザ",
+    "reading": "いんふるえんざ",
+    "fullReading": "いんふるえんざのしょうじょうには、かんせついたなどがあります。",
+    "meaning": "influenzas",
+    "translation": "The symptoms of influenza include joint pain.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "ノロウイルスは、汚染されたカキなどの貝を、生、または十分に加熱しないで食べることが原因で感染します。",
+    "target": "ノロウイルス",
+    "reading": "のろういるす",
+    "fullReading": "のろういるすは、おせんされたかきなどのかいを、なま、またはじゅうぶんにかねつしないでたべることがげんいんでかんせんします。",
+    "meaning": "norovirus",
+    "translation": "You can get infected by the norovirus as a result of eating raw, Or insufficiently heated, contaminated oysters and other shellfish.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "健康のために、何か気をつけていますか?",
+    "target": "気をつけて",
+    "reading": "きをつけて",
+    "fullReading": "けんこうのために、なにかきをつけていますか?",
+    "meaning": "to be mindful",
+    "translation": "Are you careful of anything for your health?",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "口の中が痛いです。",
+    "target": "痛い",
+    "reading": "いたい",
+    "fullReading": "くちのなかがいたいです。",
+    "meaning": "hurts",
+    "translation": "The inside of my mouth hurts.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "昨日から首が痛いです。",
+    "target": "痛い",
+    "reading": "いたい",
+    "fullReading": "きのうからくびがいたいです。",
+    "meaning": "hurts",
+    "translation": "My neck has been hurting since yesterday.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "二日酔いのときは、薬を飲びかな。けっこういいよ。",
+    "target": "二日酔い",
+    "reading": "ふつかよい",
+    "fullReading": "ふつかよいのときは、くすりをいんびかな。けっこういいよ。",
+    "meaning": "hangover",
+    "translation": "I think I'd take some medicine if I have a hangover. It's really good.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "ノロウイルスは、汚染されたカキなどの内を、生、または十分に加熱しないで食べるこことが原因で感染します。",
+    "target": "ノロウイルス",
+    "reading": "のろういるす",
+    "fullReading": "のろういるすは、おせんされたかきなどのないを、なま、またはじゅうぶんにかねつしないでたべるこことがげんいんでかんせんします。",
+    "meaning": "norovirus",
+    "translation": "You can get infected by the norovirus as a result of eating raw, Or insufficiently heated, contaminated oysters and other shellfish.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "腰が痛いです。",
+    "target": "痛い",
+    "reading": "いたい",
+    "fullReading": "こしがいたいです。",
+    "meaning": "hurts",
+    "translation": "My lower back hurts.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "健康のために、ジムに行ったり、ウォーキングをしたりしています。",
+    "target": "健康",
+    "reading": "けんこう",
+    "fullReading": "けんこうのために、じむにいったり、うぉーきんぐをしたりしています。",
+    "meaning": "health",
+    "translation": "I go to the gym or go walking for my health.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "健康のために、ジョギングしたり、ときどき家でヨガをしたりしています。",
+    "target": "ジョギングした",
+    "reading": "じょぎんぐした",
+    "fullReading": "けんこうのために、じょぎんぐしたり、ときどきいえでよがをしたりしています。",
+    "meaning": "to go jogging",
+    "translation": "I go jogging or sometimes do yoga at home for my health.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "最近、ノロウイルスとみられる食中毒が増えています。",
+    "target": "ノロウイルス",
+    "reading": "のろういるす",
+    "fullReading": "さいきん、のろういるすとみられるしょくちゅうどくがふえています。",
+    "meaning": "norovirus",
+    "translation": "Recently, food poisoning believed to be from the norovirus has been increasing.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "背中が痛いです。",
+    "target": "背中",
+    "reading": "せなか",
+    "fullReading": "せなかがいたいです。",
+    "meaning": "back",
+    "translation": "My back hurts.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "インフルエンザの症状には、全身のだるさなどがあります。",
+    "target": "インフルエンザ",
+    "reading": "いんふるえんざ",
+    "fullReading": "いんふるえんざのしょうじょうには、ぜんしんのだるさなどがあります。",
+    "meaning": "influenzas",
+    "translation": "The symptoms of influenza include an overall feeling of fatigue.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "あれ、ダイエットしてるの?",
+    "target": "ダイエットして",
+    "reading": "だいえっとして",
+    "fullReading": "あれ、だいえっとしてるの?",
+    "meaning": "to go on a diet",
+    "translation": "Hey, are you on a diet?",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "いつもだいたい夜9時に翌ます。",
+    "target": "だいたい",
+    "reading": "だいたい",
+    "fullReading": "いつもだいたいよる9ときによくます。",
+    "meaning": "about / around",
+    "translation": "I always go to sleep at around 9 pm.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "B:そうですか。試してみます。",
+    "target": "B:そうですか。試してみます。",
+    "reading": "B:そうですか。ためしてみます。",
+    "fullReading": "B:そうですか。ためしてみます。",
+    "meaning": "source example sentence",
+    "translation": "B: Is that so. I'll give it a try.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "私は、チキンサラダとトマトジュースにします。",
+    "target": "トマトジュース",
+    "reading": "とまとじゅーす",
+    "fullReading": "わたしは、ちきんさらだととまとじゅーすにします。",
+    "meaning": "tomato juice",
+    "translation": "I'lI have chicken salad and tomato juice.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "ノロウイルスは、ウイルスがついた手で調理したものを食べることでも感染します。",
+    "target": "ノロウイルス",
+    "reading": "のろういるす",
+    "fullReading": "のろういるすは、ういるすがついたてでちょうりしたものをたべることでもかんせんします。",
+    "meaning": "norovirus",
+    "translation": "You can also get infected by the norovirus by eating food prepared with hands contaminated by the virus.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "毎日忙しくて、ちょっと疲れています。",
+    "target": "疲れています",
+    "reading": "つかれています",
+    "fullReading": "まいにちいそがしくて、ちょっとつかれています。",
+    "meaning": "tired",
+    "translation": "It's busy every day and I'm a little tired.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "石けんでよく手を洗ってください。",
+    "target": "洗って",
+    "reading": "あらって",
+    "fullReading": "いしけんでよくてをあらってください。",
+    "meaning": "to wash",
+    "translation": "Please wash your hands thoroughly with soap.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "よく眠れないときは、ぬるいお風呂にゆっくり入るといいですよ。",
+    "target": "眠れない",
+    "reading": "ねむれない",
+    "fullReading": "よくねむれないときは、ぬるいおふろにゆっくりいるといいですよ。",
+    "meaning": "can’t sleep",
+    "translation": "Have a nice long relaxing bath in lukewarm water if you cannot sleep well.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "インフルエンザにかかると、38度以上の熱が出ます。",
+    "target": "インフルエンザ",
+    "reading": "いんふるえんざ",
+    "fullReading": "いんふるえんざにかかると、38どいじょうのねつがでます。",
+    "meaning": "influenzas",
+    "translation": "If you get influenza, you will get a fever of 38-degrees or over.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "毎日忙しくて、ちょっと憶不足です。",
+    "target": "足",
+    "reading": "あし",
+    "fullReading": "まいにちいそがしくて、ちょっとおくふそくです。",
+    "meaning": "leg / foot",
+    "translation": "It's busy every day and I'm a little short of sleep.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "昨日から歯が痛いです。",
+    "target": "痛い",
+    "reading": "いたい",
+    "fullReading": "きのうからはがいたいです。",
+    "meaning": "hurts",
+    "translation": "My tooth has been hurting since yesterday.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "健康のために、歩いたり、走つたり、できるだけ運動するようにしています。",
+    "target": "歩いた",
+    "reading": "あるいた",
+    "fullReading": "けんこうのために、あるいたり、はしつたり、できるだけうんどうするようにしています。",
+    "meaning": "to walk",
+    "translation": "I try to exercise, such as walking or running, as much as I can for my health.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "先週、県内のレストランで、ノロウイルスによる食中毒が発生しました。",
+    "target": "発生しました",
+    "reading": "はっせいしました",
+    "fullReading": "せんしゅう、けんないのれすとらんで、のろういるすによるしょくちゅうどくがはっせいしました。",
+    "meaning": "to occur",
+    "translation": "Last week, a food poisoning outbreak caused by the norovirus occurred at a restaurant within the prefecture.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "インフルエンザの症状には、38度以上の発熱などがあります。",
+    "target": "インフルエンザ",
+    "reading": "いんふるえんざ",
+    "fullReading": "いんふるえんざのしょうじょうには、38どいじょうのはつねつなどがあります。",
+    "meaning": "influenzas",
+    "translation": "The symptoms of influenza include a fever of 38-degrees or over.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "昨日から鼻の調子が悪いです。",
+    "target": "調子が悪い",
+    "reading": "ちょうしがわるい",
+    "fullReading": "きのうからはなのちょうしがわるいです。",
+    "meaning": "feel unwell",
+    "translation": "My nose hasn't been feeling good since yesterday.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "健康のために、毎日、朝早く起きて、夜は早く寝るようにしています。",
+    "target": "起きて",
+    "reading": "おきて",
+    "fullReading": "けんこうのために、まいにち、あさはやくおきて、よるははやくねるようにしています。",
+    "meaning": "to wake up",
+    "translation": "I try to get up early in the morning and go to bed early at night every day to stay healthy.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "健康のために、プールで泳いだり、できるだけ運動したりするようにしています。",
+    "target": "泳いだ",
+    "reading": "およいだ",
+    "fullReading": "けんこうのために、ぷーるでおよいだり、できるだけうんどうしたりするようにしています。",
+    "meaning": "to swim",
+    "translation": "I try to exercise as much as I can by swimming in the pool and such to stay fit.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "昨日、飲みすぎました。ちょっと二日酔いなんです…",
+    "target": "飲みすぎました",
+    "reading": "のみすぎました",
+    "fullReading": "きのう、のみすぎました。ちょっとふつかよいなんです…",
+    "meaning": "to drink too much",
+    "translation": "I drank too much yesterday.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "せきやくしゃみが出ている間はマスクをしましょう。",
+    "target": "マスク",
+    "reading": "ますく",
+    "fullReading": "せきやくしゃみがでているかんはますくをしましょう。",
+    "meaning": "mask",
+    "translation": "Make sure to wear a mask while you're coughing or sneezing.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "胃の調子が悪いときは、お腹をマッサージするといいですよ。",
+    "target": "マッサージする",
+    "reading": "まっさーじする",
+    "fullReading": "いのちょうしがわるいときは、おなかをまっさーじするといいですよ。",
+    "meaning": "to massage",
+    "translation": "You should massage your belly when you have an upset stomach.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "昨日から耳が痛いです。",
+    "target": "痛い",
+    "reading": "いたい",
+    "fullReading": "きのうからみみがいたいです。",
+    "meaning": "hurts",
+    "translation": "My ear has been hurting since yesterday.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "昨日から胸が痛いです。",
+    "target": "痛い",
+    "reading": "いたい",
+    "fullReading": "きのうからむねがいたいです。",
+    "meaning": "hurts",
+    "translation": "My chest has been hurting since yesterday.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "スマホの画面を見すぎて、目が悪くなりました。",
+    "target": "目",
+    "reading": "め",
+    "fullReading": "すまほのがめんをみすぎて、めがわるくなりました。",
+    "meaning": "eye",
+    "translation": "I looked at the smartphone screen too much, and my eyes hurt.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "できるだけ、野菜をたくさん食べるようにしています。",
+    "target": "できるだけ、野菜をたくさん食べるようにしています。",
+    "reading": "できるだけ、やさいをたくさんたべるようにしています。",
+    "fullReading": "できるだけ、やさいをたくさんたべるようにしています。",
+    "meaning": "source example sentence",
+    "translation": "I try to eat as many vegetables as possible.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "指と指の間まで、こまめにしっかりと手を洗いましょう。",
+    "target": "しっかりと",
+    "reading": "しっかりと",
+    "fullReading": "ゆびとゆびのかんまで、こまめにしっかりとてをあらいましょう。",
+    "meaning": "properly",
+    "translation": "Make sure to wash your hands frequently and properly, including the area between your fingers.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "インフルエンザが流行する前に、予防接種を受けましょう。",
+    "target": "インフルエンザ",
+    "reading": "いんふるえんざ",
+    "fullReading": "いんふるえんざがりゅうこうするまえに、よぼうせっしゅをうけましょう。",
+    "meaning": "influenzas",
+    "translation": "Make sure to get vaccinated before the influenza epidemic spreads.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "食中毒の予防法は、手洗いです。",
+    "target": "洗いで",
+    "reading": "あらいで",
+    "fullReading": "しょくちゅうどくのよぼうほうは、てあらいです。",
+    "meaning": "to wash",
+    "translation": "The way to prevent food poisoning is hand washing.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "B:それはいけませんね。",
+    "target": "それはいけませんね",
+    "reading": "それはいけませんね",
+    "fullReading": "B:それはいけませんね。",
+    "meaning": "That is not good.",
+    "translation": "B: That's not good.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "どうしていますか?",
+    "target": "どうしていますか?",
+    "reading": "どうしていますか?",
+    "fullReading": "どうしていますか?",
+    "meaning": "source example sentence",
+    "translation": "How do you deal with it?",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "二日酔いのときは、どうしていますか?",
+    "target": "二日酔いのときは、どうしていますか?",
+    "reading": "ふつかよいのときは、どうしていますか?",
+    "fullReading": "ふつかよいのときは、どうしていますか?",
+    "meaning": "source example sentence",
+    "translation": "What do you do when you have a hangover?",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "三日酔いの薬を飲むおかな。",
+    "target": "飲む",
+    "reading": "のむ",
+    "fullReading": "みっかよいのくすりをのむおかな。",
+    "meaning": "to take (e.g. take medicine)",
+    "translation": "I think I'd take some medicine if I have a hangover.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "A:健康のためにできるだけ運動するようにしています。",
+    "target": "運動",
+    "reading": "うんどう",
+    "fullReading": "A:けんこうのためにできるだけうんどうするようにしています。",
+    "meaning": "exercise",
+    "translation": "A: I try to exercise as much as I can to stay fit.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "B:なるほど。",
+    "target": "なるほど",
+    "reading": "なるほど",
+    "fullReading": "B:なるほど。",
+    "meaning": "I see.",
+    "translation": "B: I see.",
+    "context": "health",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "薬を飲むときは、間をあける必要があります。",
+    "target": "間をあける",
+    "reading": "あいだをあける",
+    "fullReading": "くすりをのむときは、あいだをあけるひつようがあります。",
+    "meaning": "to take at a time interval",
+    "translation": "You need to leave an interval between doses of medicine.",
+    "context": "health"
+  },
+  {
+    "sentence": "病院で医者に会う前に、受付で名前を書いてください。",
+    "target": "会う",
+    "reading": "あう",
+    "fullReading": "びょういんでいしゃにあうまえに、うけつけでなまえをかいてください。",
+    "meaning": "to meet",
+    "translation": "Please write your name at the reception before meeting the doctor.",
+    "context": "health"
+  },
+  {
+    "sentence": "朝から頭が痛いです。",
+    "target": "頭",
+    "reading": "あたま",
+    "fullReading": "あさからあたまがいたいです。",
+    "meaning": "head",
+    "translation": "My head has hurt since this morning.",
+    "context": "health"
+  },
+  {
+    "sentence": "胃が痛くて、何も食べられません。",
+    "target": "胃",
+    "reading": "い",
+    "fullReading": "いがいたくて、なにもたべられません。",
+    "meaning": "stomach",
+    "translation": "My stomach hurts, and I can't eat anything.",
+    "context": "health"
+  },
+  {
+    "sentence": "今までに大きい病気をしたことがありますか。",
+    "target": "今までに",
+    "reading": "いままでに",
+    "fullReading": "いままでにおおきいびょうきをしたことがありますか。",
+    "meaning": "up to now",
+    "translation": "Have you had any serious illness up to now?",
+    "context": "health"
+  },
+  {
+    "sentence": "この薬を飲んだら、運転するのはやめてください。",
+    "target": "運転する",
+    "reading": "うんてんする",
+    "fullReading": "このくすりをのんだら、うんてんするのはやめてください。",
+    "meaning": "to drive",
+    "translation": "After taking this medicine, please refrain from driving.",
+    "context": "health"
+  },
+  {
+    "sentence": "検査の結果、A型のインフルエンザでした。",
+    "target": "A型",
+    "reading": "エーがた",
+    "fullReading": "けんさのけっか、エーがたのインフルエンザでした。",
+    "meaning": "type A",
+    "translation": "The test results showed type A influenza.",
+    "context": "health"
+  },
+  {
+    "sentence": "熱があるときは、おかゆを食べるといいですよ。",
+    "target": "おかゆ",
+    "reading": "おかゆ",
+    "fullReading": "ねつがあるときは、おかゆをたべるといいですよ。",
+    "meaning": "rice porridge",
+    "translation": "When you have a fever, it's good to eat rice porridge.",
+    "context": "health"
+  },
+  {
+    "sentence": "おとといから、のどが痛いんです。",
+    "target": "おととい",
+    "reading": "おととい",
+    "fullReading": "おとといから、のどがいたいんです。",
+    "meaning": "the day before yesterday",
+    "translation": "My throat has hurt since the day before yesterday.",
+    "context": "health"
+  },
+  {
+    "sentence": "お腹が痛くて、夜眠れませんでした。",
+    "target": "お腹",
+    "reading": "おなか",
+    "fullReading": "おなかがいたくて、よるねむれませんでした。",
+    "meaning": "stomach",
+    "translation": "My stomach hurt, and I couldn't sleep at night.",
+    "context": "health"
+  },
+  {
+    "sentence": "保険証はお持ちですか？",
+    "target": "お持ちですか？",
+    "reading": "おもちですか？",
+    "fullReading": "ほけんしょうはおもちですか？",
+    "meaning": "Do you have?",
+    "translation": "Do you have your insurance card?",
+    "context": "health"
+  },
+  {
+    "sentence": "薬を塗った後、少し肌がかゆいです。",
+    "target": "かゆい",
+    "reading": "かゆい",
+    "fullReading": "くすりをぬったあと、すこしはだがかゆいです。",
+    "meaning": "itchy",
+    "translation": "My skin is a little itchy after applying the medicine.",
+    "context": "health"
+  },
+  {
+    "sentence": "胃が悪いときは、辛い食べ物を避けたほうがいいです。",
+    "target": "辛い",
+    "reading": "からい",
+    "fullReading": "いがわるいときは、からいたべものをさけたほうがいいです。",
+    "meaning": "spicy / hot",
+    "translation": "When your stomach is upset, it's better to avoid spicy food.",
+    "context": "health"
+  },
+  {
+    "sentence": "痛くても、注射の間はがまんするしかありません。",
+    "target": "がまんする",
+    "reading": "がまんする",
+    "fullReading": "いたくても、ちゅうしゃのあいだはがまんするしかありません。",
+    "meaning": "to bear with / to tolerate",
+    "translation": "Even if it hurts, all you can do is bear with it during the injection.",
+    "context": "health"
+  },
+  {
+    "sentence": "こちらの問診票に記入する必要があります。",
+    "target": "記入する",
+    "reading": "きにゅうする",
+    "fullReading": "こちらのもんしんひょうにきにゅうするひつようがあります。",
+    "meaning": "to fill out",
+    "translation": "You need to fill out this questionnaire.",
+    "context": "health"
+  },
+  {
+    "sentence": "書類の一番上に記入日を書いてください。",
+    "target": "記入日",
+    "reading": "きにゅうび",
+    "fullReading": "しょるいのいちばんうえにきにゅうびをかいてください。",
+    "meaning": "date filled in",
+    "translation": "Please write the date filled in at the top of the document.",
+    "context": "health"
+  },
+  {
+    "sentence": "記入例を見ながら、名前を書いてください。",
+    "target": "記入例",
+    "reading": "きにゅうれい",
+    "fullReading": "きにゅうれいをみながら、なまえをかいてください。",
+    "meaning": "entry example",
+    "translation": "Please write your name while looking at the example entry.",
+    "context": "health"
+  },
+  {
+    "sentence": "今朝からくしゃみが止まりません。",
+    "target": "くしゃみ",
+    "reading": "くしゃみ",
+    "fullReading": "けさからくしゃみがとまりません。",
+    "meaning": "sneezing",
+    "translation": "I haven't been able to stop sneezing since this morning.",
+    "context": "health"
+  },
+  {
+    "sentence": "階段で転んで、足首をくじくところでした。",
+    "target": "くじく",
+    "reading": "くじく",
+    "fullReading": "かいだんでころんで、あしくびをくじくところでした。",
+    "meaning": "to twist",
+    "translation": "I almost twisted my ankle when I fell on the stairs.",
+    "context": "health"
+  },
+  {
+    "sentence": "念のため、血液を検査することになりました。",
+    "target": "検査する",
+    "reading": "けんさする",
+    "fullReading": "ねんのため、けつえきをけんさすることになりました。",
+    "meaning": "to examine",
+    "translation": "Just to be safe, we decided to have your blood examined.",
+    "context": "health"
+  },
+  {
+    "sentence": "現在、何か薬を飲んでいますか。",
+    "target": "現在",
+    "reading": "げんざい",
+    "fullReading": "げんざい、なにかくすりをのんでいますか。",
+    "meaning": "currently",
+    "translation": "Are you currently taking any medicine?",
+    "context": "health"
+  },
+  {
+    "sentence": "問診票の質問に正直に答える必要があります。",
+    "target": "答える",
+    "reading": "こたえる",
+    "fullReading": "もんしんひょうのしつもんにしょうじきにこたえるひつようがあります。",
+    "meaning": "to answer",
+    "translation": "You need to answer the questionnaire's questions honestly.",
+    "context": "health"
+  },
+  {
+    "sentence": "こっちの椅子に座って待っていてください。",
+    "target": "こっち",
+    "reading": "こっち",
+    "fullReading": "こっちのいすにすわってまっていてください。",
+    "meaning": "this",
+    "translation": "Please sit in this chair and wait.",
+    "context": "health"
+  },
+  {
+    "sentence": "自転車で転ぶ人が、この道では多いです。",
+    "target": "転ぶ",
+    "reading": "ころぶ",
+    "fullReading": "じてんしゃでころぶひとが、このみちではおおいです。",
+    "meaning": "to fall",
+    "translation": "Many people fall off their bicycles on this road.",
+    "context": "health"
+  },
+  {
+    "sentence": "薬を飲んだら、熱が少し下がる予定です。",
+    "target": "下がる",
+    "reading": "さがる",
+    "fullReading": "くすりをのんだら、ねつがすこしさがるよていです。",
+    "meaning": "to go down (e.g. fever goes down)",
+    "translation": "Once you take the medicine, your fever should go down a little.",
+    "context": "health"
+  },
+  {
+    "sentence": "この薬は熱を下げる効果があります。",
+    "target": "下げる",
+    "reading": "さげる",
+    "fullReading": "このくすりはねつをさげるこうかがあります。",
+    "meaning": "to reduce (e.g. reduce a fever)",
+    "translation": "This medicine has the effect of reducing fever.",
+    "context": "health"
+  },
+  {
+    "sentence": "この薬は食後に飲んでください。",
+    "target": "食後",
+    "reading": "しょくご",
+    "fullReading": "このくすりはしょくごにのんでください。",
+    "meaning": "after meals",
+    "translation": "Please take this medicine after meals.",
+    "context": "health"
+  },
+  {
+    "sentence": "この処方せんを薬局に持って行ってください。",
+    "target": "処方せん",
+    "reading": "しょほうせん",
+    "fullReading": "このしょほうせんをやっきょくにもっていってください。",
+    "meaning": "prescription",
+    "translation": "Please take this prescription to the pharmacy.",
+    "context": "health"
+  },
+  {
+    "sentence": "この症状は女性に多いそうです。",
+    "target": "女性",
+    "reading": "じょせい",
+    "fullReading": "このしょうじょうはじょせいにおおいそうです。",
+    "meaning": "female",
+    "translation": "I hear this symptom is common among women.",
+    "context": "health"
+  },
+  {
+    "sentence": "昨日からせきが止まらないんです。",
+    "target": "せき",
+    "reading": "せき",
+    "fullReading": "きのうからせきがとまらないんです。",
+    "meaning": "cough",
+    "translation": "I haven't been able to stop coughing since yesterday.",
+    "context": "health"
+  },
+  {
+    "sentence": "薬を飲む前に、説明書をよく読んでください。",
+    "target": "説明書",
+    "reading": "せつめいしょ",
+    "fullReading": "くすりをのむまえに、せつめいしょをよくよんでください。",
+    "meaning": "instructions",
+    "translation": "Please read the instructions carefully before taking the medicine.",
+    "context": "health"
+  },
+  {
+    "sentence": "熱があります。それと、せきも出ます。",
+    "target": "それと",
+    "reading": "それと",
+    "fullReading": "ねつがあります。それと、せきもでます。",
+    "meaning": "and",
+    "translation": "I have a fever. And I also have a cough.",
+    "context": "health"
+  },
+  {
+    "sentence": "熱が高くて、体がとてもつらいです。",
+    "target": "つらい",
+    "reading": "つらい",
+    "fullReading": "ねつがたかくて、からだがとてもつらいです。",
+    "meaning": "feel awful / discomfort",
+    "translation": "I have a high fever, and my body feels awful.",
+    "context": "health"
+  },
+  {
+    "sentence": "かぜをひくと、せきが出るのは普通です。",
+    "target": "出る",
+    "reading": "でる",
+    "fullReading": "かぜをひくと、せきがでるのはふつうです。",
+    "meaning": "to have (a cough / runny nose)",
+    "translation": "It's normal to have a cough when you catch a cold.",
+    "context": "health"
+  },
+  {
+    "sentence": "どうされましたか？お話を聞かせてください。",
+    "target": "どうされましたか？",
+    "reading": "どうされましたか？",
+    "fullReading": "どうされましたか？おはなしをきかせてください。",
+    "meaning": "What's wrong?",
+    "translation": "What's wrong? Please tell me about it.",
+    "context": "health"
+  },
+  {
+    "sentence": "先生が「どうしましたか？」と聞きました。",
+    "target": "どうしましたか？",
+    "reading": "どうしましたか？",
+    "fullReading": "せんせいが「どうしましたか？」とききました。",
+    "meaning": "What's wrong?",
+    "translation": "The doctor asked, 'What's wrong?'",
+    "context": "health"
+  },
+  {
+    "sentence": "今、妊娠する可能性はありますか。",
+    "target": "妊娠する",
+    "reading": "にんしんする",
+    "fullReading": "いま、にんしんするかのうせいはありますか。",
+    "meaning": "to get pregnant",
+    "translation": "Is there any possibility you're currently pregnant?",
+    "context": "health"
+  },
+  {
+    "sentence": "子どもは今朝から熱が高いです。",
+    "target": "熱が高い",
+    "reading": "ねつがたかい",
+    "fullReading": "こどもはけさからねつがたかいです。",
+    "meaning": "high fever",
+    "translation": "My child has had a high fever since this morning.",
+    "context": "health"
+  },
+  {
+    "sentence": "この薬を飲むと眠いですか。",
+    "target": "眠い",
+    "reading": "ねむい",
+    "fullReading": "このくすりをのむとねむいですか。",
+    "meaning": "sleepy",
+    "translation": "Does this medicine make you sleepy?",
+    "context": "health"
+  },
+  {
+    "sentence": "のどが痛くて、水も飲みにくいです。",
+    "target": "のど",
+    "reading": "のど",
+    "fullReading": "のどがいたくて、みずものみにくいです。",
+    "meaning": "throat",
+    "translation": "My throat hurts so much that it's hard even to drink water.",
+    "context": "health"
+  },
+  {
+    "sentence": "朝から吐き気があって、何も食べられません。",
+    "target": "吐き気",
+    "reading": "はきけ",
+    "fullReading": "あさからはきけがあって、なにもたべられません。",
+    "meaning": "nausea",
+    "translation": "I've had nausea since morning and can't eat anything.",
+    "context": "health"
+  },
+  {
+    "sentence": "せきと鼻水が出て、つらいです。",
+    "target": "鼻水",
+    "reading": "はなみず",
+    "fullReading": "せきとはなみずがでて、つらいです。",
+    "meaning": "runny nose",
+    "translation": "I have a cough and a runny nose, and it's rough.",
+    "context": "health"
+  },
+  {
+    "sentence": "去年、大きい病気にはかかりませんでした。",
+    "target": "病気",
+    "reading": "びょうき",
+    "fullReading": "きょねん、おおきいびょうきにはかかりませんでした。",
+    "meaning": "illness",
+    "translation": "I didn't come down with any serious illness last year.",
+    "context": "health"
+  },
+  {
+    "sentence": "冬になると、病気にかかる人が増えます。",
+    "target": "病気にかかる",
+    "reading": "びょうきにかかる",
+    "fullReading": "ふゆになると、びょうきにかかるひとがふえます。",
+    "meaning": "to get sick",
+    "translation": "More people get sick when winter comes.",
+    "context": "health"
+  },
+  {
+    "sentence": "検査の結果、病名がわかりました。",
+    "target": "病名",
+    "reading": "びょうめい",
+    "fullReading": "けんさのけっか、びょうめいがわかりました。",
+    "meaning": "name of illness",
+    "translation": "The test results revealed the name of the illness.",
+    "context": "health"
+  },
+  {
+    "sentence": "お名前の上にフリガナを書いてください。",
+    "target": "フリガナ",
+    "reading": "フリガナ",
+    "fullReading": "おなまえのうえにフリガナをかいてください。",
+    "meaning": "reading in katakana",
+    "translation": "Please write the furigana above your name.",
+    "context": "health"
+  },
+  {
+    "sentence": "ドアに頭をぶつける人が、時々います。",
+    "target": "ぶつける",
+    "reading": "ぶつける",
+    "fullReading": "ドアにあたまをぶつけるひとが、ときどきいます。",
+    "meaning": "to bump",
+    "translation": "There are sometimes people who bump their heads on the door.",
+    "context": "health"
+  },
+  {
+    "sentence": "この薬は毎食後に飲んでください。",
+    "target": "毎食後",
+    "reading": "まいしょくご",
+    "fullReading": "このくすりはまいしょくごにのんでください。",
+    "meaning": "after each meal",
+    "translation": "Please take this medicine after every meal.",
+    "context": "health"
+  },
+  {
+    "sentence": "薬の用法を守ることが大切です。",
+    "target": "守る",
+    "reading": "まもる",
+    "fullReading": "くすりのようほうをまもることがたいせつです。",
+    "meaning": "to protect",
+    "translation": "It's important to follow the medicine's usage instructions.",
+    "context": "health"
+  },
+  {
+    "sentence": "薬局で薬をもらう前に、少し待ちました。",
+    "target": "もらう",
+    "reading": "もらう",
+    "fullReading": "やっきょくでくすりをもらうまえに、すこしまちました。",
+    "meaning": "to receive",
+    "translation": "I waited a little before receiving the medicine at the pharmacy.",
+    "context": "health"
+  },
+  {
+    "sentence": "受付でこの問診票を渡してください。",
+    "target": "問診票",
+    "reading": "もんしんひょう",
+    "fullReading": "うけつけでこのもんしんひょうをわたしてください。",
+    "meaning": "questionnaire",
+    "translation": "Please hand this questionnaire to the receptionist.",
+    "context": "health"
+  },
+  {
+    "sentence": "病院の隣に薬局があります。",
+    "target": "薬局",
+    "reading": "やっきょく",
+    "fullReading": "びょういんのとなりにやっきょくがあります。",
+    "meaning": "pharmacy",
+    "translation": "There is a pharmacy next to the hospital.",
+    "context": "health"
+  },
+  {
+    "sentence": "この薬は夕食後に一回飲んでください。",
+    "target": "夕食後",
+    "reading": "ゆうしょくご",
+    "fullReading": "このくすりはゆうしょくごにいっかいのんでください。",
+    "meaning": "after dinner",
+    "translation": "Please take this medicine once after dinner.",
+    "context": "health"
+  },
+  {
+    "sentence": "薬の用法を必ず守ってください。",
+    "target": "用法",
+    "reading": "ようほう",
+    "fullReading": "くすりのようほうをかならずまもってください。",
+    "meaning": "for use",
+    "translation": "Please be sure to follow the dosage instructions.",
+    "context": "health"
+  },
+  {
+    "sentence": "手にウイルスがつくと、病気になりやすいです。",
+    "target": "つく",
+    "reading": "つく",
+    "fullReading": "てにウイルスがつくと、びょうきになりやすいです。",
+    "meaning": "to stick (e.g. virus sticks)",
+    "translation": "If a virus sticks to your hands, you're more likely to get sick.",
+    "context": "health"
+  },
+  {
+    "sentence": "風邪のときは、温かい飲み物を飲むといいです。",
+    "target": "温かい",
+    "reading": "あたたかい",
+    "fullReading": "かぜのときは、あたたかいのみものをのむといいです。",
+    "meaning": "warm",
+    "translation": "When you have a cold, it's good to drink warm beverages.",
+    "context": "health"
+  },
+  {
+    "sentence": "スープを温める時間がありませんでした。",
+    "target": "温める",
+    "reading": "あたためる",
+    "fullReading": "スープをあたためるじかんがありませんでした。",
+    "meaning": "to warm up",
+    "translation": "I didn't have time to warm up the soup.",
+    "context": "health"
+  },
+  {
+    "sentence": "外から帰ったら、すぐに手を洗う習慣があります。",
+    "target": "洗う",
+    "reading": "あらう",
+    "fullReading": "そとからかえったら、すぐにてをあらうしゅうかんがあります。",
+    "meaning": "to wash",
+    "translation": "I have a habit of washing my hands right away when I come home.",
+    "context": "health"
+  },
+  {
+    "sentence": "健康のために、毎日30分歩く時間を作っています。",
+    "target": "歩く",
+    "reading": "あるく",
+    "fullReading": "けんこうのために、まいにち30ぷんあるくじかんをつくっています。",
+    "meaning": "to walk",
+    "translation": "For my health, I make time to walk for 30 minutes every day.",
+    "context": "health"
+  },
+  {
+    "sentence": "肩の痛みがなかなか治りません。",
+    "target": "痛み",
+    "reading": "いたみ",
+    "fullReading": "かたのいたみがなかなかなおりません。",
+    "meaning": "pain",
+    "translation": "The pain in my shoulder just won't go away.",
+    "context": "health"
+  },
+  {
+    "sentence": "このウイルスは、せきやくしゃみでうつります。",
+    "target": "ウイルス",
+    "reading": "ウイルス",
+    "fullReading": "このウイルスは、せきやくしゃみでうつります。",
+    "meaning": "virus",
+    "translation": "This virus spreads through coughing and sneezing.",
+    "context": "health"
+  },
+  {
+    "sentence": "健康のために、毎朝ウォーキングすることにしています。",
+    "target": "ウォーキングする",
+    "reading": "ウォーキングする",
+    "fullReading": "けんこうのために、まいあさウォーキングすることにしています。",
+    "meaning": "to go for a walk",
+    "translation": "I've made it a habit to go for a walk every morning for my health.",
+    "context": "health"
+  },
+  {
+    "sentence": "家に帰ったら、手洗いとうがいをしましょう。",
+    "target": "うがい",
+    "reading": "うがい",
+    "fullReading": "いえにかえったら、てあらいとうがいをしましょう。",
+    "meaning": "gargling",
+    "translation": "Let's wash our hands and gargle when we get home.",
+    "context": "health"
+  },
+  {
+    "sentence": "予防接種は現在、受付中です。",
+    "target": "受付中",
+    "reading": "うけつけちゅう",
+    "fullReading": "よぼうせっしゅはげんざい、うけつけちゅうです。",
+    "meaning": "currently accepting",
+    "translation": "Vaccination reservations are currently being accepted.",
+    "context": "health"
+  },
+  {
+    "sentence": "毎年、健康診断を受けるようにしています。",
+    "target": "受ける",
+    "reading": "うける",
+    "fullReading": "まいとし、けんこうしんだんをうけるようにしています。",
+    "meaning": "to receive",
+    "translation": "I make a point of getting a health checkup every year.",
+    "context": "health"
+  },
+  {
+    "sentence": "風邪はマスクをしないと人にうつすことがあります。",
+    "target": "うつす",
+    "reading": "うつす",
+    "fullReading": "かぜはマスクをしないとひとにうつすことがあります。",
+    "meaning": "to pass on",
+    "translation": "If you don't wear a mask, you might pass a cold on to others.",
+    "context": "health"
+  },
+  {
+    "sentence": "転んだとき、腕を強くぶつけました。",
+    "target": "腕",
+    "reading": "うで",
+    "fullReading": "ころんだとき、うでをつよくぶつけました。",
+    "meaning": "arm",
+    "translation": "When I fell, I hit my arm hard.",
+    "context": "health"
+  },
+  {
+    "sentence": "夜中に急なおう吐がありました。",
+    "target": "おう吐",
+    "reading": "おうと",
+    "fullReading": "よなかにきゅうなおうとがありました。",
+    "meaning": "vomiting",
+    "translation": "I suddenly vomited in the middle of the night.",
+    "context": "health"
+  },
+  {
+    "sentence": "熱のせいで、朝早く起きるのがつらいです。",
+    "target": "起きる",
+    "reading": "おきる",
+    "fullReading": "ねつのせいで、あさはやくおきるのがつらいです。",
+    "meaning": "to wake up",
+    "translation": "Because of the fever, it's hard to wake up early in the morning.",
+    "context": "health"
+  },
+  {
+    "sentence": "食べすぎは、胃の病気を起こすことがあります。",
+    "target": "起こす",
+    "reading": "おこす",
+    "fullReading": "たべすぎは、いのびょうきをおこすことがあります。",
+    "meaning": "to cause",
+    "translation": "Overeating can sometimes cause stomach illness.",
+    "context": "health"
+  },
+  {
+    "sentence": "汚染された水を飲んで、お腹をこわしました。",
+    "target": "汚染された",
+    "reading": "おせんされた",
+    "fullReading": "おせんされたみずをのんで、おなかをこわしました。",
+    "meaning": "contaminated",
+    "translation": "I got an upset stomach from drinking contaminated water.",
+    "context": "health"
+  },
+  {
+    "sentence": "けがが治ったら、またプールで泳ぐつもりです。",
+    "target": "泳ぐ",
+    "reading": "およぐ",
+    "fullReading": "けががなおったら、またプールでおよぐつもりです。",
+    "meaning": "to swim",
+    "translation": "Once my injury heals, I plan to swim in the pool again.",
+    "context": "health"
+  },
+  {
+    "sentence": "貝を食べてから、お腹の調子が悪いです。",
+    "target": "貝",
+    "reading": "かい",
+    "fullReading": "かいをたべてから、おなかのちょうしがわるいです。",
+    "meaning": "shell",
+    "translation": "My stomach has felt bad since I ate shellfish.",
+    "context": "health"
+  },
+  {
+    "sentence": "熱のせいか、顔が赤いです。",
+    "target": "顔",
+    "reading": "かお",
+    "fullReading": "ねつのせいか、かおがあかいです。",
+    "meaning": "face",
+    "translation": "Maybe because of the fever, my face is red.",
+    "context": "health"
+  },
+  {
+    "sentence": "生のカキを食べて、食中毒になりました。",
+    "target": "カキ",
+    "reading": "カキ",
+    "fullReading": "なまのカキをたべて、しょくちゅうどくになりました。",
+    "meaning": "oyster",
+    "translation": "I got food poisoning from eating raw oysters.",
+    "context": "health"
+  },
+  {
+    "sentence": "パソコンを使いすぎて、肩が痛いです。",
+    "target": "肩",
+    "reading": "かた",
+    "fullReading": "パソコンをつかいすぎて、かたがいたいです。",
+    "meaning": "shoulders",
+    "translation": "My shoulders hurt from using the computer too much.",
+    "context": "health"
+  },
+  {
+    "sentence": "デスクワークが多いと、肩がこる人が多いです。",
+    "target": "肩がこる",
+    "reading": "かたがこる",
+    "fullReading": "デスクワークがおおいと、かたがこるひとがおおいです。",
+    "meaning": "to have stiff shoulders",
+    "translation": "If you do a lot of desk work, many people get stiff shoulders.",
+    "context": "health"
+  },
+  {
+    "sentence": "無理をすると、体によくないですよ。",
+    "target": "体",
+    "reading": "からだ",
+    "fullReading": "むりをすると、からだによくないですよ。",
+    "meaning": "body",
+    "translation": "Overexerting yourself isn't good for your body.",
+    "context": "health"
+  },
+  {
+    "sentence": "インフルエンザにかかると、関節痛が出ることがあります。",
+    "target": "関節痛",
+    "reading": "かんせつつう",
+    "fullReading": "インフルエンザにかかると、かんせつつうがでることがあります。",
+    "meaning": "joint pain",
+    "translation": "When you catch the flu, you may experience joint pain.",
+    "context": "health"
+  },
+  {
+    "sentence": "マスクをしないと、ウイルスに感染することがあります。",
+    "target": "感染する",
+    "reading": "かんせんする",
+    "fullReading": "マスクをしないと、ウイルスにかんせんすることがあります。",
+    "meaning": "to get infected",
+    "translation": "If you don't wear a mask, you might get infected with the virus.",
+    "context": "health"
+  },
+  {
+    "sentence": "外出先では、こまめに手を消毒しています。",
+    "target": "外出先",
+    "reading": "がいしゅつさき",
+    "fullReading": "がいしゅつさきでは、こまめにてをしょうどくしています。",
+    "meaning": "outside",
+    "translation": "When I'm out, I disinfect my hands frequently.",
+    "context": "health"
+  },
+  {
+    "sentence": "体調が悪いので、早く帰宅することにしました。",
+    "target": "帰宅する",
+    "reading": "きたくする",
+    "fullReading": "たいちょうがわるいので、はやくきたくすることにしました。",
+    "meaning": "to go home",
+    "translation": "Since I don't feel well, I decided to go home early.",
+    "context": "health"
+  },
+  {
+    "sentence": "薬を飲んだら、少し気持ちが楽になりました。",
+    "target": "気持ち",
+    "reading": "きもち",
+    "fullReading": "くすりをのんだら、すこしきもちがらくになりました。",
+    "meaning": "feeling",
+    "translation": "After taking the medicine, I felt a little better.",
+    "context": "health"
+  },
+  {
+    "sentence": "先週から、インフルエンザ患者が急増しています。",
+    "target": "急増",
+    "reading": "きゅうぞう",
+    "fullReading": "せんしゅうから、インフルエンザかんじゃがきゅうぞうしています。",
+    "meaning": "rapid increase",
+    "translation": "Since last week, flu patients have been rapidly increasing.",
+    "context": "health"
+  },
+  {
+    "sentence": "食生活には気をつける必要があります。",
+    "target": "気をつける",
+    "reading": "きをつける",
+    "fullReading": "しょくせいかつにはきをつけるひつようがあります。",
+    "meaning": "to be mindful",
+    "translation": "You need to be mindful of your eating habits.",
+    "context": "health"
+  },
+  {
+    "sentence": "寝方が悪かったのか、首が痛いです。",
+    "target": "首",
+    "reading": "くび",
+    "fullReading": "ねかたがわるかったのか、くびがいたいです。",
+    "meaning": "neck",
+    "translation": "Maybe I slept in a bad position, because my neck hurts.",
+    "context": "health"
+  },
+  {
+    "sentence": "駅前の新しいクリニックに行ってきました。",
+    "target": "クリニック",
+    "reading": "クリニック",
+    "fullReading": "えきまえのあたらしいクリニックにいってきました。",
+    "meaning": "clinic",
+    "translation": "I went to the new clinic in front of the station.",
+    "context": "health"
+  },
+  {
+    "sentence": "この薬はけっこう効きますよ。",
+    "target": "けっこう",
+    "reading": "けっこう",
+    "fullReading": "このくすりはけっこうききますよ。",
+    "meaning": "quite",
+    "translation": "This medicine works quite well.",
+    "context": "health"
+  },
+  {
+    "sentence": "県内で新しいウイルスの感染者が見つかりました。",
+    "target": "県内",
+    "reading": "けんない",
+    "fullReading": "けんないであたらしいウイルスのかんせんしゃがみつかりました。",
+    "meaning": "within the prefecture",
+    "translation": "A new virus infection case was found within the prefecture.",
+    "context": "health"
+  },
+  {
+    "sentence": "昨日から下痢が続いています。",
+    "target": "下痢",
+    "reading": "げり",
+    "fullReading": "きのうからげりがつづいています。",
+    "meaning": "diarrhea",
+    "translation": "I've had diarrhea since yesterday.",
+    "context": "health"
+  },
+  {
+    "sentence": "腹痛の原因は、食べすぎだったようです。",
+    "target": "原因",
+    "reading": "げんいん",
+    "fullReading": "ふくつうのげんいんは、たべすぎだったようです。",
+    "meaning": "cause",
+    "translation": "It seems the cause of my stomachache was overeating.",
+    "context": "health"
+  },
+  {
+    "sentence": "重い荷物を持って、腰を痛めました。",
+    "target": "腰",
+    "reading": "こし",
+    "fullReading": "おもいにもつをもって、こしをいためました。",
+    "meaning": "lower back",
+    "translation": "I hurt my lower back carrying a heavy load.",
+    "context": "health"
+  },
+  {
+    "sentence": "水分はこまめにとってください。",
+    "target": "こまめに",
+    "reading": "こまめに",
+    "fullReading": "すいぶんはこまめにとってください。",
+    "meaning": "frequently",
+    "translation": "Please stay hydrated by drinking water frequently.",
+    "context": "health"
+  },
+  {
+    "sentence": "最近、あまりよく眠れていません。",
+    "target": "最近",
+    "reading": "さいきん",
+    "fullReading": "さいきん、あまりよくねむれていません。",
+    "meaning": "recently",
+    "translation": "I haven't been sleeping very well recently.",
+    "context": "health"
+  },
+  {
+    "sentence": "この薬は食事前に飲んでください。",
+    "target": "食事前",
+    "reading": "しょくじまえ",
+    "fullReading": "このくすりはしょくじまえにのんでください。",
+    "meaning": "before meals",
+    "translation": "Please take this medicine before meals.",
+    "context": "health"
+  },
+  {
+    "sentence": "健康のために、食生活を見直しています。",
+    "target": "食生活",
+    "reading": "しょくせいかつ",
+    "fullReading": "けんこうのために、しょくせいかつをみなおしています。",
+    "meaning": "eating habits",
+    "translation": "I'm reviewing my eating habits for my health.",
+    "context": "health"
+  },
+  {
+    "sentence": "夏は食中毒に気をつけてください。",
+    "target": "食中毒",
+    "reading": "しょくちゅうどく",
+    "fullReading": "なつはしょくちゅうどくにきをつけてください。",
+    "meaning": "food poisoning",
+    "translation": "Please be careful of food poisoning in summer.",
+    "context": "health"
+  },
+  {
+    "sentence": "運動不足なので、ジムに通い始めました。",
+    "target": "ジム",
+    "reading": "ジム",
+    "fullReading": "うんどうぶそくなので、ジムにかよいはじめました。",
+    "meaning": "gym",
+    "translation": "Since I lack exercise, I started going to the gym.",
+    "context": "health"
+  },
+  {
+    "sentence": "睡眠が十分でないと、体調をくずしやすいです。",
+    "target": "十分",
+    "reading": "じゅうぶん",
+    "fullReading": "すいみんがじゅうぶんでないと、たいちょうをくずしやすいです。",
+    "meaning": "enough / sufficient",
+    "translation": "If you don't get enough sleep, you're more likely to become unwell.",
+    "context": "health"
+  },
+  {
+    "sentence": "水分を十分にとることが大切です。",
+    "target": "十分に",
+    "reading": "じゅうぶんに",
+    "fullReading": "すいぶんをじゅうぶんにとることがたいせつです。",
+    "meaning": "sufficiently",
+    "translation": "It's important to drink enough water.",
+    "context": "health"
+  },
+  {
+    "sentence": "毎朝、公園でジョギングすることにしています。",
+    "target": "ジョギングする",
+    "reading": "ジョギングする",
+    "fullReading": "まいあさ、こうえんでジョギングすることにしています。",
+    "meaning": "to go jogging",
+    "translation": "I've made it a habit to go jogging in the park every morning.",
+    "context": "health"
+  },
+  {
+    "sentence": "十分な睡眠をとるようにしてください。",
+    "target": "睡眠",
+    "reading": "すいみん",
+    "fullReading": "じゅうぶんなすいみんをとるようにしてください。",
+    "meaning": "sleep",
+    "translation": "Please try to get enough sleep.",
+    "context": "health"
+  },
+  {
+    "sentence": "食事の前後は、激しい運動を避けてください。",
+    "target": "前後",
+    "reading": "ぜんご",
+    "fullReading": "しょくじのぜんごは、はげしいうんどうをさけてください。",
+    "meaning": "before and after",
+    "translation": "Please avoid strenuous exercise before and after meals.",
+    "context": "health"
+  },
+  {
+    "sentence": "熱が出て、全身がだるいです。",
+    "target": "全身",
+    "reading": "ぜんしん",
+    "fullReading": "ねつがでて、ぜんしんがだるいです。",
+    "meaning": "whole body",
+    "translation": "I have a fever, and my whole body feels sluggish.",
+    "context": "health"
+  },
+  {
+    "sentence": "規則正しい生活が大切です。",
+    "target": "大切",
+    "reading": "たいせつ",
+    "fullReading": "きそくただしいせいかつがたいせつです。",
+    "meaning": "important",
+    "translation": "A regular lifestyle is important.",
+    "context": "health"
+  },
+  {
+    "sentence": "食べすぎると、お腹が痛くなることがあります。",
+    "target": "食べすぎる",
+    "reading": "たべすぎる",
+    "fullReading": "たべすぎると、おなかがいたくなることがあります。",
+    "meaning": "to eat too much",
+    "translation": "If you eat too much, you may get a stomachache.",
+    "context": "health"
+  },
+  {
+    "sentence": "新しい薬を試すことになりました。",
+    "target": "試す",
+    "reading": "ためす",
+    "fullReading": "あたらしいくすりをためすことになりました。",
+    "meaning": "to try",
+    "translation": "I'm going to try a new medicine.",
+    "context": "health"
+  },
+  {
+    "sentence": "健康のために、少しダイエットすることにしました。",
+    "target": "ダイエットする",
+    "reading": "ダイエットする",
+    "fullReading": "けんこうのために、すこしダイエットすることにしました。",
+    "meaning": "to go on a diet",
+    "translation": "I decided to go on a bit of a diet for my health.",
+    "context": "health"
+  },
+  {
+    "sentence": "熱はないのに、体がだるいです。",
+    "target": "だるい",
+    "reading": "だるい",
+    "fullReading": "ねつはないのに、からだがだるいです。",
+    "meaning": "feel tired and listless",
+    "translation": "I don't have a fever, but my body feels sluggish.",
+    "context": "health"
+  },
+  {
+    "sentence": "風邪の後、まだ体にだるさが残っています。",
+    "target": "だるさ",
+    "reading": "だるさ",
+    "fullReading": "かぜのあと、まだからだにだるさがのこっています。",
+    "meaning": "sense of fatigue",
+    "translation": "After my cold, a sense of fatigue still remains in my body.",
+    "context": "health"
+  },
+  {
+    "sentence": "ダイエット中なので、昼はチキンサラダにしました。",
+    "target": "チキンサラダ",
+    "reading": "チキンサラダ",
+    "fullReading": "ダイエットちゅうなので、ひるはチキンサラダにしました。",
+    "meaning": "chicken salad",
+    "translation": "Since I'm dieting, I had chicken salad for lunch.",
+    "context": "health"
+  },
+  {
+    "sentence": "ウイルスは町の中心部で広がっています。",
+    "target": "中心部",
+    "reading": "ちゅうしんぶ",
+    "fullReading": "ウイルスはまちのちゅうしんぶでひろがっています。",
+    "meaning": "the center",
+    "translation": "The virus is spreading in the center of the town.",
+    "context": "health"
+  },
+  {
+    "sentence": "最近、いつも疲れているように感じます。",
+    "target": "疲れている",
+    "reading": "つかれている",
+    "fullReading": "さいきん、いつもつかれているようにかんじます。",
+    "meaning": "tired",
+    "translation": "Lately, I always feel tired.",
+    "context": "health"
+  },
+  {
+    "sentence": "料理をする前は、必ず手を洗ってください。",
+    "target": "手",
+    "reading": "て",
+    "fullReading": "りょうりをするまえは、かならずてをあらってください。",
+    "meaning": "hand",
+    "translation": "Please always wash your hands before cooking.",
+    "context": "health"
+  },
+  {
+    "sentence": "風邪の予防には、手洗いが一番大切です。",
+    "target": "手洗い",
+    "reading": "てあらい",
+    "fullReading": "かぜのよぼうには、てあらいがいちばんたいせつです。",
+    "meaning": "hand washing",
+    "translation": "Hand washing is the most important thing for preventing colds.",
+    "context": "health"
+  },
+  {
+    "sentence": "どうしたら、早く熱が下がりますか。",
+    "target": "どうしたら",
+    "reading": "どうしたら",
+    "fullReading": "どうしたら、はやくねつがさがりますか。",
+    "meaning": "how",
+    "translation": "What should I do to bring my fever down quickly?",
+    "context": "health"
+  },
+  {
+    "sentence": "花粉症のとき、どうしていますか？",
+    "target": "どうしていますか？",
+    "reading": "どうしていますか？",
+    "fullReading": "かふんしょうのとき、どうしていますか？",
+    "meaning": "How do you deal with it?",
+    "translation": "How do you deal with it when you have hay fever?",
+    "context": "health"
+  },
+  {
+    "sentence": "熱いお茶よりぬるいお茶のほうが胃に優しいです。",
+    "target": "ぬるい",
+    "reading": "ぬるい",
+    "fullReading": "あついおちゃよりぬるいおちゃのほうがいにやさしいです。",
+    "meaning": "warm",
+    "translation": "Lukewarm tea is gentler on the stomach than hot tea.",
+    "context": "health"
+  },
+  {
+    "sentence": "寝不足が続くと、体調をくずしますよ。",
+    "target": "寝不足",
+    "reading": "ねぶそく",
+    "fullReading": "ねぶそくがつづくと、たいちょうをくずしますよ。",
+    "meaning": "lack of sleep",
+    "translation": "If lack of sleep continues, you'll become unwell.",
+    "context": "health"
+  },
+  {
+    "sentence": "お酒を飲みすぎると、胃によくないです。",
+    "target": "飲みすぎる",
+    "reading": "のみすぎる",
+    "fullReading": "おさけをのみすぎると、いによくないです。",
+    "meaning": "to drink too much",
+    "translation": "Drinking too much alcohol isn't good for your stomach.",
+    "context": "health"
+  },
+  {
+    "sentence": "冷たいものを食べると、歯が痛みます。",
+    "target": "歯",
+    "reading": "は",
+    "fullReading": "つめたいものをたべると、はがいたみます。",
+    "meaning": "tooth",
+    "translation": "My tooth hurts when I eat something cold.",
+    "context": "health"
+  },
+  {
+    "sentence": "けがをしてから、走ることができません。",
+    "target": "走る",
+    "reading": "はしる",
+    "fullReading": "けがをしてから、はしることができません。",
+    "meaning": "to run",
+    "translation": "I haven't been able to run since I got injured.",
+    "context": "health"
+  },
+  {
+    "sentence": "近くの学校で、食中毒が発生する事故がありました。",
+    "target": "発生する",
+    "reading": "はっせいする",
+    "fullReading": "ちかくのがっこうで、しょくちゅうどくがはっせいするじこがありました。",
+    "meaning": "to occur",
+    "translation": "There was an incident of food poisoning occurring at a nearby school.",
+    "context": "health"
+  },
+  {
+    "sentence": "発熱がある場合は、必ずマスクをしてください。",
+    "target": "発熱",
+    "reading": "はつねつ",
+    "fullReading": "はつねつがあるばあいは、かならずマスクをしてください。",
+    "meaning": "fever",
+    "translation": "If you have a fever, please be sure to wear a mask.",
+    "context": "health"
+  },
+  {
+    "sentence": "花粉症で、鼻がずっとつまっています。",
+    "target": "鼻",
+    "reading": "はな",
+    "fullReading": "かふんしょうで、はながずっとつまっています。",
+    "meaning": "nose",
+    "translation": "Because of hay fever, my nose has been stuffy the whole time.",
+    "context": "health"
+  },
+  {
+    "sentence": "体調が悪いなら、早く病院に行ったほうがいいです。",
+    "target": "早く",
+    "reading": "はやく",
+    "fullReading": "たいちょうがわるいなら、はやくびょういんにいったほうがいいです。",
+    "meaning": "early",
+    "translation": "If you don't feel well, you should go to the hospital early.",
+    "context": "health"
+  },
+  {
+    "sentence": "冬になると、風邪をひく人が増える傾向があります。",
+    "target": "増える",
+    "reading": "ふえる",
+    "fullReading": "ふゆになると、かぜをひくひとがふえるけいこうがあります。",
+    "meaning": "to spread",
+    "translation": "There's a tendency for the number of people who catch colds to increase in winter.",
+    "context": "health"
+  },
+  {
+    "sentence": "夜中に急な腹痛で目が覚めました。",
+    "target": "腹痛",
+    "reading": "ふくつう",
+    "fullReading": "よなかにきゅうなふくつうでめがさめました。",
+    "meaning": "abdominal pain",
+    "translation": "I woke up in the middle of the night with sudden abdominal pain.",
+    "context": "health"
+  },
+  {
+    "sentence": "けがが治ったら、プールで泳ぎたいです。",
+    "target": "プール",
+    "reading": "プール",
+    "fullReading": "けががなおったら、プールでおよぎたいです。",
+    "meaning": "swimming pool",
+    "translation": "I want to swim in the pool once my injury heals.",
+    "context": "health"
+  },
+  {
+    "sentence": "健康を保つポイントは、規則正しい生活です。",
+    "target": "ポイント",
+    "reading": "ポイント",
+    "fullReading": "けんこうをたもつポイントは、きそくただしいせいかつです。",
+    "meaning": "key point",
+    "translation": "The key point to staying healthy is a regular lifestyle.",
+    "context": "health"
+  },
+  {
+    "sentence": "プールに入ってから、耳が痛いです。",
+    "target": "耳",
+    "reading": "みみ",
+    "fullReading": "プールにはいってから、みみがいたいです。",
+    "meaning": "ear",
+    "translation": "My ear has hurt since I went in the pool.",
+    "context": "health"
+  },
+  {
+    "sentence": "せきをすると、胸が痛みます。",
+    "target": "胸",
+    "reading": "むね",
+    "fullReading": "せきをすると、むねがいたみます。",
+    "meaning": "breast",
+    "translation": "My chest hurts when I cough.",
+    "context": "health"
+  },
+  {
+    "sentence": "包丁で指を切ってしまいました。",
+    "target": "指",
+    "reading": "ゆび",
+    "fullReading": "ほうちょうでゆびをきってしまいました。",
+    "meaning": "finger / toe",
+    "translation": "I accidentally cut my finger with a kitchen knife.",
+    "context": "health"
+  },
+  {
+    "sentence": "健康のために、週末にヨガを始めました。",
+    "target": "ヨガ",
+    "reading": "ヨガ",
+    "fullReading": "けんこうのために、しゅうまつにヨガをはじめました。",
+    "meaning": "yoga",
+    "translation": "I started doing yoga on weekends for my health.",
+    "context": "health"
+  },
+  {
+    "sentence": "手洗いは、風邪を予防するのに効果的です。",
+    "target": "予防する",
+    "reading": "よぼうする",
+    "fullReading": "てあらいは、かぜをよぼうするのにこうかてきです。",
+    "meaning": "to prevent",
+    "translation": "Hand washing is effective in preventing colds.",
+    "context": "health"
+  },
+  {
+    "sentence": "来週、インフルエンザの予防接種を受けます。",
+    "target": "予防接種",
+    "reading": "よぼうせっしゅ",
+    "fullReading": "らいしゅう、インフルエンザのよぼうせっしゅをうけます。",
+    "meaning": "vaccination",
+    "translation": "I'm getting a flu vaccination next week.",
+    "context": "health"
+  },
+  {
+    "sentence": "食中毒の予防法を教えてください。",
+    "target": "予防法",
+    "reading": "よぼうほう",
+    "fullReading": "しょくちゅうどくのよぼうほうをおしえてください。",
+    "meaning": "prevention method",
+    "translation": "Please tell me how to prevent food poisoning.",
+    "context": "health"
+  },
+  {
+    "sentence": "病院の予約は、電話でできますか。",
+    "target": "予約",
+    "reading": "よやく",
+    "fullReading": "びょういんのよやくは、でんわでできますか。",
+    "meaning": "booking",
+    "translation": "Can I make a hospital appointment by phone?",
+    "context": "health"
+  },
+  {
+    "sentence": "今年は、新しいウイルスが流行するそうです。",
+    "target": "流行する",
+    "reading": "りゅうこうする",
+    "fullReading": "ことしは、あたらしいウイルスがりゅうこうするそうです。",
+    "meaning": "to be prevalent",
+    "translation": "I hear a new virus is going around this year.",
+    "context": "health"
+  },
+  {
+    "sentence": "最近、健康的な食生活が話題になっています。",
+    "target": "話題",
+    "reading": "わだい",
+    "fullReading": "さいきん、けんこうてきなしょくせいかつがわだいになっています。",
+    "meaning": "topic",
+    "translation": "Recently, healthy eating habits have become a hot topic.",
+    "context": "health"
+  }
+]

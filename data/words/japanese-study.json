@@ -1,0 +1,877 @@
+[
+  {
+    "word": "シャドーイングする",
+    "reading": "しゃどーいんぐする",
+    "meaning": "to shadow",
+    "context": "japanese-study",
+    "frequencyRank": 1
+  },
+  {
+    "word": "アプリ",
+    "reading": "アプリ",
+    "meaning": "app / application",
+    "context": "japanese-study",
+    "frequencyRank": 2
+  },
+  {
+    "word": "言う",
+    "reading": "いう",
+    "meaning": "to say / to tell",
+    "context": "japanese-study",
+    "frequencyRank": 3
+  },
+  {
+    "word": "教える",
+    "reading": "おしえる",
+    "meaning": "to teach",
+    "context": "japanese-study",
+    "frequencyRank": 4
+  },
+  {
+    "word": "おしゃべりする",
+    "reading": "おしゃべりする",
+    "meaning": "to chat",
+    "context": "japanese-study",
+    "frequencyRank": 5
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning": "to memorize",
+    "context": "japanese-study",
+    "frequencyRank": 6
+  },
+  {
+    "word": "会話",
+    "reading": "かいわ",
+    "meaning": "conversation",
+    "context": "japanese-study",
+    "frequencyRank": 7
+  },
+  {
+    "word": "書く",
+    "reading": "かく",
+    "meaning": "to write",
+    "context": "japanese-study",
+    "frequencyRank": 8
+  },
+  {
+    "word": "貸す",
+    "reading": "かす",
+    "meaning": "to lend",
+    "context": "japanese-study",
+    "frequencyRank": 9
+  },
+  {
+    "word": "カタカナ",
+    "reading": "カタカナ",
+    "meaning": "katakana",
+    "context": "japanese-study",
+    "frequencyRank": 10
+  },
+  {
+    "word": "カテゴリー",
+    "reading": "カテゴリー",
+    "meaning": "category",
+    "context": "japanese-study",
+    "frequencyRank": 11
+  },
+  {
+    "word": "紙",
+    "reading": "かみ",
+    "meaning": "paper",
+    "context": "japanese-study",
+    "frequencyRank": 12
+  },
+  {
+    "word": "漢字",
+    "reading": "かんじ",
+    "meaning": "kanji",
+    "context": "japanese-study",
+    "frequencyRank": 13
+  },
+  {
+    "word": "簡単",
+    "reading": "かんたん",
+    "meaning": "easy",
+    "context": "japanese-study",
+    "frequencyRank": 14
+  },
+  {
+    "word": "教科書",
+    "reading": "きょうかしょ",
+    "meaning": "textbook",
+    "context": "japanese-study",
+    "frequencyRank": 15
+  },
+  {
+    "word": "教室",
+    "reading": "きょうしつ",
+    "meaning": "classroom",
+    "context": "japanese-study",
+    "frequencyRank": 16
+  },
+  {
+    "word": "検索",
+    "reading": "けんさく",
+    "meaning": "search",
+    "context": "japanese-study",
+    "frequencyRank": 17
+  },
+  {
+    "word": "高校",
+    "reading": "こうこう",
+    "meaning": "high school",
+    "context": "japanese-study",
+    "frequencyRank": 18
+  },
+  {
+    "word": "探す",
+    "reading": "さがす",
+    "meaning": "to look for",
+    "context": "japanese-study",
+    "frequencyRank": 19
+  },
+  {
+    "word": "質問",
+    "reading": "しつもん",
+    "meaning": "question",
+    "context": "japanese-study",
+    "frequencyRank": 20
+  },
+  {
+    "word": "書類",
+    "reading": "しょるい",
+    "meaning": "document",
+    "context": "japanese-study",
+    "frequencyRank": 21
+  },
+  {
+    "word": "辞書",
+    "reading": "じしょ",
+    "meaning": "dictionary",
+    "context": "japanese-study",
+    "frequencyRank": 22
+  },
+  {
+    "word": "自信がありません",
+    "reading": "じしんがありません",
+    "meaning": "I am not confident.",
+    "context": "japanese-study",
+    "frequencyRank": 23
+  },
+  {
+    "word": "自分で",
+    "reading": "じぶんで",
+    "meaning": "on my own",
+    "context": "japanese-study",
+    "frequencyRank": 24
+  },
+  {
+    "word": "上手",
+    "reading": "じょうず",
+    "meaning": "well / good at",
+    "context": "japanese-study",
+    "frequencyRank": 25
+  },
+  {
+    "word": "説明する",
+    "reading": "せつめいする",
+    "meaning": "to explain",
+    "context": "japanese-study",
+    "frequencyRank": 26
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning": "teacher / instructor",
+    "context": "japanese-study",
+    "frequencyRank": 27
+  },
+  {
+    "word": "相談",
+    "reading": "そうだん",
+    "meaning": "discussion",
+    "context": "japanese-study",
+    "frequencyRank": 28
+  },
+  {
+    "word": "そんなことないです",
+    "reading": "そんなことないです",
+    "meaning": "Not really.",
+    "context": "japanese-study",
+    "frequencyRank": 29
+  },
+  {
+    "word": "大学",
+    "reading": "だいがく",
+    "meaning": "university / college",
+    "context": "japanese-study",
+    "frequencyRank": 30
+  },
+  {
+    "word": "チェックする",
+    "reading": "チェックする",
+    "meaning": "to check",
+    "context": "japanese-study",
+    "frequencyRank": 31
+  },
+  {
+    "word": "知恵",
+    "reading": "ちえ",
+    "meaning": "wisdom",
+    "context": "japanese-study",
+    "frequencyRank": 32
+  },
+  {
+    "word": "違う",
+    "reading": "ちがう",
+    "meaning": "different",
+    "context": "japanese-study",
+    "frequencyRank": 33
+  },
+  {
+    "word": "得意",
+    "reading": "とくい",
+    "meaning": "good at",
+    "context": "japanese-study",
+    "frequencyRank": 34
+  },
+  {
+    "word": "トップ",
+    "reading": "トップ",
+    "meaning": "top",
+    "context": "japanese-study",
+    "frequencyRank": 35
+  },
+  {
+    "word": "どれぐらい",
+    "reading": "どれぐらい",
+    "meaning": "how long",
+    "context": "japanese-study",
+    "frequencyRank": 36
+  },
+  {
+    "word": "何回も",
+    "reading": "なんかいも",
+    "meaning": "several times",
+    "context": "japanese-study",
+    "frequencyRank": 37
+  },
+  {
+    "word": "苦手",
+    "reading": "にがて",
+    "meaning": "poor at",
+    "context": "japanese-study",
+    "frequencyRank": 38
+  },
+  {
+    "word": "似ている",
+    "reading": "にている",
+    "meaning": "similar",
+    "context": "japanese-study",
+    "frequencyRank": 39
+  },
+  {
+    "word": "日本語",
+    "reading": "にほんご",
+    "meaning": "Japanese language",
+    "context": "japanese-study",
+    "frequencyRank": 40
+  },
+  {
+    "word": "日本語学校",
+    "reading": "にほんごがっこう",
+    "meaning": "Japanese language school",
+    "context": "japanese-study",
+    "frequencyRank": 41
+  },
+  {
+    "word": "ネット",
+    "reading": "ネット",
+    "meaning": "Internet",
+    "context": "japanese-study",
+    "frequencyRank": 42
+  },
+  {
+    "word": "拝借する",
+    "reading": "はいしゃくする",
+    "meaning": "to borrow",
+    "context": "japanese-study",
+    "frequencyRank": 43
+  },
+  {
+    "word": "発音",
+    "reading": "はつおん",
+    "meaning": "pronunciation",
+    "context": "japanese-study",
+    "frequencyRank": 44
+  },
+  {
+    "word": "ひらがな",
+    "reading": "ひらがな",
+    "meaning": "hiragana",
+    "context": "japanese-study",
+    "frequencyRank": 45
+  },
+  {
+    "word": "文法",
+    "reading": "ぶんぽう",
+    "meaning": "grammar",
+    "context": "japanese-study",
+    "frequencyRank": 46
+  },
+  {
+    "word": "ベトナム語",
+    "reading": "ベトナムご",
+    "meaning": "Vietnamese language",
+    "context": "japanese-study",
+    "frequencyRank": 47
+  },
+  {
+    "word": "勉強",
+    "reading": "べんきょう",
+    "meaning": "study",
+    "context": "japanese-study",
+    "frequencyRank": 48
+  },
+  {
+    "word": "ボランティア",
+    "reading": "ボランティア",
+    "meaning": "volunteer",
+    "context": "japanese-study",
+    "frequencyRank": 49
+  },
+  {
+    "word": "まだまだです",
+    "reading": "まだまだです",
+    "meaning": "Not even close.",
+    "context": "japanese-study",
+    "frequencyRank": 50
+  },
+  {
+    "word": "見せる",
+    "reading": "みせる",
+    "meaning": "to show",
+    "context": "japanese-study",
+    "frequencyRank": 51
+  },
+  {
+    "word": "難しい",
+    "reading": "むずかしい",
+    "meaning": "difficult",
+    "context": "japanese-study",
+    "frequencyRank": 52
+  },
+  {
+    "word": "無料",
+    "reading": "むりょう",
+    "meaning": "free of charge",
+    "context": "japanese-study",
+    "frequencyRank": 53
+  },
+  {
+    "word": "メール",
+    "reading": "メール",
+    "meaning": "email",
+    "context": "japanese-study",
+    "frequencyRank": 54
+  },
+  {
+    "word": "文字",
+    "reading": "もじ",
+    "meaning": "characters",
+    "context": "japanese-study",
+    "frequencyRank": 55
+  },
+  {
+    "word": "モンゴル語",
+    "reading": "モンゴルご",
+    "meaning": "Mongolian language",
+    "context": "japanese-study",
+    "frequencyRank": 56
+  },
+  {
+    "word": "ゆっくり",
+    "reading": "ゆっくり",
+    "meaning": "slowly",
+    "context": "japanese-study",
+    "frequencyRank": 57
+  },
+  {
+    "word": "ラジオ",
+    "reading": "ラジオ",
+    "meaning": "radio",
+    "context": "japanese-study",
+    "frequencyRank": 58
+  },
+  {
+    "word": "ランキング",
+    "reading": "ランキング",
+    "meaning": "ranking",
+    "context": "japanese-study",
+    "frequencyRank": 59
+  },
+  {
+    "word": "練習",
+    "reading": "れんしゅう",
+    "meaning": "practice",
+    "context": "japanese-study",
+    "frequencyRank": 60
+  },
+  {
+    "word": "わし",
+    "reading": "わし",
+    "meaning": "I (role language for an elderly person)",
+    "context": "japanese-study",
+    "frequencyRank": 61
+  },
+  {
+    "word": "～方",
+    "reading": "～かた",
+    "meaning": "how to (e.g. how to read)",
+    "context": "japanese-study",
+    "frequencyRank": 62
+  },
+  {
+    "word": "～間",
+    "reading": "～かん",
+    "meaning": "for ～ (e.g. for two years)",
+    "context": "japanese-study",
+    "frequencyRank": 63
+  },
+  {
+    "word": "合気道",
+    "reading": "あいきどう",
+    "meaning": "aikido",
+    "context": "japanese-study",
+    "frequencyRank": 64
+  },
+  {
+    "word": "味わう",
+    "reading": "あじわう",
+    "meaning": "to taste / to savor",
+    "context": "japanese-study",
+    "frequencyRank": 65
+  },
+  {
+    "word": "あとは",
+    "reading": "あとは",
+    "meaning": "after that",
+    "context": "japanese-study",
+    "frequencyRank": 66
+  },
+  {
+    "word": "意味",
+    "reading": "いみ",
+    "meaning": "meaning",
+    "context": "japanese-study",
+    "frequencyRank": 67
+  },
+  {
+    "word": "いらしてください",
+    "reading": "いらしてください",
+    "meaning": "Please come. (polite expression)",
+    "context": "japanese-study",
+    "frequencyRank": 68
+  },
+  {
+    "word": "動きやすい",
+    "reading": "うごきやすい",
+    "meaning": "easy to move (in)",
+    "context": "japanese-study",
+    "frequencyRank": 69
+  },
+  {
+    "word": "お持ちください",
+    "reading": "おもちください",
+    "meaning": "Please bring ～ . (polite expression)",
+    "context": "japanese-study",
+    "frequencyRank": 70
+  },
+  {
+    "word": "かかる",
+    "reading": "かかる",
+    "meaning": "to cost (a fee)",
+    "context": "japanese-study",
+    "frequencyRank": 71
+  },
+  {
+    "word": "各",
+    "reading": "かく",
+    "meaning": "each",
+    "context": "japanese-study",
+    "frequencyRank": 72
+  },
+  {
+    "word": "各自",
+    "reading": "かくじ",
+    "meaning": "each person",
+    "context": "japanese-study",
+    "frequencyRank": 73
+  },
+  {
+    "word": "外国人向け",
+    "reading": "がいこくじんむけ",
+    "meaning": "for non-Japanese residents",
+    "context": "japanese-study",
+    "frequencyRank": 74
+  },
+  {
+    "word": "聞く",
+    "reading": "きく",
+    "meaning": "to ask",
+    "context": "japanese-study",
+    "frequencyRank": 75
+  },
+  {
+    "word": "きびしい",
+    "reading": "きびしい",
+    "meaning": "strict",
+    "context": "japanese-study",
+    "frequencyRank": 76
+  },
+  {
+    "word": "興味がある",
+    "reading": "きょうみがある",
+    "meaning": "to be interested in",
+    "context": "japanese-study",
+    "frequencyRank": 77
+  },
+  {
+    "word": "クラス",
+    "reading": "クラス",
+    "meaning": "class",
+    "context": "japanese-study",
+    "frequencyRank": 78
+  },
+  {
+    "word": "見学",
+    "reading": "けんがく",
+    "meaning": "observation",
+    "context": "japanese-study",
+    "frequencyRank": 79
+  },
+  {
+    "word": "公民館",
+    "reading": "こうみんかん",
+    "meaning": "local community center",
+    "context": "japanese-study",
+    "frequencyRank": 80
+  },
+  {
+    "word": "コース",
+    "reading": "コース",
+    "meaning": "course",
+    "context": "japanese-study",
+    "frequencyRank": 81
+  },
+  {
+    "word": "最初",
+    "reading": "さいしょ",
+    "meaning": "at first",
+    "context": "japanese-study",
+    "frequencyRank": 82
+  },
+  {
+    "word": "参加する",
+    "reading": "さんかする",
+    "meaning": "to join",
+    "context": "japanese-study",
+    "frequencyRank": 83
+  },
+  {
+    "word": "週",
+    "reading": "しゅう",
+    "meaning": "week",
+    "context": "japanese-study",
+    "frequencyRank": 84
+  },
+  {
+    "word": "旬",
+    "reading": "しゅん",
+    "meaning": "seasonal food",
+    "context": "japanese-study",
+    "frequencyRank": 85
+  },
+  {
+    "word": "紹介する",
+    "reading": "しょうかいする",
+    "meaning": "to introduce",
+    "context": "japanese-study",
+    "frequencyRank": 86
+  },
+  {
+    "word": "少々お待ちください",
+    "reading": "しょうしょうおまちください",
+    "meaning": "Please wait a moment. (polite expression)",
+    "context": "japanese-study",
+    "frequencyRank": 87
+  },
+  {
+    "word": "書道",
+    "reading": "しょどう",
+    "meaning": "Japanese calligraphy",
+    "context": "japanese-study",
+    "frequencyRank": 88
+  },
+  {
+    "word": "時間",
+    "reading": "じかん",
+    "meaning": "time",
+    "context": "japanese-study",
+    "frequencyRank": 89
+  },
+  {
+    "word": "スタート",
+    "reading": "スタート",
+    "meaning": "starting in / on (e.g. starting in October)",
+    "context": "japanese-study",
+    "frequencyRank": 90
+  },
+  {
+    "word": "先着",
+    "reading": "せんちゃく",
+    "meaning": "first (people to apply)",
+    "context": "japanese-study",
+    "frequencyRank": 91
+  },
+  {
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "meaning": "all",
+    "context": "japanese-study",
+    "frequencyRank": 92
+  },
+  {
+    "word": "それとも",
+    "reading": "それとも",
+    "meaning": "or",
+    "context": "japanese-study",
+    "frequencyRank": 93
+  },
+  {
+    "word": "体育室",
+    "reading": "たいいくしつ",
+    "meaning": "exercise room",
+    "context": "japanese-study",
+    "frequencyRank": 94
+  },
+  {
+    "word": "体験教室",
+    "reading": "たいけんきょうしつ",
+    "meaning": "trial lesson",
+    "context": "japanese-study",
+    "frequencyRank": 95
+  },
+  {
+    "word": "ただ",
+    "reading": "ただ",
+    "meaning": "free of charge",
+    "context": "japanese-study",
+    "frequencyRank": 96
+  },
+  {
+    "word": "第～",
+    "reading": "だい～",
+    "meaning": "the first, the second, etc.",
+    "context": "japanese-study",
+    "frequencyRank": 97
+  },
+  {
+    "word": "調理室",
+    "reading": "ちょうりしつ",
+    "meaning": "kitchen",
+    "context": "japanese-study",
+    "frequencyRank": 98
+  },
+  {
+    "word": "ちょっといいですか？",
+    "reading": "ちょっといいですか？",
+    "meaning": "Can I have a minute?",
+    "context": "japanese-study",
+    "frequencyRank": 99
+  },
+  {
+    "word": "チラシ",
+    "reading": "チラシ",
+    "meaning": "flyer",
+    "context": "japanese-study",
+    "frequencyRank": 100
+  },
+  {
+    "word": "使う",
+    "reading": "つかう",
+    "meaning": "to use",
+    "context": "japanese-study",
+    "frequencyRank": 101
+  },
+  {
+    "word": "月",
+    "reading": "つき",
+    "meaning": "month",
+    "context": "japanese-study",
+    "frequencyRank": 102
+  },
+  {
+    "word": "テキスト",
+    "reading": "テキスト",
+    "meaning": "textbook",
+    "context": "japanese-study",
+    "frequencyRank": 103
+  },
+  {
+    "word": "問い合わせ",
+    "reading": "といあわせ",
+    "meaning": "inquiry",
+    "context": "japanese-study",
+    "frequencyRank": 104
+  },
+  {
+    "word": "どういう",
+    "reading": "どういう",
+    "meaning": "what",
+    "context": "japanese-study",
+    "frequencyRank": 105
+  },
+  {
+    "word": "道着",
+    "reading": "どうぎ",
+    "meaning": "dougi (martial arts uniform)",
+    "context": "japanese-study",
+    "frequencyRank": 106
+  },
+  {
+    "word": "道具",
+    "reading": "どうぐ",
+    "meaning": "equipment",
+    "context": "japanese-study",
+    "frequencyRank": 107
+  },
+  {
+    "word": "どんなこと",
+    "reading": "どんなこと",
+    "meaning": "what kinds of things",
+    "context": "japanese-study",
+    "frequencyRank": 108
+  },
+  {
+    "word": "何回",
+    "reading": "なんかい",
+    "meaning": "how many times",
+    "context": "japanese-study",
+    "frequencyRank": 109
+  },
+  {
+    "word": "日時",
+    "reading": "にちじ",
+    "meaning": "date and time",
+    "context": "japanese-study",
+    "frequencyRank": 110
+  },
+  {
+    "word": "払う",
+    "reading": "はらう",
+    "meaning": "to pay",
+    "context": "japanese-study",
+    "frequencyRank": 111
+  },
+  {
+    "word": "必要",
+    "reading": "ひつよう",
+    "meaning": "necessary",
+    "context": "japanese-study",
+    "frequencyRank": 112
+  },
+  {
+    "word": "費用",
+    "reading": "ひよう",
+    "meaning": "cost",
+    "context": "japanese-study",
+    "frequencyRank": 113
+  },
+  {
+    "word": "母語",
+    "reading": "ぼご",
+    "meaning": "mother tongue",
+    "context": "japanese-study",
+    "frequencyRank": 114
+  },
+  {
+    "word": "毎月",
+    "reading": "まいつき",
+    "meaning": "every month",
+    "context": "japanese-study",
+    "frequencyRank": 115
+  },
+  {
+    "word": "前に",
+    "reading": "まえに",
+    "meaning": "before",
+    "context": "japanese-study",
+    "frequencyRank": 116
+  },
+  {
+    "word": "まだ空いていますか？",
+    "reading": "まだあいていますか？",
+    "meaning": "Is there still availability?",
+    "context": "japanese-study",
+    "frequencyRank": 117
+  },
+  {
+    "word": "身につける",
+    "reading": "みにつける",
+    "meaning": "to learn",
+    "context": "japanese-study",
+    "frequencyRank": 118
+  },
+  {
+    "word": "もういっぱいです",
+    "reading": "もういっぱいです",
+    "meaning": "It is full.",
+    "context": "japanese-study",
+    "frequencyRank": 119
+  },
+  {
+    "word": "申し込み",
+    "reading": "もうしこみ",
+    "meaning": "application",
+    "context": "japanese-study",
+    "frequencyRank": 120
+  },
+  {
+    "word": "申込書",
+    "reading": "もうしこみしょ",
+    "meaning": "application form",
+    "context": "japanese-study",
+    "frequencyRank": 121
+  },
+  {
+    "word": "持って来る",
+    "reading": "もってくる",
+    "meaning": "to bring",
+    "context": "japanese-study",
+    "frequencyRank": 122
+  },
+  {
+    "word": "もっと",
+    "reading": "もっと",
+    "meaning": "more",
+    "context": "japanese-study",
+    "frequencyRank": 123
+  },
+  {
+    "word": "用意する",
+    "reading": "よういする",
+    "meaning": "to prepare / to offer",
+    "context": "japanese-study",
+    "frequencyRank": 124
+  },
+  {
+    "word": "曜日",
+    "reading": "ようび",
+    "meaning": "a day of the week",
+    "context": "japanese-study",
+    "frequencyRank": 125
+  }
+]

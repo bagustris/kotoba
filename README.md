@@ -10,9 +10,11 @@ drills the *shape and reading* of individual kanji, kotoba drills the
 actually used — grouped by the everyday situations you'd meet them in.
 
 > [!NOTE]
-> **Status: v1 implemented**, with a curated seed dataset (8 contexts —
+> **Status: v1 implemented**, with a curated dataset (16 contexts —
 > restaurant, hospital, station, airport, classroom, home, workplace, and
-> hobby) rather than the full frequency-ranked word list
+> hobby, weather, my town, going out together, Japanese study, cooking, work
+> communication, healthy living, and social relationships)
+> rather than the full frequency-ranked word list
 > described under "Data sources" below. All three modes, spaced repetition,
 > and adaptive distractor selection (ported from
 > [kanji-drill](https://github.com/bagustris/kanji-drill)'s learning engine)
@@ -103,18 +105,36 @@ Fill-in-blank: 昨日、ラーメンを＿＿＿＿ました。   → 食べ
 - [Wiktionary: Frequency lists/Japanese/5000 Most Frequent Words](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Japanese/5000_Most_Frequent_Words)
 - [IRODORI online course / いろどり 生活の日本語](https://www.irodori.jpf.go.jp/) —
   The Japan Foundation Japanese-Language Institute, Urawa. Word-level
-  vocabulary of the `workplace` and `hobby` contexts comes from Lessons 1
-  and 2 (`resource/lesson{1,2}-words-en.pdf`). An additional **authentic
-  sentence set** for those contexts is recovered from the same lesson pages,
-  tagged `source: "irodori-l1"/"irodori-l2"` with the official English gloss;
+  vocabulary of the `workplace` and `hobby` contexts comes from Lessons 1 and
+  2. The bundled Lesson 3–18 word lists provide the `weather` (Lessons
+  3–4), `neighborhood` (5–6), `outings` (7–8), `japanese-study` (9–10),
+  `cooking` (11–12), `work-communication` (13–14), `health` (15–16), and
+  `relationships` (17–18) contexts. An additional **authentic sentence set**
+  for those contexts is recovered from the same lesson pages, tagged
+  `source: "irodori-l1"` through `"irodori-l18"` with the official English gloss;
   where OCR had dropped kana so the Japanese could not be recovered verbatim,
-  the sentence is tagged `note: "reconstructed"` (only two sentences are
-  `note: "verbatim"`). — © The Japan Foundation, free for non-commercial use
-  with attribution.
+  the Lesson 1/2 sentence is tagged `note: "reconstructed"` (only two of
+  those sentences are `note: "verbatim"`). The Lesson 3/4 weather sentences
+  and all Lesson 5–18 sentence records were recovered verbatim. — © The Japan
+  Foundation, free for non-commercial use with attribution.
 - [できる日本語 初中級](https://www.3anet.co.jp/) — 3A Corporation. Word-level
   vocabulary of the same two contexts additionally draws on Lesson 1's
   sub-topics (新しい一歩: job hunting and meeting people) via its official
   English translation list (`resource/7024084_list_English.pdf`);
+- [IRODORI online course / いろどり 生活の日本語](https://www.irodori.jpf.go.jp/) —
+  The Japan Foundation Japanese-Language Institute, Urawa. A second,
+  higher-level lesson set (distinct lesson numbering from the Lesson 1–18
+  set above) provides full word and
+  sentence coverage for `life-story` (Lessons 1–2), `life-events` (9–10),
+  `errands` (13–14), and `disaster-prep` (15–16), plus extensions to the
+  existing `restaurant` (Lesson 3), `cooking` (4), `outings` (5–8), and
+  `neighborhood` (11–12) contexts. Word/reading/meaning and example
+  sentences are recovered from the PDFs' selectable text (no OCR needed),
+  tagged `source: "irodori2-l1"` through `"irodori2-l16"`; most sentences
+  are `note: "verbatim"`, with `note: "reconstructed"` where a PDF example
+  was a dialogue, shared by multiple headwords, or otherwise needed light
+  adaptation. — © The Japan Foundation, free for non-commercial use with
+  attribution.
 - All other example sentences are original kotoba sentences written around
   the extracted words, not copied from any textbook.
 
@@ -128,7 +148,7 @@ Fill-in-blank: 昨日、ラーメンを＿＿＿＿ました。   → 食べ
 > contributors belongs in this README's credits and, ideally, an in-app
 > "About" or "Credits" screen.
 
-## Planned tech stack
+## Tech stack
 
 Same approach as kanji-drill, for the same reason — it's a personal study
 tool, not a product, and GitHub Pages is free static hosting:
@@ -146,7 +166,7 @@ tool, not a product, and GitHub Pages is free static hosting:
   every other project in this workspace (see kanji-drill, minna-no-nihongo,
   japanese-for-work).
 
-## Proposed project structure
+## Project structure
 
 ```
 index.html              Screens: mode picker, context picker, quiz, summary
@@ -159,7 +179,7 @@ data/words/<context>.json     Word entries for one context
 data/sentences/<context>.json Example-sentence entries for one context
 ```
 
-### Data shape (proposed)
+### Data shape
 
 ```json
 // data/words/restaurant.json
@@ -178,7 +198,7 @@ per-grade kanji ordering.
 
 ## Roadmap
 
-Nothing is built yet. A sensible build order, mirroring kanji-drill's
+A sensible build order, mirroring kanji-drill's
 chunked approach:
 
 1. Data — compile the word list (frequency-ranked, context-tagged) and

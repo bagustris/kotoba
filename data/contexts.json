@@ -6,5 +6,17 @@
   { "id": "classroom", "label": "教室", "labelEn": "Classroom" },
   { "id": "home", "label": "家", "labelEn": "Home" },
   { "id": "workplace", "label": "職場", "labelEn": "At Work" },
-  { "id": "hobby", "label": "趣味", "labelEn": "Hobbies & Free Time" }
+  { "id": "hobby", "label": "趣味", "labelEn": "Hobbies & Free Time" },
+  { "id": "weather", "label": "天気", "labelEn": "Weather & Seasons" },
+  { "id": "neighborhood", "label": "私の町", "labelEn": "My Town" },
+  { "id": "outings", "label": "一緒に出かける", "labelEn": "Going Out Together" },
+  { "id": "japanese-study", "label": "日本語学習", "labelEn": "Japanese Study" },
+  { "id": "cooking", "label": "料理", "labelEn": "Cooking" },
+  { "id": "work-communication", "label": "仕事の連絡", "labelEn": "Work Communication" },
+  { "id": "health", "label": "健康な生活", "labelEn": "Healthy Living" },
+  { "id": "relationships", "label": "交際", "labelEn": "Social Relationships" },
+  { "id": "life-story", "label": "自己紹介と人生", "labelEn": "Hometown & Life Stories" },
+  { "id": "life-events", "label": "年中行事と冠婚葬祭", "labelEn": "Seasonal & Life Events" },
+  { "id": "errands", "label": "町の施設と用事", "labelEn": "Public Facilities & Errands" },
+  { "id": "disaster-prep", "label": "環境と防災", "labelEn": "Environment & Disaster Prep" }
 ]
