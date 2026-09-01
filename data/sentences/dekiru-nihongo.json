@@ -4,7 +4,7 @@
     "fullReading": "にんきがあるのは、おさしみていしょくです。",
     "translation": "Our popular menu is the sashimi set meal.",
     "target": "お刺身",
-    "reading": "さしみ",
+    "reading": "おさしみ",
     "meaning": "sashimi (thinly sliced, raw seafood)",
     "context": "dekiru-nihongo"
   },
@@ -23,8 +23,8 @@
     "sentence": "本日からこちらでお世話になります。よろしくお願いいたします。",
     "fullReading": "ほんじつからこちらでおせわになります。よろしくおねがいいたします。",
     "translation": "I start working with everyone today. Please treat me kindly.",
-    "target": "よろしくお願いいたしま",
-    "reading": "ねが",
+    "target": "よろしくお願いいたします",
+    "reading": "よろしくおねがいいたします",
     "meaning": "“I am looking forward to knowing you”",
     "context": "dekiru-nihongo"
   },
@@ -75,8 +75,8 @@
     "source": "jed",
     "note": "verbatim",
     "target": "コートを着る",
-    "reading": "き",
-    "meaning": "“putonacoat”",
+    "reading": "コートをきる",
+    "meaning": "“put on a coat”",
     "context": "dekiru-nihongo"
   },
   {
@@ -328,7 +328,7 @@
     "source": "jed",
     "note": "verbatim",
     "target": "目標",
-    "reading": "めじるし",
+    "reading": "もくひょう",
     "meaning": "goal, target",
     "context": "dekiru-nihongo"
   },
@@ -477,7 +477,7 @@
     "note": "verbatim",
     "target": "頑張る",
     "reading": "がんばる",
-    "meaning": "dooneʼsbest",
+    "meaning": "do one’s best",
     "context": "dekiru-nihongo"
   },
   {
@@ -704,7 +704,7 @@
     "fullReading": "そのちょこれーとばにらくりーむらて、かわそうですね。",
     "translation": "That chocolate vanilla cream latte looks sweet.",
     "target": "革",
-    "reading": "つくりかわ",
+    "reading": "かわ",
     "meaning": "leather",
     "context": "dekiru-nihongo"
   },
@@ -830,8 +830,8 @@
     "source": "jed",
     "note": "verbatim",
     "target": "点を取る",
-    "reading": "てんと",
-    "meaning": "get100points",
+    "reading": "てんをとる",
+    "meaning": "get points, get marks",
     "context": "dekiru-nihongo"
   },
   {
@@ -1012,7 +1012,7 @@
     "fullReading": "りょこうしたまちのれきしをしらべるのもたのしいものです。",
     "translation": "Looking into the history of towns I travel to is enjoyable too.",
     "target": "街",
-    "reading": "がい",
+    "reading": "まち",
     "meaning": "town",
     "context": "dekiru-nihongo"
   },
@@ -1475,7 +1475,7 @@
     "source": "jed",
     "note": "verbatim",
     "target": "大切さ",
-    "reading": "たいせつ",
+    "reading": "たいせつさ",
     "meaning": "importance",
     "context": "dekiru-nihongo"
   },
@@ -1515,7 +1515,7 @@
     "fullReading": "ごはんのおかわりはむりょうです。",
     "translation": "Rice refills are free.",
     "target": "代わり",
-    "reading": "がわり",
+    "reading": "かわり",
     "meaning": "in place of",
     "context": "dekiru-nihongo"
   },
@@ -1617,7 +1617,7 @@
     "fullReading": "げつようびにごみをだすよていです。",
     "translation": "I plan to put out the garbage on Monday.",
     "target": "ごみを出す",
-    "reading": "だ",
+    "reading": "ごみをだす",
     "meaning": "take out the garbage",
     "context": "dekiru-nihongo"
   },
@@ -1715,15 +1715,6 @@
     "context": "dekiru-nihongo"
   },
   {
-    "sentence": "ごめんください。",
-    "fullReading": "ごめんください。",
-    "translation": "Hello, may I come in?",
-    "target": "ださい",
-    "reading": "ダサい",
-    "meaning": "here.”",
-    "context": "dekiru-nihongo"
-  },
-  {
     "sentence": "備蓄品は、賞味期限が切れる前に、定期的に入れ替えます。",
     "fullReading": "びちくひんは、しょうみきげんがきれるまえに、ていきてきにいれかえます。",
     "translation": "I periodically replace stockpiled goods before their expiration date passes.",
@@ -1768,7 +1759,7 @@
     "fullReading": "パソコンは、あいているところをごじゆうにおつかいください。",
     "translation": "Feel free to use any of the unoccupied computers.",
     "target": "ご自由に",
-    "reading": "じゆう",
+    "reading": "ごじゆうに",
     "meaning": "Please feel free",
     "context": "dekiru-nihongo"
   },
@@ -1863,7 +1854,7 @@
     "fullReading": "彼の卒業論文は私のと関係がある。",
     "translation": "His thesis is related to mine.",
     "target": "係",
-    "reading": "がかり",
+    "reading": "かかり",
     "meaning": "person in charge",
     "context": "dekiru-nihongo"
   },
@@ -2131,8 +2122,8 @@
     "fullReading": "おまたせしてしつれいしました。",
     "translation": "Sorry to have kept you waiting.",
     "target": "お待たせ",
-    "reading": "ま",
-    "meaning": "waiting”",
+    "reading": "おまたせ",
+    "meaning": "“Sorry to keep you waiting”",
     "context": "dekiru-nihongo"
   },
   {
@@ -2151,7 +2142,7 @@
     "source": "jed",
     "note": "verbatim",
     "target": "親しい",
-    "reading": "ちかしい",
+    "reading": "したしい",
     "meaning": "familiar, intimate",
     "context": "dekiru-nihongo"
   },
@@ -2200,7 +2191,7 @@
     "fullReading": "しょうらいのことをよくかんがえる。",
     "translation": "I think carefully about my future.",
     "target": "将来のこと",
-    "reading": "しょうらい",
+    "reading": "しょうらいのこと",
     "meaning": "things about the future",
     "context": "dekiru-nihongo"
   },
@@ -2282,7 +2273,7 @@
     "fullReading": "宇宙船は月を回る軌道を外れている。",
     "translation": "The spaceship is out of orbit around the moon.",
     "target": "回る",
-    "reading": "めぐる",
+    "reading": "まわる",
     "meaning": "go around",
     "context": "dekiru-nihongo"
   },
@@ -2322,7 +2313,7 @@
     "fullReading": "つめたいこおりにさわると、てがいたくなります。",
     "translation": "If you touch cold ice, your hands start to hurt.",
     "target": "氷",
-    "reading": "ひ",
+    "reading": "こおり",
     "meaning": "ice",
     "context": "dekiru-nihongo"
   },
@@ -2495,7 +2486,7 @@
     "note": "verbatim",
     "target": "ビタミン",
     "reading": "ビタミン",
-    "meaning": "vitaminC",
+    "meaning": "vitamin C",
     "context": "dekiru-nihongo"
   },
   {
@@ -2725,7 +2716,7 @@
     "translation": "Free refills of rice are available.",
     "target": "自由",
     "reading": "じゆう",
-    "meaning": "free,atwill",
+    "meaning": "free, at will",
     "context": "dekiru-nihongo"
   },
   {
@@ -2746,8 +2737,8 @@
     "source": "jed",
     "note": "verbatim",
     "target": "宿題をやる",
-    "reading": "しゅくだい",
-    "meaning": "domyhomework",
+    "reading": "しゅくだいをやる",
+    "meaning": "do my homework",
     "context": "dekiru-nihongo"
   },
   {
@@ -2832,7 +2823,7 @@
     "fullReading": "こんどうちにあそびにくるよていです。",
     "translation": "I plan to come visit my house next time.",
     "target": "遊び",
-    "reading": "すさび",
+    "reading": "あそび",
     "meaning": "game, play",
     "context": "dekiru-nihongo"
   },
@@ -2998,7 +2989,7 @@
     "source": "jed",
     "note": "verbatim",
     "target": "新しい年",
-    "reading": "あたらとし",
+    "reading": "あたらしいとし",
     "meaning": "a new year, the coming year",
     "context": "dekiru-nihongo"
   },

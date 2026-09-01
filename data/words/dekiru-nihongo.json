@@ -1,7 +1,7 @@
 [
   {
     "word": "お刺身",
-    "reading": "さしみ",
+    "reading": "おさしみ",
     "meaning": "sashimi (thinly sliced, raw seafood)",
     "context": "dekiru-nihongo",
     "frequencyRank": 1
@@ -21,8 +21,8 @@
     "frequencyRank": 3
   },
   {
-    "word": "よろしくお願いいたしま",
-    "reading": "ねが",
+    "word": "よろしくお願いいたします",
+    "reading": "よろしくおねがいいたします",
     "meaning": "“I am looking forward to knowing you”",
     "context": "dekiru-nihongo",
     "frequencyRank": 4
@@ -64,8 +64,8 @@
   },
   {
     "word": "コートを着る",
-    "reading": "き",
-    "meaning": "“putonacoat”",
+    "reading": "コートをきる",
+    "meaning": "“put on a coat”",
     "context": "dekiru-nihongo",
     "frequencyRank": 10
   },
@@ -133,8 +133,8 @@
     "frequencyRank": 19
   },
   {
-    "word": "もっと大きいかばんがほ",
-    "reading": "おお",
+    "word": "もっと大きいかばんがほしい",
+    "reading": "もっとおおきいかばんがほしい",
     "meaning": "“I want a larger bag”",
     "context": "dekiru-nihongo",
     "frequencyRank": 20
@@ -175,8 +175,8 @@
     "frequencyRank": 25
   },
   {
-    "word": "とんかつにソースをかけ",
-    "reading": "とんかつにソースをかけ",
+    "word": "とんかつにソースをかける",
+    "reading": "とんかつにソースをかける",
     "meaning": "“put sauce on pork cutlet”",
     "context": "dekiru-nihongo",
     "frequencyRank": 26
@@ -268,7 +268,7 @@
   {
     "word": "ソースをかける",
     "reading": "ソースをかける",
-    "meaning": "putsauceon",
+    "meaning": "put sauce on (something)",
     "context": "dekiru-nihongo",
     "frequencyRank": 39
   },
@@ -295,7 +295,7 @@
   },
   {
     "word": "もう一杯",
-    "reading": "もう一杯",
+    "reading": "もういっぱい",
     "meaning": "one more cup / glass",
     "context": "dekiru-nihongo",
     "frequencyRank": 43
@@ -386,7 +386,7 @@
   },
   {
     "word": "目標",
-    "reading": "めじるし",
+    "reading": "もくひょう",
     "meaning": "goal, target",
     "context": "dekiru-nihongo",
     "frequencyRank": 56
@@ -414,7 +414,7 @@
   },
   {
     "word": "自分の店を開く",
-    "reading": "じぶんみせひら",
+    "reading": "じぶんのみせをひらく",
     "meaning": "open your own store",
     "context": "dekiru-nihongo",
     "frequencyRank": 60
@@ -427,16 +427,16 @@
     "frequencyRank": 61
   },
   {
-    "word": "国へ帰るかどうか迷って",
-    "reading": "くにかえまよ",
+    "word": "国へ帰るかどうか迷っている",
+    "reading": "くにへかえるかどうかまよっている",
     "meaning": "“wavering whether to return to my country or not”",
     "context": "dekiru-nihongo",
     "frequencyRank": 62
   },
   {
     "word": "入学試験を受ける",
-    "reading": "にゅうがくしけんう",
-    "meaning": "examination",
+    "reading": "にゅうがくしけんをうける",
+    "meaning": "take an entrance examination",
     "context": "dekiru-nihongo",
     "frequencyRank": 63
   },
@@ -533,7 +533,7 @@
   },
   {
     "word": "今日中",
-    "reading": "今日中",
+    "reading": "きょうじゅう",
     "meaning": "by the end of today",
     "context": "dekiru-nihongo",
     "frequencyRank": 77
@@ -541,7 +541,7 @@
   {
     "word": "頑張る",
     "reading": "がんばる",
-    "meaning": "dooneʼsbest",
+    "meaning": "do one’s best",
     "context": "dekiru-nihongo",
     "frequencyRank": 78
   },
@@ -694,15 +694,15 @@
   },
   {
     "word": "水が止まる",
-    "reading": "みずと",
-    "meaning": "running",
+    "reading": "みずがとまる",
+    "meaning": "the water has stopped running",
     "context": "dekiru-nihongo",
     "frequencyRank": 100
   },
   {
     "word": "バスが出る",
-    "reading": "で",
-    "meaning": "service.",
+    "reading": "バスがでる",
+    "meaning": "(They) run a bus service.",
     "context": "dekiru-nihongo",
     "frequencyRank": 101
   },
@@ -743,7 +743,7 @@
   },
   {
     "word": "～階建て",
-    "reading": "かいだ",
+    "reading": "～かいだて",
     "meaning": "building with ~ floors",
     "context": "dekiru-nihongo",
     "frequencyRank": 107
@@ -757,7 +757,7 @@
   },
   {
     "word": "新宿行き",
-    "reading": "新宿行き",
+    "reading": "しんじゅくいき",
     "meaning": "bound for Shinjuku",
     "context": "dekiru-nihongo",
     "frequencyRank": 109
@@ -798,8 +798,8 @@
     "frequencyRank": 114
   },
   {
-    "word": "財布にカードが入ってい",
-    "reading": "さいふはい",
+    "word": "財布にカードが入っている",
+    "reading": "さいふにカードがはいっている",
     "meaning": "“The card is in my wallet.”",
     "context": "dekiru-nihongo",
     "frequencyRank": 115
@@ -813,7 +813,7 @@
   },
   {
     "word": "革",
-    "reading": "つくりかわ",
+    "reading": "かわ",
     "meaning": "leather",
     "context": "dekiru-nihongo",
     "frequencyRank": 117
@@ -869,14 +869,14 @@
   },
   {
     "word": "ポケットが付いている",
-    "reading": "つ",
+    "reading": "ポケットがついている",
     "meaning": "“A pocket is attached.”",
     "context": "dekiru-nihongo",
     "frequencyRank": 125
   },
   {
     "word": "自転車がなくなった",
-    "reading": "じてんしゃ",
+    "reading": "じてんしゃがなくなった",
     "meaning": "“I lost my bicycle.”",
     "context": "dekiru-nihongo",
     "frequencyRank": 126
@@ -890,7 +890,7 @@
   },
   {
     "word": "駅を出る",
-    "reading": "えきで",
+    "reading": "えきをでる",
     "meaning": "leave a station",
     "context": "dekiru-nihongo",
     "frequencyRank": 128
@@ -946,7 +946,7 @@
   },
   {
     "word": "100点",
-    "reading": "100点",
+    "reading": "ひゃくてん",
     "meaning": "100 points",
     "context": "dekiru-nihongo",
     "frequencyRank": 136
@@ -954,14 +954,14 @@
   {
     "word": "預かる",
     "reading": "あずかる",
-    "meaning": "care,checkin",
+    "meaning": "leave (something, someone) in someone’s care, check in (baggage)",
     "context": "dekiru-nihongo",
     "frequencyRank": 137
   },
   {
-    "word": "点を取る",
-    "reading": "てんと",
-    "meaning": "get100points",
+    "word": "100点を取る",
+    "reading": "ひゃくてんをとる",
+    "meaning": "get 100 points",
     "context": "dekiru-nihongo",
     "frequencyRank": 138
   },
@@ -995,14 +995,14 @@
   },
   {
     "word": "この料理は味が薄い",
-    "reading": "りょうりあじうす",
-    "meaning": "weakflavor.”",
+    "reading": "このりょうりはあじがうすい",
+    "meaning": "“This cooking has a weak flavor.”",
     "context": "dekiru-nihongo",
     "frequencyRank": 143
   },
   {
     "word": "ゆっくり話してください",
-    "reading": "はな",
+    "reading": "ゆっくりはなしてください",
     "meaning": "“Please speak slowly.”",
     "context": "dekiru-nihongo",
     "frequencyRank": 144
@@ -1051,7 +1051,7 @@
   },
   {
     "word": "ラベンダー畑",
-    "reading": "ラベンダー畑",
+    "reading": "ラベンダーばたけ",
     "meaning": "Lavender Farm",
     "context": "dekiru-nihongo",
     "frequencyRank": 151
@@ -1142,7 +1142,7 @@
   },
   {
     "word": "街",
-    "reading": "がい",
+    "reading": "まち",
     "meaning": "town",
     "context": "dekiru-nihongo",
     "frequencyRank": 164
@@ -1156,14 +1156,14 @@
   },
   {
     "word": "朝食付き",
-    "reading": "朝食付き",
+    "reading": "ちょうしょくつき",
     "meaning": "with breakfast included",
     "context": "dekiru-nihongo",
     "frequencyRank": 166
   },
   {
     "word": "2泊3日",
-    "reading": "2泊3日",
+    "reading": "にはくみっか",
     "meaning": "two nights, three days",
     "context": "dekiru-nihongo",
     "frequencyRank": 167
@@ -1247,15 +1247,15 @@
   },
   {
     "word": "旅行中",
-    "reading": "旅行中",
+    "reading": "りょこうちゅう",
     "meaning": "during travel",
     "context": "dekiru-nihongo",
     "frequencyRank": 179
   },
   {
     "word": "席がなくなる",
-    "reading": "せき",
-    "meaning": "seatsleft.”",
+    "reading": "せきがなくなる",
+    "meaning": "“There are no more seats left.”",
     "context": "dekiru-nihongo",
     "frequencyRank": 180
   },
@@ -1303,7 +1303,7 @@
   },
   {
     "word": "9時頃",
-    "reading": "9時頃",
+    "reading": "くじごろ",
     "meaning": "around 9:00",
     "context": "dekiru-nihongo",
     "frequencyRank": 187
@@ -1422,7 +1422,7 @@
   },
   {
     "word": "パスタのソースを作る",
-    "reading": "つく",
+    "reading": "パスタのソースをつくる",
     "meaning": "make pasta sauce",
     "context": "dekiru-nihongo",
     "frequencyRank": 204
@@ -1513,8 +1513,8 @@
   },
   {
     "word": "薄く切る",
-    "reading": "うすき",
-    "meaning": "“Cutthinly.”",
+    "reading": "うすくきる",
+    "meaning": "“Cut thinly.”",
     "context": "dekiru-nihongo",
     "frequencyRank": 217
   },
@@ -1549,21 +1549,21 @@
   {
     "word": "お団子",
     "reading": "おだんご",
-    "meaning": "ricedumpling",
+    "meaning": "rice dumpling",
     "context": "dekiru-nihongo",
     "frequencyRank": 222
   },
   {
     "word": "駅員さん",
-    "reading": "駅員さん",
+    "reading": "えきいんさん",
     "meaning": "station attendant",
     "context": "dekiru-nihongo",
     "frequencyRank": 223
   },
   {
     "word": "車でうちまで送る",
-    "reading": "くるまおく",
-    "meaning": "car",
+    "reading": "くるまでうちまでおくる",
+    "meaning": "take someone home by car",
     "context": "dekiru-nihongo",
     "frequencyRank": 224
   },
@@ -1618,14 +1618,14 @@
   },
   {
     "word": "ふーん",
-    "reading": "ふん",
+    "reading": "ふーん",
     "meaning": "well ...",
     "context": "dekiru-nihongo",
     "frequencyRank": 232
   },
   {
     "word": "お茶碗",
-    "reading": "ちゃわん",
+    "reading": "おちゃわん",
     "meaning": "china cup, china bowl",
     "context": "dekiru-nihongo",
     "frequencyRank": 233
@@ -1688,7 +1688,7 @@
   },
   {
     "word": "大切さ",
-    "reading": "たいせつ",
+    "reading": "たいせつさ",
     "meaning": "importance",
     "context": "dekiru-nihongo",
     "frequencyRank": 242
@@ -1716,7 +1716,7 @@
   },
   {
     "word": "代わり",
-    "reading": "がわり",
+    "reading": "かわり",
     "meaning": "in place of",
     "context": "dekiru-nihongo",
     "frequencyRank": 246
@@ -1758,7 +1758,7 @@
   },
   {
     "word": "前の月",
-    "reading": "まえつき",
+    "reading": "まえのつき",
     "meaning": "the previous month",
     "context": "dekiru-nihongo",
     "frequencyRank": 252
@@ -1786,7 +1786,7 @@
   },
   {
     "word": "タイムカードを押す",
-    "reading": "お",
+    "reading": "タイムカードをおす",
     "meaning": "punch a time card",
     "context": "dekiru-nihongo",
     "frequencyRank": 256
@@ -1807,7 +1807,7 @@
   },
   {
     "word": "アルバイトを代わる",
-    "reading": "か",
+    "reading": "アルバイトをかわる",
     "meaning": "replace someone’s shift",
     "context": "dekiru-nihongo",
     "frequencyRank": 259
@@ -1828,14 +1828,14 @@
   },
   {
     "word": "滑る",
-    "reading": "ぬめる",
+    "reading": "すべる",
     "meaning": "slide",
     "context": "dekiru-nihongo",
     "frequencyRank": 262
   },
   {
     "word": "ごみを出す",
-    "reading": "だ",
+    "reading": "ごみをだす",
     "meaning": "take out the garbage",
     "context": "dekiru-nihongo",
     "frequencyRank": 263
@@ -1885,7 +1885,7 @@
   {
     "word": "アクセサリーをつける",
     "reading": "アクセサリーをつける",
-    "meaning": "putonjewelry",
+    "meaning": "put on jewelry",
     "context": "dekiru-nihongo",
     "frequencyRank": 270
   },
@@ -1925,1879 +1925,1872 @@
     "frequencyRank": 275
   },
   {
-    "word": "こちらのいすにおかけく",
-    "reading": "こちらのいすにおかけく",
+    "word": "こちらのいすにおかけください",
+    "reading": "こちらのいすにおかけください",
     "meaning": "“Please have a seat here.”",
     "context": "dekiru-nihongo",
     "frequencyRank": 276
-  },
-  {
-    "word": "ださい",
-    "reading": "ダサい",
-    "meaning": "here.”",
-    "context": "dekiru-nihongo",
-    "frequencyRank": 277
   },
   {
     "word": "切れる",
     "reading": "きれる",
     "meaning": "run out of",
     "context": "dekiru-nihongo",
-    "frequencyRank": 278
+    "frequencyRank": 277
   },
   {
     "word": "焦げる",
     "reading": "こげる",
     "meaning": "get burned",
     "context": "dekiru-nihongo",
-    "frequencyRank": 279
+    "frequencyRank": 278
   },
   {
     "word": "確かめる",
     "reading": "たしかめる",
     "meaning": "make sure, confirm",
     "context": "dekiru-nihongo",
-    "frequencyRank": 280
+    "frequencyRank": 279
   },
   {
     "word": "破れる",
-    "reading": "われる",
+    "reading": "やぶれる",
     "meaning": "break",
     "context": "dekiru-nihongo",
-    "frequencyRank": 281
+    "frequencyRank": 280
   },
   {
     "word": "休憩する",
     "reading": "きゅうけいする",
     "meaning": "take a break",
     "context": "dekiru-nihongo",
-    "frequencyRank": 282
+    "frequencyRank": 281
   },
   {
     "word": "注意する",
     "reading": "ちゅういする",
     "meaning": "pay attention",
     "context": "dekiru-nihongo",
-    "frequencyRank": 283
+    "frequencyRank": 282
   },
   {
     "word": "少々",
     "reading": "しょうしょう",
     "meaning": "a little bit",
     "context": "dekiru-nihongo",
-    "frequencyRank": 284
+    "frequencyRank": 283
   },
   {
     "word": "ご自由に",
-    "reading": "じゆう",
+    "reading": "ごじゆうに",
     "meaning": "Please feel free",
     "context": "dekiru-nihongo",
-    "frequencyRank": 285
+    "frequencyRank": 284
   },
   {
     "word": "申し訳ないんですが",
-    "reading": "もうわけ",
+    "reading": "もうしわけないんですが",
     "meaning": "I am sorry, but ...",
     "context": "dekiru-nihongo",
-    "frequencyRank": 286
+    "frequencyRank": 285
   },
   {
     "word": "あめ",
     "reading": "あめ",
     "meaning": "candy, sweets",
     "context": "dekiru-nihongo",
-    "frequencyRank": 287
+    "frequencyRank": 286
   },
   {
     "word": "王様",
     "reading": "おうさま",
     "meaning": "king",
     "context": "dekiru-nihongo",
-    "frequencyRank": 288
+    "frequencyRank": 287
   },
   {
     "word": "クルミ",
     "reading": "くるみ",
     "meaning": "walnut",
     "context": "dekiru-nihongo",
-    "frequencyRank": 289
+    "frequencyRank": 288
   },
   {
     "word": "ゴマ",
     "reading": "ごま",
     "meaning": "sesame",
     "context": "dekiru-nihongo",
-    "frequencyRank": 290
+    "frequencyRank": 289
   },
   {
     "word": "誰でも",
     "reading": "だれでも",
     "meaning": "anyone",
     "context": "dekiru-nihongo",
-    "frequencyRank": 291
+    "frequencyRank": 290
   },
   {
     "word": "アイスクリーム",
     "reading": "アイスクリーム",
     "meaning": "ice cream",
     "context": "dekiru-nihongo",
-    "frequencyRank": 292
+    "frequencyRank": 291
   },
   {
     "word": "おじいさん",
     "reading": "おじいさん",
     "meaning": "an old man",
     "context": "dekiru-nihongo",
-    "frequencyRank": 293
+    "frequencyRank": 292
   },
   {
     "word": "近所のおじいさん",
-    "reading": "きんじょ",
+    "reading": "きんじょのおじいさん",
     "meaning": "an old man in the neighbourhood",
     "context": "dekiru-nihongo",
-    "frequencyRank": 294
+    "frequencyRank": 293
   },
   {
     "word": "おばあさん",
     "reading": "おばあさん",
     "meaning": "an old woman",
     "context": "dekiru-nihongo",
-    "frequencyRank": 295
+    "frequencyRank": 294
   },
   {
     "word": "近所のおばあさん",
-    "reading": "きんじょ",
+    "reading": "きんじょのおばあさん",
     "meaning": "an old woman in the neighbourhood",
     "context": "dekiru-nihongo",
-    "frequencyRank": 296
+    "frequencyRank": 295
   },
   {
     "word": "蚊",
     "reading": "か",
     "meaning": "mosquito",
     "context": "dekiru-nihongo",
-    "frequencyRank": 297
+    "frequencyRank": 296
   },
   {
     "word": "係",
-    "reading": "がかり",
+    "reading": "かかり",
     "meaning": "person in charge",
     "context": "dekiru-nihongo",
-    "frequencyRank": 298
+    "frequencyRank": 297
   },
   {
     "word": "シカ",
     "reading": "しか",
     "meaning": "deer",
     "context": "dekiru-nihongo",
-    "frequencyRank": 299
+    "frequencyRank": 298
   },
   {
     "word": "シングル",
     "reading": "シングル",
     "meaning": "single",
     "context": "dekiru-nihongo",
-    "frequencyRank": 300
+    "frequencyRank": 299
   },
   {
     "word": "ツイン",
     "reading": "ツイン",
     "meaning": "twin",
     "context": "dekiru-nihongo",
-    "frequencyRank": 301
+    "frequencyRank": 300
   },
   {
     "word": "バッテリー",
     "reading": "バッテリー",
     "meaning": "battery (esp. rechargeable battery)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 302
+    "frequencyRank": 301
   },
   {
     "word": "フロント",
     "reading": "フロント",
     "meaning": "front desk",
     "context": "dekiru-nihongo",
-    "frequencyRank": 303
+    "frequencyRank": 302
   },
   {
     "word": "ポーチ",
     "reading": "ポーチ",
     "meaning": "pouch",
     "context": "dekiru-nihongo",
-    "frequencyRank": 304
+    "frequencyRank": 303
   },
   {
     "word": "ライブ",
     "reading": "ライブ",
     "meaning": "live (concert, broadcast)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 305
+    "frequencyRank": 304
   },
   {
     "word": "ロック",
     "reading": "ロック",
     "meaning": "rock",
     "context": "dekiru-nihongo",
-    "frequencyRank": 306
+    "frequencyRank": 305
   },
   {
     "word": "かむ",
     "reading": "かむ",
     "meaning": "chew",
     "context": "dekiru-nihongo",
-    "frequencyRank": 307
+    "frequencyRank": 306
   },
   {
     "word": "配る",
     "reading": "くばる",
     "meaning": "distribute",
     "context": "dekiru-nihongo",
-    "frequencyRank": 308
+    "frequencyRank": 307
   },
   {
     "word": "刺す",
     "reading": "さす",
     "meaning": "bite, sting, stick with",
     "context": "dekiru-nihongo",
-    "frequencyRank": 309
+    "frequencyRank": 308
   },
   {
     "word": "誘う",
     "reading": "さそう",
     "meaning": "invite, take out",
     "context": "dekiru-nihongo",
-    "frequencyRank": 310
+    "frequencyRank": 309
   },
   {
     "word": "踏む",
     "reading": "ふむ",
     "meaning": "step on",
     "context": "dekiru-nihongo",
-    "frequencyRank": 311
+    "frequencyRank": 310
   },
   {
     "word": "ぶつかる",
     "reading": "ぶつかる",
     "meaning": "hit, run against",
     "context": "dekiru-nihongo",
-    "frequencyRank": 312
+    "frequencyRank": 311
   },
   {
     "word": "けんかする",
-    "reading": "まゆかする",
+    "reading": "けんかする",
     "meaning": "argue",
     "context": "dekiru-nihongo",
-    "frequencyRank": 313
+    "frequencyRank": 312
   },
   {
     "word": "撮影する",
     "reading": "さつえいする",
     "meaning": "take a picture, record video",
     "context": "dekiru-nihongo",
-    "frequencyRank": 314
+    "frequencyRank": 313
   },
   {
     "word": "充電する",
     "reading": "じゅうでんする",
     "meaning": "charge (a battery)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 315
+    "frequencyRank": 314
   },
   {
     "word": "招待する",
     "reading": "しょうたいする",
     "meaning": "invite, ask",
     "context": "dekiru-nihongo",
-    "frequencyRank": 316
+    "frequencyRank": 315
   },
   {
     "word": "タッチする",
     "reading": "タッチする",
     "meaning": "touch, tap (a screen)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 317
+    "frequencyRank": 316
   },
   {
     "word": "係の人に注意される",
-    "reading": "かかりひとちゅうい",
-    "meaning": "staff",
+    "reading": "かかりのひとにちゅういされる",
+    "meaning": "be given notice by the staff",
     "context": "dekiru-nihongo",
-    "frequencyRank": 318
+    "frequencyRank": 317
   },
   {
     "word": "発売する",
     "reading": "はつばいする",
     "meaning": "sell",
     "context": "dekiru-nihongo",
-    "frequencyRank": 319
+    "frequencyRank": 318
   },
   {
     "word": "うまい",
     "reading": "うまい",
     "meaning": "taste good, delicious",
     "context": "dekiru-nihongo",
-    "frequencyRank": 320
+    "frequencyRank": 319
   },
   {
     "word": "いっぱい",
     "reading": "いっぱい",
     "meaning": "full",
     "context": "dekiru-nihongo",
-    "frequencyRank": 321
+    "frequencyRank": 320
   },
   {
     "word": "多く",
     "reading": "おおく",
     "meaning": "many",
     "context": "dekiru-nihongo",
-    "frequencyRank": 322
+    "frequencyRank": 321
   },
   {
     "word": "お化け屋敷",
     "reading": "おばけやしき",
     "meaning": "haunted house",
     "context": "dekiru-nihongo",
-    "frequencyRank": 323
+    "frequencyRank": 322
   },
   {
     "word": "おやき",
-    "reading": "おやぎ",
+    "reading": "おやき",
     "meaning": "oyaki (Japanese dumpling popular in Nagano prefecture)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 324
+    "frequencyRank": 323
   },
   {
     "word": "国際",
     "reading": "こくさい",
     "meaning": "international",
     "context": "dekiru-nihongo",
-    "frequencyRank": 325
+    "frequencyRank": 324
   },
   {
     "word": "近所の子ども",
-    "reading": "きんじょこ",
+    "reading": "きんじょのこども",
     "meaning": "neighborhood child",
     "context": "dekiru-nihongo",
-    "frequencyRank": 326
+    "frequencyRank": 325
   },
   {
     "word": "月を見る",
-    "reading": "つきみ",
-    "meaning": "seethemoon",
+    "reading": "つきをみる",
+    "meaning": "see the moon",
     "context": "dekiru-nihongo",
-    "frequencyRank": 327
+    "frequencyRank": 326
   },
   {
     "word": "トラ",
     "reading": "とら",
     "meaning": "tiger",
     "context": "dekiru-nihongo",
-    "frequencyRank": 328
+    "frequencyRank": 327
   },
   {
     "word": "屋根",
     "reading": "やね",
     "meaning": "roof",
     "context": "dekiru-nihongo",
-    "frequencyRank": 329
+    "frequencyRank": 328
   },
   {
     "word": "ヨーロッパ",
     "reading": "ヨーロッパ",
     "meaning": "Europe",
     "context": "dekiru-nihongo",
-    "frequencyRank": 330
+    "frequencyRank": 329
   },
   {
     "word": "江戸時代",
     "reading": "えどじだい",
     "meaning": "Edo period",
     "context": "dekiru-nihongo",
-    "frequencyRank": 331
+    "frequencyRank": 330
   },
   {
     "word": "弁当箱",
     "reading": "べんとうばこ",
     "meaning": "lunch box",
     "context": "dekiru-nihongo",
-    "frequencyRank": 332
+    "frequencyRank": 331
   },
   {
     "word": "造る",
     "reading": "つくる",
     "meaning": "create, build",
     "context": "dekiru-nihongo",
-    "frequencyRank": 333
+    "frequencyRank": 332
   },
   {
     "word": "コンサートが開かれる",
-    "reading": "ひら",
-    "meaning": "holdaconcert",
+    "reading": "コンサートがひらかれる",
+    "meaning": "hold a concert",
     "context": "dekiru-nihongo",
-    "frequencyRank": 334
+    "frequencyRank": 333
   },
   {
     "word": "向かう",
     "reading": "むかう",
     "meaning": "leave for, face (a certain direction)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 335
+    "frequencyRank": 334
   },
   {
     "word": "生きる",
     "reading": "いきる",
     "meaning": "live, to be alive",
     "context": "dekiru-nihongo",
-    "frequencyRank": 336
+    "frequencyRank": 335
   },
   {
     "word": "設計する",
     "reading": "せっけいする",
     "meaning": "design, plan",
     "context": "dekiru-nihongo",
-    "frequencyRank": 337
+    "frequencyRank": 336
   },
   {
     "word": "発見する",
     "reading": "はっけんする",
     "meaning": "find, discover",
     "context": "dekiru-nihongo",
-    "frequencyRank": 338
+    "frequencyRank": 337
   },
   {
     "word": "発明する",
     "reading": "はつめいする",
     "meaning": "invent",
     "context": "dekiru-nihongo",
-    "frequencyRank": 339
+    "frequencyRank": 338
   },
   {
     "word": "ロープウエー",
-    "reading": "ロープウェイ",
+    "reading": "ロープウエー",
     "meaning": "ropeway",
     "context": "dekiru-nihongo",
-    "frequencyRank": 340
+    "frequencyRank": 339
   },
   {
     "word": "お待たせ",
-    "reading": "ま",
-    "meaning": "waiting”",
+    "reading": "おまたせ",
+    "meaning": "“Sorry to keep you waiting”",
     "context": "dekiru-nihongo",
-    "frequencyRank": 341
+    "frequencyRank": 340
   },
   {
     "word": "苦労",
     "reading": "くろう",
     "meaning": "trouble, burden",
     "context": "dekiru-nihongo",
-    "frequencyRank": 342
+    "frequencyRank": 341
   },
   {
     "word": "話しかける",
     "reading": "はなしかける",
     "meaning": "talk to, speak to",
     "context": "dekiru-nihongo",
-    "frequencyRank": 343
+    "frequencyRank": 342
   },
   {
     "word": "親しい",
-    "reading": "ちかしい",
+    "reading": "したしい",
     "meaning": "familiar, intimate",
     "context": "dekiru-nihongo",
-    "frequencyRank": 344
+    "frequencyRank": 343
   },
   {
     "word": "何度も",
     "reading": "なんども",
     "meaning": "over and over again, many times",
     "context": "dekiru-nihongo",
-    "frequencyRank": 345
+    "frequencyRank": 344
   },
   {
     "word": "国の彼女／彼に会いたい",
-    "reading": "くにかのじょかれあ",
+    "reading": "くにのかのじょ／かれにあいたい",
     "meaning": "“I miss my girlfriend/boyfriend back home.”",
     "context": "dekiru-nihongo",
-    "frequencyRank": 346
+    "frequencyRank": 345
   },
   {
     "word": "記者",
     "reading": "きしゃ",
     "meaning": "journalist, reporter",
     "context": "dekiru-nihongo",
-    "frequencyRank": 347
+    "frequencyRank": 346
   },
   {
     "word": "敬語",
     "reading": "けいご",
     "meaning": "respectful language",
     "context": "dekiru-nihongo",
-    "frequencyRank": 348
+    "frequencyRank": 347
   },
   {
     "word": "こと",
     "reading": "こと",
     "meaning": "matters about ~, things about ~",
     "context": "dekiru-nihongo",
-    "frequencyRank": 349
+    "frequencyRank": 348
   },
   {
     "word": "将来のこと",
-    "reading": "しょうらい",
+    "reading": "しょうらいのこと",
     "meaning": "things about the future",
     "context": "dekiru-nihongo",
-    "frequencyRank": 350
+    "frequencyRank": 349
   },
   {
     "word": "地域",
     "reading": "ちいき",
     "meaning": "region, area, zone, locality",
     "context": "dekiru-nihongo",
-    "frequencyRank": 351
+    "frequencyRank": 350
   },
   {
     "word": "食事代",
     "reading": "しょくじだい",
     "meaning": "dining expenses",
     "context": "dekiru-nihongo",
-    "frequencyRank": 352
+    "frequencyRank": 351
   },
   {
     "word": "興味を持つ",
     "reading": "きょうみをもつ",
     "meaning": "have an interest",
     "context": "dekiru-nihongo",
-    "frequencyRank": 353
+    "frequencyRank": 352
   },
   {
     "word": "学ぶ",
     "reading": "まなぶ",
     "meaning": "learn, study",
     "context": "dekiru-nihongo",
-    "frequencyRank": 354
+    "frequencyRank": 353
   },
   {
     "word": "折れる",
     "reading": "おれる",
     "meaning": "break",
     "context": "dekiru-nihongo",
-    "frequencyRank": 355
+    "frequencyRank": 354
   },
   {
     "word": "育てる",
     "reading": "そだてる",
     "meaning": "raise (a child), bring up",
     "context": "dekiru-nihongo",
-    "frequencyRank": 356
+    "frequencyRank": 355
   },
   {
     "word": "インタビューする",
     "reading": "インタビューする",
     "meaning": "interview",
     "context": "dekiru-nihongo",
-    "frequencyRank": 357
+    "frequencyRank": 356
   },
   {
     "word": "外食する",
     "reading": "がいしょくする",
     "meaning": "dine out, eat out",
     "context": "dekiru-nihongo",
-    "frequencyRank": 358
+    "frequencyRank": 357
   },
   {
     "word": "研究する",
     "reading": "けんきゅうする",
     "meaning": "research",
     "context": "dekiru-nihongo",
-    "frequencyRank": 359
+    "frequencyRank": 358
   },
   {
     "word": "故障する",
     "reading": "こしょうする",
     "meaning": "get out of order, break down",
     "context": "dekiru-nihongo",
-    "frequencyRank": 360
+    "frequencyRank": 359
   },
   {
     "word": "あんまり",
-    "reading": "あまり",
+    "reading": "あんまり",
     "meaning": "not much, not very",
     "context": "dekiru-nihongo",
-    "frequencyRank": 361
+    "frequencyRank": 360
   },
   {
     "word": "打つ",
     "reading": "うつ",
     "meaning": "hit",
     "context": "dekiru-nihongo",
-    "frequencyRank": 362
+    "frequencyRank": 361
   },
   {
     "word": "回る",
-    "reading": "めぐる",
+    "reading": "まわる",
     "meaning": "go around",
     "context": "dekiru-nihongo",
-    "frequencyRank": 363
+    "frequencyRank": 362
   },
   {
     "word": "諦める",
     "reading": "あきらめる",
     "meaning": "give up",
     "context": "dekiru-nihongo",
-    "frequencyRank": 364
+    "frequencyRank": 363
   },
   {
     "word": "出張する",
     "reading": "しゅっちょうする",
     "meaning": "go on a business trip",
     "context": "dekiru-nihongo",
-    "frequencyRank": 365
+    "frequencyRank": 364
   },
   {
     "word": "シュートする",
     "reading": "シュートする",
     "meaning": "shoot",
     "context": "dekiru-nihongo",
-    "frequencyRank": 366
+    "frequencyRank": 365
   },
   {
     "word": "よし",
     "reading": "よし",
     "meaning": "good, come on",
     "context": "dekiru-nihongo",
-    "frequencyRank": 367
+    "frequencyRank": 366
   },
   {
     "word": "インスタント",
     "reading": "インスタント",
     "meaning": "instant",
     "context": "dekiru-nihongo",
-    "frequencyRank": 368
+    "frequencyRank": 367
   },
   {
     "word": "残す",
     "reading": "のこす",
     "meaning": "leave, save",
     "context": "dekiru-nihongo",
-    "frequencyRank": 369
+    "frequencyRank": 368
   },
   {
     "word": "冷凍する",
     "reading": "れいとうする",
     "meaning": "freeze",
     "context": "dekiru-nihongo",
-    "frequencyRank": 370
+    "frequencyRank": 369
   },
   {
     "word": "氷",
-    "reading": "ひ",
+    "reading": "こおり",
     "meaning": "ice",
     "context": "dekiru-nihongo",
-    "frequencyRank": 371
+    "frequencyRank": 370
   },
   {
     "word": "湿布",
     "reading": "しっぷ",
     "meaning": "cold (hot) compress",
     "context": "dekiru-nihongo",
-    "frequencyRank": 372
+    "frequencyRank": 371
   },
   {
     "word": "疲れ",
     "reading": "つかれ",
     "meaning": "fatigue, tiredness",
     "context": "dekiru-nihongo",
-    "frequencyRank": 373
+    "frequencyRank": 372
   },
   {
     "word": "ドレッシング",
     "reading": "ドレッシング",
     "meaning": "dressing",
     "context": "dekiru-nihongo",
-    "frequencyRank": 374
+    "frequencyRank": 373
   },
   {
     "word": "入会金",
     "reading": "にゅうかいきん",
     "meaning": "admission fee",
     "context": "dekiru-nihongo",
-    "frequencyRank": 375
+    "frequencyRank": 374
   },
   {
     "word": "さす",
     "reading": "さす",
     "meaning": "hold over one’s head",
     "context": "dekiru-nihongo",
-    "frequencyRank": 376
+    "frequencyRank": 375
   },
   {
     "word": "傘をさす",
-    "reading": "かさ",
+    "reading": "かさをさす",
     "meaning": "open an umbrella",
     "context": "dekiru-nihongo",
-    "frequencyRank": 377
+    "frequencyRank": 376
   },
   {
     "word": "酔う",
     "reading": "よう",
     "meaning": "get drunk, feel sick (at the stomach)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 378
+    "frequencyRank": 377
   },
   {
     "word": "取れる",
     "reading": "とれる",
     "meaning": "relieve, break free from",
     "context": "dekiru-nihongo",
-    "frequencyRank": 379
+    "frequencyRank": 378
   },
   {
     "word": "アドバイスする",
     "reading": "アドバイスする",
     "meaning": "give advice, advise",
     "context": "dekiru-nihongo",
-    "frequencyRank": 380
+    "frequencyRank": 379
   },
   {
     "word": "入会する",
     "reading": "にゅうかいする",
     "meaning": "join, become a member of a group",
     "context": "dekiru-nihongo",
-    "frequencyRank": 381
+    "frequencyRank": 380
   },
   {
     "word": "ガンガン",
     "reading": "ガンガン",
     "meaning": "pounding, throbbing (state where it feels as if the pain in your head is making a loud sound)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 382
+    "frequencyRank": 381
   },
   {
     "word": "パンパン",
     "reading": "パンパン",
     "meaning": "tense, full (state where it feels as if your muscles are being stretched tightly)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 383
+    "frequencyRank": 382
   },
   {
     "word": "フラフラ",
     "reading": "ふらふら",
     "meaning": "groggy, dizzy, woozy (state where you cannot gather any energy, are weary, or your body is unsteady)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 384
+    "frequencyRank": 383
   },
   {
     "word": "ムカムカ",
     "reading": "ムカムカ",
     "meaning": "nauseous, queasy (state where you feel like you are going to vomit due to overeating, overdrinking, or another cause)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 385
+    "frequencyRank": 384
   },
   {
     "word": "栄養",
     "reading": "えいよう",
     "meaning": "nutrition",
     "context": "dekiru-nihongo",
-    "frequencyRank": 386
+    "frequencyRank": 385
   },
   {
     "word": "カロリー",
     "reading": "カロリー",
     "meaning": "calorie",
     "context": "dekiru-nihongo",
-    "frequencyRank": 387
+    "frequencyRank": 386
   },
   {
     "word": "この頃",
     "reading": "このごろ",
     "meaning": "these days, nowadays",
     "context": "dekiru-nihongo",
-    "frequencyRank": 388
+    "frequencyRank": 387
   },
   {
     "word": "ジューサー",
     "reading": "ジューサー",
     "meaning": "juicer",
     "context": "dekiru-nihongo",
-    "frequencyRank": 389
+    "frequencyRank": 388
   },
   {
     "word": "ショウガ",
     "reading": "しょうが",
     "meaning": "ginger",
     "context": "dekiru-nihongo",
-    "frequencyRank": 390
+    "frequencyRank": 389
   },
   {
     "word": "ストレス",
     "reading": "ストレス",
     "meaning": "stress",
     "context": "dekiru-nihongo",
-    "frequencyRank": 391
+    "frequencyRank": 390
   },
   {
     "word": "体脂肪",
     "reading": "たいしぼう",
     "meaning": "body fat",
     "context": "dekiru-nihongo",
-    "frequencyRank": 392
+    "frequencyRank": 391
   },
   {
     "word": "ネックストレッチャー",
     "reading": "ネックストレッチャー",
     "meaning": "neck brace, neck collar",
     "context": "dekiru-nihongo",
-    "frequencyRank": 393
+    "frequencyRank": 392
   },
   {
     "word": "バランス",
     "reading": "バランス",
     "meaning": "balance",
     "context": "dekiru-nihongo",
-    "frequencyRank": 394
+    "frequencyRank": 393
   },
   {
     "word": "ビタミン",
     "reading": "ビタミン",
-    "meaning": "vitaminC",
+    "meaning": "vitamin C",
     "context": "dekiru-nihongo",
-    "frequencyRank": 395
+    "frequencyRank": 394
   },
   {
     "word": "ヘルスケア",
     "reading": "ヘルスケア",
     "meaning": "healthcare, fitness",
     "context": "dekiru-nihongo",
-    "frequencyRank": 396
+    "frequencyRank": 395
   },
   {
     "word": "マッサージ器",
     "reading": "マッサージき",
     "meaning": "massage machine",
     "context": "dekiru-nihongo",
-    "frequencyRank": 397
+    "frequencyRank": 396
   },
   {
     "word": "温度計",
     "reading": "おんどけい",
     "meaning": "thermometer",
     "context": "dekiru-nihongo",
-    "frequencyRank": 398
+    "frequencyRank": 397
   },
   {
     "word": "運動不足",
     "reading": "うんどうぶそく",
     "meaning": "lack of exercise",
     "context": "dekiru-nihongo",
-    "frequencyRank": 399
+    "frequencyRank": 398
   },
   {
     "word": "出席率",
     "reading": "しゅっせきりつ",
     "meaning": "attendance rate",
     "context": "dekiru-nihongo",
-    "frequencyRank": 400
+    "frequencyRank": 399
   },
   {
     "word": "こる",
     "reading": "こる",
     "meaning": "become stiff",
     "context": "dekiru-nihongo",
-    "frequencyRank": 401
+    "frequencyRank": 400
   },
   {
     "word": "たまる",
     "reading": "たまる",
     "meaning": "build up",
     "context": "dekiru-nihongo",
-    "frequencyRank": 402
+    "frequencyRank": 401
   },
   {
     "word": "疲れを取る",
     "reading": "つかれをとる",
     "meaning": "relieve one’s fatigue",
     "context": "dekiru-nihongo",
-    "frequencyRank": 403
+    "frequencyRank": 402
   },
   {
     "word": "眠る",
     "reading": "ねむる",
     "meaning": "sleep",
     "context": "dekiru-nihongo",
-    "frequencyRank": 404
+    "frequencyRank": 403
   },
   {
     "word": "測る",
     "reading": "はかる",
     "meaning": "measure",
     "context": "dekiru-nihongo",
-    "frequencyRank": 405
+    "frequencyRank": 404
   },
   {
     "word": "太る",
     "reading": "ふとる",
     "meaning": "gain weight, get fat",
     "context": "dekiru-nihongo",
-    "frequencyRank": 406
+    "frequencyRank": 405
   },
   {
     "word": "痩せる",
     "reading": "やせる",
     "meaning": "lose weight, become thin",
     "context": "dekiru-nihongo",
-    "frequencyRank": 407
+    "frequencyRank": 406
   },
   {
     "word": "冷える",
     "reading": "ひえる",
     "meaning": "chill, get cold",
     "context": "dekiru-nihongo",
-    "frequencyRank": 408
+    "frequencyRank": 407
   },
   {
     "word": "計算する",
     "reading": "けいさんする",
     "meaning": "calculate",
     "context": "dekiru-nihongo",
-    "frequencyRank": 409
+    "frequencyRank": 408
   },
   {
     "word": "キャラクター",
     "reading": "キャラクター",
     "meaning": "(fictional) character, personality",
     "context": "dekiru-nihongo",
-    "frequencyRank": 410
+    "frequencyRank": 409
   },
   {
     "word": "グレープフルーツ",
     "reading": "グレープフルーツ",
     "meaning": "grapefruit",
     "context": "dekiru-nihongo",
-    "frequencyRank": 411
+    "frequencyRank": 410
   },
   {
     "word": "管理する",
     "reading": "かんりする",
     "meaning": "manage, administer",
     "context": "dekiru-nihongo",
-    "frequencyRank": 412
+    "frequencyRank": 411
   },
   {
     "word": "成長する",
     "reading": "せいちょうする",
     "meaning": "grow, develop",
     "context": "dekiru-nihongo",
-    "frequencyRank": 413
+    "frequencyRank": 412
   },
   {
     "word": "気にする",
     "reading": "きにする",
     "meaning": "feel uneasy, be worried (about)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 414
+    "frequencyRank": 413
   },
   {
     "word": "～とも",
     "reading": "～とも",
     "meaning": "both",
     "context": "dekiru-nihongo",
-    "frequencyRank": 415
+    "frequencyRank": 414
   },
   {
     "word": "釣る",
     "reading": "つる",
     "meaning": "fish",
     "context": "dekiru-nihongo",
-    "frequencyRank": 416
+    "frequencyRank": 415
   },
   {
     "word": "手に入れる",
     "reading": "てにいれる",
     "meaning": "obtain, acquire",
     "context": "dekiru-nihongo",
-    "frequencyRank": 417
+    "frequencyRank": 416
   },
   {
     "word": "不利",
     "reading": "ふり",
     "meaning": "disadvantageous",
     "context": "dekiru-nihongo",
-    "frequencyRank": 418
+    "frequencyRank": 417
   },
   {
     "word": "親",
     "reading": "おや",
     "meaning": "parent",
     "context": "dekiru-nihongo",
-    "frequencyRank": 419
+    "frequencyRank": 418
   },
   {
     "word": "父親",
     "reading": "ちちおや",
     "meaning": "father",
     "context": "dekiru-nihongo",
-    "frequencyRank": 420
+    "frequencyRank": 419
   },
   {
     "word": "母親",
     "reading": "ははおや",
     "meaning": "mother",
     "context": "dekiru-nihongo",
-    "frequencyRank": 421
+    "frequencyRank": 420
   },
   {
     "word": "ゲームセンター",
     "reading": "ゲームセンター",
     "meaning": "game center",
     "context": "dekiru-nihongo",
-    "frequencyRank": 422
+    "frequencyRank": 421
   },
   {
     "word": "コーチ",
     "reading": "コーチ",
     "meaning": "coach",
     "context": "dekiru-nihongo",
-    "frequencyRank": 423
+    "frequencyRank": 422
   },
   {
     "word": "頃",
     "reading": "ころ",
     "meaning": "when I was ~",
     "context": "dekiru-nihongo",
-    "frequencyRank": 424
+    "frequencyRank": 423
   },
   {
     "word": "数学",
     "reading": "すうがく",
     "meaning": "mathematics, math",
     "context": "dekiru-nihongo",
-    "frequencyRank": 425
+    "frequencyRank": 424
   },
   {
     "word": "～キロ",
     "reading": "～キロ",
     "meaning": "~ kilometers, ~ kilograms",
     "context": "dekiru-nihongo",
-    "frequencyRank": 426
+    "frequencyRank": 425
   },
   {
-    "word": "2個ずつ",
-    "reading": "2個ずつ",
-    "meaning": "two each",
+    "word": "20個ずつ",
+    "reading": "にじゅっこずつ",
+    "meaning": "20 each",
     "context": "dekiru-nihongo",
-    "frequencyRank": 427
+    "frequencyRank": 426
   },
   {
     "word": "騒ぐ",
     "reading": "さわぐ",
     "meaning": "be noisy, act up",
     "context": "dekiru-nihongo",
-    "frequencyRank": 428
+    "frequencyRank": 427
   },
   {
     "word": "世話する",
     "reading": "せわする",
     "meaning": "take care of",
     "context": "dekiru-nihongo",
-    "frequencyRank": 429
+    "frequencyRank": 428
   },
   {
     "word": "自由",
     "reading": "じゆう",
-    "meaning": "free,atwill",
+    "meaning": "free, at will",
     "context": "dekiru-nihongo",
-    "frequencyRank": 430
+    "frequencyRank": 429
   },
   {
     "word": "手伝い",
     "reading": "てつだい",
     "meaning": "help, assistance, assistant",
     "context": "dekiru-nihongo",
-    "frequencyRank": 431
+    "frequencyRank": 430
   },
   {
     "word": "習い事",
     "reading": "ならいごと",
     "meaning": "lessons (violin lessons, ballet lessons, etc.)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 432
+    "frequencyRank": 431
   },
   {
     "word": "発表会",
     "reading": "はっぴょうかい",
     "meaning": "presentation / recital",
     "context": "dekiru-nihongo",
-    "frequencyRank": 433
+    "frequencyRank": 432
   },
   {
     "word": "叱る",
     "reading": "しかる",
     "meaning": "scold",
     "context": "dekiru-nihongo",
-    "frequencyRank": 434
+    "frequencyRank": 433
   },
   {
     "word": "宿題をやる",
-    "reading": "しゅくだい",
-    "meaning": "domyhomework",
+    "reading": "しゅくだいをやる",
+    "meaning": "do my homework",
     "context": "dekiru-nihongo",
-    "frequencyRank": 435
+    "frequencyRank": 434
   },
   {
     "word": "褒める",
     "reading": "ほめる",
     "meaning": "praise",
     "context": "dekiru-nihongo",
-    "frequencyRank": 436
+    "frequencyRank": 435
   },
   {
     "word": "発表する",
     "reading": "はっぴょうする",
     "meaning": "announce",
     "context": "dekiru-nihongo",
-    "frequencyRank": 437
+    "frequencyRank": 436
   },
   {
     "word": "役に立つ",
     "reading": "やくにたつ",
     "meaning": "be useful",
     "context": "dekiru-nihongo",
-    "frequencyRank": 438
+    "frequencyRank": 437
   },
   {
     "word": "仕方がない",
     "reading": "しかたがない",
     "meaning": "no choice, have no alternative",
     "context": "dekiru-nihongo",
-    "frequencyRank": 439
+    "frequencyRank": 438
   },
   {
     "word": "奨学金",
     "reading": "しょうがくきん",
     "meaning": "scholarship",
     "context": "dekiru-nihongo",
-    "frequencyRank": 440
+    "frequencyRank": 439
   },
   {
     "word": "漫画家",
     "reading": "まんがか",
     "meaning": "cartoonist",
     "context": "dekiru-nihongo",
-    "frequencyRank": 441
+    "frequencyRank": 440
   },
   {
     "word": "～部",
-    "reading": "ぶ",
+    "reading": "～ぶ",
     "meaning": "~ department, ~ section",
     "context": "dekiru-nihongo",
-    "frequencyRank": 442
+    "frequencyRank": 441
   },
   {
     "word": "活動する",
     "reading": "かつどうする",
     "meaning": "be active, operate",
     "context": "dekiru-nihongo",
-    "frequencyRank": 443
+    "frequencyRank": 442
   },
   {
     "word": "支援する",
     "reading": "しえんする",
     "meaning": "support",
     "context": "dekiru-nihongo",
-    "frequencyRank": 444
+    "frequencyRank": 443
   },
   {
     "word": "ヒットする",
     "reading": "ヒットする",
     "meaning": "be a hit",
     "context": "dekiru-nihongo",
-    "frequencyRank": 445
+    "frequencyRank": 444
   },
   {
     "word": "放送する",
     "reading": "ほうそうする",
     "meaning": "broadcast, air",
     "context": "dekiru-nihongo",
-    "frequencyRank": 446
+    "frequencyRank": 445
   },
   {
     "word": "連載する",
     "reading": "れんさいする",
     "meaning": "appear serially (in a publication)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 447
+    "frequencyRank": 446
   },
   {
     "word": "素晴らしい",
     "reading": "すばらしい",
     "meaning": "magnificent, incredible",
     "context": "dekiru-nihongo",
-    "frequencyRank": 448
+    "frequencyRank": 447
   },
   {
     "word": "メジャー",
     "reading": "メジャー",
     "meaning": "major",
     "context": "dekiru-nihongo",
-    "frequencyRank": 449
+    "frequencyRank": 448
   },
   {
     "word": "遊び",
-    "reading": "すさび",
+    "reading": "あそび",
     "meaning": "game, play",
     "context": "dekiru-nihongo",
-    "frequencyRank": 450
+    "frequencyRank": 449
   },
   {
     "word": "ウナギ",
     "reading": "うなぎ",
     "meaning": "eel",
     "context": "dekiru-nihongo",
-    "frequencyRank": 451
+    "frequencyRank": 450
   },
   {
     "word": "おせち料理",
     "reading": "おせちりょうり",
     "meaning": "traditional New Year’s food (primarily food eaten to celebrate the New Year)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 452
+    "frequencyRank": 451
   },
   {
     "word": "数",
     "reading": "かず",
     "meaning": "number",
     "context": "dekiru-nihongo",
-    "frequencyRank": 453
+    "frequencyRank": 452
   },
   {
     "word": "カボチャ",
     "reading": "かぼちゃ",
     "meaning": "pumpkin",
     "context": "dekiru-nihongo",
-    "frequencyRank": 454
+    "frequencyRank": 453
   },
   {
     "word": "空手",
     "reading": "からて",
     "meaning": "karate",
     "context": "dekiru-nihongo",
-    "frequencyRank": 455
+    "frequencyRank": 454
   },
   {
     "word": "ギョーザ",
     "reading": "ギョーザ",
     "meaning": "dumpling, potstickers",
     "context": "dekiru-nihongo",
-    "frequencyRank": 456
+    "frequencyRank": 455
   },
   {
     "word": "行事",
     "reading": "ぎょうじ",
     "meaning": "event, occasion",
     "context": "dekiru-nihongo",
-    "frequencyRank": 457
+    "frequencyRank": 456
   },
   {
     "word": "大みそか",
     "reading": "おおみそか",
-    "meaning": "newyear’seve",
+    "meaning": "new year’s eve",
     "context": "dekiru-nihongo",
-    "frequencyRank": 458
+    "frequencyRank": 457
   },
   {
     "word": "お盆",
     "reading": "おぼん",
     "meaning": "obon festival",
     "context": "dekiru-nihongo",
-    "frequencyRank": 459
+    "frequencyRank": 458
   },
   {
     "word": "七五三",
     "reading": "しちごさん",
     "meaning": "Seven-Five-Three Festival (Festival celebrating the growth of children for boys when they are three and five years old and for girls when they are three and seven years old)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 460
+    "frequencyRank": 459
   },
   {
     "word": "節分",
     "reading": "せつぶん",
     "meaning": "Traditional end of winter (Held the day before the traditional beginning of spring (around February 3). On the evening of this day, beans are thrown around the house to ward off evil)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 461
+    "frequencyRank": 460
   },
   {
     "word": "冬至",
     "reading": "とうじ",
     "meaning": "winter solstice",
     "context": "dekiru-nihongo",
-    "frequencyRank": 462
+    "frequencyRank": 461
   },
   {
     "word": "土用の丑の日",
     "reading": "どようのうしのひ",
     "meaning": "Midsummer Day of the Ox",
     "context": "dekiru-nihongo",
-    "frequencyRank": 463
+    "frequencyRank": 462
   },
   {
     "word": "ひなまつり",
     "reading": "ひなまつり",
     "meaning": "Doll Festival (Festival held on March 3 for celebrating the growth of young girls)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 464
+    "frequencyRank": 463
   },
   {
     "word": "ごちそう",
     "reading": "ごちそう",
     "meaning": "big meal, feast",
     "context": "dekiru-nihongo",
-    "frequencyRank": 465
+    "frequencyRank": 464
   },
   {
     "word": "新年",
     "reading": "しんねん",
     "meaning": "New Year’s Day",
     "context": "dekiru-nihongo",
-    "frequencyRank": 466
+    "frequencyRank": 465
   },
   {
     "word": "将棋",
     "reading": "しょうぎ",
     "meaning": "shogi (Japanese chess)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 467
+    "frequencyRank": 466
   },
   {
     "word": "スイカ",
     "reading": "すいか",
     "meaning": "watermelon",
     "context": "dekiru-nihongo",
-    "frequencyRank": 468
+    "frequencyRank": 467
   },
   {
     "word": "お赤飯",
-    "reading": "せきはん",
+    "reading": "おせきはん",
     "meaning": "festive red rice",
     "context": "dekiru-nihongo",
-    "frequencyRank": 469
+    "frequencyRank": 468
   },
   {
     "word": "先祖",
     "reading": "せんぞ",
     "meaning": "ancestor",
     "context": "dekiru-nihongo",
-    "frequencyRank": 470
+    "frequencyRank": 469
   },
   {
     "word": "山車",
-    "reading": "やまぐるま",
+    "reading": "だし",
     "meaning": "parade float",
     "context": "dekiru-nihongo",
-    "frequencyRank": 471
+    "frequencyRank": 470
   },
   {
     "word": "チェス",
     "reading": "チェス",
     "meaning": "chess",
     "context": "dekiru-nihongo",
-    "frequencyRank": 472
+    "frequencyRank": 471
   },
   {
     "word": "テコンドー",
     "reading": "テコンドー",
     "meaning": "tae kwon do",
     "context": "dekiru-nihongo",
-    "frequencyRank": 473
+    "frequencyRank": 472
   },
   {
     "word": "年",
     "reading": "とし",
     "meaning": "age, year",
     "context": "dekiru-nihongo",
-    "frequencyRank": 474
+    "frequencyRank": 473
   },
   {
     "word": "新しい年",
-    "reading": "あたらとし",
+    "reading": "あたらしいとし",
     "meaning": "a new year, the coming year",
     "context": "dekiru-nihongo",
-    "frequencyRank": 475
+    "frequencyRank": 474
   },
   {
     "word": "パクさんの年",
-    "reading": "パクさんの年",
+    "reading": "パクさんのとし",
     "meaning": "Pak’s age",
     "context": "dekiru-nihongo",
-    "frequencyRank": 476
+    "frequencyRank": 475
   },
   {
     "word": "年賀状",
     "reading": "ねんがじょう",
     "meaning": "New Year’s greeting card",
     "context": "dekiru-nihongo",
-    "frequencyRank": 477
+    "frequencyRank": 476
   },
   {
     "word": "招き猫",
     "reading": "まねきねこ",
     "meaning": "Welcoming cat (Statue of a cat with its front paw beckoning customers that is used as a decoration for storefronts and other locations)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 478
+    "frequencyRank": 477
   },
   {
     "word": "ミカン",
     "reading": "みかん",
     "meaning": "tangerine",
     "context": "dekiru-nihongo",
-    "frequencyRank": 479
+    "frequencyRank": 478
   },
   {
     "word": "ユズ",
     "reading": "ゆず",
     "meaning": "yuzu (Chinese lemon)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 480
+    "frequencyRank": 479
   },
   {
     "word": "昨日、悪い夢を見た",
-    "reading": "きのうわるゆめみ",
-    "meaning": "yesterday.”",
+    "reading": "きのう、わるいゆめをみた",
+    "meaning": "“I had a bad dream yesterday.”",
     "context": "dekiru-nihongo",
-    "frequencyRank": 481
+    "frequencyRank": 480
   },
   {
     "word": "ランドセル",
     "reading": "ランドセル",
     "meaning": "satchel, school backpack for elementary school",
     "context": "dekiru-nihongo",
-    "frequencyRank": 482
+    "frequencyRank": 481
   },
   {
     "word": "長崎県",
     "reading": "ながさきけん",
     "meaning": "Nagasaki Prefecture",
     "context": "dekiru-nihongo",
-    "frequencyRank": 483
+    "frequencyRank": 482
   },
   {
     "word": "祈る",
     "reading": "いのる",
     "meaning": "pray",
     "context": "dekiru-nihongo",
-    "frequencyRank": 484
+    "frequencyRank": 483
   },
   {
     "word": "お祝いする",
     "reading": "おいわいする",
     "meaning": "celebrate",
     "context": "dekiru-nihongo",
-    "frequencyRank": 485
+    "frequencyRank": 484
   },
   {
     "word": "感謝する",
     "reading": "かんしゃする",
     "meaning": "thank, express appreciation",
     "context": "dekiru-nihongo",
-    "frequencyRank": 486
+    "frequencyRank": 485
   },
   {
     "word": "長生きする",
     "reading": "ながいきする",
     "meaning": "live a long life",
     "context": "dekiru-nihongo",
-    "frequencyRank": 487
+    "frequencyRank": 486
   },
   {
     "word": "夏バテする",
     "reading": "なつばてする",
     "meaning": "suffer from the summer heat",
     "context": "dekiru-nihongo",
-    "frequencyRank": 488
+    "frequencyRank": 487
   },
   {
     "word": "置物",
     "reading": "おきもの",
     "meaning": "ornament",
     "context": "dekiru-nihongo",
-    "frequencyRank": 489
+    "frequencyRank": 488
   },
   {
     "word": "カメ",
     "reading": "かめ",
     "meaning": "turtle, tortoise",
     "context": "dekiru-nihongo",
-    "frequencyRank": 490
+    "frequencyRank": 489
   },
   {
     "word": "菊",
     "reading": "きく",
     "meaning": "chrysanthemum",
     "context": "dekiru-nihongo",
-    "frequencyRank": 491
+    "frequencyRank": 490
   },
   {
     "word": "くし",
     "reading": "くし",
     "meaning": "hair comb",
     "context": "dekiru-nihongo",
-    "frequencyRank": 492
+    "frequencyRank": 491
   },
   {
     "word": "５円玉",
     "reading": "ごえんだま",
     "meaning": "five yen coin",
     "context": "dekiru-nihongo",
-    "frequencyRank": 493
+    "frequencyRank": 492
   },
   {
     "word": "シンボル",
     "reading": "シンボル",
     "meaning": "symbol",
     "context": "dekiru-nihongo",
-    "frequencyRank": 494
+    "frequencyRank": 493
   },
   {
     "word": "日傘",
     "reading": "ひがさ",
     "meaning": "parasol, sunshade",
     "context": "dekiru-nihongo",
-    "frequencyRank": 495
+    "frequencyRank": 494
   },
   {
     "word": "贈る",
     "reading": "おくる",
     "meaning": "give a gift",
     "context": "dekiru-nihongo",
-    "frequencyRank": 496
+    "frequencyRank": 495
   },
   {
     "word": "発音する",
     "reading": "はつおんする",
     "meaning": "pronounce",
     "context": "dekiru-nihongo",
-    "frequencyRank": 497
+    "frequencyRank": 496
   },
   {
     "word": "連想する",
     "reading": "れんそうする",
     "meaning": "make an association of ideas",
     "context": "dekiru-nihongo",
-    "frequencyRank": 498
+    "frequencyRank": 497
   },
   {
     "word": "鬼",
     "reading": "おに",
     "meaning": "demon, devil",
     "context": "dekiru-nihongo",
-    "frequencyRank": 499
+    "frequencyRank": 498
   },
   {
     "word": "提灯",
     "reading": "ちょうちん",
     "meaning": "paper lantern",
     "context": "dekiru-nihongo",
-    "frequencyRank": 500
+    "frequencyRank": 499
   },
   {
     "word": "ハロウィン",
     "reading": "ハロウィン",
     "meaning": "Halloween",
     "context": "dekiru-nihongo",
-    "frequencyRank": 501
+    "frequencyRank": 500
   },
   {
     "word": "そういう",
     "reading": "そういう",
     "meaning": "that kind of ~, like that, such",
     "context": "dekiru-nihongo",
-    "frequencyRank": 502
+    "frequencyRank": 501
   },
   {
     "word": "自信",
     "reading": "じしん",
     "meaning": "confidence",
     "context": "dekiru-nihongo",
-    "frequencyRank": 503
+    "frequencyRank": 502
   },
   {
     "word": "大成功",
     "reading": "だいせいこう",
     "meaning": "great success",
     "context": "dekiru-nihongo",
-    "frequencyRank": 504
+    "frequencyRank": 503
   },
   {
     "word": "取り組む",
     "reading": "とりくむ",
     "meaning": "deal with, engage in, work on",
     "context": "dekiru-nihongo",
-    "frequencyRank": 505
+    "frequencyRank": 504
   },
   {
     "word": "積極的",
     "reading": "せっきょくてき",
     "meaning": "proactive, positive",
     "context": "dekiru-nihongo",
-    "frequencyRank": 506
+    "frequencyRank": 505
   },
   {
     "word": "大雨",
     "reading": "おおあめ",
     "meaning": "heavy rain",
     "context": "dekiru-nihongo",
-    "frequencyRank": 507
+    "frequencyRank": 506
   },
   {
     "word": "英会話",
     "reading": "えいかいわ",
     "meaning": "English conversation",
     "context": "dekiru-nihongo",
-    "frequencyRank": 508
+    "frequencyRank": 507
   },
   {
     "word": "回数",
     "reading": "かいすう",
     "meaning": "number of times",
     "context": "dekiru-nihongo",
-    "frequencyRank": 509
+    "frequencyRank": 508
   },
   {
     "word": "グラフ",
     "reading": "グラフ",
     "meaning": "graph",
     "context": "dekiru-nihongo",
-    "frequencyRank": 510
+    "frequencyRank": 509
   },
   {
     "word": "グループ",
     "reading": "グループ",
     "meaning": "group",
     "context": "dekiru-nihongo",
-    "frequencyRank": 511
+    "frequencyRank": 510
   },
   {
     "word": "事情",
     "reading": "じじょう",
     "meaning": "situation, circumstances, conditions",
     "context": "dekiru-nihongo",
-    "frequencyRank": 512
+    "frequencyRank": 511
   },
   {
     "word": "テーマ",
     "reading": "テーマ",
     "meaning": "theme, topic, subject matter (from the German word thema)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 513
+    "frequencyRank": 512
   },
   {
     "word": "レコード",
     "reading": "レコード",
     "meaning": "record",
     "context": "dekiru-nihongo",
-    "frequencyRank": 514
+    "frequencyRank": 513
   },
   {
     "word": "温暖化",
     "reading": "おんだんか",
     "meaning": "global warming",
     "context": "dekiru-nihongo",
-    "frequencyRank": 515
+    "frequencyRank": 514
   },
   {
     "word": "飼う",
     "reading": "かう",
     "meaning": "raise (a pet or other animal)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 516
+    "frequencyRank": 515
   },
   {
     "word": "値段が下がる",
-    "reading": "ねだんさ",
+    "reading": "ねだんがさがる",
     "meaning": "the price drops",
     "context": "dekiru-nihongo",
-    "frequencyRank": 517
+    "frequencyRank": 516
   },
   {
     "word": "植える",
     "reading": "うえる",
     "meaning": "to plant",
     "context": "dekiru-nihongo",
-    "frequencyRank": 518
+    "frequencyRank": 517
   },
   {
     "word": "アンケートする",
     "reading": "アンケートする",
     "meaning": "take a survey",
     "context": "dekiru-nihongo",
-    "frequencyRank": 519
+    "frequencyRank": 518
   },
   {
     "word": "お願いする",
     "reading": "おねがいする",
     "meaning": "ask, beg (when politely requesting someone to do something for you)",
     "context": "dekiru-nihongo",
-    "frequencyRank": 520
+    "frequencyRank": 519
   },
   {
     "word": "増加する",
     "reading": "ぞうかする",
     "meaning": "increase",
     "context": "dekiru-nihongo",
-    "frequencyRank": 521
+    "frequencyRank": 520
   },
   {
     "word": "輸入する",
     "reading": "ゆにゅうする",
     "meaning": "import",
     "context": "dekiru-nihongo",
-    "frequencyRank": 522
+    "frequencyRank": 521
   },
   {
     "word": "来日する",
     "reading": "らいにちする",
     "meaning": "visit Japan",
     "context": "dekiru-nihongo",
-    "frequencyRank": 523
+    "frequencyRank": 522
   },
   {
     "word": "気になる",
     "reading": "きになる",
     "meaning": "worry about, care about, be interested in, feel like doing",
     "context": "dekiru-nihongo",
-    "frequencyRank": 524
+    "frequencyRank": 523
   },
   {
     "word": "温暖",
     "reading": "おんだん",
     "meaning": "warm",
     "context": "dekiru-nihongo",
-    "frequencyRank": 525
+    "frequencyRank": 524
   },
   {
     "word": "円高",
     "reading": "えんだか",
     "meaning": "strong yen, yen appreciation",
     "context": "dekiru-nihongo",
-    "frequencyRank": 526
+    "frequencyRank": 525
   },
   {
     "word": "円安",
     "reading": "えんやす",
     "meaning": "weak yen, yen depreciation",
     "context": "dekiru-nihongo",
-    "frequencyRank": 527
+    "frequencyRank": 526
   },
   {
     "word": "南極",
     "reading": "なんきょく",
     "meaning": "south pole",
     "context": "dekiru-nihongo",
-    "frequencyRank": 528
+    "frequencyRank": 527
   },
   {
     "word": "北極",
     "reading": "ほっきょく",
     "meaning": "north pole",
     "context": "dekiru-nihongo",
-    "frequencyRank": 529
+    "frequencyRank": 528
   },
   {
     "word": "ポスター",
     "reading": "ポスター",
     "meaning": "poster",
     "context": "dekiru-nihongo",
-    "frequencyRank": 530
+    "frequencyRank": 529
   },
   {
     "word": "研究が進む",
-    "reading": "けんきゅうすす",
-    "meaning": "forward.”",
+    "reading": "けんきゅうがすすむ",
+    "meaning": "“The research moves forward.”",
     "context": "dekiru-nihongo",
-    "frequencyRank": 531
+    "frequencyRank": 530
   },
   {
     "word": "減る",
     "reading": "へる",
     "meaning": "decrease, reduce in number",
     "context": "dekiru-nihongo",
-    "frequencyRank": 532
+    "frequencyRank": 531
   },
   {
     "word": "溶ける",
     "reading": "とける",
     "meaning": "melt",
     "context": "dekiru-nihongo",
-    "frequencyRank": 533
+    "frequencyRank": 532
   },
   {
     "word": "欠席する",
     "reading": "けっせきする",
     "meaning": "be absent, not attend",
     "context": "dekiru-nihongo",
-    "frequencyRank": 534
+    "frequencyRank": 533
   },
   {
     "word": "輸出する",
     "reading": "ゆしゅつする",
     "meaning": "export",
     "context": "dekiru-nihongo",
-    "frequencyRank": 535
+    "frequencyRank": 534
   },
   {
     "word": "しかし",
     "reading": "しかし",
     "meaning": "however, but",
     "context": "dekiru-nihongo",
-    "frequencyRank": 536
+    "frequencyRank": 535
   },
   {
     "word": "～によると",
     "reading": "～によると",
     "meaning": "according to ~",
     "context": "dekiru-nihongo",
-    "frequencyRank": 537
+    "frequencyRank": 536
   },
   {
     "word": "結果",
     "reading": "けっか",
     "meaning": "results",
     "context": "dekiru-nihongo",
-    "frequencyRank": 538
+    "frequencyRank": 537
   },
   {
     "word": "サイト",
     "reading": "サイト",
     "meaning": "website",
     "context": "dekiru-nihongo",
-    "frequencyRank": 539
+    "frequencyRank": 538
   },
   {
     "word": "全体",
     "reading": "ぜんたい",
     "meaning": "overall",
     "context": "dekiru-nihongo",
-    "frequencyRank": 540
+    "frequencyRank": 539
   },
   {
     "word": "気楽",
     "reading": "きらく",
     "meaning": "carefree",
     "context": "dekiru-nihongo",
-    "frequencyRank": 541
+    "frequencyRank": 540
   },
   {
     "word": "不安",
     "reading": "ふあん",
     "meaning": "unease",
     "context": "dekiru-nihongo",
-    "frequencyRank": 542
+    "frequencyRank": 541
   },
   {
     "word": "食べ放題",
     "reading": "たべほうだい",
     "meaning": "all-you-can-eat",
     "context": "dekiru-nihongo",
-    "frequencyRank": 543
+    "frequencyRank": 542
   }
 ]
