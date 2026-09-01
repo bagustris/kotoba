@@ -9,6 +9,34 @@ The version shown in the app's Settings → About panel is read from the latest
 entry below (see `loadAppVersion()` in `js/app.js`), so this file is the single
 source of truth for the app version.
 
+## [2026.09.01]
+
+### Added
+- New できる日本語 "Dekiru Nihongo" context with 543 vocabulary items absent
+  from Kotoba, extracted from `resource/7024084_list_English.pdf`. The PDF
+  audit found 997 vocabulary surfaces, of which 445 were already covered.
+  It includes 340 literal reusable examples found in existing Kotoba or JED
+  sentence data; no new Japanese sentences were authored. PDF pattern rows
+  such as `～放題（例：飲み放題）` are represented by their concrete examples
+  (e.g. 飲み放題), rather than malformed cut-off pattern text.
+- New みんなの日本語 "Minna no Nihongo" context containing the 1,578
+  vocabulary items absent from the existing contexts, imported from the
+  companion repository's general vocabulary, verb, and adjective CSV files.
+  Together with existing entries, Kotoba now covers all 2,099 valid unique
+  source surfaces.
+- 949 literal, reusable example records for the imported words: 427 reuse
+  sentences already in Kotoba and 522 reuse suitable matches from JED's
+  openly licensed sentence data. No Japanese example sentences were written
+  for this import; the 637 terms with no literal match remain word-only.
+
+### Changed
+- Sentence records may intentionally reuse the same sentence text for
+  different targets when that sentence contains each target. The data
+  validator now rejects only duplicate sentence/target pairs, preserving the
+  single-occurrence target constraint needed by highlighting and blanks.
+- Added the Minna no Nihongo datasets to the service worker's offline cache
+  and credited the Minna no Nihongo and JED sources in the README.
+
 ## [2026.08.29]
 
 ### Added

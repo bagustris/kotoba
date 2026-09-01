@@ -120,7 +120,8 @@ Fill-in-blank: 昨日、ラーメンを＿＿＿＿ました。   → 食べ
 - [できる日本語 初中級](https://www.3anet.co.jp/) — 3A Corporation. Word-level
   vocabulary of the same two contexts additionally draws on Lesson 1's
   sub-topics (新しい一歩: job hunting and meeting people) via its official
-  English translation list (`resource/7024084_list_English.pdf`);
+  English translation list (`resource/7024084_list_English.pdf`). The same
+  PDF also supplies the `dekiru-nihongo` context's remaining vocabulary;
 - [IRODORI online course / いろどり 生活の日本語](https://www.irodori.jpf.go.jp/) —
   The Japan Foundation Japanese-Language Institute, Urawa. A second,
   higher-level lesson set (distinct lesson numbering from the Lesson 1–18
@@ -137,6 +138,13 @@ Fill-in-blank: 昨日、ラーメンを＿＿＿＿ました。   → 食べ
   attribution.
 - All other example sentences are original kotoba sentences written around
   the extracted words, not copied from any textbook.
+- [Minna no Nihongo vocabulary lists](https://github.com/bagustris/minna-no-nihongo)
+  — the `minna-no-nihongo` context imports missing vocabulary from its
+  general-vocabulary, verb, and adjective CSVs. Its examples reuse existing
+  kotoba sentences first, then literal matches from the
+  [JED](https://github.com/bagustris/jed) sentence data. JED's Tatoeba
+  sentences are licensed CC BY 2.0 FR; see that repository's `CREDITS.md`
+  for its complete attribution.
 
 > [!WARNING]
 > Wiktionary content is licensed [CC BY-SA

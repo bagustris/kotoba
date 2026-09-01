@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'kotoba-v33';
+const CACHE_VERSION = 'kotoba-v35';
 
 const CORE_ASSETS = [
   '.',
@@ -64,6 +64,10 @@ const CORE_ASSETS = [
   'data/sentences/errands.json',
   'data/words/disaster-prep.json',
   'data/sentences/disaster-prep.json',
+  'data/words/minna-no-nihongo.json',
+  'data/sentences/minna-no-nihongo.json',
+  'data/words/dekiru-nihongo.json',
+  'data/sentences/dekiru-nihongo.json',
 ];
 
 self.addEventListener('install', (event) => {

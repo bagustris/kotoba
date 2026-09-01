@@ -18,5 +18,7 @@
   { "id": "life-story", "label": "自己紹介と人生", "labelEn": "Hometown & Life Stories" },
   { "id": "life-events", "label": "年中行事と冠婚葬祭", "labelEn": "Seasonal & Life Events" },
   { "id": "errands", "label": "町の施設と用事", "labelEn": "Public Facilities & Errands" },
-  { "id": "disaster-prep", "label": "環境と防災", "labelEn": "Environment & Disaster Prep" }
+  { "id": "disaster-prep", "label": "環境と防災", "labelEn": "Environment & Disaster Prep" },
+  { "id": "minna-no-nihongo", "label": "みんなの日本語", "labelEn": "Minna no Nihongo" },
+  { "id": "dekiru-nihongo", "label": "できる日本語", "labelEn": "Dekiru Nihongo" }
 ]

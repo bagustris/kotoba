@@ -27,6 +27,8 @@ SOURCE_WHITELIST = {
     'irodori2-l5', 'irodori2-l6', 'irodori2-l7', 'irodori2-l8',
     'irodori2-l9', 'irodori2-l10', 'irodori2-l11', 'irodori2-l12',
     'irodori2-l13', 'irodori2-l14', 'irodori2-l15', 'irodori2-l16',
+    # Reused, openly licensed example sentences selected from the JED corpus.
+    'jed',
 }
 NOTE_WHITELIST = {'verbatim', 'reconstructed'}
 issues = []
@@ -92,7 +94,8 @@ def main():
             dupes = sorted({t for t in wtexts if wtexts.count(t) > 1})
             fail(ctx, f'duplicate word surfaces: {dupes}')
 
-        texts, hits = [], set()
+        hits = set()
+        pairs = []
         for s in sents:
             extra = set(s.keys()) - SENT_KEYS
             if extra - SENT_OPT_KEYS:
@@ -115,10 +118,13 @@ def main():
                 # highlightTarget/blankSentence use indexOf -> first occurrence;
                 # multiple occurrences would highlight the wrong one.
                 fail(ctx, f'target {t!r} occurs {sent.count(t)}x (ambiguous): {sent[:32]}')
-            texts.append(sent)
+            pairs.append((sent, t))
             hits.add(t)
-        if len(set(texts)) != len(texts):
-            fail(ctx, 'duplicate sentences')
+        # An existing sentence may illustrate more than one word.  The
+        # target distinguishes those deliberately reused records; only an
+        # identical sentence/target pair would be redundant.
+        if len(set(pairs)) != len(pairs):
+            fail(ctx, 'duplicate sentence/target pairs')
 
         uncovered = [w['word'] for w in words
                      if w['word'] not in hits and not is_counter(w['word'])
