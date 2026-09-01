@@ -1311,12 +1311,12 @@
     "note": "verbatim"
   },
   {
-    "sentence": "２．大根は拍子木に切る。",
+    "sentence": "大根は拍子木に切る。",
     "target": "大根",
     "reading": "だいこん",
-    "fullReading": "２．大根は拍子木に切る。",
+    "fullReading": "大根は拍子木に切る。",
     "meaning": "Japanese radish",
-    "translation": "2. Cut the daikon into long sticks.",
+    "translation": "Cut the daikon into long sticks.",
     "context": "minna-no-nihongo",
     "source": "jed",
     "note": "verbatim"
@@ -2206,26 +2206,6 @@
     "fullReading": "ふたりでしあわせなかていをきずく。",
     "meaning": "Two persons",
     "translation": "The two of us will build a happy home together.",
-    "context": "minna-no-nihongo"
-  },
-  {
-    "sentence": "ノルウェー人外交官が、歴史的文書を生んだ秘密交渉を取り持った。",
-    "target": "ー人",
-    "reading": "ーにん",
-    "fullReading": "ノルウェー人外交官が、歴史的文書を生んだ秘密交渉を取り持った。",
-    "meaning": "Some number of people",
-    "translation": "The Norwegian diplomat mediated the secret negotiations that produced the historic document.",
-    "context": "minna-no-nihongo",
-    "source": "jed",
-    "note": "verbatim"
-  },
-  {
-    "sentence": "それでは、シャンプー台のほうへどうぞ。",
-    "target": "ー台",
-    "reading": "ーだい",
-    "fullReading": "それでは、シャンプーだいのほうへどうぞ。",
-    "meaning": "Counter of machines, cars …",
-    "translation": "Okay, please go to the shampoo station.",
     "context": "minna-no-nihongo"
   },
   {
@@ -3222,6 +3202,17 @@
     "fullReading": "その会議には１５０人の外交官がきた。",
     "meaning": "Diplomat",
     "translation": "The conference drew 150 diplomats.",
+    "context": "minna-no-nihongo",
+    "source": "jed",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "ノルウェー人外交官が、歴史的文書を生んだ秘密交渉を取り持った。",
+    "target": "外交官",
+    "reading": "がいこうかん",
+    "fullReading": "ノルウェー人外交官が、歴史的文書を生んだ秘密交渉を取り持った。",
+    "meaning": "Diplomat",
+    "translation": "The Norwegian diplomat mediated the secret negotiations that produced the historic document.",
     "context": "minna-no-nihongo",
     "source": "jed",
     "note": "verbatim"
