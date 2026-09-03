@@ -1,0 +1,184 @@
+[
+  {
+    "word": "は",
+    "reading": "は",
+    "meaning": "topic marker (as for ~)",
+    "context": "particle",
+    "frequencyRank": 1
+  },
+  {
+    "word": "が",
+    "reading": "が",
+    "meaning": "subject marker",
+    "context": "particle",
+    "frequencyRank": 2
+  },
+  {
+    "word": "を",
+    "reading": "を",
+    "meaning": "direct object marker",
+    "context": "particle",
+    "frequencyRank": 3
+  },
+  {
+    "word": "に",
+    "reading": "に",
+    "meaning": "time/goal marker (at, to)",
+    "context": "particle",
+    "frequencyRank": 4
+  },
+  {
+    "word": "で",
+    "reading": "で",
+    "meaning": "location of action / means (at, by)",
+    "context": "particle",
+    "frequencyRank": 5
+  },
+  {
+    "word": "と",
+    "reading": "と",
+    "meaning": "and, with",
+    "context": "particle",
+    "frequencyRank": 6
+  },
+  {
+    "word": "も",
+    "reading": "も",
+    "meaning": "also, too",
+    "context": "particle",
+    "frequencyRank": 7
+  },
+  {
+    "word": "の",
+    "reading": "の",
+    "meaning": "possessive (~'s)",
+    "context": "particle",
+    "frequencyRank": 8
+  },
+  {
+    "word": "や",
+    "reading": "や",
+    "meaning": "and/or (non-exhaustive list)",
+    "context": "particle",
+    "frequencyRank": 9
+  },
+  {
+    "word": "から",
+    "reading": "から",
+    "meaning": "from, since, because",
+    "context": "particle",
+    "frequencyRank": 10
+  },
+  {
+    "word": "まで",
+    "reading": "まで",
+    "meaning": "until, up to",
+    "context": "particle",
+    "frequencyRank": 11
+  },
+  {
+    "word": "より",
+    "reading": "より",
+    "meaning": "than (comparison)",
+    "context": "particle",
+    "frequencyRank": 12
+  },
+  {
+    "word": "へ",
+    "reading": "へ",
+    "meaning": "toward, to (direction)",
+    "context": "particle",
+    "frequencyRank": 13
+  },
+  {
+    "word": "ば",
+    "reading": "ば",
+    "meaning": "if (conditional)",
+    "context": "particle",
+    "frequencyRank": 14
+  },
+  {
+    "word": "ても",
+    "reading": "ても",
+    "meaning": "even if, even though",
+    "context": "particle",
+    "frequencyRank": 15
+  },
+  {
+    "word": "けど",
+    "reading": "けど",
+    "meaning": "but, although (casual)",
+    "context": "particle",
+    "frequencyRank": 16
+  },
+  {
+    "word": "ので",
+    "reading": "ので",
+    "meaning": "because, since",
+    "context": "particle",
+    "frequencyRank": 17
+  },
+  {
+    "word": "し",
+    "reading": "し",
+    "meaning": "and (listing reasons)",
+    "context": "particle",
+    "frequencyRank": 18
+  },
+  {
+    "word": "か",
+    "reading": "か",
+    "meaning": "question marker / or",
+    "context": "particle",
+    "frequencyRank": 19
+  },
+  {
+    "word": "ね",
+    "reading": "ね",
+    "meaning": "seeking agreement (isn't it?)",
+    "context": "particle",
+    "frequencyRank": 20
+  },
+  {
+    "word": "よ",
+    "reading": "よ",
+    "meaning": "assertion, emphasis",
+    "context": "particle",
+    "frequencyRank": 21
+  },
+  {
+    "word": "な",
+    "reading": "な",
+    "meaning": "prohibition (don’t ~, casual)",
+    "context": "particle",
+    "frequencyRank": 22
+  },
+  {
+    "word": "だけ",
+    "reading": "だけ",
+    "meaning": "only, just",
+    "context": "particle",
+    "frequencyRank": 23
+  },
+  {
+    "word": "しか",
+    "reading": "しか",
+    "meaning": "only (used with a negative verb)",
+    "context": "particle",
+    "frequencyRank": 24
+  },
+  {
+    "word": "ぐらい",
+    "reading": "ぐらい",
+    "meaning": "about, approximately",
+    "context": "particle",
+    "frequencyRank": 25
+  },
+  {
+    "word": "など",
+    "reading": "など",
+    "meaning": "etc., and so on",
+    "context": "particle",
+    "frequencyRank": 26
+  }
+]

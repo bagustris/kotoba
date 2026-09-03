@@ -1,42 +1,363 @@
 [
-  { "word": "先生", "reading": "せんせい", "meaning": "teacher", "context": "classroom", "frequencyRank": 1 },
-  { "word": "生徒", "reading": "せいと", "meaning": "pupil (school student)", "context": "classroom", "frequencyRank": 2 },
-  { "word": "宿題", "reading": "しゅくだい", "meaning": "homework", "context": "classroom", "frequencyRank": 3 },
-  { "word": "教科書", "reading": "きょうかしょ", "meaning": "textbook", "context": "classroom", "frequencyRank": 4 },
-  { "word": "黒板", "reading": "こくばん", "meaning": "blackboard", "context": "classroom", "frequencyRank": 5 },
-  { "word": "授業", "reading": "じゅぎょう", "meaning": "class; lesson", "context": "classroom", "frequencyRank": 6 },
-  { "word": "試験", "reading": "しけん", "meaning": "exam", "context": "classroom", "frequencyRank": 7 },
-  { "word": "質問", "reading": "しつもん", "meaning": "question", "context": "classroom", "frequencyRank": 8 },
-  { "word": "発表", "reading": "はっぴょう", "meaning": "presentation", "context": "classroom", "frequencyRank": 9 },
-  { "word": "休み時間", "reading": "やすみじかん", "meaning": "recess", "context": "classroom", "frequencyRank": 10 },
-  { "word": "出席", "reading": "しゅっせき", "meaning": "attendance", "context": "classroom", "frequencyRank": 11 },
-  { "word": "欠席", "reading": "けっせき", "meaning": "absence", "context": "classroom", "frequencyRank": 12 },
-  { "word": "提出", "reading": "ていしゅつ", "meaning": "submission", "context": "classroom", "frequencyRank": 13 },
-  { "word": "辞書", "reading": "じしょ", "meaning": "dictionary", "context": "classroom", "frequencyRank": 14 },
-  { "word": "ノート", "reading": "ノート", "meaning": "notebook", "context": "classroom", "frequencyRank": 15 },
-  { "word": "学生", "reading": "がくせい", "meaning": "student (college/university)", "context": "classroom", "frequencyRank": 16 },
-  { "word": "教室", "reading": "きょうしつ", "meaning": "classroom", "context": "classroom", "frequencyRank": 17 },
-  { "word": "鉛筆", "reading": "えんぴつ", "meaning": "pencil", "context": "classroom", "frequencyRank": 18 },
-  { "word": "消しゴム", "reading": "けしゴム", "meaning": "eraser", "context": "classroom", "frequencyRank": 19 },
-  { "word": "定規", "reading": "じょうぎ", "meaning": "ruler", "context": "classroom", "frequencyRank": 20 },
-  { "word": "教える", "reading": "おしえる", "meaning": "to teach", "context": "classroom", "frequencyRank": 21 },
-  { "word": "習う", "reading": "ならう", "meaning": "to learn", "context": "classroom", "frequencyRank": 22 },
-  { "word": "覚える", "reading": "おぼえる", "meaning": "to memorize", "context": "classroom", "frequencyRank": 23 },
-  { "word": "復習", "reading": "ふくしゅう", "meaning": "review", "context": "classroom", "frequencyRank": 24 },
-  { "word": "予習", "reading": "よしゅう", "meaning": "preparation before class", "context": "classroom", "frequencyRank": 25 },
-  { "word": "成績", "reading": "せいせき", "meaning": "grades", "context": "classroom", "frequencyRank": 26 },
-  { "word": "点数", "reading": "てんすう", "meaning": "score", "context": "classroom", "frequencyRank": 27 },
-  { "word": "合格", "reading": "ごうかく", "meaning": "passing (an exam)", "context": "classroom", "frequencyRank": 28 },
-  { "word": "不合格", "reading": "ふごうかく", "meaning": "failing (an exam)", "context": "classroom", "frequencyRank": 29 },
-  { "word": "締め切り", "reading": "しめきり", "meaning": "deadline", "context": "classroom", "frequencyRank": 30 },
-  { "word": "遅刻", "reading": "ちこく", "meaning": "being late; tardiness", "context": "classroom", "frequencyRank": 31 },
-  { "word": "早退", "reading": "そうたい", "meaning": "leaving early", "context": "classroom", "frequencyRank": 32 },
-  { "word": "教師", "reading": "きょうし", "meaning": "schoolteacher (occupation)", "context": "classroom", "frequencyRank": 33 },
-  { "word": "教授", "reading": "きょうじゅ", "meaning": "professor", "context": "classroom", "frequencyRank": 34 },
-  { "word": "部活", "reading": "ぶかつ", "meaning": "club activity", "context": "classroom", "frequencyRank": 35 },
-  { "word": "図書館", "reading": "としょかん", "meaning": "library", "context": "classroom", "frequencyRank": 36 },
-  { "word": "制服", "reading": "せいふく", "meaning": "school uniform", "context": "classroom", "frequencyRank": 37 },
-  { "word": "時間割", "reading": "じかんわり", "meaning": "class schedule", "context": "classroom", "frequencyRank": 38 },
-  { "word": "入学", "reading": "にゅうがく", "meaning": "school enrollment", "context": "classroom", "frequencyRank": 39 },
-  { "word": "卒業", "reading": "そつぎょう", "meaning": "graduation", "context": "classroom", "frequencyRank": 40 }
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning": "teacher",
+    "context": "classroom",
+    "frequencyRank": 1,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "生徒",
+    "reading": "せいと",
+    "meaning": "pupil (school student)",
+    "context": "classroom",
+    "frequencyRank": 2,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "宿題",
+    "reading": "しゅくだい",
+    "meaning": "homework",
+    "context": "classroom",
+    "frequencyRank": 3,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "教科書",
+    "reading": "きょうかしょ",
+    "meaning": "textbook",
+    "context": "classroom",
+    "frequencyRank": 4,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "黒板",
+    "reading": "こくばん",
+    "meaning": "blackboard",
+    "context": "classroom",
+    "frequencyRank": 5
+  },
+  {
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "meaning": "class; lesson",
+    "context": "classroom",
+    "frequencyRank": 6,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "試験",
+    "reading": "しけん",
+    "meaning": "exam",
+    "context": "classroom",
+    "frequencyRank": 7,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "質問",
+    "reading": "しつもん",
+    "meaning": "question",
+    "context": "classroom",
+    "frequencyRank": 8,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "発表",
+    "reading": "はっぴょう",
+    "meaning": "presentation",
+    "context": "classroom",
+    "frequencyRank": 9,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "休み時間",
+    "reading": "やすみじかん",
+    "meaning": "recess",
+    "context": "classroom",
+    "frequencyRank": 10
+  },
+  {
+    "word": "出席",
+    "reading": "しゅっせき",
+    "meaning": "attendance",
+    "context": "classroom",
+    "frequencyRank": 11,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "欠席",
+    "reading": "けっせき",
+    "meaning": "absence",
+    "context": "classroom",
+    "frequencyRank": 12
+  },
+  {
+    "word": "提出",
+    "reading": "ていしゅつ",
+    "meaning": "submission",
+    "context": "classroom",
+    "frequencyRank": 13,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "辞書",
+    "reading": "じしょ",
+    "meaning": "dictionary",
+    "context": "classroom",
+    "frequencyRank": 14,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "ノート",
+    "reading": "ノート",
+    "meaning": "notebook",
+    "context": "classroom",
+    "frequencyRank": 15,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "学生",
+    "reading": "がくせい",
+    "meaning": "student (college/university)",
+    "context": "classroom",
+    "frequencyRank": 16,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "教室",
+    "reading": "きょうしつ",
+    "meaning": "classroom",
+    "context": "classroom",
+    "frequencyRank": 17,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "鉛筆",
+    "reading": "えんぴつ",
+    "meaning": "pencil",
+    "context": "classroom",
+    "frequencyRank": 18,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "消しゴム",
+    "reading": "けしゴム",
+    "meaning": "eraser",
+    "context": "classroom",
+    "frequencyRank": 19
+  },
+  {
+    "word": "定規",
+    "reading": "じょうぎ",
+    "meaning": "ruler",
+    "context": "classroom",
+    "frequencyRank": 20
+  },
+  {
+    "word": "教える",
+    "reading": "おしえる",
+    "meaning": "to teach",
+    "context": "classroom",
+    "frequencyRank": 21,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "習う",
+    "reading": "ならう",
+    "meaning": "to learn",
+    "context": "classroom",
+    "frequencyRank": 22,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning": "to memorize",
+    "context": "classroom",
+    "frequencyRank": 23,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "復習",
+    "reading": "ふくしゅう",
+    "meaning": "review",
+    "context": "classroom",
+    "frequencyRank": 24
+  },
+  {
+    "word": "予習",
+    "reading": "よしゅう",
+    "meaning": "preparation before class",
+    "context": "classroom",
+    "frequencyRank": 25
+  },
+  {
+    "word": "成績",
+    "reading": "せいせき",
+    "meaning": "grades",
+    "context": "classroom",
+    "frequencyRank": 26,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "点数",
+    "reading": "てんすう",
+    "meaning": "score",
+    "context": "classroom",
+    "frequencyRank": 27
+  },
+  {
+    "word": "合格",
+    "reading": "ごうかく",
+    "meaning": "passing (an exam)",
+    "context": "classroom",
+    "frequencyRank": 28,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "不合格",
+    "reading": "ふごうかく",
+    "meaning": "failing (an exam)",
+    "context": "classroom",
+    "frequencyRank": 29
+  },
+  {
+    "word": "締め切り",
+    "reading": "しめきり",
+    "meaning": "deadline",
+    "context": "classroom",
+    "frequencyRank": 30
+  },
+  {
+    "word": "遅刻",
+    "reading": "ちこく",
+    "meaning": "being late; tardiness",
+    "context": "classroom",
+    "frequencyRank": 31
+  },
+  {
+    "word": "早退",
+    "reading": "そうたい",
+    "meaning": "leaving early",
+    "context": "classroom",
+    "frequencyRank": 32
+  },
+  {
+    "word": "教師",
+    "reading": "きょうし",
+    "meaning": "schoolteacher (occupation)",
+    "context": "classroom",
+    "frequencyRank": 33,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "教授",
+    "reading": "きょうじゅ",
+    "meaning": "professor",
+    "context": "classroom",
+    "frequencyRank": 34,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "部活",
+    "reading": "ぶかつ",
+    "meaning": "club activity",
+    "context": "classroom",
+    "frequencyRank": 35,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "図書館",
+    "reading": "としょかん",
+    "meaning": "library",
+    "context": "classroom",
+    "frequencyRank": 36,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "制服",
+    "reading": "せいふく",
+    "meaning": "school uniform",
+    "context": "classroom",
+    "frequencyRank": 37,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "時間割",
+    "reading": "じかんわり",
+    "meaning": "class schedule",
+    "context": "classroom",
+    "frequencyRank": 38
+  },
+  {
+    "word": "入学",
+    "reading": "にゅうがく",
+    "meaning": "school enrollment",
+    "context": "classroom",
+    "frequencyRank": 39,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "卒業",
+    "reading": "そつぎょう",
+    "meaning": "graduation",
+    "context": "classroom",
+    "frequencyRank": 40,
+    "tags": [
+      "5000"
+    ]
+  }
 ]

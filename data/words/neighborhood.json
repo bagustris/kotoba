@@ -4,7 +4,10 @@
     "reading": "いちど",
     "meaning": "once",
     "context": "neighborhood",
-    "frequencyRank": 1
+    "frequencyRank": 1,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "行ってみる",
@@ -18,28 +21,40 @@
     "reading": "いなか",
     "meaning": "countryside",
     "context": "neighborhood",
-    "frequencyRank": 3
+    "frequencyRank": 3,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "美しい",
     "reading": "うつくしい",
     "meaning": "beautiful",
     "context": "neighborhood",
-    "frequencyRank": 4
+    "frequencyRank": 4,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "多い",
     "reading": "おおい",
     "meaning": "many",
     "context": "neighborhood",
-    "frequencyRank": 5
+    "frequencyRank": 5,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "丘",
     "reading": "おか",
     "meaning": "hill",
     "context": "neighborhood",
-    "frequencyRank": 6
+    "frequencyRank": 6,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "おすすめ",
@@ -60,7 +75,10 @@
     "reading": "およぐ",
     "meaning": "to swim",
     "context": "neighborhood",
-    "frequencyRank": 9
+    "frequencyRank": 9,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "休憩所",
@@ -74,7 +92,10 @@
     "reading": "きれい",
     "meaning": "beautiful",
     "context": "neighborhood",
-    "frequencyRank": 11
+    "frequencyRank": 11,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "サイクリングコース",
@@ -102,28 +123,40 @@
     "reading": "しる",
     "meaning": "to know",
     "context": "neighborhood",
-    "frequencyRank": 15
+    "frequencyRank": 15,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "親切",
     "reading": "しんせつ",
     "meaning": "kind / helpful",
     "context": "neighborhood",
-    "frequencyRank": 16
+    "frequencyRank": 16,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "少ない",
     "reading": "すくない",
     "meaning": "few / a little",
     "context": "neighborhood",
-    "frequencyRank": 17
+    "frequencyRank": 17,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "砂浜",
     "reading": "すなはま",
     "meaning": "sandy beach",
     "context": "neighborhood",
-    "frequencyRank": 18
+    "frequencyRank": 18,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "スポーツセンター",
@@ -179,14 +212,20 @@
     "reading": "たてもの",
     "meaning": "building",
     "context": "neighborhood",
-    "frequencyRank": 26
+    "frequencyRank": 26,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "冷たい",
     "reading": "つめたい",
     "meaning": "cold / indifferent",
     "context": "neighborhood",
-    "frequencyRank": 27
+    "frequencyRank": 27,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "展望台",
@@ -200,14 +239,20 @@
     "reading": "とおい",
     "meaning": "far",
     "context": "neighborhood",
-    "frequencyRank": 29
+    "frequencyRank": 29,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "都会",
     "reading": "とかい",
     "meaning": "city",
     "context": "neighborhood",
-    "frequencyRank": 30
+    "frequencyRank": 30,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ところ",
@@ -228,28 +273,40 @@
     "reading": "どんな",
     "meaning": "what kind of",
     "context": "neighborhood",
-    "frequencyRank": 33
+    "frequencyRank": 33,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "にぎやか",
     "reading": "にぎやか",
     "meaning": "lively",
     "context": "neighborhood",
-    "frequencyRank": 34
+    "frequencyRank": 34,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "人気",
     "reading": "にんき",
     "meaning": "popular",
     "context": "neighborhood",
-    "frequencyRank": 35
+    "frequencyRank": 35,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "場所",
     "reading": "ばしょ",
     "meaning": "place",
     "context": "neighborhood",
-    "frequencyRank": 36
+    "frequencyRank": 36,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "バーベキュー場",
@@ -263,14 +320,20 @@
     "reading": "ひと",
     "meaning": "people",
     "context": "neighborhood",
-    "frequencyRank": 38
+    "frequencyRank": 38,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "評判",
     "reading": "ひょうばん",
     "meaning": "reputation",
     "context": "neighborhood",
-    "frequencyRank": 39
+    "frequencyRank": 39,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ビーチ",
@@ -284,42 +347,60 @@
     "reading": "ふべん",
     "meaning": "inconvenient",
     "context": "neighborhood",
-    "frequencyRank": 41
+    "frequencyRank": 41,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "便利",
     "reading": "べんり",
     "meaning": "convenient",
     "context": "neighborhood",
-    "frequencyRank": 42
+    "frequencyRank": 42,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "町",
     "reading": "まち",
     "meaning": "town",
     "context": "neighborhood",
-    "frequencyRank": 43
+    "frequencyRank": 43,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "店",
     "reading": "みせ",
     "meaning": "store / restaurant",
     "context": "neighborhood",
-    "frequencyRank": 44
+    "frequencyRank": 44,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "緑",
     "reading": "みどり",
     "meaning": "greenery",
     "context": "neighborhood",
-    "frequencyRank": 45
+    "frequencyRank": 45,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "見渡す",
     "reading": "みわたす",
     "meaning": "to overlook",
     "context": "neighborhood",
-    "frequencyRank": 46
+    "frequencyRank": 46,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "名物",
@@ -340,28 +421,40 @@
     "reading": "やすい",
     "meaning": "cheap",
     "context": "neighborhood",
-    "frequencyRank": 49
+    "frequencyRank": 49,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "夕日",
     "reading": "ゆうひ",
     "meaning": "sunset",
     "context": "neighborhood",
-    "frequencyRank": 50
+    "frequencyRank": 50,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "有名",
     "reading": "ゆうめい",
     "meaning": "famous",
     "context": "neighborhood",
-    "frequencyRank": 51
+    "frequencyRank": 51,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "青い",
     "reading": "あおい",
     "meaning": "blue",
     "context": "neighborhood",
-    "frequencyRank": 52
+    "frequencyRank": 52,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "アジア食材",
@@ -375,7 +468,10 @@
     "reading": "ある",
     "meaning": "to be present in",
     "context": "neighborhood",
-    "frequencyRank": 54
+    "frequencyRank": 54,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "横断歩道",
@@ -389,14 +485,20 @@
     "reading": "おおきな",
     "meaning": "large",
     "context": "neighborhood",
-    "frequencyRank": 56
+    "frequencyRank": 56,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "送る",
     "reading": "おくる",
     "meaning": "to take someone home",
     "context": "neighborhood",
-    "frequencyRank": 57
+    "frequencyRank": 57,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "お待ちしております",
@@ -417,14 +519,20 @@
     "reading": "かがく",
     "meaning": "science",
     "context": "neighborhood",
-    "frequencyRank": 60
+    "frequencyRank": 60,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "角",
     "reading": "かど",
     "meaning": "corner",
     "context": "neighborhood",
-    "frequencyRank": 61
+    "frequencyRank": 61,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "北口",
@@ -438,21 +546,30 @@
     "reading": "ぎんこう",
     "meaning": "bank",
     "context": "neighborhood",
-    "frequencyRank": 63
+    "frequencyRank": 63,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "黒い",
     "reading": "くろい",
     "meaning": "black",
     "context": "neighborhood",
-    "frequencyRank": 64
+    "frequencyRank": 64,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "高校",
     "reading": "こうこう",
     "meaning": "high school",
     "context": "neighborhood",
-    "frequencyRank": 65
+    "frequencyRank": 65,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "交差点",
@@ -487,35 +604,50 @@
     "reading": "しろい",
     "meaning": "white",
     "context": "neighborhood",
-    "frequencyRank": 70
+    "frequencyRank": 70,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "信号",
     "reading": "しんごう",
     "meaning": "traffic lights",
     "context": "neighborhood",
-    "frequencyRank": 71
+    "frequencyRank": 71,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "神社",
     "reading": "じんじゃ",
     "meaning": "shrine",
     "context": "neighborhood",
-    "frequencyRank": 72
+    "frequencyRank": 72,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "すぐ",
     "reading": "すぐ",
     "meaning": "just",
     "context": "neighborhood",
-    "frequencyRank": 73
+    "frequencyRank": 73,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ずっと",
     "reading": "ずっと",
     "meaning": "all the way / without turning",
     "context": "neighborhood",
-    "frequencyRank": 74
+    "frequencyRank": 74,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "そうすると",
@@ -529,21 +661,30 @@
     "reading": "そちら",
     "meaning": "there",
     "context": "neighborhood",
-    "frequencyRank": 76
+    "frequencyRank": 76,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "駐車場",
     "reading": "ちゅうしゃじょう",
     "meaning": "parking lot",
     "context": "neighborhood",
-    "frequencyRank": 77
+    "frequencyRank": 77,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "デパート",
     "reading": "デパート",
     "meaning": "department store",
     "context": "neighborhood",
-    "frequencyRank": 78
+    "frequencyRank": 78,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "どの辺？",
@@ -557,7 +698,10 @@
     "reading": "はいる",
     "meaning": "to turn",
     "context": "neighborhood",
-    "frequencyRank": 80
+    "frequencyRank": 80,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "博物館",
@@ -571,7 +715,10 @@
     "reading": "はし",
     "meaning": "bridge",
     "context": "neighborhood",
-    "frequencyRank": 82
+    "frequencyRank": 82,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "バス停",
@@ -585,7 +732,10 @@
     "reading": "ひだり",
     "meaning": "left",
     "context": "neighborhood",
-    "frequencyRank": 84
+    "frequencyRank": 84,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "1つ目",
@@ -599,14 +749,20 @@
     "reading": "びょういん",
     "meaning": "hospital",
     "context": "neighborhood",
-    "frequencyRank": 86
+    "frequencyRank": 86,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ビル",
     "reading": "ビル",
     "meaning": "building",
     "context": "neighborhood",
-    "frequencyRank": 87
+    "frequencyRank": 87,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "2つ目",
@@ -627,35 +783,50 @@
     "reading": "まがる",
     "meaning": "to turn",
     "context": "neighborhood",
-    "frequencyRank": 90
+    "frequencyRank": 90,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "まっすぐ",
     "reading": "まっすぐ",
     "meaning": "straight",
     "context": "neighborhood",
-    "frequencyRank": 91
+    "frequencyRank": 91,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "見える",
     "reading": "みえる",
     "meaning": "to see",
     "context": "neighborhood",
-    "frequencyRank": 92
+    "frequencyRank": 92,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "右",
     "reading": "みぎ",
     "meaning": "right",
     "context": "neighborhood",
-    "frequencyRank": 93
+    "frequencyRank": 93,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "道",
     "reading": "みち",
     "meaning": "road",
     "context": "neighborhood",
-    "frequencyRank": 94
+    "frequencyRank": 94,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "道案内",
@@ -669,21 +840,30 @@
     "reading": "もの",
     "meaning": "thing / something",
     "context": "neighborhood",
-    "frequencyRank": 96
+    "frequencyRank": 96,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "郵便局",
     "reading": "ゆうびんきょく",
     "meaning": "post office",
     "context": "neighborhood",
-    "frequencyRank": 97
+    "frequencyRank": 97,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "渡る",
     "reading": "わたる",
     "meaning": "to cross / to go across",
     "context": "neighborhood",
-    "frequencyRank": 98
+    "frequencyRank": 98,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "～つ目",
@@ -697,14 +877,20 @@
     "reading": "あお",
     "meaning": "blue",
     "context": "neighborhood",
-    "frequencyRank": 100
+    "frequencyRank": 100,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "赤",
     "reading": "あか",
     "meaning": "red",
     "context": "neighborhood",
-    "frequencyRank": 101
+    "frequencyRank": 101,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "秋の味覚",
@@ -851,14 +1037,20 @@
     "reading": "カバー",
     "meaning": "cover",
     "context": "neighborhood",
-    "frequencyRank": 122
+    "frequencyRank": 122,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "黄色",
     "reading": "きいろ",
     "meaning": "yellow",
     "context": "neighborhood",
-    "frequencyRank": 123
+    "frequencyRank": 123,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "機種",
@@ -886,7 +1078,10 @@
     "reading": "きゅうきゅうしゃ",
     "meaning": "ambulance",
     "context": "neighborhood",
-    "frequencyRank": 127
+    "frequencyRank": 127,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "急に",
@@ -914,14 +1109,20 @@
     "reading": "くろ",
     "meaning": "black",
     "context": "neighborhood",
-    "frequencyRank": 131
+    "frequencyRank": 131,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "警察",
     "reading": "けいさつ",
     "meaning": "police",
     "context": "neighborhood",
-    "frequencyRank": 132
+    "frequencyRank": 132,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "警察に連絡する",
@@ -942,14 +1143,20 @@
     "reading": "さいふ",
     "meaning": "wallet",
     "context": "neighborhood",
-    "frequencyRank": 135
+    "frequencyRank": 135,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "探す",
     "reading": "さがす",
     "meaning": "to look for",
     "context": "neighborhood",
-    "frequencyRank": 136
+    "frequencyRank": 136,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "先ほど",
@@ -963,7 +1170,10 @@
     "reading": "さっき",
     "meaning": "a short while ago",
     "context": "neighborhood",
-    "frequencyRank": 138
+    "frequencyRank": 138,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "試着室",
@@ -984,7 +1194,10 @@
     "reading": "しろ",
     "meaning": "white",
     "context": "neighborhood",
-    "frequencyRank": 141
+    "frequencyRank": 141,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "スイーツ",
@@ -1061,7 +1274,10 @@
     "reading": "ただいま",
     "meaning": "currently",
     "context": "neighborhood",
-    "frequencyRank": 152
+    "frequencyRank": 152,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "茶色",
@@ -1096,21 +1312,30 @@
     "reading": "つながる",
     "meaning": "to connect",
     "context": "neighborhood",
-    "frequencyRank": 157
+    "frequencyRank": 157,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "特徴",
     "reading": "とくちょう",
     "meaning": "feature",
     "context": "neighborhood",
-    "frequencyRank": 158
+    "frequencyRank": 158,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "届く",
     "reading": "とどく",
     "meaning": "to be handed in",
     "context": "neighborhood",
-    "frequencyRank": 159
+    "frequencyRank": 159,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "停める",
@@ -1124,49 +1349,70 @@
     "reading": "とる",
     "meaning": "to steal",
     "context": "neighborhood",
-    "frequencyRank": 161
+    "frequencyRank": 161,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "なくす",
     "reading": "なくす",
     "meaning": "to lose",
     "context": "neighborhood",
-    "frequencyRank": 162
+    "frequencyRank": 162,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "盗む",
     "reading": "ぬすむ",
     "meaning": "to steal",
     "context": "neighborhood",
-    "frequencyRank": 163
+    "frequencyRank": 163,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "値段",
     "reading": "ねだん",
     "meaning": "price",
     "context": "neighborhood",
-    "frequencyRank": 164
+    "frequencyRank": 164,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "派手",
     "reading": "はで",
     "meaning": "flashy",
     "context": "neighborhood",
-    "frequencyRank": 165
+    "frequencyRank": 165,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "広場",
     "reading": "ひろば",
     "meaning": "square / open space",
     "context": "neighborhood",
-    "frequencyRank": 166
+    "frequencyRank": 166,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ピンク",
     "reading": "ピンク",
     "meaning": "pink",
     "context": "neighborhood",
-    "frequencyRank": 167
+    "frequencyRank": 167,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "フードコート",
@@ -1201,7 +1447,10 @@
     "reading": "へんこう",
     "meaning": "change",
     "context": "neighborhood",
-    "frequencyRank": 172
+    "frequencyRank": 172,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ポイントカード",
@@ -1348,7 +1597,10 @@
     "reading": "うごかす",
     "meaning": "to move around",
     "context": "neighborhood",
-    "frequencyRank": 193
+    "frequencyRank": 193,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "エコモード",
@@ -1362,21 +1614,30 @@
     "reading": "おと",
     "meaning": "sound",
     "context": "neighborhood",
-    "frequencyRank": 195
+    "frequencyRank": 195,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "重い",
     "reading": "おもい",
     "meaning": "heavy",
     "context": "neighborhood",
-    "frequencyRank": 196
+    "frequencyRank": 196,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "重さ",
     "reading": "おもさ",
     "meaning": "weight",
     "context": "neighborhood",
-    "frequencyRank": 197
+    "frequencyRank": 197,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "カーペット",
@@ -1397,49 +1658,70 @@
     "reading": "かかく",
     "meaning": "price",
     "context": "neighborhood",
-    "frequencyRank": 200
+    "frequencyRank": 200,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "かかる",
     "reading": "かかる",
     "meaning": "to cost",
     "context": "neighborhood",
-    "frequencyRank": 201
+    "frequencyRank": 201,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "軽い",
     "reading": "かるい",
     "meaning": "lightweight",
     "context": "neighborhood",
-    "frequencyRank": 202
+    "frequencyRank": 202,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "変わる",
     "reading": "かわる",
     "meaning": "to change",
     "context": "neighborhood",
-    "frequencyRank": 203
+    "frequencyRank": 203,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "傷",
     "reading": "きず",
     "meaning": "scratch",
     "context": "neighborhood",
-    "frequencyRank": 204
+    "frequencyRank": 204,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "機能",
     "reading": "きのう",
     "meaning": "function",
     "context": "neighborhood",
-    "frequencyRank": 205
+    "frequencyRank": 205,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "比べる",
     "reading": "くらべる",
     "meaning": "to compare",
     "context": "neighborhood",
-    "frequencyRank": 206
+    "frequencyRank": 206,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "車を出す",
@@ -1481,7 +1763,10 @@
     "reading": "しっかり",
     "meaning": "thoroughly",
     "context": "neighborhood",
-    "frequencyRank": 212
+    "frequencyRank": 212,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "絞り込み",
@@ -1516,14 +1801,20 @@
     "reading": "しよう",
     "meaning": "use",
     "context": "neighborhood",
-    "frequencyRank": 217
+    "frequencyRank": 217,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "状態",
     "reading": "じょうたい",
     "meaning": "condition",
     "context": "neighborhood",
-    "frequencyRank": 218
+    "frequencyRank": 218,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "消費税",
@@ -1537,14 +1828,20 @@
     "reading": "しょうひん",
     "meaning": "products",
     "context": "neighborhood",
-    "frequencyRank": 220
+    "frequencyRank": 220,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "シンプル",
     "reading": "シンプル",
     "meaning": "simple",
     "context": "neighborhood",
-    "frequencyRank": 221
+    "frequencyRank": 221,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "炊飯器",
@@ -1600,7 +1897,10 @@
     "reading": "そうだん",
     "meaning": "negotiate",
     "context": "neighborhood",
-    "frequencyRank": 229
+    "frequencyRank": 229,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "送料",
@@ -1621,7 +1921,10 @@
     "reading": "たたみ",
     "meaning": "tatami",
     "context": "neighborhood",
-    "frequencyRank": 232
+    "frequencyRank": 232,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "タブレット",
@@ -1649,42 +1952,60 @@
     "reading": "つく",
     "meaning": "to attach / to include",
     "context": "neighborhood",
-    "frequencyRank": 236
+    "frequencyRank": 236,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "デザイン",
     "reading": "デザイン",
     "meaning": "design",
     "context": "neighborhood",
-    "frequencyRank": 237
+    "frequencyRank": 237,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "手続き",
     "reading": "てつづき",
     "meaning": "process",
     "context": "neighborhood",
-    "frequencyRank": 238
+    "frequencyRank": 238,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "手元",
     "reading": "てもと",
     "meaning": "at hand / me",
     "context": "neighborhood",
-    "frequencyRank": 239
+    "frequencyRank": 239,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "テレビ",
     "reading": "テレビ",
     "meaning": "TV",
     "context": "neighborhood",
-    "frequencyRank": 240
+    "frequencyRank": 240,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "店員",
     "reading": "てんいん",
     "meaning": "store staff",
     "context": "neighborhood",
-    "frequencyRank": 241
+    "frequencyRank": 241,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "電気屋",
@@ -1740,7 +2061,10 @@
     "reading": "パソコン",
     "meaning": "computer",
     "context": "neighborhood",
-    "frequencyRank": 249
+    "frequencyRank": 249,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "パワフル",
@@ -1775,14 +2099,20 @@
     "reading": "ひょうじ",
     "meaning": "show",
     "context": "neighborhood",
-    "frequencyRank": 254
+    "frequencyRank": 254,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "複雑",
     "reading": "ふくざつ",
     "meaning": "complicated",
     "context": "neighborhood",
-    "frequencyRank": 255
+    "frequencyRank": 255,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "フリマサイト",
@@ -1796,14 +2126,20 @@
     "reading": "べつに",
     "meaning": "separately",
     "context": "neighborhood",
-    "frequencyRank": 257
+    "frequencyRank": 257,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ポイント",
     "reading": "ポイント",
     "meaning": "point",
     "context": "neighborhood",
-    "frequencyRank": 258
+    "frequencyRank": 258,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ポット",
@@ -1817,21 +2153,30 @@
     "reading": "メーカー",
     "meaning": "manufacturer",
     "context": "neighborhood",
-    "frequencyRank": 260
+    "frequencyRank": 260,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "持つ",
     "reading": "もつ",
     "meaning": "to carry",
     "context": "neighborhood",
-    "frequencyRank": 261
+    "frequencyRank": 261,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "モデル",
     "reading": "モデル",
     "meaning": "model",
     "context": "neighborhood",
-    "frequencyRank": 262
+    "frequencyRank": 262,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "安い順",
@@ -1852,7 +2197,10 @@
     "reading": "よごれ",
     "meaning": "dirt",
     "context": "neighborhood",
-    "frequencyRank": 265
+    "frequencyRank": 265,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "予算オーバー",
@@ -1866,7 +2214,10 @@
     "reading": "れいぞうこ",
     "meaning": "refrigerator",
     "context": "neighborhood",
-    "frequencyRank": 267
+    "frequencyRank": 267,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "連続する",

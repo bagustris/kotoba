@@ -1,42 +1,300 @@
 [
-  { "word": "パスポート", "reading": "パスポート", "meaning": "passport", "context": "airport", "frequencyRank": 1 },
-  { "word": "搭乗券", "reading": "とうじょうけん", "meaning": "boarding pass", "context": "airport", "frequencyRank": 2 },
-  { "word": "手荷物", "reading": "てにもつ", "meaning": "baggage", "context": "airport", "frequencyRank": 3 },
-  { "word": "出発", "reading": "しゅっぱつ", "meaning": "departure", "context": "airport", "frequencyRank": 4 },
-  { "word": "到着", "reading": "とうちゃく", "meaning": "arrival", "context": "airport", "frequencyRank": 5 },
-  { "word": "税関", "reading": "ぜいかん", "meaning": "customs", "context": "airport", "frequencyRank": 6 },
-  { "word": "免税店", "reading": "めんぜいてん", "meaning": "duty-free shop", "context": "airport", "frequencyRank": 7 },
-  { "word": "搭乗口", "reading": "とうじょうぐち", "meaning": "boarding gate", "context": "airport", "frequencyRank": 8 },
-  { "word": "国内線", "reading": "こくないせん", "meaning": "domestic flight", "context": "airport", "frequencyRank": 9 },
-  { "word": "国際線", "reading": "こくさいせん", "meaning": "international flight", "context": "airport", "frequencyRank": 10 },
-  { "word": "荷物検査", "reading": "にもつけんさ", "meaning": "baggage check", "context": "airport", "frequencyRank": 11 },
-  { "word": "乗客", "reading": "じょうきゃく", "meaning": "passenger", "context": "airport", "frequencyRank": 12 },
-  { "word": "欠航", "reading": "けっこう", "meaning": "flight cancellation", "context": "airport", "frequencyRank": 13 },
-  { "word": "時差", "reading": "じさ", "meaning": "time difference", "context": "airport", "frequencyRank": 14 },
-  { "word": "案内", "reading": "あんない", "meaning": "information; guidance", "context": "airport", "frequencyRank": 15 },
-  { "word": "航空券", "reading": "こうくうけん", "meaning": "airline ticket", "context": "airport", "frequencyRank": 16 },
-  { "word": "チェックイン", "reading": "チェックイン", "meaning": "check-in", "context": "airport", "frequencyRank": 17 },
-  { "word": "カウンター", "reading": "カウンター", "meaning": "counter", "context": "airport", "frequencyRank": 18 },
-  { "word": "座席", "reading": "ざせき", "meaning": "seat", "context": "airport", "frequencyRank": 19 },
-  { "word": "窓側", "reading": "まどがわ", "meaning": "window side", "context": "airport", "frequencyRank": 20 },
-  { "word": "通路側", "reading": "つうろがわ", "meaning": "aisle side", "context": "airport", "frequencyRank": 21 },
-  { "word": "預け荷物", "reading": "あずけにもつ", "meaning": "checked baggage", "context": "airport", "frequencyRank": 22 },
-  { "word": "手荷物受取所", "reading": "てにもつうけとりじょ", "meaning": "baggage claim", "context": "airport", "frequencyRank": 23 },
-  { "word": "搭乗時刻", "reading": "とうじょうじこく", "meaning": "boarding time", "context": "airport", "frequencyRank": 24 },
-  { "word": "遅延", "reading": "ちえん", "meaning": "delay", "context": "airport", "frequencyRank": 25 },
-  { "word": "乗り継ぎ", "reading": "のりつぎ", "meaning": "connecting flight", "context": "airport", "frequencyRank": 26 },
-  { "word": "入国審査", "reading": "にゅうこくしんさ", "meaning": "immigration", "context": "airport", "frequencyRank": 27 },
-  { "word": "出国審査", "reading": "しゅっこくしんさ", "meaning": "departure inspection", "context": "airport", "frequencyRank": 28 },
-  { "word": "ビザ", "reading": "ビザ", "meaning": "visa", "context": "airport", "frequencyRank": 29 },
-  { "word": "保安検査", "reading": "ほあんけんさ", "meaning": "security check", "context": "airport", "frequencyRank": 30 },
-  { "word": "液体物", "reading": "えきたいぶつ", "meaning": "liquids", "context": "airport", "frequencyRank": 31 },
-  { "word": "機内持ち込み", "reading": "きないもちこみ", "meaning": "carry-on", "context": "airport", "frequencyRank": 32 },
-  { "word": "両替", "reading": "りょうがえ", "meaning": "currency exchange", "context": "airport", "frequencyRank": 33 },
-  { "word": "空港バス", "reading": "くうこうバス", "meaning": "airport bus", "context": "airport", "frequencyRank": 34 },
-  { "word": "荷物カート", "reading": "にもつカート", "meaning": "luggage cart", "context": "airport", "frequencyRank": 35 },
-  { "word": "搭乗案内", "reading": "とうじょうあんない", "meaning": "boarding announcement", "context": "airport", "frequencyRank": 36 },
-  { "word": "滑走路", "reading": "かっそうろ", "meaning": "runway", "context": "airport", "frequencyRank": 37 },
-  { "word": "客室乗務員", "reading": "きゃくしつじょうむいん", "meaning": "flight attendant", "context": "airport", "frequencyRank": 38 },
-  { "word": "機内食", "reading": "きないしょく", "meaning": "in-flight meal", "context": "airport", "frequencyRank": 39 },
-  { "word": "到着ロビー", "reading": "とうちゃくロビー", "meaning": "arrival lobby", "context": "airport", "frequencyRank": 40 }
+  {
+    "word": "パスポート",
+    "reading": "パスポート",
+    "meaning": "passport",
+    "context": "airport",
+    "frequencyRank": 1,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "搭乗券",
+    "reading": "とうじょうけん",
+    "meaning": "boarding pass",
+    "context": "airport",
+    "frequencyRank": 2
+  },
+  {
+    "word": "手荷物",
+    "reading": "てにもつ",
+    "meaning": "baggage",
+    "context": "airport",
+    "frequencyRank": 3
+  },
+  {
+    "word": "出発",
+    "reading": "しゅっぱつ",
+    "meaning": "departure",
+    "context": "airport",
+    "frequencyRank": 4,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "到着",
+    "reading": "とうちゃく",
+    "meaning": "arrival",
+    "context": "airport",
+    "frequencyRank": 5,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "税関",
+    "reading": "ぜいかん",
+    "meaning": "customs",
+    "context": "airport",
+    "frequencyRank": 6
+  },
+  {
+    "word": "免税店",
+    "reading": "めんぜいてん",
+    "meaning": "duty-free shop",
+    "context": "airport",
+    "frequencyRank": 7
+  },
+  {
+    "word": "搭乗口",
+    "reading": "とうじょうぐち",
+    "meaning": "boarding gate",
+    "context": "airport",
+    "frequencyRank": 8
+  },
+  {
+    "word": "国内線",
+    "reading": "こくないせん",
+    "meaning": "domestic flight",
+    "context": "airport",
+    "frequencyRank": 9
+  },
+  {
+    "word": "国際線",
+    "reading": "こくさいせん",
+    "meaning": "international flight",
+    "context": "airport",
+    "frequencyRank": 10
+  },
+  {
+    "word": "荷物検査",
+    "reading": "にもつけんさ",
+    "meaning": "baggage check",
+    "context": "airport",
+    "frequencyRank": 11
+  },
+  {
+    "word": "乗客",
+    "reading": "じょうきゃく",
+    "meaning": "passenger",
+    "context": "airport",
+    "frequencyRank": 12
+  },
+  {
+    "word": "欠航",
+    "reading": "けっこう",
+    "meaning": "flight cancellation",
+    "context": "airport",
+    "frequencyRank": 13
+  },
+  {
+    "word": "時差",
+    "reading": "じさ",
+    "meaning": "time difference",
+    "context": "airport",
+    "frequencyRank": 14
+  },
+  {
+    "word": "案内",
+    "reading": "あんない",
+    "meaning": "information; guidance",
+    "context": "airport",
+    "frequencyRank": 15,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "航空券",
+    "reading": "こうくうけん",
+    "meaning": "airline ticket",
+    "context": "airport",
+    "frequencyRank": 16
+  },
+  {
+    "word": "チェックイン",
+    "reading": "チェックイン",
+    "meaning": "check-in",
+    "context": "airport",
+    "frequencyRank": 17
+  },
+  {
+    "word": "カウンター",
+    "reading": "カウンター",
+    "meaning": "counter",
+    "context": "airport",
+    "frequencyRank": 18,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "座席",
+    "reading": "ざせき",
+    "meaning": "seat",
+    "context": "airport",
+    "frequencyRank": 19
+  },
+  {
+    "word": "窓側",
+    "reading": "まどがわ",
+    "meaning": "window side",
+    "context": "airport",
+    "frequencyRank": 20
+  },
+  {
+    "word": "通路側",
+    "reading": "つうろがわ",
+    "meaning": "aisle side",
+    "context": "airport",
+    "frequencyRank": 21
+  },
+  {
+    "word": "預け荷物",
+    "reading": "あずけにもつ",
+    "meaning": "checked baggage",
+    "context": "airport",
+    "frequencyRank": 22
+  },
+  {
+    "word": "手荷物受取所",
+    "reading": "てにもつうけとりじょ",
+    "meaning": "baggage claim",
+    "context": "airport",
+    "frequencyRank": 23
+  },
+  {
+    "word": "搭乗時刻",
+    "reading": "とうじょうじこく",
+    "meaning": "boarding time",
+    "context": "airport",
+    "frequencyRank": 24
+  },
+  {
+    "word": "遅延",
+    "reading": "ちえん",
+    "meaning": "delay",
+    "context": "airport",
+    "frequencyRank": 25
+  },
+  {
+    "word": "乗り継ぎ",
+    "reading": "のりつぎ",
+    "meaning": "connecting flight",
+    "context": "airport",
+    "frequencyRank": 26
+  },
+  {
+    "word": "入国審査",
+    "reading": "にゅうこくしんさ",
+    "meaning": "immigration",
+    "context": "airport",
+    "frequencyRank": 27
+  },
+  {
+    "word": "出国審査",
+    "reading": "しゅっこくしんさ",
+    "meaning": "departure inspection",
+    "context": "airport",
+    "frequencyRank": 28
+  },
+  {
+    "word": "ビザ",
+    "reading": "ビザ",
+    "meaning": "visa",
+    "context": "airport",
+    "frequencyRank": 29,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "保安検査",
+    "reading": "ほあんけんさ",
+    "meaning": "security check",
+    "context": "airport",
+    "frequencyRank": 30
+  },
+  {
+    "word": "液体物",
+    "reading": "えきたいぶつ",
+    "meaning": "liquids",
+    "context": "airport",
+    "frequencyRank": 31
+  },
+  {
+    "word": "機内持ち込み",
+    "reading": "きないもちこみ",
+    "meaning": "carry-on",
+    "context": "airport",
+    "frequencyRank": 32
+  },
+  {
+    "word": "両替",
+    "reading": "りょうがえ",
+    "meaning": "currency exchange",
+    "context": "airport",
+    "frequencyRank": 33
+  },
+  {
+    "word": "空港バス",
+    "reading": "くうこうバス",
+    "meaning": "airport bus",
+    "context": "airport",
+    "frequencyRank": 34
+  },
+  {
+    "word": "荷物カート",
+    "reading": "にもつカート",
+    "meaning": "luggage cart",
+    "context": "airport",
+    "frequencyRank": 35
+  },
+  {
+    "word": "搭乗案内",
+    "reading": "とうじょうあんない",
+    "meaning": "boarding announcement",
+    "context": "airport",
+    "frequencyRank": 36
+  },
+  {
+    "word": "滑走路",
+    "reading": "かっそうろ",
+    "meaning": "runway",
+    "context": "airport",
+    "frequencyRank": 37
+  },
+  {
+    "word": "客室乗務員",
+    "reading": "きゃくしつじょうむいん",
+    "meaning": "flight attendant",
+    "context": "airport",
+    "frequencyRank": 38
+  },
+  {
+    "word": "機内食",
+    "reading": "きないしょく",
+    "meaning": "in-flight meal",
+    "context": "airport",
+    "frequencyRank": 39
+  },
+  {
+    "word": "到着ロビー",
+    "reading": "とうちゃくロビー",
+    "meaning": "arrival lobby",
+    "context": "airport",
+    "frequencyRank": 40
+  }
 ]

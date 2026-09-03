@@ -13,6 +13,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent / 'data'
 WORD_KEYS = {'word', 'reading', 'meaning', 'context', 'frequencyRank'}
+# Optional cross-context provenance tags (book/lesson origin), independent of
+# `context` — lets a word keep its book identity (searchable) after being
+# filed under a differently-scoped context.
+WORD_OPT_KEYS = {'tags'}
+WORD_TAG_WHITELIST = {'minna-no-nihongo', 'dekiru-nihongo', '5000'}
 SENT_KEYS = {'sentence', 'target', 'reading', 'fullReading', 'meaning',
              'translation', 'context'}
 # Optional provenance metadata (second-set entries sourced from textbooks).
@@ -55,10 +60,19 @@ def main():
     ids = [c['id'] for c in contexts]
     if len(set(ids)) != len(ids):
         fail('contexts.json', f'duplicate ids: {ids}')
+    valid_modes = {'reading', 'meaning', 'fillblank'}
     for c in contexts:
-        if set(c.keys()) != {'id', 'label', 'labelEn'}:
+        extra = set(c.keys()) - {'id', 'label', 'labelEn'}
+        if extra - {'modes'}:
             fail('contexts.json', f'unexpected keys in {c}')
+        if 'modes' in c:
+            modes = c['modes']
+            if not isinstance(modes, list) or not modes or \
+                    any(m not in valid_modes for m in modes):
+                fail('contexts.json', f"bad modes {modes!r} for {c['id']}")
 
+    all_word_readings = set()
+    readings_by_word = {}  # word -> set of readings, across all contexts
     for ctx in ids:
         try:
             words = json.loads((ROOT / 'words' / f'{ctx}.json').read_text())
@@ -72,10 +86,16 @@ def main():
         if not words or not sents:
             fail(ctx, 'empty dataset')
 
-        ranks, wtexts = [], []
+        ranks, wtexts, wmeanings = [], [], []
         for w in words:
-            if set(w.keys()) != WORD_KEYS:
+            extra = set(w.keys()) - WORD_KEYS
+            if extra - WORD_OPT_KEYS:
                 fail(ctx, f'word key mismatch {w}')
+            tags = w.get('tags')
+            if 'tags' in w:
+                if not isinstance(tags, list) or not tags or \
+                        any(t not in WORD_TAG_WHITELIST for t in tags):
+                    fail(ctx, f'bad tags {tags!r} on word {w.get("word")}')
             if w.get('context') != ctx:
                 fail(ctx, f'word context field mismatch: {w.get("word")}')
             for f in ('word', 'reading', 'meaning'):
@@ -83,6 +103,9 @@ def main():
                     fail(ctx, f'word empty field {f}: {w}')
             ranks.append(w.get('frequencyRank'))
             wtexts.append(w.get('word'))
+            wmeanings.append(w.get('meaning', '').strip().lower())
+            all_word_readings.add((w.get('word'), w.get('reading')))
+            readings_by_word.setdefault(w.get('word'), set()).add(w.get('reading'))
             # Reading mode drops kana-only words; anything the reader can't
             # make progress on deserves a look rather than silent filtering.
         if len(set(ranks)) != len(ranks):
@@ -93,6 +116,15 @@ def main():
         if len(set(wtexts)) != len(wtexts):
             dupes = sorted({t for t in wtexts if wtexts.count(t) > 1})
             fail(ctx, f'duplicate word surfaces: {dupes}')
+        if len(set(wmeanings)) != len(wmeanings):
+            # DistractorGenerator draws wrong answers from the same-context
+            # pool; two words sharing a gloss makes Meaning mode serve a
+            # distractor identical to the correct answer. Non-blocking: several
+            # contexts already carry this pre-existing bug, so this is a note
+            # for cleanup, not a hard gate on unrelated changes.
+            dupes = sorted({m for m in wmeanings if wmeanings.count(m) > 1})
+            print(f'note[{ctx}]: duplicate word meanings (breaks '
+                  f'Meaning-mode distractors): {dupes}')
 
         hits = set()
         pairs = []
@@ -132,6 +164,53 @@ def main():
         if uncovered:
             print(f'note[{ctx}]: words without own sentence target '
                   f'(must be covered by inflected targets): {uncovered}')
+
+    # data/pitch-accent.json: a single cross-context (word, reading) -> pitch
+    # lookup table (see js/pitch-accent.js), not one file per context.
+    pitch_path = ROOT / 'pitch-accent.json'
+    if pitch_path.exists():
+        pitch = json.loads(pitch_path.read_text())
+        stale = 0
+        for word, readings in pitch.items():
+            if not isinstance(readings, dict) or not readings:
+                fail('pitch-accent.json', f'bad entry for {word!r}: {readings!r}')
+                continue
+            for reading, entry in readings.items():
+                pattern = entry.get('pattern')
+                if not isinstance(pattern, list) or not pattern or \
+                        any(t not in ('H', 'L') for t in pattern):
+                    fail('pitch-accent.json', f'bad pattern for {word}/{reading}: {pattern!r}')
+                if not isinstance(entry.get('pos'), int):
+                    fail('pitch-accent.json', f'bad pos for {word}/{reading}: {entry.get("pos")!r}')
+                if (word, reading) not in all_word_readings:
+                    stale += 1
+        if stale:
+            # A word/reading dropped or reworded (e.g. the merge/dedup pass
+            # elsewhere) can leave a pitch entry with no matching word left —
+            # harmless (js/pitch-accent.js just won't find a match) but worth
+            # a prune next time this file is regenerated.
+            print(f'note[pitch-accent.json]: {stale} entries have no '
+                  f'matching (word, reading) in any context')
+
+    # Heuristic typo finder: if word B starts with word A (both >= 2 chars)
+    # but B's reading doesn't start with A's reading, either B's reading
+    # dropped/garbled a syllable relative to its own stem, or the two
+    # genuinely diverge (e.g. 明日 read あした vs あす) — the latter is
+    # normal, so this is a note to eyeball, not a hard failure. This is how
+    # 掃除します/そじします (missing う) and 学校に入ります/学校に入ります
+    # (reading left as kanji) were both caught.
+    simple = {w: next(iter(rs)) for w, rs in readings_by_word.items() if len(rs) == 1}
+    stem_hits = []
+    for word, reading in simple.items():
+        for stem, stem_reading in simple.items():
+            if stem == word or len(stem) < 2:
+                continue
+            if word.startswith(stem) and not reading.startswith(stem_reading):
+                stem_hits.append((word, reading, stem, stem_reading))
+    if stem_hits:
+        lines = '\n  '.join(f'{w} ({r})  vs stem {s} ({sr})' for w, r, s, sr in stem_hits)
+        print(f'note[readings]: {len(stem_hits)} word(s) whose reading may '
+              f'not match a shorter word they contain (verify by hand):\n  {lines}')
 
     if issues:
         print(f'\n{len(issues)} ISSUE(S):')

@@ -42,6 +42,14 @@
     </div>
 
     <div class="settings-row">
+      <span class="settings-row-label" id="setting-pitch-accent-label">ピッチアクセント<span>Show pitch accent (word scope only)</span></span>
+      <label class="switch">
+        <input type="checkbox" id="setting-pitch-accent" aria-labelledby="setting-pitch-accent-label">
+        <span class="switch-slider"></span>
+      </label>
+    </div>
+
+    <div class="settings-row">
       <span class="settings-row-label" id="setting-show-examples-label">答えた後に例文を表示<span>Show example sentence after answering</span></span>
       <label class="switch">
         <input type="checkbox" id="setting-show-examples" aria-labelledby="setting-show-examples-label">
@@ -100,6 +108,13 @@
   <div id="load-error-banner" class="banner-error hidden"></div>
 
   <section id="screen-home" class="screen">
+    <div class="search-row">
+      <input type="search" id="search-input" class="search-input"
+             placeholder="単語を検索（例: tag:minna）Search words (e.g. tag:minna)"
+             aria-label="単語を検索 Search words">
+    </div>
+    <div id="search-results" class="search-results hidden"></div>
+
     <h2>はじめましょう</h2>
     <p class="subtitle">Choose a mode, scope, and context</p>
 
@@ -140,6 +155,7 @@
     <div class="quiz-card">
       <div id="quiz-leech-badge" class="quiz-leech-badge hidden">にがて<span>Weak spot</span></div>
       <div id="quiz-word" class="quiz-word">言葉</div>
+      <div id="quiz-pitch" class="quiz-pitch hidden"></div>
       <p id="quiz-hint" class="quiz-hint"></p>
       <p id="quiz-instruction" class="quiz-instruction">正しい答えは？<span>Choose the correct answer</span></p>
       <div id="quiz-options" class="quiz-options"></div>
@@ -161,8 +177,12 @@
 
 </main>
 
+<script src="js/vendor/lunr.js"></script>
+<script src="js/search.js"></script>
+<script src="js/search-ui.js"></script>
 <script src="js/settings.js"></script>
 <script src="js/audio.js"></script>
+<script src="js/pitch-accent.js"></script>
 <script src="js/progress.js"></script>
 <script src="js/progress-view.js"></script>
 <script src="js/learning/QuestionSelectionStrategy.js"></script>

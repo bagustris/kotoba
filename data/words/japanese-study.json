@@ -18,14 +18,20 @@
     "reading": "いう",
     "meaning": "to say / to tell",
     "context": "japanese-study",
-    "frequencyRank": 3
+    "frequencyRank": 3,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "教える",
     "reading": "おしえる",
     "meaning": "to teach",
     "context": "japanese-study",
-    "frequencyRank": 4
+    "frequencyRank": 4,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "おしゃべりする",
@@ -39,28 +45,40 @@
     "reading": "おぼえる",
     "meaning": "to memorize",
     "context": "japanese-study",
-    "frequencyRank": 6
+    "frequencyRank": 6,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "会話",
     "reading": "かいわ",
     "meaning": "conversation",
     "context": "japanese-study",
-    "frequencyRank": 7
+    "frequencyRank": 7,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "書く",
     "reading": "かく",
     "meaning": "to write",
     "context": "japanese-study",
-    "frequencyRank": 8
+    "frequencyRank": 8,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "貸す",
     "reading": "かす",
     "meaning": "to lend",
     "context": "japanese-study",
-    "frequencyRank": 9
+    "frequencyRank": 9,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "カタカナ",
@@ -81,77 +99,110 @@
     "reading": "かみ",
     "meaning": "paper",
     "context": "japanese-study",
-    "frequencyRank": 12
+    "frequencyRank": 12,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "漢字",
     "reading": "かんじ",
     "meaning": "kanji",
     "context": "japanese-study",
-    "frequencyRank": 13
+    "frequencyRank": 13,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "簡単",
     "reading": "かんたん",
     "meaning": "easy",
     "context": "japanese-study",
-    "frequencyRank": 14
+    "frequencyRank": 14,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "教科書",
     "reading": "きょうかしょ",
     "meaning": "textbook",
     "context": "japanese-study",
-    "frequencyRank": 15
+    "frequencyRank": 15,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "教室",
     "reading": "きょうしつ",
     "meaning": "classroom",
     "context": "japanese-study",
-    "frequencyRank": 16
+    "frequencyRank": 16,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "検索",
     "reading": "けんさく",
     "meaning": "search",
     "context": "japanese-study",
-    "frequencyRank": 17
+    "frequencyRank": 17,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "高校",
     "reading": "こうこう",
     "meaning": "high school",
     "context": "japanese-study",
-    "frequencyRank": 18
+    "frequencyRank": 18,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "探す",
     "reading": "さがす",
     "meaning": "to look for",
     "context": "japanese-study",
-    "frequencyRank": 19
+    "frequencyRank": 19,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "質問",
     "reading": "しつもん",
     "meaning": "question",
     "context": "japanese-study",
-    "frequencyRank": 20
+    "frequencyRank": 20,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "書類",
     "reading": "しょるい",
     "meaning": "document",
     "context": "japanese-study",
-    "frequencyRank": 21
+    "frequencyRank": 21,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "辞書",
     "reading": "じしょ",
     "meaning": "dictionary",
     "context": "japanese-study",
-    "frequencyRank": 22
+    "frequencyRank": 22,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "自信がありません",
@@ -172,7 +223,10 @@
     "reading": "じょうず",
     "meaning": "well / good at",
     "context": "japanese-study",
-    "frequencyRank": 25
+    "frequencyRank": 25,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "説明する",
@@ -186,14 +240,20 @@
     "reading": "せんせい",
     "meaning": "teacher / instructor",
     "context": "japanese-study",
-    "frequencyRank": 27
+    "frequencyRank": 27,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "相談",
     "reading": "そうだん",
     "meaning": "discussion",
     "context": "japanese-study",
-    "frequencyRank": 28
+    "frequencyRank": 28,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "そんなことないです",
@@ -207,7 +267,10 @@
     "reading": "だいがく",
     "meaning": "university / college",
     "context": "japanese-study",
-    "frequencyRank": 30
+    "frequencyRank": 30,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "チェックする",
@@ -221,28 +284,40 @@
     "reading": "ちえ",
     "meaning": "wisdom",
     "context": "japanese-study",
-    "frequencyRank": 32
+    "frequencyRank": 32,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "違う",
     "reading": "ちがう",
     "meaning": "different",
     "context": "japanese-study",
-    "frequencyRank": 33
+    "frequencyRank": 33,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "得意",
     "reading": "とくい",
     "meaning": "good at",
     "context": "japanese-study",
-    "frequencyRank": 34
+    "frequencyRank": 34,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "トップ",
     "reading": "トップ",
     "meaning": "top",
     "context": "japanese-study",
-    "frequencyRank": 35
+    "frequencyRank": 35,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "どれぐらい",
@@ -263,7 +338,10 @@
     "reading": "にがて",
     "meaning": "poor at",
     "context": "japanese-study",
-    "frequencyRank": 38
+    "frequencyRank": 38,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "似ている",
@@ -277,7 +355,10 @@
     "reading": "にほんご",
     "meaning": "Japanese language",
     "context": "japanese-study",
-    "frequencyRank": 40
+    "frequencyRank": 40,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "日本語学校",
@@ -291,7 +372,10 @@
     "reading": "ネット",
     "meaning": "Internet",
     "context": "japanese-study",
-    "frequencyRank": 42
+    "frequencyRank": 42,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "拝借する",
@@ -305,7 +389,10 @@
     "reading": "はつおん",
     "meaning": "pronunciation",
     "context": "japanese-study",
-    "frequencyRank": 44
+    "frequencyRank": 44,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ひらがな",
@@ -333,14 +420,20 @@
     "reading": "べんきょう",
     "meaning": "study",
     "context": "japanese-study",
-    "frequencyRank": 48
+    "frequencyRank": 48,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ボランティア",
     "reading": "ボランティア",
     "meaning": "volunteer",
     "context": "japanese-study",
-    "frequencyRank": 49
+    "frequencyRank": 49,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "まだまだです",
@@ -354,35 +447,50 @@
     "reading": "みせる",
     "meaning": "to show",
     "context": "japanese-study",
-    "frequencyRank": 51
+    "frequencyRank": 51,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "難しい",
     "reading": "むずかしい",
     "meaning": "difficult",
     "context": "japanese-study",
-    "frequencyRank": 52
+    "frequencyRank": 52,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "無料",
     "reading": "むりょう",
     "meaning": "free of charge",
     "context": "japanese-study",
-    "frequencyRank": 53
+    "frequencyRank": 53,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "メール",
     "reading": "メール",
     "meaning": "email",
     "context": "japanese-study",
-    "frequencyRank": 54
+    "frequencyRank": 54,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "文字",
     "reading": "もじ",
     "meaning": "characters",
     "context": "japanese-study",
-    "frequencyRank": 55
+    "frequencyRank": 55,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "モンゴル語",
@@ -396,14 +504,20 @@
     "reading": "ゆっくり",
     "meaning": "slowly",
     "context": "japanese-study",
-    "frequencyRank": 57
+    "frequencyRank": 57,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ラジオ",
     "reading": "ラジオ",
     "meaning": "radio",
     "context": "japanese-study",
-    "frequencyRank": 58
+    "frequencyRank": 58,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ランキング",
@@ -417,14 +531,20 @@
     "reading": "れんしゅう",
     "meaning": "practice",
     "context": "japanese-study",
-    "frequencyRank": 60
+    "frequencyRank": 60,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "わし",
     "reading": "わし",
     "meaning": "I (role language for an elderly person)",
     "context": "japanese-study",
-    "frequencyRank": 61
+    "frequencyRank": 61,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "～方",
@@ -452,7 +572,10 @@
     "reading": "あじわう",
     "meaning": "to taste / to savor",
     "context": "japanese-study",
-    "frequencyRank": 65
+    "frequencyRank": 65,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "あとは",
@@ -466,7 +589,10 @@
     "reading": "いみ",
     "meaning": "meaning",
     "context": "japanese-study",
-    "frequencyRank": 67
+    "frequencyRank": 67,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "いらしてください",
@@ -494,7 +620,10 @@
     "reading": "かかる",
     "meaning": "to cost (a fee)",
     "context": "japanese-study",
-    "frequencyRank": 71
+    "frequencyRank": 71,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "各",
@@ -522,7 +651,10 @@
     "reading": "きく",
     "meaning": "to ask",
     "context": "japanese-study",
-    "frequencyRank": 75
+    "frequencyRank": 75,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "きびしい",
@@ -543,14 +675,20 @@
     "reading": "クラス",
     "meaning": "class",
     "context": "japanese-study",
-    "frequencyRank": 78
+    "frequencyRank": 78,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "見学",
     "reading": "けんがく",
     "meaning": "observation",
     "context": "japanese-study",
-    "frequencyRank": 79
+    "frequencyRank": 79,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "公民館",
@@ -564,14 +702,20 @@
     "reading": "コース",
     "meaning": "course",
     "context": "japanese-study",
-    "frequencyRank": 81
+    "frequencyRank": 81,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "最初",
     "reading": "さいしょ",
     "meaning": "at first",
     "context": "japanese-study",
-    "frequencyRank": 82
+    "frequencyRank": 82,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "参加する",
@@ -585,7 +729,10 @@
     "reading": "しゅう",
     "meaning": "week",
     "context": "japanese-study",
-    "frequencyRank": 84
+    "frequencyRank": 84,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "旬",
@@ -620,14 +767,20 @@
     "reading": "じかん",
     "meaning": "time",
     "context": "japanese-study",
-    "frequencyRank": 89
+    "frequencyRank": 89,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "スタート",
     "reading": "スタート",
     "meaning": "starting in / on (e.g. starting in October)",
     "context": "japanese-study",
-    "frequencyRank": 90
+    "frequencyRank": 90,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "先着",
@@ -641,14 +794,20 @@
     "reading": "ぜんぶ",
     "meaning": "all",
     "context": "japanese-study",
-    "frequencyRank": 92
+    "frequencyRank": 92,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "それとも",
     "reading": "それとも",
     "meaning": "or",
     "context": "japanese-study",
-    "frequencyRank": 93
+    "frequencyRank": 93,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "体育室",
@@ -669,7 +828,10 @@
     "reading": "ただ",
     "meaning": "free of charge",
     "context": "japanese-study",
-    "frequencyRank": 96
+    "frequencyRank": 96,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "第～",
@@ -697,35 +859,50 @@
     "reading": "チラシ",
     "meaning": "flyer",
     "context": "japanese-study",
-    "frequencyRank": 100
+    "frequencyRank": 100,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "使う",
     "reading": "つかう",
     "meaning": "to use",
     "context": "japanese-study",
-    "frequencyRank": 101
+    "frequencyRank": 101,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "月",
     "reading": "つき",
     "meaning": "month",
     "context": "japanese-study",
-    "frequencyRank": 102
+    "frequencyRank": 102,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "テキスト",
     "reading": "テキスト",
     "meaning": "textbook",
     "context": "japanese-study",
-    "frequencyRank": 103
+    "frequencyRank": 103,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "問い合わせ",
     "reading": "といあわせ",
     "meaning": "inquiry",
     "context": "japanese-study",
-    "frequencyRank": 104
+    "frequencyRank": 104,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "どういう",
@@ -746,7 +923,10 @@
     "reading": "どうぐ",
     "meaning": "equipment",
     "context": "japanese-study",
-    "frequencyRank": 107
+    "frequencyRank": 107,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "どんなこと",
@@ -760,35 +940,50 @@
     "reading": "なんかい",
     "meaning": "how many times",
     "context": "japanese-study",
-    "frequencyRank": 109
+    "frequencyRank": 109,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "日時",
     "reading": "にちじ",
     "meaning": "date and time",
     "context": "japanese-study",
-    "frequencyRank": 110
+    "frequencyRank": 110,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "払う",
     "reading": "はらう",
     "meaning": "to pay",
     "context": "japanese-study",
-    "frequencyRank": 111
+    "frequencyRank": 111,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "必要",
     "reading": "ひつよう",
     "meaning": "necessary",
     "context": "japanese-study",
-    "frequencyRank": 112
+    "frequencyRank": 112,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "費用",
     "reading": "ひよう",
     "meaning": "cost",
     "context": "japanese-study",
-    "frequencyRank": 113
+    "frequencyRank": 113,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "母語",
@@ -802,7 +997,10 @@
     "reading": "まいつき",
     "meaning": "every month",
     "context": "japanese-study",
-    "frequencyRank": 115
+    "frequencyRank": 115,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "前に",
@@ -837,7 +1035,10 @@
     "reading": "もうしこみ",
     "meaning": "application",
     "context": "japanese-study",
-    "frequencyRank": 120
+    "frequencyRank": 120,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "申込書",
@@ -858,7 +1059,10 @@
     "reading": "もっと",
     "meaning": "more",
     "context": "japanese-study",
-    "frequencyRank": 123
+    "frequencyRank": 123,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "用意する",

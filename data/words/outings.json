@@ -11,14 +11,20 @@
     "reading": "いそぐ",
     "meaning": "to hurry",
     "context": "outings",
-    "frequencyRank": 2
+    "frequencyRank": 2,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "イベント",
     "reading": "イベント",
     "meaning": "event",
     "context": "outings",
-    "frequencyRank": 3
+    "frequencyRank": 3,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "今から",
@@ -39,28 +45,40 @@
     "reading": "えき",
     "meaning": "train station",
     "context": "outings",
-    "frequencyRank": 6
+    "frequencyRank": 6,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "遅れる",
     "reading": "おくれる",
     "meaning": "to be late",
     "context": "outings",
-    "frequencyRank": 7
+    "frequencyRank": 7,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "会社",
     "reading": "かいしゃ",
     "meaning": "company",
     "context": "outings",
-    "frequencyRank": 8
+    "frequencyRank": 8,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "カフェ",
     "reading": "カフェ",
     "meaning": "café",
     "context": "outings",
-    "frequencyRank": 9
+    "frequencyRank": 9,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "先に",
@@ -74,21 +92,30 @@
     "reading": "じかん",
     "meaning": "time",
     "context": "outings",
-    "frequencyRank": 11
+    "frequencyRank": 11,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "事故",
     "reading": "じこ",
     "meaning": "accident",
     "context": "outings",
-    "frequencyRank": 12
+    "frequencyRank": 12,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "スタッフ",
     "reading": "スタッフ",
     "meaning": "staff",
     "context": "outings",
-    "frequencyRank": 13
+    "frequencyRank": 13,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "それ、何ですか？",
@@ -102,42 +129,60 @@
     "reading": "ぞう",
     "meaning": "statue",
     "context": "outings",
-    "frequencyRank": 15
+    "frequencyRank": 15,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "大丈夫",
     "reading": "だいじょうぶ",
     "meaning": "fine / OK",
     "context": "outings",
-    "frequencyRank": 16
+    "frequencyRank": 16,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "着く",
     "reading": "つく",
     "meaning": "to arrive",
     "context": "outings",
-    "frequencyRank": 17
+    "frequencyRank": 17,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "では",
     "reading": "では",
     "meaning": "so",
     "context": "outings",
-    "frequencyRank": 18
+    "frequencyRank": 18,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "止まる",
     "reading": "とまる",
     "meaning": "to stop",
     "context": "outings",
-    "frequencyRank": 19
+    "frequencyRank": 19,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "鳥",
     "reading": "とり",
     "meaning": "bird",
     "context": "outings",
-    "frequencyRank": 20
+    "frequencyRank": 20,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ねぼうする",
@@ -151,28 +196,40 @@
     "reading": "はじまる",
     "meaning": "to start",
     "context": "outings",
-    "frequencyRank": 22
+    "frequencyRank": 22,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "始める",
     "reading": "はじめる",
     "meaning": "to start",
     "context": "outings",
-    "frequencyRank": 23
+    "frequencyRank": 23,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "平和",
     "reading": "へいわ",
     "meaning": "peace",
     "context": "outings",
-    "frequencyRank": 24
+    "frequencyRank": 24,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ホール",
     "reading": "ホール",
     "meaning": "hall",
     "context": "outings",
-    "frequencyRank": 25
+    "frequencyRank": 25,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "待ち合わせ",
@@ -200,7 +257,10 @@
     "reading": "まつ",
     "meaning": "to wait",
     "context": "outings",
-    "frequencyRank": 29
+    "frequencyRank": 29,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "道に迷う",
@@ -214,7 +274,10 @@
     "reading": "もん",
     "meaning": "gate",
     "context": "outings",
-    "frequencyRank": 31
+    "frequencyRank": 31,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "連絡する",
@@ -235,21 +298,30 @@
     "reading": "アジア",
     "meaning": "Asia",
     "context": "outings",
-    "frequencyRank": 34
+    "frequencyRank": 34,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "いまいち",
     "reading": "いまいち",
     "meaning": "not so good",
     "context": "outings",
-    "frequencyRank": 35
+    "frequencyRank": 35,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "映画館",
     "reading": "えいがかん",
     "meaning": "movie theater",
     "context": "outings",
-    "frequencyRank": 36
+    "frequencyRank": 36,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "お金",
@@ -298,7 +370,10 @@
     "reading": "げんだい",
     "meaning": "modern",
     "context": "outings",
-    "frequencyRank": 43
+    "frequencyRank": 43,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ゲームコーナー",
@@ -319,7 +394,10 @@
     "reading": "さくひん",
     "meaning": "art",
     "context": "outings",
-    "frequencyRank": 46
+    "frequencyRank": 46,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "サル",
@@ -333,7 +411,10 @@
     "reading": "しあい",
     "meaning": "match",
     "context": "outings",
-    "frequencyRank": 48
+    "frequencyRank": 48,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "市民体育館",
@@ -347,7 +428,10 @@
     "reading": "しょくじ",
     "meaning": "meal / eating",
     "context": "outings",
-    "frequencyRank": 50
+    "frequencyRank": 50,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ジョギングシューズ",
@@ -410,7 +494,10 @@
     "reading": "ちょっと",
     "meaning": "a little",
     "context": "outings",
-    "frequencyRank": 59
+    "frequencyRank": 59,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "つまらない",
@@ -480,63 +567,90 @@
     "reading": "まだ",
     "meaning": "not yet",
     "context": "outings",
-    "frequencyRank": 69
+    "frequencyRank": 69,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "難しい",
     "reading": "むずかしい",
     "meaning": "difficult",
     "context": "outings",
-    "frequencyRank": 70
+    "frequencyRank": 70,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "無理",
     "reading": "むり",
     "meaning": "impossible",
     "context": "outings",
-    "frequencyRank": 71
+    "frequencyRank": 71,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "メンバー",
     "reading": "メンバー",
     "meaning": "member",
     "context": "outings",
-    "frequencyRank": 72
+    "frequencyRank": 72,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "もう",
     "reading": "もう",
     "meaning": "already",
     "context": "outings",
-    "frequencyRank": 73
+    "frequencyRank": 73,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "野球",
     "reading": "やきゅう",
     "meaning": "baseball",
     "context": "outings",
-    "frequencyRank": 74
+    "frequencyRank": 74,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "休む",
     "reading": "やすむ",
     "meaning": "to rest",
     "context": "outings",
-    "frequencyRank": 75
+    "frequencyRank": 75,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "やる",
     "reading": "やる",
     "meaning": "to do",
     "context": "outings",
-    "frequencyRank": 76
+    "frequencyRank": 76,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "レストラン",
     "reading": "レストラン",
     "meaning": "restaurant",
     "context": "outings",
-    "frequencyRank": 77
+    "frequencyRank": 77,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "わかる",
@@ -557,7 +671,10 @@
     "reading": "あつい",
     "meaning": "thick / heavy",
     "context": "outings",
-    "frequencyRank": 80
+    "frequencyRank": 80,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "意外に",
@@ -578,7 +695,10 @@
     "reading": "いつか",
     "meaning": "one day",
     "context": "outings",
-    "frequencyRank": 83
+    "frequencyRank": 83,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "上着",
@@ -599,7 +719,10 @@
     "reading": "かいがい",
     "meaning": "overseas",
     "context": "outings",
-    "frequencyRank": 86
+    "frequencyRank": 86,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "回転ずし",
@@ -613,14 +736,20 @@
     "reading": "かなり",
     "meaning": "quite",
     "context": "outings",
-    "frequencyRank": 88
+    "frequencyRank": 88,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "観光客",
     "reading": "かんこうきゃく",
     "meaning": "tourist",
     "context": "outings",
-    "frequencyRank": 89
+    "frequencyRank": 89,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "くわしい",
@@ -634,7 +763,10 @@
     "reading": "けいかく",
     "meaning": "plan",
     "context": "outings",
-    "frequencyRank": 91
+    "frequencyRank": 91,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "交通手段",
@@ -648,7 +780,10 @@
     "reading": "こうよう",
     "meaning": "autumn leaves",
     "context": "outings",
-    "frequencyRank": 93
+    "frequencyRank": 93,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "混んでいる",
@@ -669,21 +804,30 @@
     "reading": "じき",
     "meaning": "time period / season",
     "context": "outings",
-    "frequencyRank": 96
+    "frequencyRank": 96,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "自然",
     "reading": "しぜん",
     "meaning": "nature",
     "context": "outings",
-    "frequencyRank": 97
+    "frequencyRank": 97,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "自転車",
     "reading": "じてんしゃ",
     "meaning": "bicycle",
     "context": "outings",
-    "frequencyRank": 98
+    "frequencyRank": 98,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "出発する",
@@ -711,14 +855,20 @@
     "reading": "しらべる",
     "meaning": "to check / to look up",
     "context": "outings",
-    "frequencyRank": 102
+    "frequencyRank": 102,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "新鮮",
     "reading": "しんせん",
     "meaning": "fresh",
     "context": "outings",
-    "frequencyRank": 103
+    "frequencyRank": 103,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "水族館",
@@ -746,28 +896,40 @@
     "reading": "スキーじょう",
     "meaning": "ski resort",
     "context": "outings",
-    "frequencyRank": 107
+    "frequencyRank": 107,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "先輩",
     "reading": "せんぱい",
     "meaning": "senior co-worker",
     "context": "outings",
-    "frequencyRank": 108
+    "frequencyRank": 108,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "楽しむ",
     "reading": "たのしむ",
     "meaning": "to enjoy",
     "context": "outings",
-    "frequencyRank": 109
+    "frequencyRank": 109,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "小さな",
     "reading": "ちいさな",
     "meaning": "small",
     "context": "outings",
-    "frequencyRank": 110
+    "frequencyRank": 110,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "手袋",
@@ -781,14 +943,20 @@
     "reading": "とまる",
     "meaning": "to stay (at a hotel/inn)",
     "context": "outings",
-    "frequencyRank": 112
+    "frequencyRank": 112,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "並ぶ",
     "reading": "ならぶ",
     "meaning": "to line up",
     "context": "outings",
-    "frequencyRank": 113
+    "frequencyRank": 113,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "人気がある",
@@ -809,7 +977,10 @@
     "reading": "ばんぐみ",
     "meaning": "program (TV)",
     "context": "outings",
-    "frequencyRank": 116
+    "frequencyRank": 116,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "日帰り",
@@ -837,7 +1008,10 @@
     "reading": "ホテル",
     "meaning": "hotel",
     "context": "outings",
-    "frequencyRank": 120
+    "frequencyRank": 120,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "まったく～ない",
@@ -851,7 +1025,10 @@
     "reading": "みずうみ",
     "meaning": "lake",
     "context": "outings",
-    "frequencyRank": 122
+    "frequencyRank": 122,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "水着",
@@ -872,35 +1049,50 @@
     "reading": "やっぱり",
     "meaning": "as expected",
     "context": "outings",
-    "frequencyRank": 125
+    "frequencyRank": 125,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "宿",
     "reading": "やど",
     "meaning": "inn",
     "context": "outings",
-    "frequencyRank": 126
+    "frequencyRank": 126,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "遊園地",
     "reading": "ゆうえんち",
     "meaning": "amusement park",
     "context": "outings",
-    "frequencyRank": 127
+    "frequencyRank": 127,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "豊か",
     "reading": "ゆたか",
     "meaning": "abundant",
     "context": "outings",
-    "frequencyRank": 128
+    "frequencyRank": 128,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "寄る",
     "reading": "よる",
     "meaning": "to stop by",
     "context": "outings",
-    "frequencyRank": 129
+    "frequencyRank": 129,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ラッシュ",
@@ -914,7 +1106,10 @@
     "reading": "りょかん",
     "meaning": "Japanese inn",
     "context": "outings",
-    "frequencyRank": 131
+    "frequencyRank": 131,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "レンタサイクル",
@@ -935,7 +1130,10 @@
     "reading": "ごめんなさい",
     "meaning": "Sorry / I'm sorry",
     "context": "outings",
-    "frequencyRank": 134
+    "frequencyRank": 134,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "あきらめる",
@@ -1033,7 +1231,10 @@
     "reading": "がいこく",
     "meaning": "foreign country",
     "context": "outings",
-    "frequencyRank": 148
+    "frequencyRank": 148,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "感動した",
@@ -1110,7 +1311,10 @@
     "reading": "こまる",
     "meaning": "to be troubled",
     "context": "outings",
-    "frequencyRank": 159
+    "frequencyRank": 159,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "こわかった",
@@ -1124,7 +1328,10 @@
     "reading": "こわれる",
     "meaning": "to break",
     "context": "outings",
-    "frequencyRank": 161
+    "frequencyRank": 161,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "残念だった",
@@ -1173,21 +1380,30 @@
     "reading": "じゅん",
     "meaning": "in order of",
     "context": "outings",
-    "frequencyRank": 168
+    "frequencyRank": 168,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ショー",
     "reading": "ショー",
     "meaning": "show",
     "context": "outings",
-    "frequencyRank": 169
+    "frequencyRank": 169,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "新幹線",
     "reading": "しんかんせん",
     "meaning": "Shinkansen / bullet train",
     "context": "outings",
-    "frequencyRank": 170
+    "frequencyRank": 170,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "信号故障",
@@ -1229,14 +1445,20 @@
     "reading": "そら",
     "meaning": "sky",
     "context": "outings",
-    "frequencyRank": 176
+    "frequencyRank": 176,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "台風",
     "reading": "たいふう",
     "meaning": "typhoon",
     "context": "outings",
-    "frequencyRank": 177
+    "frequencyRank": 177,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "大変だった",
@@ -1250,14 +1472,20 @@
     "reading": "だから",
     "meaning": "that is why",
     "context": "outings",
-    "frequencyRank": 179
+    "frequencyRank": 179,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "滝",
     "reading": "たき",
     "meaning": "waterfall",
     "context": "outings",
-    "frequencyRank": 180
+    "frequencyRank": 180,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "たこ焼き",
@@ -1292,7 +1520,10 @@
     "reading": "ちょうじょう",
     "meaning": "summit",
     "context": "outings",
-    "frequencyRank": 185
+    "frequencyRank": 185,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "通天閣",
@@ -1348,7 +1579,10 @@
     "reading": "のりかえる",
     "meaning": "to transfer",
     "context": "outings",
-    "frequencyRank": 193
+    "frequencyRank": 193,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "乗り場",
@@ -1404,7 +1638,10 @@
     "reading": "ひかる",
     "meaning": "to shine",
     "context": "outings",
-    "frequencyRank": 201
+    "frequencyRank": 201,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "びっくりした",
@@ -1432,7 +1669,10 @@
     "reading": "まちなみ",
     "meaning": "streetscape",
     "context": "outings",
-    "frequencyRank": 205
+    "frequencyRank": 205,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "名物",
@@ -1495,7 +1735,10 @@
     "reading": "りょうきん",
     "meaning": "fare",
     "context": "outings",
-    "frequencyRank": 214
+    "frequencyRank": 214,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ご迷惑をおかけします",
@@ -1523,21 +1766,30 @@
     "reading": "あいだ",
     "meaning": "between",
     "context": "outings",
-    "frequencyRank": 218
+    "frequencyRank": 218,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "明日",
     "reading": "あす",
     "meaning": "tomorrow",
     "context": "outings",
-    "frequencyRank": 219
+    "frequencyRank": 219,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "居酒屋",
     "reading": "いざかや",
     "meaning": "Japanese pub",
     "context": "outings",
-    "frequencyRank": 220
+    "frequencyRank": 220,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "動きやすい",
@@ -1572,7 +1824,10 @@
     "reading": "えんそう",
     "meaning": "musical performance",
     "context": "outings",
-    "frequencyRank": 225
+    "frequencyRank": 225,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "行う",
@@ -1586,7 +1841,10 @@
     "reading": "おどる",
     "meaning": "to dance",
     "context": "outings",
-    "frequencyRank": 227
+    "frequencyRank": 227,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "おみこし",
@@ -1600,7 +1858,10 @@
     "reading": "おもちゃ",
     "meaning": "toy",
     "context": "outings",
-    "frequencyRank": 229
+    "frequencyRank": 229,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "音楽に合わせて",
@@ -1614,7 +1875,10 @@
     "reading": "かいがん",
     "meaning": "beach",
     "context": "outings",
-    "frequencyRank": 231
+    "frequencyRank": 231,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "開催する",
@@ -1663,14 +1927,20 @@
     "reading": "きぼう",
     "meaning": "wish",
     "context": "outings",
-    "frequencyRank": 238
+    "frequencyRank": 238,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "協力",
     "reading": "きょうりょく",
     "meaning": "cooperation",
     "context": "outings",
-    "frequencyRank": 239
+    "frequencyRank": 239,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "軍手",
@@ -1684,7 +1954,10 @@
     "reading": "くんれん",
     "meaning": "drill",
     "context": "outings",
-    "frequencyRank": 241
+    "frequencyRank": 241,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "見学する",
@@ -1712,14 +1985,20 @@
     "reading": "ごみ",
     "meaning": "trash",
     "context": "outings",
-    "frequencyRank": 245
+    "frequencyRank": 245,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "今月",
     "reading": "こんげつ",
     "meaning": "this month",
     "context": "outings",
-    "frequencyRank": 246
+    "frequencyRank": 246,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "市民センター",
@@ -1733,14 +2012,20 @@
     "reading": "じもと",
     "meaning": "local",
     "context": "outings",
-    "frequencyRank": 248
+    "frequencyRank": 248,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "市役所",
     "reading": "しやくしょ",
     "meaning": "city hall",
     "context": "outings",
-    "frequencyRank": 249
+    "frequencyRank": 249,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "自由に",
@@ -1754,14 +2039,20 @@
     "reading": "しょうがっこう",
     "meaning": "elementary school",
     "context": "outings",
-    "frequencyRank": 251
+    "frequencyRank": 251,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "条件",
     "reading": "じょうけん",
     "meaning": "conditions",
     "context": "outings",
-    "frequencyRank": 252
+    "frequencyRank": 252,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "使用する",
@@ -1817,14 +2108,20 @@
     "reading": "ちゅうし",
     "meaning": "cancel",
     "context": "outings",
-    "frequencyRank": 260
+    "frequencyRank": 260,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "手紙",
     "reading": "てがみ",
     "meaning": "letter",
     "context": "outings",
-    "frequencyRank": 261
+    "frequencyRank": 261,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "どなたでも",
@@ -1866,14 +2163,20 @@
     "reading": "のうか",
     "meaning": "farmer",
     "context": "outings",
-    "frequencyRank": 267
+    "frequencyRank": 267,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "場合",
     "reading": "ばあい",
     "meaning": "in case of",
     "context": "outings",
-    "frequencyRank": 268
+    "frequencyRank": 268,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "はっぴ",
@@ -1908,21 +2211,30 @@
     "reading": "ひらく",
     "meaning": "to hold / to open",
     "context": "outings",
-    "frequencyRank": 273
+    "frequencyRank": 273,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "拾う",
     "reading": "ひろう",
     "meaning": "to pick up",
     "context": "outings",
-    "frequencyRank": 274
+    "frequencyRank": 274,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "広場",
     "reading": "ひろば",
     "meaning": "plaza",
     "context": "outings",
-    "frequencyRank": 275
+    "frequencyRank": 275,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "封筒",
@@ -1957,7 +2269,10 @@
     "reading": "ポスト",
     "meaning": "mailbox",
     "context": "outings",
-    "frequencyRank": 280
+    "frequencyRank": 280,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "盆踊り",
@@ -1971,7 +2286,10 @@
     "reading": "ほんじつ",
     "meaning": "today",
     "context": "outings",
-    "frequencyRank": 282
+    "frequencyRank": 282,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "濁る",
@@ -1999,35 +2317,50 @@
     "reading": "めいわく",
     "meaning": "inconvenience",
     "context": "outings",
-    "frequencyRank": 286
+    "frequencyRank": 286,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "申し込む",
     "reading": "もうしこむ",
     "meaning": "to sign up",
     "context": "outings",
-    "frequencyRank": 287
+    "frequencyRank": 287,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "持ち物",
     "reading": "もちもの",
     "meaning": "what to bring",
     "context": "outings",
-    "frequencyRank": 288
+    "frequencyRank": 288,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "浴衣",
     "reading": "ゆかた",
     "meaning": "yukata (light summer kimono)",
     "context": "outings",
-    "frequencyRank": 289
+    "frequencyRank": 289,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "汚れる",
     "reading": "よごれる",
     "meaning": "to get dirty",
     "context": "outings",
-    "frequencyRank": 290
+    "frequencyRank": 290,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "輪になる",
@@ -2097,7 +2430,10 @@
     "reading": "うけつけ",
     "meaning": "reception desk",
     "context": "outings",
-    "frequencyRank": 300
+    "frequencyRank": 300,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "遠慮する",
@@ -2139,7 +2475,10 @@
     "reading": "きょく",
     "meaning": "song",
     "context": "outings",
-    "frequencyRank": 306
+    "frequencyRank": 306,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "着る服",
@@ -2153,7 +2492,10 @@
     "reading": "きんし",
     "meaning": "prohibited",
     "context": "outings",
-    "frequencyRank": 308
+    "frequencyRank": 308,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "公園内",
@@ -2195,14 +2537,20 @@
     "reading": "さつえい",
     "meaning": "photograph / video (filming)",
     "context": "outings",
-    "frequencyRank": 314
+    "frequencyRank": 314,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "参加費",
     "reading": "さんかひ",
     "meaning": "entry fee",
     "context": "outings",
-    "frequencyRank": 315
+    "frequencyRank": 315,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "終了する",
@@ -2251,7 +2599,10 @@
     "reading": "ステージ",
     "meaning": "stage",
     "context": "outings",
-    "frequencyRank": 322
+    "frequencyRank": 322,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "スピーチコンテスト",
@@ -2321,28 +2672,40 @@
     "reading": "たたく",
     "meaning": "to beat",
     "context": "outings",
-    "frequencyRank": 332
+    "frequencyRank": 332,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "たぶん",
     "reading": "たぶん",
     "meaning": "probably",
     "context": "outings",
-    "frequencyRank": 333
+    "frequencyRank": 333,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ダンス",
     "reading": "ダンス",
     "meaning": "dancing",
     "context": "outings",
-    "frequencyRank": 334
+    "frequencyRank": 334,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "中学生",
     "reading": "ちゅうがくせい",
     "meaning": "junior high school student",
     "context": "outings",
-    "frequencyRank": 335
+    "frequencyRank": 335,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "中国ゴマ",
@@ -2356,7 +2719,10 @@
     "reading": "ちゅうせん",
     "meaning": "lottery",
     "context": "outings",
-    "frequencyRank": 337
+    "frequencyRank": 337,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "通話する",
@@ -2384,7 +2750,10 @@
     "reading": "でんげん",
     "meaning": "power",
     "context": "outings",
-    "frequencyRank": 341
+    "frequencyRank": 341,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "電源を切る",
@@ -2412,7 +2781,10 @@
     "reading": "にちじ",
     "meaning": "date and time",
     "context": "outings",
-    "frequencyRank": 345
+    "frequencyRank": 345,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "入場料",
@@ -2461,7 +2833,10 @@
     "reading": "プロ",
     "meaning": "professional",
     "context": "outings",
-    "frequencyRank": 352
+    "frequencyRank": 352,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "マナーモード",
@@ -2503,14 +2878,20 @@
     "reading": "らいねん",
     "meaning": "next year",
     "context": "outings",
-    "frequencyRank": 358
+    "frequencyRank": 358,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "列",
     "reading": "れつ",
     "meaning": "line",
     "context": "outings",
-    "frequencyRank": 359
+    "frequencyRank": 359,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ロールケーキ",

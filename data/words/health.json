@@ -11,42 +11,60 @@
     "reading": "あう",
     "meaning": "to meet",
     "context": "health",
-    "frequencyRank": 2
+    "frequencyRank": 2,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "足",
     "reading": "あし",
     "meaning": "leg / foot",
     "context": "health",
-    "frequencyRank": 3
+    "frequencyRank": 3,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "頭",
     "reading": "あたま",
     "meaning": "head",
     "context": "health",
-    "frequencyRank": 4
+    "frequencyRank": 4,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "胃",
     "reading": "い",
     "meaning": "stomach",
     "context": "health",
-    "frequencyRank": 5
+    "frequencyRank": 5,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "医者",
     "reading": "いしゃ",
     "meaning": "doctor",
     "context": "health",
-    "frequencyRank": 6
+    "frequencyRank": 6,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "痛い",
     "reading": "いたい",
     "meaning": "hurts",
     "context": "health",
-    "frequencyRank": 7
+    "frequencyRank": 7,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "痛み止め",
@@ -144,7 +162,10 @@
     "reading": "かゆい",
     "meaning": "itchy",
     "context": "health",
-    "frequencyRank": 21
+    "frequencyRank": 21,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "辛い",
@@ -207,14 +228,20 @@
     "reading": "くすり",
     "meaning": "medicine",
     "context": "health",
-    "frequencyRank": 30
+    "frequencyRank": 30,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "口",
     "reading": "くち",
     "meaning": "mouth",
     "context": "health",
-    "frequencyRank": 31
+    "frequencyRank": 31,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "検査する",
@@ -235,14 +262,20 @@
     "reading": "げんざい",
     "meaning": "currently",
     "context": "health",
-    "frequencyRank": 34
+    "frequencyRank": 34,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "こう",
     "reading": "こう",
     "meaning": "this",
     "context": "health",
-    "frequencyRank": 35
+    "frequencyRank": 35,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "効能",
@@ -256,42 +289,60 @@
     "reading": "こたえる",
     "meaning": "to answer",
     "context": "health",
-    "frequencyRank": 37
+    "frequencyRank": 37,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "こっち",
     "reading": "こっち",
     "meaning": "this",
     "context": "health",
-    "frequencyRank": 38
+    "frequencyRank": 38,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "転ぶ",
     "reading": "ころぶ",
     "meaning": "to fall",
     "context": "health",
-    "frequencyRank": 39
+    "frequencyRank": 39,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "下がる",
     "reading": "さがる",
     "meaning": "to go down (e.g. fever goes down)",
     "context": "health",
-    "frequencyRank": 40
+    "frequencyRank": 40,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "下げる",
     "reading": "さげる",
     "meaning": "to reduce (e.g. reduce a fever)",
     "context": "health",
-    "frequencyRank": 41
+    "frequencyRank": 41,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "症状",
     "reading": "しょうじょう",
     "meaning": "symptom",
     "context": "health",
-    "frequencyRank": 42
+    "frequencyRank": 42,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "昭和／昭",
@@ -312,7 +363,10 @@
     "reading": "しょくよく",
     "meaning": "appetite",
     "context": "health",
-    "frequencyRank": 45
+    "frequencyRank": 45,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "処方せん",
@@ -333,7 +387,10 @@
     "reading": "じょせい",
     "meaning": "female",
     "context": "health",
-    "frequencyRank": 48
+    "frequencyRank": 48,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "性別",
@@ -382,14 +439,20 @@
     "reading": "つらい",
     "meaning": "feel awful / discomfort",
     "context": "health",
-    "frequencyRank": 55
+    "frequencyRank": 55,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "出る",
     "reading": "でる",
     "meaning": "to have (a cough / runny nose)",
     "context": "health",
-    "frequencyRank": 56
+    "frequencyRank": 56,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "どうされましたか？",
@@ -417,7 +480,10 @@
     "reading": "ねつ",
     "meaning": "fever",
     "context": "health",
-    "frequencyRank": 60
+    "frequencyRank": 60,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "熱が高い",
@@ -431,7 +497,10 @@
     "reading": "ねむい",
     "meaning": "sleepy",
     "context": "health",
-    "frequencyRank": 62
+    "frequencyRank": 62,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "寝る前／寝前",
@@ -452,7 +521,10 @@
     "reading": "のむ",
     "meaning": "to take (e.g. take medicine)",
     "context": "health",
-    "frequencyRank": 65
+    "frequencyRank": 65,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "吐き気",
@@ -480,7 +552,10 @@
     "reading": "びょうき",
     "meaning": "illness",
     "context": "health",
-    "frequencyRank": 69
+    "frequencyRank": 69,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "病気にかかる",
@@ -508,7 +583,10 @@
     "reading": "ぶつける",
     "meaning": "to bump",
     "context": "health",
-    "frequencyRank": 73
+    "frequencyRank": 73,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "平成／平",
@@ -536,21 +614,30 @@
     "reading": "まもる",
     "meaning": "to protect",
     "context": "health",
-    "frequencyRank": 77
+    "frequencyRank": 77,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "目",
     "reading": "め",
     "meaning": "eye",
     "context": "health",
-    "frequencyRank": 78
+    "frequencyRank": 78,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "もらう",
     "reading": "もらう",
     "meaning": "to receive",
     "context": "health",
-    "frequencyRank": 79
+    "frequencyRank": 79,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "問診票",
@@ -634,49 +721,70 @@
     "reading": "つく",
     "meaning": "to stick (e.g. virus sticks)",
     "context": "health",
-    "frequencyRank": 91
+    "frequencyRank": 91,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "温かい",
     "reading": "あたたかい",
     "meaning": "warm",
     "context": "health",
-    "frequencyRank": 92
+    "frequencyRank": 92,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "温める",
     "reading": "あたためる",
     "meaning": "to warm up",
     "context": "health",
-    "frequencyRank": 93
+    "frequencyRank": 93,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "洗う",
     "reading": "あらう",
     "meaning": "to wash",
     "context": "health",
-    "frequencyRank": 94
+    "frequencyRank": 94,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "歩く",
     "reading": "あるく",
     "meaning": "to walk",
     "context": "health",
-    "frequencyRank": 95
+    "frequencyRank": 95,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "痛み",
     "reading": "いたみ",
     "meaning": "pain",
     "context": "health",
-    "frequencyRank": 96
+    "frequencyRank": 96,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ウイルス",
     "reading": "ウイルス",
     "meaning": "virus",
     "context": "health",
-    "frequencyRank": 97
+    "frequencyRank": 97,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ウォーキングする",
@@ -704,7 +812,10 @@
     "reading": "うける",
     "meaning": "to receive",
     "context": "health",
-    "frequencyRank": 101
+    "frequencyRank": 101,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "うつす",
@@ -718,14 +829,20 @@
     "reading": "うで",
     "meaning": "arm",
     "context": "health",
-    "frequencyRank": 103
+    "frequencyRank": 103,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "運動",
     "reading": "うんどう",
     "meaning": "exercise",
     "context": "health",
-    "frequencyRank": 104
+    "frequencyRank": 104,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "おう吐",
@@ -739,14 +856,20 @@
     "reading": "おきる",
     "meaning": "to wake up",
     "context": "health",
-    "frequencyRank": 106
+    "frequencyRank": 106,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "起こす",
     "reading": "おこす",
     "meaning": "to cause",
     "context": "health",
-    "frequencyRank": 107
+    "frequencyRank": 107,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "汚染された",
@@ -767,7 +890,10 @@
     "reading": "およぐ",
     "meaning": "to swim",
     "context": "health",
-    "frequencyRank": 110
+    "frequencyRank": 110,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "貝",
@@ -781,7 +907,10 @@
     "reading": "かお",
     "meaning": "face",
     "context": "health",
-    "frequencyRank": 112
+    "frequencyRank": 112,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "カキ",
@@ -795,7 +924,10 @@
     "reading": "かた",
     "meaning": "shoulders",
     "context": "health",
-    "frequencyRank": 114
+    "frequencyRank": 114,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "肩がこる",
@@ -809,7 +941,10 @@
     "reading": "からだ",
     "meaning": "body",
     "context": "health",
-    "frequencyRank": 116
+    "frequencyRank": 116,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "関節痛",
@@ -844,7 +979,10 @@
     "reading": "きもち",
     "meaning": "feeling",
     "context": "health",
-    "frequencyRank": 121
+    "frequencyRank": 121,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "急増",
@@ -865,7 +1003,10 @@
     "reading": "くび",
     "meaning": "neck",
     "context": "health",
-    "frequencyRank": 124
+    "frequencyRank": 124,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "クリニック",
@@ -886,7 +1027,10 @@
     "reading": "けんこう",
     "meaning": "health",
     "context": "health",
-    "frequencyRank": 127
+    "frequencyRank": 127,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "県内",
@@ -907,14 +1051,20 @@
     "reading": "げんいん",
     "meaning": "cause",
     "context": "health",
-    "frequencyRank": 130
+    "frequencyRank": 130,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "腰",
     "reading": "こし",
     "meaning": "lower back",
     "context": "health",
-    "frequencyRank": 131
+    "frequencyRank": 131,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "こまめに",
@@ -928,7 +1078,10 @@
     "reading": "さいきん",
     "meaning": "recently",
     "context": "health",
-    "frequencyRank": 133
+    "frequencyRank": 133,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "しっかりと",
@@ -949,7 +1102,10 @@
     "reading": "しょくせいかつ",
     "meaning": "eating habits",
     "context": "health",
-    "frequencyRank": 136
+    "frequencyRank": 136,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "食中毒",
@@ -970,7 +1126,10 @@
     "reading": "じゅうぶん",
     "meaning": "enough / sufficient",
     "context": "health",
-    "frequencyRank": 139
+    "frequencyRank": 139,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "十分に",
@@ -991,28 +1150,40 @@
     "reading": "すいみん",
     "meaning": "sleep",
     "context": "health",
-    "frequencyRank": 142
+    "frequencyRank": 142,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "背中",
     "reading": "せなか",
     "meaning": "back",
     "context": "health",
-    "frequencyRank": 143
+    "frequencyRank": 143,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "前後",
     "reading": "ぜんご",
     "meaning": "before and after",
     "context": "health",
-    "frequencyRank": 144
+    "frequencyRank": 144,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "全身",
     "reading": "ぜんしん",
     "meaning": "whole body",
     "context": "health",
-    "frequencyRank": 145
+    "frequencyRank": 145,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "それはいけませんね",
@@ -1026,7 +1197,10 @@
     "reading": "たいせつ",
     "meaning": "important",
     "context": "health",
-    "frequencyRank": 147
+    "frequencyRank": 147,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "食べすぎる",
@@ -1040,7 +1214,10 @@
     "reading": "ためす",
     "meaning": "to try",
     "context": "health",
-    "frequencyRank": 149
+    "frequencyRank": 149,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ダイエットする",
@@ -1103,7 +1280,10 @@
     "reading": "て",
     "meaning": "hand",
     "context": "health",
-    "frequencyRank": 158
+    "frequencyRank": 158,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "手洗い",
@@ -1138,7 +1318,10 @@
     "reading": "なるほど",
     "meaning": "I see.",
     "context": "health",
-    "frequencyRank": 163
+    "frequencyRank": 163,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ぬるい",
@@ -1180,14 +1363,20 @@
     "reading": "は",
     "meaning": "tooth",
     "context": "health",
-    "frequencyRank": 169
+    "frequencyRank": 169,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "走る",
     "reading": "はしる",
     "meaning": "to run",
     "context": "health",
-    "frequencyRank": 170
+    "frequencyRank": 170,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "発生する",
@@ -1208,21 +1397,30 @@
     "reading": "はな",
     "meaning": "nose",
     "context": "health",
-    "frequencyRank": 173
+    "frequencyRank": 173,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "早く",
     "reading": "はやく",
     "meaning": "early",
     "context": "health",
-    "frequencyRank": 174
+    "frequencyRank": 174,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "増える",
     "reading": "ふえる",
     "meaning": "to spread",
     "context": "health",
-    "frequencyRank": 175
+    "frequencyRank": 175,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "腹痛",
@@ -1243,14 +1441,20 @@
     "reading": "プール",
     "meaning": "swimming pool",
     "context": "health",
-    "frequencyRank": 178
+    "frequencyRank": 178,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ポイント",
     "reading": "ポイント",
     "meaning": "key point",
     "context": "health",
-    "frequencyRank": 179
+    "frequencyRank": 179,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "マスク",
@@ -1271,21 +1475,30 @@
     "reading": "みみ",
     "meaning": "ear",
     "context": "health",
-    "frequencyRank": 182
+    "frequencyRank": 182,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "胸",
     "reading": "むね",
     "meaning": "breast",
     "context": "health",
-    "frequencyRank": 183
+    "frequencyRank": 183,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "指",
     "reading": "ゆび",
     "meaning": "finger / toe",
     "context": "health",
-    "frequencyRank": 184
+    "frequencyRank": 184,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ヨガ",
@@ -1320,7 +1533,10 @@
     "reading": "よやく",
     "meaning": "booking",
     "context": "health",
-    "frequencyRank": 189
+    "frequencyRank": 189,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "流行する",
@@ -1334,6 +1550,9 @@
     "reading": "わだい",
     "meaning": "topic",
     "context": "health",
-    "frequencyRank": 191
+    "frequencyRank": 191,
+    "tags": [
+      "5000"
+    ]
   }
 ]

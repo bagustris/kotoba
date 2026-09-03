@@ -4,112 +4,160 @@
     "reading": "いそがしい",
     "meaning": "busy",
     "context": "workplace",
-    "frequencyRank": 1
+    "frequencyRank": 1,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "面白い",
     "reading": "おもしろい",
     "meaning": "interesting; fun",
     "context": "workplace",
-    "frequencyRank": 2
+    "frequencyRank": 2,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "楽しい",
     "reading": "たのしい",
     "meaning": "fun; enjoyable",
     "context": "workplace",
-    "frequencyRank": 3
+    "frequencyRank": 3,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "大変",
     "reading": "たいへん",
     "meaning": "tough; hard",
     "context": "workplace",
-    "frequencyRank": 4
+    "frequencyRank": 4,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "疲れる",
     "reading": "つかれる",
     "meaning": "to get tired; tiring",
     "context": "workplace",
-    "frequencyRank": 5
+    "frequencyRank": 5,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "介護",
     "reading": "かいご",
     "meaning": "caregiving; nursing care",
     "context": "workplace",
-    "frequencyRank": 6
+    "frequencyRank": 6,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "学生",
     "reading": "がくせい",
     "meaning": "student",
     "context": "workplace",
-    "frequencyRank": 7
+    "frequencyRank": 7,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "専門学校",
     "reading": "せんもんがっこう",
     "meaning": "vocational school",
     "context": "workplace",
-    "frequencyRank": 8
+    "frequencyRank": 8,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "通う",
     "reading": "かよう",
     "meaning": "to go to (a place regularly); to attend",
     "context": "workplace",
-    "frequencyRank": 9
+    "frequencyRank": 9,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "去年",
     "reading": "きょねん",
     "meaning": "last year",
     "context": "workplace",
-    "frequencyRank": 10
+    "frequencyRank": 10,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "建設",
     "reading": "けんせつ",
     "meaning": "construction",
     "context": "workplace",
-    "frequencyRank": 11
+    "frequencyRank": 11,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "工場",
     "reading": "こうじょう",
     "meaning": "factory",
     "context": "workplace",
-    "frequencyRank": 12
+    "frequencyRank": 12,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "後輩",
     "reading": "こうはい",
     "meaning": "junior colleague(s)",
     "context": "workplace",
-    "frequencyRank": 13
+    "frequencyRank": 13,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "先輩",
     "reading": "せんぱい",
     "meaning": "senior colleague(s)",
     "context": "workplace",
-    "frequencyRank": 14
+    "frequencyRank": 14,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "勤める",
     "reading": "つとめる",
     "meaning": "to be employed (at)",
     "context": "workplace",
-    "frequencyRank": 15
+    "frequencyRank": 15,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "働く",
     "reading": "はたらく",
     "meaning": "to work; to labor",
     "context": "workplace",
-    "frequencyRank": 16
+    "frequencyRank": 16,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "主夫",
@@ -123,63 +171,90 @@
     "reading": "しゅふ",
     "meaning": "housewife",
     "context": "workplace",
-    "frequencyRank": 18
+    "frequencyRank": 18,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "知り合い",
     "reading": "しりあい",
     "meaning": "acquaintance(s)",
     "context": "workplace",
-    "frequencyRank": 19
+    "frequencyRank": 19,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "親切",
     "reading": "しんせつ",
     "meaning": "kind(ly)",
     "context": "workplace",
-    "frequencyRank": 20
+    "frequencyRank": 20,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "生活",
     "reading": "せいかつ",
     "meaning": "life; living",
     "context": "workplace",
-    "frequencyRank": 21
+    "frequencyRank": 21,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "友達",
     "reading": "ともだち",
     "meaning": "friend(s)",
     "context": "workplace",
-    "frequencyRank": 22
+    "frequencyRank": 22,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "野菜",
     "reading": "やさい",
     "meaning": "vegetables",
     "context": "workplace",
-    "frequencyRank": 23
+    "frequencyRank": 23,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "作る",
     "reading": "つくる",
     "meaning": "to make; to grow (crops)",
     "context": "workplace",
-    "frequencyRank": 24
+    "frequencyRank": 24,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "レストラン",
     "reading": "レストラン",
     "meaning": "restaurant",
     "context": "workplace",
-    "frequencyRank": 25
+    "frequencyRank": 25,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ホテル",
     "reading": "ホテル",
     "meaning": "hotel",
     "context": "workplace",
-    "frequencyRank": 26
+    "frequencyRank": 26,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "日本語学校",
@@ -200,7 +275,10 @@
     "reading": "べんきょう",
     "meaning": "study; studying",
     "context": "workplace",
-    "frequencyRank": 29
+    "frequencyRank": 29,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "先月",
@@ -214,35 +292,50 @@
     "reading": "せんしゅう",
     "meaning": "last week",
     "context": "workplace",
-    "frequencyRank": 31
+    "frequencyRank": 31,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "毎日",
     "reading": "まいにち",
     "meaning": "every day",
     "context": "workplace",
-    "frequencyRank": 32
+    "frequencyRank": 32,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ちょうど",
     "reading": "ちょうど",
     "meaning": "exactly; just",
     "context": "workplace",
-    "frequencyRank": 33
+    "frequencyRank": 33,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "もう",
     "reading": "もう",
     "meaning": "already",
     "context": "workplace",
-    "frequencyRank": 34
+    "frequencyRank": 34,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "まだ",
     "reading": "まだ",
     "meaning": "not yet",
     "context": "workplace",
-    "frequencyRank": 35
+    "frequencyRank": 35,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "みんな",
@@ -263,21 +356,30 @@
     "reading": "なれる",
     "meaning": "to get used to",
     "context": "workplace",
-    "frequencyRank": 38
+    "frequencyRank": 38,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "まあまあ",
     "reading": "まあまあ",
     "meaning": "so-so; okay",
     "context": "workplace",
-    "frequencyRank": 39
+    "frequencyRank": 39,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "半年",
     "reading": "はんとし",
     "meaning": "half a year",
     "context": "workplace",
-    "frequencyRank": 40
+    "frequencyRank": 40,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "1か月",
@@ -438,14 +540,20 @@
     "reading": "ちらし",
     "meaning": "leaflet; flyer",
     "context": "workplace",
-    "frequencyRank": 63
+    "frequencyRank": 63,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "面接",
     "reading": "めんせつ",
     "meaning": "interview",
     "context": "workplace",
-    "frequencyRank": 64
+    "frequencyRank": 64,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "履歴書",
@@ -459,28 +567,40 @@
     "reading": "といあわせ",
     "meaning": "inquiry",
     "context": "workplace",
-    "frequencyRank": 66
+    "frequencyRank": 66,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "希望",
     "reading": "きぼう",
     "meaning": "hope; wish",
     "context": "workplace",
-    "frequencyRank": 67
+    "frequencyRank": 67,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "募集",
     "reading": "ぼしゅう",
     "meaning": "recruitment",
     "context": "workplace",
-    "frequencyRank": 68
+    "frequencyRank": 68,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "入力",
     "reading": "にゅうりょく",
     "meaning": "input (of data)",
     "context": "workplace",
-    "frequencyRank": 69
+    "frequencyRank": 69,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "日常会話",
@@ -494,28 +614,40 @@
     "reading": "ホームページ",
     "meaning": "website",
     "context": "workplace",
-    "frequencyRank": 71
+    "frequencyRank": 71,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "思い出す",
     "reading": "おもいだす",
     "meaning": "to remember; to recall",
     "context": "workplace",
-    "frequencyRank": 72
+    "frequencyRank": 72,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "方",
     "reading": "かた",
     "meaning": "person (respectful)",
     "context": "workplace",
-    "frequencyRank": 73
+    "frequencyRank": 73,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "者",
     "reading": "もの",
     "meaning": "person (humble)",
     "context": "workplace",
-    "frequencyRank": 74
+    "frequencyRank": 74,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "刺身",
@@ -529,14 +661,20 @@
     "reading": "それでは",
     "meaning": "well then (sentence opener)",
     "context": "workplace",
-    "frequencyRank": 76
+    "frequencyRank": 76,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "では",
     "reading": "では",
     "meaning": "in that case; if so",
     "context": "workplace",
-    "frequencyRank": 77
+    "frequencyRank": 77,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "いらっしゃいます",

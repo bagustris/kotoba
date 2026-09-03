@@ -4,7 +4,10 @@
     "reading": "あがる",
     "meaning": "to come in",
     "context": "relationships",
-    "frequencyRank": 1
+    "frequencyRank": 1,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "足をくずす",
@@ -53,14 +56,20 @@
     "reading": "おくさん",
     "meaning": "wife",
     "context": "relationships",
-    "frequencyRank": 8
+    "frequencyRank": 8,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "おしゃれ",
     "reading": "おしゃれ",
     "meaning": "stylish",
     "context": "relationships",
-    "frequencyRank": 9
+    "frequencyRank": 9,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "おじゃましました",
@@ -95,7 +104,10 @@
     "reading": "おたく",
     "meaning": "home",
     "context": "relationships",
-    "frequencyRank": 14
+    "frequencyRank": 14,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "お茶",
@@ -116,7 +128,10 @@
     "reading": "おみやげ",
     "meaning": "souvenir",
     "context": "relationships",
-    "frequencyRank": 17
+    "frequencyRank": 17,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "かける",
@@ -137,7 +152,10 @@
     "reading": "カップ",
     "meaning": "cup",
     "context": "relationships",
-    "frequencyRank": 20
+    "frequencyRank": 20,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "かばん",
@@ -151,7 +169,10 @@
     "reading": "かべ",
     "meaning": "wall",
     "context": "relationships",
-    "frequencyRank": 22
+    "frequencyRank": 22,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "カンボジア",
@@ -172,14 +193,20 @@
     "reading": "くれる",
     "meaning": "to be given",
     "context": "relationships",
-    "frequencyRank": 25
+    "frequencyRank": 25,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "経験",
     "reading": "けいけん",
     "meaning": "experience",
     "context": "relationships",
-    "frequencyRank": 26
+    "frequencyRank": 26,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "こちらこそ",
@@ -200,7 +227,10 @@
     "reading": "コーヒー",
     "meaning": "coffee",
     "context": "relationships",
-    "frequencyRank": 29
+    "frequencyRank": 29,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ごちそうさまでした",
@@ -242,28 +272,40 @@
     "reading": "タイ",
     "meaning": "Thailand",
     "context": "relationships",
-    "frequencyRank": 35
+    "frequencyRank": 35,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "誕生日",
     "reading": "たんじょうび",
     "meaning": "birthday",
     "context": "relationships",
-    "frequencyRank": 36
+    "frequencyRank": 36,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "調味料",
     "reading": "ちょうみりょう",
     "meaning": "seasoning",
     "context": "relationships",
-    "frequencyRank": 37
+    "frequencyRank": 37,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "強い",
     "reading": "つよい",
     "meaning": "strong",
     "context": "relationships",
-    "frequencyRank": 38
+    "frequencyRank": 38,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "トゥロン",
@@ -284,7 +326,10 @@
     "reading": "にんぎょう",
     "meaning": "doll",
     "context": "relationships",
-    "frequencyRank": 41
+    "frequencyRank": 41,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ネパール",
@@ -305,7 +350,10 @@
     "reading": "バッグ",
     "meaning": "bag",
     "context": "relationships",
-    "frequencyRank": 44
+    "frequencyRank": 44,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "バリ",
@@ -326,14 +374,20 @@
     "reading": "フィリピン",
     "meaning": "the Philippines",
     "context": "relationships",
-    "frequencyRank": 47
+    "frequencyRank": 47,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "プレゼント",
     "reading": "プレゼント",
     "meaning": "present",
     "context": "relationships",
-    "frequencyRank": 48
+    "frequencyRank": 48,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ペン",
@@ -347,7 +401,10 @@
     "reading": "ぼうし",
     "meaning": "hat / cap",
     "context": "relationships",
-    "frequencyRank": 50
+    "frequencyRank": 50,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "マグカップ",
@@ -368,14 +425,20 @@
     "reading": "むすこ",
     "meaning": "son",
     "context": "relationships",
-    "frequencyRank": 53
+    "frequencyRank": 53,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "もらう",
     "reading": "もらう",
     "meaning": "to receive",
     "context": "relationships",
-    "frequencyRank": 54
+    "frequencyRank": 54,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ようこそ",
@@ -403,14 +466,20 @@
     "reading": "りょうしん",
     "meaning": "parents",
     "context": "relationships",
-    "frequencyRank": 58
+    "frequencyRank": 58,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "悪い",
     "reading": "わるい",
     "meaning": "bad / evil",
     "context": "relationships",
-    "frequencyRank": 59
+    "frequencyRank": 59,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "～といいます",
@@ -424,7 +493,10 @@
     "reading": "おめでとう",
     "meaning": "Congratulations.",
     "context": "relationships",
-    "frequencyRank": 61
+    "frequencyRank": 61,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "あいさつ",
@@ -438,7 +510,10 @@
     "reading": "あいて",
     "meaning": "spouse",
     "context": "relationships",
-    "frequencyRank": 63
+    "frequencyRank": 63,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "アクセサリー",
@@ -452,7 +527,10 @@
     "reading": "あげる",
     "meaning": "to give",
     "context": "relationships",
-    "frequencyRank": 65
+    "frequencyRank": 65,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "あたたかい",
@@ -480,14 +558,20 @@
     "reading": "うたう",
     "meaning": "to sing",
     "context": "relationships",
-    "frequencyRank": 69
+    "frequencyRank": 69,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "生まれる",
     "reading": "うまれる",
     "meaning": "to be born",
     "context": "relationships",
-    "frequencyRank": 70
+    "frequencyRank": 70,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "うれしい",
@@ -501,7 +585,10 @@
     "reading": "えらぶ",
     "meaning": "to choose",
     "context": "relationships",
-    "frequencyRank": 72
+    "frequencyRank": 72,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "お祝い",
@@ -536,70 +623,100 @@
     "reading": "おとこのこ",
     "meaning": "boy",
     "context": "relationships",
-    "frequencyRank": 77
+    "frequencyRank": 77,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "踊る",
     "reading": "おどる",
     "meaning": "to dance",
     "context": "relationships",
-    "frequencyRank": 78
+    "frequencyRank": 78,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "思い出",
     "reading": "おもいで",
     "meaning": "memories",
     "context": "relationships",
-    "frequencyRank": 79
+    "frequencyRank": 79,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "思う",
     "reading": "おもう",
     "meaning": "to think",
     "context": "relationships",
-    "frequencyRank": 80
+    "frequencyRank": 80,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "女の子",
     "reading": "おんなのこ",
     "meaning": "girl",
     "context": "relationships",
-    "frequencyRank": 81
+    "frequencyRank": 81,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "飾る",
     "reading": "かざる",
     "meaning": "to display",
     "context": "relationships",
-    "frequencyRank": 82
+    "frequencyRank": 82,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "活躍",
     "reading": "かつやく",
     "meaning": "success",
     "context": "relationships",
-    "frequencyRank": 83
+    "frequencyRank": 83,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "家庭",
     "reading": "かてい",
     "meaning": "home / household",
     "context": "relationships",
-    "frequencyRank": 84
+    "frequencyRank": 84,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "カラオケ",
     "reading": "カラオケ",
     "meaning": "karaoke",
     "context": "relationships",
-    "frequencyRank": 85
+    "frequencyRank": 85,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "考える",
     "reading": "かんがえる",
     "meaning": "to think",
     "context": "relationships",
-    "frequencyRank": 86
+    "frequencyRank": 86,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "乾杯",
@@ -620,7 +737,10 @@
     "reading": "きずく",
     "meaning": "to create / to build",
     "context": "relationships",
-    "frequencyRank": 89
+    "frequencyRank": 89,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "期待する",
@@ -634,14 +754,20 @@
     "reading": "きっと",
     "meaning": "surely",
     "context": "relationships",
-    "frequencyRank": 91
+    "frequencyRank": 91,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "決める",
     "reading": "きめる",
     "meaning": "to decide",
     "context": "relationships",
-    "frequencyRank": 92
+    "frequencyRank": 92,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ギフトカード",
@@ -655,11 +781,14 @@
     "reading": "ケーキ",
     "meaning": "cake",
     "context": "relationships",
-    "frequencyRank": 94
+    "frequencyRank": 94,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "お元気でいてください",
-    "reading": "げんきでいてください",
+    "reading": "おげんきでいてください",
     "meaning": "Please take care of yourself.",
     "context": "relationships",
     "frequencyRank": 95
@@ -690,28 +819,40 @@
     "reading": "さんかしゃ",
     "meaning": "participants",
     "context": "relationships",
-    "frequencyRank": 99
+    "frequencyRank": 99,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "サービス",
     "reading": "サービス",
     "meaning": "service",
     "context": "relationships",
-    "frequencyRank": 100
+    "frequencyRank": 100,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "幸せ",
     "reading": "しあわせ",
     "meaning": "happy",
     "context": "relationships",
-    "frequencyRank": 101
+    "frequencyRank": 101,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "出産",
     "reading": "しゅっさん",
     "meaning": "childbirth",
     "context": "relationships",
-    "frequencyRank": 102
+    "frequencyRank": 102,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "末永く",
@@ -725,7 +866,10 @@
     "reading": "すてき",
     "meaning": "wonderful",
     "context": "relationships",
-    "frequencyRank": 104
+    "frequencyRank": 104,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "送別会",
@@ -739,7 +883,10 @@
     "reading": "それでは",
     "meaning": "now",
     "context": "relationships",
-    "frequencyRank": 106
+    "frequencyRank": 106,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "それなら",
@@ -774,14 +921,20 @@
     "reading": "とうとう",
     "meaning": "finally",
     "context": "relationships",
-    "frequencyRank": 111
+    "frequencyRank": 111,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "時計",
     "reading": "とけい",
     "meaning": "watch",
     "context": "relationships",
-    "frequencyRank": 112
+    "frequencyRank": 112,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "友だちができる",
@@ -802,7 +955,10 @@
     "reading": "のこる",
     "meaning": "to stay",
     "context": "relationships",
-    "frequencyRank": 115
+    "frequencyRank": 115,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "はじめ",
@@ -830,21 +986,30 @@
     "reading": "メッセージ",
     "meaning": "message",
     "context": "relationships",
-    "frequencyRank": 119
+    "frequencyRank": 119,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "予算",
     "reading": "よさん",
     "meaning": "budget",
     "context": "relationships",
-    "frequencyRank": 120
+    "frequencyRank": 120,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "呼ぶ",
     "reading": "よぶ",
     "meaning": "to call",
     "context": "relationships",
-    "frequencyRank": 121
+    "frequencyRank": 121,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "予約する",
@@ -858,7 +1023,10 @@
     "reading": "わすれる",
     "meaning": "to forget",
     "context": "relationships",
-    "frequencyRank": 123
+    "frequencyRank": 123,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "私たち",

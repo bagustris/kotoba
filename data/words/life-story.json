@@ -1,96 +1,819 @@
 [
-  { "word": "一生懸命", "reading": "いっしょうけんめい", "meaning": "work hard", "context": "life-story", "frequencyRank": 1 },
-  { "word": "意味", "reading": "いみ", "meaning": "meaning", "context": "life-story", "frequencyRank": 2 },
-  { "word": "海", "reading": "うみ", "meaning": "sea", "context": "life-story", "frequencyRank": 3 },
-  { "word": "大勢", "reading": "おおぜい", "meaning": "many (people)", "context": "life-story", "frequencyRank": 4 },
-  { "word": "お客さん", "reading": "おきゃくさん", "meaning": "guest; visitor", "context": "life-story", "frequencyRank": 5 },
-  { "word": "学習", "reading": "がくしゅう", "meaning": "study; learning", "context": "life-story", "frequencyRank": 6 },
-  { "word": "川", "reading": "かわ", "meaning": "river", "context": "life-story", "frequencyRank": 7 },
-  { "word": "観光客", "reading": "かんこうきゃく", "meaning": "tourist", "context": "life-story", "frequencyRank": 8 },
-  { "word": "観光地", "reading": "かんこうち", "meaning": "tourist destination", "context": "life-story", "frequencyRank": 9 },
-  { "word": "北", "reading": "きた", "meaning": "north", "context": "life-story", "frequencyRank": 10 },
-  { "word": "経験", "reading": "けいけん", "meaning": "experience", "context": "life-story", "frequencyRank": 11 },
-  { "word": "高原", "reading": "こうげん", "meaning": "plateau; highlands", "context": "life-story", "frequencyRank": 12 },
-  { "word": "砂漠", "reading": "さばく", "meaning": "desert", "context": "life-story", "frequencyRank": 13 },
-  { "word": "自己紹介", "reading": "じこしょうかい", "meaning": "self-introduction", "context": "life-story", "frequencyRank": 14 },
-  { "word": "島", "reading": "しま", "meaning": "island", "context": "life-story", "frequencyRank": 15 },
-  { "word": "ジャングル", "reading": "ジャングル", "meaning": "jungle", "context": "life-story", "frequencyRank": 16 },
-  { "word": "出身", "reading": "しゅっしん", "meaning": "hometown; place of origin", "context": "life-story", "frequencyRank": 17 },
-  { "word": "首都", "reading": "しゅと", "meaning": "capital (city)", "context": "life-story", "frequencyRank": 18 },
-  { "word": "主任", "reading": "しゅにん", "meaning": "chief; supervisor", "context": "life-story", "frequencyRank": 19 },
-  { "word": "草原", "reading": "そうげん", "meaning": "grassland; prairie", "context": "life-story", "frequencyRank": 20 },
-  { "word": "担当", "reading": "たんとう", "meaning": "in charge (of)", "context": "life-story", "frequencyRank": 21 },
-  { "word": "手続き", "reading": "てつづき", "meaning": "procedure", "context": "life-story", "frequencyRank": 22 },
-  { "word": "テント", "reading": "テント", "meaning": "tent", "context": "life-story", "frequencyRank": 23 },
-  { "word": "西", "reading": "にし", "meaning": "west", "context": "life-story", "frequencyRank": 24 },
-  { "word": "猫", "reading": "ねこ", "meaning": "cat", "context": "life-story", "frequencyRank": 25 },
-  { "word": "のんびりしている", "reading": "のんびりしている", "meaning": "relaxed; easygoing", "context": "life-story", "frequencyRank": 26 },
-  { "word": "パート", "reading": "パート", "meaning": "part-time worker", "context": "life-story", "frequencyRank": 27 },
-  { "word": "畑", "reading": "はたけ", "meaning": "field; plantation", "context": "life-story", "frequencyRank": 28 },
-  { "word": "東", "reading": "ひがし", "meaning": "east", "context": "life-story", "frequencyRank": 29 },
-  { "word": "南", "reading": "みなみ", "meaning": "south", "context": "life-story", "frequencyRank": 30 },
-  { "word": "森", "reading": "もり", "meaning": "forest", "context": "life-story", "frequencyRank": 31 },
-  { "word": "山", "reading": "やま", "meaning": "mountain", "context": "life-story", "frequencyRank": 32 },
-  { "word": "呼び方", "reading": "よびかた", "meaning": "how one is addressed; nickname", "context": "life-story", "frequencyRank": 33 },
-  { "word": "がんばります", "reading": "がんばります", "meaning": "I will do my best", "context": "life-story", "frequencyRank": 34 },
-  { "word": "違います", "reading": "ちがいます", "meaning": "that's not right", "context": "life-story", "frequencyRank": 35 },
-  { "word": "～と申します", "reading": "～ともうします", "meaning": "my name is ～ (polite)", "context": "life-story", "frequencyRank": 36 },
-  { "word": "～と呼んでください", "reading": "～とよんでください", "meaning": "please call me ～", "context": "life-story", "frequencyRank": 37 },
-  { "word": "青い", "reading": "あおい", "meaning": "blue", "context": "life-story", "frequencyRank": 38 },
-  { "word": "赤い", "reading": "あかい", "meaning": "red", "context": "life-story", "frequencyRank": 39 },
-  { "word": "赤ちゃん", "reading": "あかちゃん", "meaning": "baby", "context": "life-story", "frequencyRank": 40 },
-  { "word": "明るい", "reading": "あかるい", "meaning": "bright; cheerful", "context": "life-story", "frequencyRank": 41 },
-  { "word": "今でも", "reading": "いまでも", "meaning": "even now", "context": "life-story", "frequencyRank": 42 },
-  { "word": "引退する", "reading": "いんたいする", "meaning": "to retire", "context": "life-story", "frequencyRank": 43 },
-  { "word": "歌", "reading": "うた", "meaning": "song; singing", "context": "life-story", "frequencyRank": 44 },
-  { "word": "映画祭", "reading": "えいがさい", "meaning": "film festival", "context": "life-story", "frequencyRank": 45 },
-  { "word": "演技", "reading": "えんぎ", "meaning": "acting", "context": "life-story", "frequencyRank": 46 },
-  { "word": "遅くまで", "reading": "おそくまで", "meaning": "until late", "context": "life-story", "frequencyRank": 47 },
-  { "word": "男の人", "reading": "おとこのひと", "meaning": "man", "context": "life-story", "frequencyRank": 48 },
-  { "word": "驚く", "reading": "おどろく", "meaning": "to be surprised", "context": "life-story", "frequencyRank": 49 },
-  { "word": "歌手", "reading": "かしゅ", "meaning": "singer", "context": "life-story", "frequencyRank": 50 },
-  { "word": "かっこいい", "reading": "かっこいい", "meaning": "cool", "context": "life-story", "frequencyRank": 51 },
-  { "word": "髪が長い", "reading": "かみがながい", "meaning": "long-haired", "context": "life-story", "frequencyRank": 52 },
-  { "word": "髪が短い", "reading": "かみがみじかい", "meaning": "short-haired", "context": "life-story", "frequencyRank": 53 },
-  { "word": "黄色い", "reading": "きいろい", "meaning": "yellow", "context": "life-story", "frequencyRank": 54 },
-  { "word": "きっかけ", "reading": "きっかけ", "meaning": "reason; motivation", "context": "life-story", "frequencyRank": 55 },
-  { "word": "きびしい", "reading": "きびしい", "meaning": "strict", "context": "life-story", "frequencyRank": 56 },
-  { "word": "金色", "reading": "きんいろ", "meaning": "gold; golden", "context": "life-story", "frequencyRank": 57 },
-  { "word": "くつをはく", "reading": "くつをはく", "meaning": "to wear shoes", "context": "life-story", "frequencyRank": 58 },
-  { "word": "黒い", "reading": "くろい", "meaning": "black", "context": "life-story", "frequencyRank": 59 },
-  { "word": "恋人", "reading": "こいびと", "meaning": "boyfriend; girlfriend", "context": "life-story", "frequencyRank": 60 },
-  { "word": "交流協会", "reading": "こうりゅうきょうかい", "meaning": "exchange association", "context": "life-story", "frequencyRank": 61 },
-  { "word": "この間", "reading": "このあいだ", "meaning": "the other day", "context": "life-story", "frequencyRank": 62 },
-  { "word": "こわい", "reading": "こわい", "meaning": "scary", "context": "life-story", "frequencyRank": 63 },
-  { "word": "今度", "reading": "こんど", "meaning": "this time", "context": "life-story", "frequencyRank": 64 },
-  { "word": "シャツを着る", "reading": "シャツをきる", "meaning": "to wear a shirt", "context": "life-story", "frequencyRank": 65 },
-  { "word": "ジャンパー", "reading": "ジャンパー", "meaning": "zip-up jacket", "context": "life-story", "frequencyRank": 66 },
-  { "word": "上手", "reading": "じょうず", "meaning": "good at; skillful", "context": "life-story", "frequencyRank": 67 },
-  { "word": "白い", "reading": "しろい", "meaning": "white", "context": "life-story", "frequencyRank": 68 },
-  { "word": "心配", "reading": "しんぱい", "meaning": "worry; concern", "context": "life-story", "frequencyRank": 69 },
-  { "word": "ズボンをはく", "reading": "ズボンをはく", "meaning": "to wear pants", "context": "life-story", "frequencyRank": 70 },
-  { "word": "座る", "reading": "すわる", "meaning": "to sit", "context": "life-story", "frequencyRank": 71 },
-  { "word": "世界中", "reading": "せかいじゅう", "meaning": "around the world", "context": "life-story", "frequencyRank": 72 },
-  { "word": "背が高い", "reading": "せがたかい", "meaning": "tall", "context": "life-story", "frequencyRank": 73 },
-  { "word": "そんな", "reading": "そんな", "meaning": "such; that kind of", "context": "life-story", "frequencyRank": 74 },
-  { "word": "立つ", "reading": "たつ", "meaning": "to stand", "context": "life-story", "frequencyRank": 75 },
-  { "word": "だれか", "reading": "だれか", "meaning": "someone; anyone", "context": "life-story", "frequencyRank": 76 },
-  { "word": "ダンス", "reading": "ダンス", "meaning": "dance; dancing", "context": "life-story", "frequencyRank": 77 },
-  { "word": "できれば", "reading": "できれば", "meaning": "if possible", "context": "life-story", "frequencyRank": 78 },
-  { "word": "泣く", "reading": "なく", "meaning": "to cry", "context": "life-story", "frequencyRank": 79 },
-  { "word": "ネクタイをする", "reading": "ネクタイをする", "meaning": "to wear a tie", "context": "life-story", "frequencyRank": 80 },
-  { "word": "ハイキング", "reading": "ハイキング", "meaning": "hiking", "context": "life-story", "frequencyRank": 81 },
-  { "word": "俳優", "reading": "はいゆう", "meaning": "actor", "context": "life-story", "frequencyRank": 82 },
-  { "word": "ピアスをする", "reading": "ピアスをする", "meaning": "to wear earrings", "context": "life-story", "frequencyRank": 83 },
-  { "word": "ひげをはやす", "reading": "ひげをはやす", "meaning": "to have a beard", "context": "life-story", "frequencyRank": 84 },
-  { "word": "びっくりする", "reading": "びっくりする", "meaning": "to be surprised; shocked", "context": "life-story", "frequencyRank": 85 },
-  { "word": "ファン", "reading": "ファン", "meaning": "fan", "context": "life-story", "frequencyRank": 86 },
-  { "word": "富士山", "reading": "ふじさん", "meaning": "Mt. Fuji", "context": "life-story", "frequencyRank": 87 },
-  { "word": "帽子をかぶる", "reading": "ぼうしをかぶる", "meaning": "to wear a hat", "context": "life-story", "frequencyRank": 88 },
-  { "word": "孫", "reading": "まご", "meaning": "grandchild", "context": "life-story", "frequencyRank": 89 },
-  { "word": "まじめ", "reading": "まじめ", "meaning": "serious; sincere", "context": "life-story", "frequencyRank": 90 },
-  { "word": "まず", "reading": "まず", "meaning": "first of all", "context": "life-story", "frequencyRank": 91 },
-  { "word": "見た目", "reading": "みため", "meaning": "appearance; looks", "context": "life-story", "frequencyRank": 92 },
-  { "word": "めがねをかける", "reading": "めがねをかける", "meaning": "to wear glasses", "context": "life-story", "frequencyRank": 93 },
-  { "word": "ワンピースを着る", "reading": "ワンピースをきる", "meaning": "to wear a dress", "context": "life-story", "frequencyRank": 94 }
+  {
+    "word": "一生懸命",
+    "reading": "いっしょうけんめい",
+    "meaning": "work hard",
+    "context": "life-story",
+    "frequencyRank": 1,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "意味",
+    "reading": "いみ",
+    "meaning": "meaning",
+    "context": "life-story",
+    "frequencyRank": 2,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "海",
+    "reading": "うみ",
+    "meaning": "sea",
+    "context": "life-story",
+    "frequencyRank": 3,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "大勢",
+    "reading": "おおぜい",
+    "meaning": "many (people)",
+    "context": "life-story",
+    "frequencyRank": 4,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "お客さん",
+    "reading": "おきゃくさん",
+    "meaning": "guest; visitor",
+    "context": "life-story",
+    "frequencyRank": 5
+  },
+  {
+    "word": "学習",
+    "reading": "がくしゅう",
+    "meaning": "study; learning",
+    "context": "life-story",
+    "frequencyRank": 6,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "川",
+    "reading": "かわ",
+    "meaning": "river",
+    "context": "life-story",
+    "frequencyRank": 7,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "観光客",
+    "reading": "かんこうきゃく",
+    "meaning": "tourist",
+    "context": "life-story",
+    "frequencyRank": 8,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "観光地",
+    "reading": "かんこうち",
+    "meaning": "tourist destination",
+    "context": "life-story",
+    "frequencyRank": 9
+  },
+  {
+    "word": "北",
+    "reading": "きた",
+    "meaning": "north",
+    "context": "life-story",
+    "frequencyRank": 10,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "経験",
+    "reading": "けいけん",
+    "meaning": "experience",
+    "context": "life-story",
+    "frequencyRank": 11,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "高原",
+    "reading": "こうげん",
+    "meaning": "plateau; highlands",
+    "context": "life-story",
+    "frequencyRank": 12
+  },
+  {
+    "word": "砂漠",
+    "reading": "さばく",
+    "meaning": "desert",
+    "context": "life-story",
+    "frequencyRank": 13,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "自己紹介",
+    "reading": "じこしょうかい",
+    "meaning": "self-introduction",
+    "context": "life-story",
+    "frequencyRank": 14
+  },
+  {
+    "word": "島",
+    "reading": "しま",
+    "meaning": "island",
+    "context": "life-story",
+    "frequencyRank": 15,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "ジャングル",
+    "reading": "ジャングル",
+    "meaning": "jungle",
+    "context": "life-story",
+    "frequencyRank": 16
+  },
+  {
+    "word": "出身",
+    "reading": "しゅっしん",
+    "meaning": "hometown; place of origin",
+    "context": "life-story",
+    "frequencyRank": 17,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "首都",
+    "reading": "しゅと",
+    "meaning": "capital (city)",
+    "context": "life-story",
+    "frequencyRank": 18,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "主任",
+    "reading": "しゅにん",
+    "meaning": "chief; supervisor",
+    "context": "life-story",
+    "frequencyRank": 19
+  },
+  {
+    "word": "草原",
+    "reading": "そうげん",
+    "meaning": "grassland; prairie",
+    "context": "life-story",
+    "frequencyRank": 20
+  },
+  {
+    "word": "担当",
+    "reading": "たんとう",
+    "meaning": "in charge (of)",
+    "context": "life-story",
+    "frequencyRank": 21,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "手続き",
+    "reading": "てつづき",
+    "meaning": "procedure",
+    "context": "life-story",
+    "frequencyRank": 22,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "テント",
+    "reading": "テント",
+    "meaning": "tent",
+    "context": "life-story",
+    "frequencyRank": 23,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "西",
+    "reading": "にし",
+    "meaning": "west",
+    "context": "life-story",
+    "frequencyRank": 24,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "猫",
+    "reading": "ねこ",
+    "meaning": "cat",
+    "context": "life-story",
+    "frequencyRank": 25,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "のんびりしている",
+    "reading": "のんびりしている",
+    "meaning": "relaxed; easygoing",
+    "context": "life-story",
+    "frequencyRank": 26
+  },
+  {
+    "word": "パート",
+    "reading": "パート",
+    "meaning": "part-time worker",
+    "context": "life-story",
+    "frequencyRank": 27,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "畑",
+    "reading": "はたけ",
+    "meaning": "field; plantation",
+    "context": "life-story",
+    "frequencyRank": 28,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "東",
+    "reading": "ひがし",
+    "meaning": "east",
+    "context": "life-story",
+    "frequencyRank": 29,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "南",
+    "reading": "みなみ",
+    "meaning": "south",
+    "context": "life-story",
+    "frequencyRank": 30,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "森",
+    "reading": "もり",
+    "meaning": "forest",
+    "context": "life-story",
+    "frequencyRank": 31,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "山",
+    "reading": "やま",
+    "meaning": "mountain",
+    "context": "life-story",
+    "frequencyRank": 32,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "呼び方",
+    "reading": "よびかた",
+    "meaning": "how one is addressed; nickname",
+    "context": "life-story",
+    "frequencyRank": 33
+  },
+  {
+    "word": "がんばります",
+    "reading": "がんばります",
+    "meaning": "I will do my best",
+    "context": "life-story",
+    "frequencyRank": 34
+  },
+  {
+    "word": "違います",
+    "reading": "ちがいます",
+    "meaning": "that's not right",
+    "context": "life-story",
+    "frequencyRank": 35
+  },
+  {
+    "word": "～と申します",
+    "reading": "～ともうします",
+    "meaning": "my name is ～ (polite)",
+    "context": "life-story",
+    "frequencyRank": 36
+  },
+  {
+    "word": "～と呼んでください",
+    "reading": "～とよんでください",
+    "meaning": "please call me ～",
+    "context": "life-story",
+    "frequencyRank": 37
+  },
+  {
+    "word": "青い",
+    "reading": "あおい",
+    "meaning": "blue",
+    "context": "life-story",
+    "frequencyRank": 38,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "赤い",
+    "reading": "あかい",
+    "meaning": "red",
+    "context": "life-story",
+    "frequencyRank": 39,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "赤ちゃん",
+    "reading": "あかちゃん",
+    "meaning": "baby",
+    "context": "life-story",
+    "frequencyRank": 40,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "明るい",
+    "reading": "あかるい",
+    "meaning": "bright; cheerful",
+    "context": "life-story",
+    "frequencyRank": 41,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "今でも",
+    "reading": "いまでも",
+    "meaning": "even now",
+    "context": "life-story",
+    "frequencyRank": 42
+  },
+  {
+    "word": "引退する",
+    "reading": "いんたいする",
+    "meaning": "to retire",
+    "context": "life-story",
+    "frequencyRank": 43
+  },
+  {
+    "word": "歌",
+    "reading": "うた",
+    "meaning": "song; singing",
+    "context": "life-story",
+    "frequencyRank": 44,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "映画祭",
+    "reading": "えいがさい",
+    "meaning": "film festival",
+    "context": "life-story",
+    "frequencyRank": 45
+  },
+  {
+    "word": "演技",
+    "reading": "えんぎ",
+    "meaning": "acting",
+    "context": "life-story",
+    "frequencyRank": 46,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "遅くまで",
+    "reading": "おそくまで",
+    "meaning": "until late",
+    "context": "life-story",
+    "frequencyRank": 47
+  },
+  {
+    "word": "男の人",
+    "reading": "おとこのひと",
+    "meaning": "man",
+    "context": "life-story",
+    "frequencyRank": 48
+  },
+  {
+    "word": "驚く",
+    "reading": "おどろく",
+    "meaning": "to be surprised",
+    "context": "life-story",
+    "frequencyRank": 49,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "歌手",
+    "reading": "かしゅ",
+    "meaning": "singer",
+    "context": "life-story",
+    "frequencyRank": 50,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "かっこいい",
+    "reading": "かっこいい",
+    "meaning": "cool",
+    "context": "life-story",
+    "frequencyRank": 51
+  },
+  {
+    "word": "髪が長い",
+    "reading": "かみがながい",
+    "meaning": "long-haired",
+    "context": "life-story",
+    "frequencyRank": 52
+  },
+  {
+    "word": "髪が短い",
+    "reading": "かみがみじかい",
+    "meaning": "short-haired",
+    "context": "life-story",
+    "frequencyRank": 53
+  },
+  {
+    "word": "黄色い",
+    "reading": "きいろい",
+    "meaning": "yellow",
+    "context": "life-story",
+    "frequencyRank": 54,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "きっかけ",
+    "reading": "きっかけ",
+    "meaning": "reason; motivation",
+    "context": "life-story",
+    "frequencyRank": 55,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "きびしい",
+    "reading": "きびしい",
+    "meaning": "strict",
+    "context": "life-story",
+    "frequencyRank": 56
+  },
+  {
+    "word": "金色",
+    "reading": "きんいろ",
+    "meaning": "gold; golden",
+    "context": "life-story",
+    "frequencyRank": 57
+  },
+  {
+    "word": "くつをはく",
+    "reading": "くつをはく",
+    "meaning": "to wear shoes",
+    "context": "life-story",
+    "frequencyRank": 58
+  },
+  {
+    "word": "黒い",
+    "reading": "くろい",
+    "meaning": "black",
+    "context": "life-story",
+    "frequencyRank": 59,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "恋人",
+    "reading": "こいびと",
+    "meaning": "boyfriend; girlfriend",
+    "context": "life-story",
+    "frequencyRank": 60,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "交流協会",
+    "reading": "こうりゅうきょうかい",
+    "meaning": "exchange association",
+    "context": "life-story",
+    "frequencyRank": 61
+  },
+  {
+    "word": "この間",
+    "reading": "このあいだ",
+    "meaning": "the other day",
+    "context": "life-story",
+    "frequencyRank": 62,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "こわい",
+    "reading": "こわい",
+    "meaning": "scary",
+    "context": "life-story",
+    "frequencyRank": 63
+  },
+  {
+    "word": "今度",
+    "reading": "こんど",
+    "meaning": "this time",
+    "context": "life-story",
+    "frequencyRank": 64,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "シャツを着る",
+    "reading": "シャツをきる",
+    "meaning": "to wear a shirt",
+    "context": "life-story",
+    "frequencyRank": 65
+  },
+  {
+    "word": "ジャンパー",
+    "reading": "ジャンパー",
+    "meaning": "zip-up jacket",
+    "context": "life-story",
+    "frequencyRank": 66
+  },
+  {
+    "word": "上手",
+    "reading": "じょうず",
+    "meaning": "good at; skillful",
+    "context": "life-story",
+    "frequencyRank": 67,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "白い",
+    "reading": "しろい",
+    "meaning": "white",
+    "context": "life-story",
+    "frequencyRank": 68,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "心配",
+    "reading": "しんぱい",
+    "meaning": "worry; concern",
+    "context": "life-story",
+    "frequencyRank": 69,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "ズボンをはく",
+    "reading": "ズボンをはく",
+    "meaning": "to wear pants",
+    "context": "life-story",
+    "frequencyRank": 70
+  },
+  {
+    "word": "座る",
+    "reading": "すわる",
+    "meaning": "to sit",
+    "context": "life-story",
+    "frequencyRank": 71,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "世界中",
+    "reading": "せかいじゅう",
+    "meaning": "around the world",
+    "context": "life-story",
+    "frequencyRank": 72,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "背が高い",
+    "reading": "せがたかい",
+    "meaning": "tall",
+    "context": "life-story",
+    "frequencyRank": 73
+  },
+  {
+    "word": "そんな",
+    "reading": "そんな",
+    "meaning": "such; that kind of",
+    "context": "life-story",
+    "frequencyRank": 74,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "立つ",
+    "reading": "たつ",
+    "meaning": "to stand",
+    "context": "life-story",
+    "frequencyRank": 75,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "だれか",
+    "reading": "だれか",
+    "meaning": "someone; anyone",
+    "context": "life-story",
+    "frequencyRank": 76
+  },
+  {
+    "word": "ダンス",
+    "reading": "ダンス",
+    "meaning": "dance; dancing",
+    "context": "life-story",
+    "frequencyRank": 77,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "できれば",
+    "reading": "できれば",
+    "meaning": "if possible",
+    "context": "life-story",
+    "frequencyRank": 78
+  },
+  {
+    "word": "泣く",
+    "reading": "なく",
+    "meaning": "to cry",
+    "context": "life-story",
+    "frequencyRank": 79,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "ネクタイをする",
+    "reading": "ネクタイをする",
+    "meaning": "to wear a tie",
+    "context": "life-story",
+    "frequencyRank": 80
+  },
+  {
+    "word": "ハイキング",
+    "reading": "ハイキング",
+    "meaning": "hiking",
+    "context": "life-story",
+    "frequencyRank": 81
+  },
+  {
+    "word": "俳優",
+    "reading": "はいゆう",
+    "meaning": "actor",
+    "context": "life-story",
+    "frequencyRank": 82,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "ピアスをする",
+    "reading": "ピアスをする",
+    "meaning": "to wear earrings",
+    "context": "life-story",
+    "frequencyRank": 83
+  },
+  {
+    "word": "ひげをはやす",
+    "reading": "ひげをはやす",
+    "meaning": "to have a beard",
+    "context": "life-story",
+    "frequencyRank": 84
+  },
+  {
+    "word": "びっくりする",
+    "reading": "びっくりする",
+    "meaning": "to be surprised; shocked",
+    "context": "life-story",
+    "frequencyRank": 85
+  },
+  {
+    "word": "ファン",
+    "reading": "ファン",
+    "meaning": "fan",
+    "context": "life-story",
+    "frequencyRank": 86,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "富士山",
+    "reading": "ふじさん",
+    "meaning": "Mt. Fuji",
+    "context": "life-story",
+    "frequencyRank": 87,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "帽子をかぶる",
+    "reading": "ぼうしをかぶる",
+    "meaning": "to wear a hat",
+    "context": "life-story",
+    "frequencyRank": 88
+  },
+  {
+    "word": "孫",
+    "reading": "まご",
+    "meaning": "grandchild",
+    "context": "life-story",
+    "frequencyRank": 89,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "まじめ",
+    "reading": "まじめ",
+    "meaning": "serious; sincere",
+    "context": "life-story",
+    "frequencyRank": 90
+  },
+  {
+    "word": "まず",
+    "reading": "まず",
+    "meaning": "first of all",
+    "context": "life-story",
+    "frequencyRank": 91,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "見た目",
+    "reading": "みため",
+    "meaning": "appearance; looks",
+    "context": "life-story",
+    "frequencyRank": 92,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "めがねをかける",
+    "reading": "めがねをかける",
+    "meaning": "to wear glasses",
+    "context": "life-story",
+    "frequencyRank": 93
+  },
+  {
+    "word": "ワンピースを着る",
+    "reading": "ワンピースをきる",
+    "meaning": "to wear a dress",
+    "context": "life-story",
+    "frequencyRank": 94
+  }
 ]

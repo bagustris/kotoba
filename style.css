@@ -672,6 +672,84 @@ html, body {
   transform: scale(0.97);
 }
 
+/* --- Search --- */
+
+/* Sits above the はじめましょう heading: search is mode-independent (it
+   covers every context regardless of what's selected below), so it reads as
+   a utility over the drill flow rather than a step within it. */
+.search-row {
+  margin-bottom: 1.4rem;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.7rem 0.9rem;
+  font-size: 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--card-bg);
+  color: var(--fg);
+}
+
+.search-input:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.search-results {
+  margin: -0.8rem 0 1.4rem;
+  max-height: 22rem;
+  overflow-y: auto;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--card-bg);
+}
+
+.search-result {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 0.55rem 0.8rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.search-result:last-child {
+  border-bottom: none;
+}
+
+.search-result-word {
+  font-weight: bold;
+  font-size: 1.05rem;
+}
+
+.search-result-reading {
+  color: #8a9188;
+  font-size: 0.9rem;
+}
+
+.search-result-meaning {
+  flex: 1 1 auto;
+  min-width: 6rem;
+}
+
+.search-result-meta {
+  font-size: 0.75rem;
+  color: #8a9188;
+  white-space: nowrap;
+}
+
+.search-status {
+  padding: 0.7rem 0.8rem;
+  color: #8a9188;
+  font-size: 0.9rem;
+}
+
+.search-status span {
+  display: block;
+  font-size: 0.75rem;
+}
+
 /* --- Quiz screen --- */
 
 .quiz-topbar {
@@ -748,6 +826,23 @@ html, body {
 }
 
 .quiz-hint.hidden { display: none; }
+
+.quiz-pitch {
+  display: flex;
+  justify-content: center;
+  margin: -0.4rem 0 0.6rem;
+}
+
+.quiz-pitch.hidden { display: none; }
+
+.pitch-svg line {
+  stroke: var(--accent);
+  stroke-width: 1.5;
+}
+
+.pitch-svg circle {
+  fill: var(--accent);
+}
 
 .quiz-instruction {
   color: #8a9188;

@@ -1,0 +1,266 @@
+[
+  {
+    "sentence": "私はそう思う。",
+    "target": "は",
+    "reading": "は",
+    "fullReading": "わたしはそうおもう。",
+    "meaning": "topic marker (as for ~)",
+    "translation": "I think so.",
+    "context": "particle"
+  },
+  {
+    "sentence": "腕が痛いです。",
+    "target": "が",
+    "reading": "が",
+    "fullReading": "うでがいたいです。",
+    "meaning": "subject marker",
+    "translation": "My arm hurts.",
+    "context": "particle",
+    "source": "irodori-l16",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "夕食に魚を焼く。",
+    "target": "を",
+    "reading": "を",
+    "fullReading": "ゆうしょくにさかなをやく。",
+    "meaning": "direct object marker",
+    "translation": "I grill fish for dinner.",
+    "context": "particle"
+  },
+  {
+    "sentence": "何時に出発しますか？",
+    "target": "に",
+    "reading": "に",
+    "fullReading": "なんじにしゅっぱつしますか？",
+    "meaning": "time/goal marker (at, to)",
+    "translation": "What time does it depart?",
+    "context": "particle",
+    "source": "irodori2-l5",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "鍵は管理室で借りてください。",
+    "target": "で",
+    "reading": "で",
+    "fullReading": "かぎはかんりしつでかりてください。",
+    "meaning": "location of action / means (at, by)",
+    "translation": "Please borrow the key from the management office.",
+    "context": "particle"
+  },
+  {
+    "sentence": "卵と砂糖を混ぜる。",
+    "target": "と",
+    "reading": "と",
+    "fullReading": "たまごとさとうをまぜる。",
+    "meaning": "and, with",
+    "translation": "Mix the egg and sugar.",
+    "context": "particle"
+  },
+  {
+    "sentence": "白もありますか？",
+    "target": "も",
+    "reading": "も",
+    "fullReading": "しろもありますか？",
+    "meaning": "also, too",
+    "translation": "Do you have it in white too?",
+    "context": "particle",
+    "source": "irodori2-l11",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "私の眼鏡はどこ？",
+    "target": "の",
+    "reading": "の",
+    "fullReading": "私の眼鏡はどこ？",
+    "meaning": "possessive (~'s)",
+    "translation": "Where are my glasses?",
+    "context": "particle",
+    "source": "jed",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "週末は海や山に行きます。",
+    "target": "や",
+    "reading": "や",
+    "fullReading": "しゅうまつはうみややまにいきます。",
+    "meaning": "and/or (non-exhaustive list)",
+    "translation": "I often go to the beach or mountain on my days off.",
+    "context": "particle",
+    "source": "irodori-l2",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "朝から頭が痛いです。",
+    "target": "から",
+    "reading": "から",
+    "fullReading": "あさからあたまがいたいです。",
+    "meaning": "from, since, because",
+    "translation": "My head has hurt since this morning.",
+    "context": "particle"
+  },
+  {
+    "sentence": "休日は昼まで寝る。",
+    "target": "まで",
+    "reading": "まで",
+    "fullReading": "きゅうじつはひるまでねる。",
+    "meaning": "until, up to",
+    "translation": "On my day off, I sleep until noon.",
+    "context": "particle"
+  },
+  {
+    "sentence": "ひらがなは漢字より簡単です。",
+    "target": "より",
+    "reading": "より",
+    "fullReading": "ひらがなはかんじよりかんたんです。",
+    "meaning": "than (comparison)",
+    "translation": "Hiragana is easier than kanji.",
+    "context": "particle"
+  },
+  {
+    "sentence": "冬休みに沖縄へ旅行します。",
+    "target": "へ",
+    "reading": "へ",
+    "fullReading": "ふゆやすみにおきなわへりょこうします。",
+    "meaning": "toward, to (direction)",
+    "translation": "I'll travel to Okinawa during winter break.",
+    "context": "particle"
+  },
+  {
+    "sentence": "地図を見れば道がわかる。",
+    "target": "ば",
+    "reading": "ば",
+    "fullReading": "ちずをみればみちがわかる。",
+    "meaning": "if (conditional)",
+    "translation": "If you look at the map, you'll understand the way.",
+    "context": "particle"
+  },
+  {
+    "sentence": "早く帰ってもいいですか。",
+    "target": "ても",
+    "reading": "ても",
+    "fullReading": "はやくかえってもいいですか。",
+    "meaning": "even if, even though",
+    "translation": "May I go home early?",
+    "context": "particle"
+  },
+  {
+    "sentence": "飛行機は、速いけど高いです。",
+    "target": "けど",
+    "reading": "けど",
+    "fullReading": "ひこうきは、はやいけどたかいです。",
+    "meaning": "but, although (casual)",
+    "translation": "Airplanes are fast but expensive.",
+    "context": "particle",
+    "source": "irodori2-l5",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "熱があるので、病院に行きます。",
+    "target": "ので",
+    "reading": "ので",
+    "fullReading": "ねつがあるので、びょういんにいきます。",
+    "meaning": "because, since",
+    "translation": "I have a fever, so I'm going to the hospital.",
+    "context": "particle"
+  },
+  {
+    "sentence": "このイヤホンは、デザインが気に入っているし、音もいいです。",
+    "target": "し",
+    "reading": "し",
+    "fullReading": "このイヤホンは、デザインがきにいっているし、おともいいです。",
+    "meaning": "and (listing reasons)",
+    "translation": "I like the design of these earphones and the sound is good.",
+    "context": "particle",
+    "source": "irodori2-l12",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "以上ですか？",
+    "target": "か",
+    "reading": "か",
+    "fullReading": "以上ですか？",
+    "meaning": "question marker / or",
+    "translation": "Is that all?",
+    "context": "particle",
+    "source": "jed",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "本当ですね。",
+    "target": "ね",
+    "reading": "ね",
+    "fullReading": "ほんとうですね。",
+    "meaning": "seeking agreement (isn't it?)",
+    "translation": "That's true.",
+    "context": "particle",
+    "source": "irodori-l4",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "水瓶座だよ。",
+    "target": "よ",
+    "reading": "よ",
+    "fullReading": "水瓶座だよ。",
+    "meaning": "assertion, emphasis",
+    "translation": "I'm an Aquarius.",
+    "context": "particle",
+    "source": "jed",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "塀に登るな。",
+    "target": "な",
+    "reading": "な",
+    "fullReading": "塀に登るな。",
+    "meaning": "prohibition (don’t ~, casual)",
+    "translation": "Don't climb up the wall.",
+    "context": "particle",
+    "source": "jed",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "今日は、少しだけ食べました。",
+    "target": "だけ",
+    "reading": "だけ",
+    "fullReading": "きょうは、すこしだけたべました。",
+    "meaning": "only, just",
+    "translation": "Today I ate just a little.",
+    "context": "particle",
+    "source": "irodori2-l7",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "乗り物に3つしか乗れませんでした。",
+    "target": "しか",
+    "reading": "しか",
+    "fullReading": "のりものに3つしかのれませんでした。",
+    "meaning": "only (used with a negative verb)",
+    "translation": "I could only go on three rides.",
+    "context": "particle",
+    "source": "irodori2-l9",
+    "note": "verbatim"
+  },
+  {
+    "sentence": "この棚の高さは２mぐらいです。",
+    "target": "ぐらい",
+    "reading": "ぐらい",
+    "fullReading": "このたなのたかさは2めーとるぐらいです。",
+    "meaning": "about, approximately",
+    "translation": "This shelf is about 2 meters tall.",
+    "context": "particle",
+    "source": "irodori2-l16",
+    "note": "reconstructed"
+  },
+  {
+    "sentence": "冷蔵庫には、卵やチーズなどが入っています。",
+    "target": "など",
+    "reading": "など",
+    "fullReading": "れいぞうこには、たまごやチーズなどがはいっています。",
+    "meaning": "etc., and so on",
+    "translation": "The fridge has eggs, cheese, and so on.",
+    "context": "particle",
+    "source": "irodori2-l4",
+    "note": "reconstructed"
+  }
+]

@@ -11,7 +11,10 @@
     "reading": "あける",
     "meaning": "to open",
     "context": "work-communication",
-    "frequencyRank": 2
+    "frequencyRank": 2,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "いいです",
@@ -32,35 +35,50 @@
     "reading": "いれる",
     "meaning": "to input",
     "context": "work-communication",
-    "frequencyRank": 5
+    "frequencyRank": 5,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "動く",
     "reading": "うごく",
     "meaning": "to work / to move",
     "context": "work-communication",
-    "frequencyRank": 6
+    "frequencyRank": 6,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "後ろ",
     "reading": "うしろ",
     "meaning": "back",
     "context": "work-communication",
-    "frequencyRank": 7
+    "frequencyRank": 7,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "打ち合わせ",
     "reading": "うちあわせ",
     "meaning": "meeting",
     "context": "work-communication",
-    "frequencyRank": 8
+    "frequencyRank": 8,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "置く",
     "reading": "おく",
     "meaning": "to place",
     "context": "work-communication",
-    "frequencyRank": 9
+    "frequencyRank": 9,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "お知らせ",
@@ -81,14 +99,20 @@
     "reading": "おす",
     "meaning": "to press",
     "context": "work-communication",
-    "frequencyRank": 12
+    "frequencyRank": 12,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "音",
     "reading": "おと",
     "meaning": "sound",
     "context": "work-communication",
-    "frequencyRank": 13
+    "frequencyRank": 13,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "音がする",
@@ -102,21 +126,30 @@
     "reading": "おわる",
     "meaning": "to finish",
     "context": "work-communication",
-    "frequencyRank": 15
+    "frequencyRank": 15,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "会議",
     "reading": "かいぎ",
     "meaning": "meeting",
     "context": "work-communication",
-    "frequencyRank": 16
+    "frequencyRank": 16,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "拡大",
     "reading": "かくだい",
     "meaning": "enlarge",
     "context": "work-communication",
-    "frequencyRank": 17
+    "frequencyRank": 17,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "片面",
@@ -130,7 +163,10 @@
     "reading": "カラー",
     "meaning": "color",
     "context": "work-communication",
-    "frequencyRank": 19
+    "frequencyRank": 19,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "管理室",
@@ -151,7 +187,10 @@
     "reading": "ぎょうしゃ",
     "meaning": "supplier / contractor",
     "context": "work-communication",
-    "frequencyRank": 22
+    "frequencyRank": 22,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "件名",
@@ -165,7 +204,10 @@
     "reading": "げんこう",
     "meaning": "paperwork",
     "context": "work-communication",
-    "frequencyRank": 24
+    "frequencyRank": 24,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "コの字",
@@ -235,14 +277,20 @@
     "reading": "しゅくしょう",
     "meaning": "reduce",
     "context": "work-communication",
-    "frequencyRank": 34
+    "frequencyRank": 34,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "資料",
     "reading": "しりょう",
     "meaning": "material / document",
     "context": "work-communication",
-    "frequencyRank": 35
+    "frequencyRank": 35,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "白黒",
@@ -277,7 +325,10 @@
     "reading": "すうじ",
     "meaning": "number",
     "context": "work-communication",
-    "frequencyRank": 40
+    "frequencyRank": 40,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "スキャナ",
@@ -291,14 +342,20 @@
     "reading": "スタート",
     "meaning": "start",
     "context": "work-communication",
-    "frequencyRank": 42
+    "frequencyRank": 42,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "スペース",
     "reading": "スペース",
     "meaning": "space",
     "context": "work-communication",
-    "frequencyRank": 43
+    "frequencyRank": 43,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "セッティング",
@@ -319,7 +376,10 @@
     "reading": "そうこ",
     "meaning": "storeroom",
     "context": "work-communication",
-    "frequencyRank": 46
+    "frequencyRank": 46,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ソート",
@@ -333,14 +393,20 @@
     "reading": "たな",
     "meaning": "shelf",
     "context": "work-communication",
-    "frequencyRank": 48
+    "frequencyRank": 48,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "頼む",
     "reading": "たのむ",
     "meaning": "to request / to ask",
     "context": "work-communication",
-    "frequencyRank": 49
+    "frequencyRank": 49,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "単色",
@@ -354,14 +420,20 @@
     "reading": "だす",
     "meaning": "to take out",
     "context": "work-communication",
-    "frequencyRank": 51
+    "frequencyRank": 51,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "つく",
     "reading": "つく",
     "meaning": "to be on (e.g. light turns on)",
     "context": "work-communication",
-    "frequencyRank": 52
+    "frequencyRank": 52,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "都合が悪い",
@@ -382,7 +454,10 @@
     "reading": "できる",
     "meaning": "to finish",
     "context": "work-communication",
-    "frequencyRank": 55
+    "frequencyRank": 55,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "できるだけ",
@@ -396,7 +471,10 @@
     "reading": "でんき",
     "meaning": "light",
     "context": "work-communication",
-    "frequencyRank": 57
+    "frequencyRank": 57,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "電話する",
@@ -431,7 +509,10 @@
     "reading": "とびら",
     "meaning": "door",
     "context": "work-communication",
-    "frequencyRank": 62
+    "frequencyRank": 62,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "とりあえず",
@@ -445,21 +526,30 @@
     "reading": "なお",
     "meaning": "furthermore",
     "context": "work-communication",
-    "frequencyRank": 64
+    "frequencyRank": 64,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "なくなる",
     "reading": "なくなる",
     "meaning": "to be out of",
     "context": "work-communication",
-    "frequencyRank": 65
+    "frequencyRank": 65,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "並べる",
     "reading": "ならべる",
     "meaning": "to line up",
     "context": "work-communication",
-    "frequencyRank": 66
+    "frequencyRank": 66,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "2色",
@@ -473,7 +563,10 @@
     "reading": "にってい",
     "meaning": "schedule",
     "context": "work-communication",
-    "frequencyRank": 68
+    "frequencyRank": 68,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "人数分",
@@ -494,7 +587,10 @@
     "reading": "パソコン",
     "meaning": "personal computer",
     "context": "work-communication",
-    "frequencyRank": 71
+    "frequencyRank": 71,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "日付",
@@ -508,7 +604,10 @@
     "reading": "ファックス",
     "meaning": "fax",
     "context": "work-communication",
-    "frequencyRank": 73
+    "frequencyRank": 73,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "フルカラー",
@@ -522,14 +621,20 @@
     "reading": "へん",
     "meaning": "strange",
     "context": "work-communication",
-    "frequencyRank": 75
+    "frequencyRank": 75,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "変更",
     "reading": "へんこう",
     "meaning": "change",
     "context": "work-communication",
-    "frequencyRank": 76
+    "frequencyRank": 76,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "変倍",
@@ -550,7 +655,10 @@
     "reading": "ボタン",
     "meaning": "button",
     "context": "work-communication",
-    "frequencyRank": 79
+    "frequencyRank": 79,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "枚数",
@@ -571,7 +679,10 @@
     "reading": "みなさま",
     "meaning": "dear all (polite expression)",
     "context": "work-communication",
-    "frequencyRank": 82
+    "frequencyRank": 82,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "もうすぐ",
@@ -585,14 +696,20 @@
     "reading": "もどす",
     "meaning": "to return",
     "context": "work-communication",
-    "frequencyRank": 84
+    "frequencyRank": 84,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "やり方",
     "reading": "やりかた",
     "meaning": "how to do (something)",
     "context": "work-communication",
-    "frequencyRank": 85
+    "frequencyRank": 85,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "用紙",
@@ -627,7 +744,10 @@
     "reading": "いえ",
     "meaning": "house",
     "context": "work-communication",
-    "frequencyRank": 90
+    "frequencyRank": 90,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "行って来る",
@@ -641,7 +761,10 @@
     "reading": "いる",
     "meaning": "to require",
     "context": "work-communication",
-    "frequencyRank": 92
+    "frequencyRank": 92,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "お祈り",
@@ -669,7 +792,10 @@
     "reading": "きかん",
     "meaning": "duration",
     "context": "work-communication",
-    "frequencyRank": 96
+    "frequencyRank": 96,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "休暇届",
@@ -704,21 +830,30 @@
     "reading": "さいふ",
     "meaning": "wallet",
     "context": "work-communication",
-    "frequencyRank": 101
+    "frequencyRank": 101,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "氏名",
     "reading": "しめい",
     "meaning": "full name",
     "context": "work-communication",
-    "frequencyRank": 102
+    "frequencyRank": 102,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "社長",
     "reading": "しゃちょう",
     "meaning": "president",
     "context": "work-communication",
-    "frequencyRank": 103
+    "frequencyRank": 103,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "主任",
@@ -739,7 +874,10 @@
     "reading": "しょぞく",
     "meaning": "affiliation",
     "context": "work-communication",
-    "frequencyRank": 106
+    "frequencyRank": 106,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "私用",
@@ -760,14 +898,20 @@
     "reading": "すう",
     "meaning": "to smoke (e.g. smoke a cigarette)",
     "context": "work-communication",
-    "frequencyRank": 109
+    "frequencyRank": 109,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "済む",
     "reading": "すむ",
     "meaning": "to finish",
     "context": "work-communication",
-    "frequencyRank": 110
+    "frequencyRank": 110,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "せき",
@@ -795,7 +939,10 @@
     "reading": "それで",
     "meaning": "because of that",
     "context": "work-communication",
-    "frequencyRank": 114
+    "frequencyRank": 114,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "たばこ",
@@ -823,14 +970,20 @@
     "reading": "チーム",
     "meaning": "team",
     "context": "work-communication",
-    "frequencyRank": 118
+    "frequencyRank": 118,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "伝える",
     "reading": "つたえる",
     "meaning": "to tell",
     "context": "work-communication",
-    "frequencyRank": 119
+    "frequencyRank": 119,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "提出する",
@@ -844,7 +997,10 @@
     "reading": "で",
     "meaning": "because of that (a casual way of saying それで )",
     "context": "work-communication",
-    "frequencyRank": 121
+    "frequencyRank": 121,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "できたら",
@@ -858,14 +1014,20 @@
     "reading": "とる",
     "meaning": "to pick up",
     "context": "work-communication",
-    "frequencyRank": 123
+    "frequencyRank": 123,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "熱",
     "reading": "ねつ",
     "meaning": "fever",
     "context": "work-communication",
-    "frequencyRank": 124
+    "frequencyRank": 124,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "熱がある",
@@ -879,7 +1041,10 @@
     "reading": "はやく",
     "meaning": "early",
     "context": "work-communication",
-    "frequencyRank": 126
+    "frequencyRank": 126,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "ハンコ",
@@ -893,7 +1058,10 @@
     "reading": "ひどい",
     "meaning": "bad / awful",
     "context": "work-communication",
-    "frequencyRank": 128
+    "frequencyRank": 128,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "備考",
@@ -907,7 +1075,10 @@
     "reading": "びょういん",
     "meaning": "hospital",
     "context": "work-communication",
-    "frequencyRank": 130
+    "frequencyRank": 130,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "フォーム",
@@ -921,7 +1092,10 @@
     "reading": "ふつう",
     "meaning": "ordinary",
     "context": "work-communication",
-    "frequencyRank": 132
+    "frequencyRank": 132,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "かまいません",
@@ -956,21 +1130,30 @@
     "reading": "もつ",
     "meaning": "to have",
     "context": "work-communication",
-    "frequencyRank": 137
+    "frequencyRank": 137,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "戻る",
     "reading": "もどる",
     "meaning": "to return",
     "context": "work-communication",
-    "frequencyRank": 138
+    "frequencyRank": 138,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "役所",
     "reading": "やくしょ",
     "meaning": "city hall",
     "context": "work-communication",
-    "frequencyRank": 139
+    "frequencyRank": 139,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "休みを取る",
@@ -984,14 +1167,20 @@
     "reading": "やすむ",
     "meaning": "to take a day off / to get a leave",
     "context": "work-communication",
-    "frequencyRank": 141
+    "frequencyRank": 141,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "用事",
     "reading": "ようじ",
     "meaning": "errand",
     "context": "work-communication",
-    "frequencyRank": 142
+    "frequencyRank": 142,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "来月",
@@ -1005,7 +1194,10 @@
     "reading": "りゆう",
     "meaning": "reason",
     "context": "work-communication",
-    "frequencyRank": 144
+    "frequencyRank": 144,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "連絡先",
@@ -1019,7 +1211,10 @@
     "reading": "わすれる",
     "meaning": "to forget",
     "context": "work-communication",
-    "frequencyRank": 146
+    "frequencyRank": 146,
+    "tags": [
+      "5000"
+    ]
   },
   {
     "word": "～中",

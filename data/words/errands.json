@@ -1,198 +1,1557 @@
 [
-  { "word": "空く", "reading": "あく", "meaning": "to be unoccupied", "context": "errands", "frequencyRank": 1 },
-  { "word": "開く", "reading": "あく", "meaning": "to open", "context": "errands", "frequencyRank": 2 },
-  { "word": "預ける", "reading": "あずける", "meaning": "to leave (something with someone)", "context": "errands", "frequencyRank": 3 },
-  { "word": "合わせて", "reading": "あわせて", "meaning": "in total", "context": "errands", "frequencyRank": 4 },
-  { "word": "～以外", "reading": "～いがい", "meaning": "other than ～", "context": "errands", "frequencyRank": 5 },
-  { "word": "入れ墨", "reading": "いれずみ", "meaning": "tattoo", "context": "errands", "frequencyRank": 6 },
-  { "word": "飲食禁止", "reading": "いんしょくきんし", "meaning": "no eating or drinking", "context": "errands", "frequencyRank": 7 },
-  { "word": "インターネット", "reading": "インターネット", "meaning": "internet", "context": "errands", "frequencyRank": 8 },
-  { "word": "インフォメーションコーナー", "reading": "インフォメーションコーナー", "meaning": "information corner", "context": "errands", "frequencyRank": 9 },
-  { "word": "受ける", "reading": "うける", "meaning": "to receive", "context": "errands", "frequencyRank": 10 },
-  { "word": "延長", "reading": "えんちょう", "meaning": "extension", "context": "errands", "frequencyRank": 11 },
-  { "word": "延長する", "reading": "えんちょうする", "meaning": "to extend", "context": "errands", "frequencyRank": 12 },
-  { "word": "お風呂", "reading": "おふろ", "meaning": "bath house", "context": "errands", "frequencyRank": 13 },
-  { "word": "オリエンテーション", "reading": "オリエンテーション", "meaning": "orientation", "context": "errands", "frequencyRank": 14 },
-  { "word": "下りる", "reading": "おりる", "meaning": "to go down", "context": "errands", "frequencyRank": 15 },
-  { "word": "外国語", "reading": "がいこくご", "meaning": "foreign language", "context": "errands", "frequencyRank": 16 },
-  { "word": "返す", "reading": "かえす", "meaning": "to return (something)", "context": "errands", "frequencyRank": 17 },
-  { "word": "画家", "reading": "がか", "meaning": "painter", "context": "errands", "frequencyRank": 18 },
-  { "word": "かかる", "reading": "かかる", "meaning": "to cost", "context": "errands", "frequencyRank": 19 },
-  { "word": "確認する", "reading": "かくにんする", "meaning": "to check", "context": "errands", "frequencyRank": 20 },
-  { "word": "貸し出し", "reading": "かしだし", "meaning": "loan", "context": "errands", "frequencyRank": 21 },
-  { "word": "関係者", "reading": "かんけいしゃ", "meaning": "authorized personnel", "context": "errands", "frequencyRank": 22 },
-  { "word": "館内", "reading": "かんない", "meaning": "inside the building", "context": "errands", "frequencyRank": 23 },
-  { "word": "着替える", "reading": "きがえる", "meaning": "to change clothes", "context": "errands", "frequencyRank": 24 },
-  { "word": "休憩室", "reading": "きゅうけいしつ", "meaning": "lounge", "context": "errands", "frequencyRank": 25 },
-  { "word": "～禁止", "reading": "～きんし", "meaning": "No ～", "context": "errands", "frequencyRank": 26 },
-  { "word": "更衣室", "reading": "こういしつ", "meaning": "dressing room", "context": "errands", "frequencyRank": 27 },
-  { "word": "声をかける", "reading": "こえをかける", "meaning": "to speak to", "context": "errands", "frequencyRank": 28 },
-  { "word": "在留カード", "reading": "ざいりゅうカード", "meaning": "residence card", "context": "errands", "frequencyRank": 29 },
-  { "word": "作品", "reading": "さくひん", "meaning": "artwork", "context": "errands", "frequencyRank": 30 },
-  { "word": "～冊", "reading": "～さつ", "meaning": "～ book(s)", "context": "errands", "frequencyRank": 31 },
-  { "word": "さまざまな", "reading": "さまざまな", "meaning": "all kinds of", "context": "errands", "frequencyRank": 32 },
-  { "word": "市", "reading": "し", "meaning": "city", "context": "errands", "frequencyRank": 33 },
-  { "word": "室内用", "reading": "しつないよう", "meaning": "for indoor use", "context": "errands", "frequencyRank": 34 },
-  { "word": "市内", "reading": "しない", "meaning": "within the city", "context": "errands", "frequencyRank": 35 },
-  { "word": "閉まる", "reading": "しまる", "meaning": "to close", "context": "errands", "frequencyRank": 36 },
-  { "word": "シューズ", "reading": "シューズ", "meaning": "shoes", "context": "errands", "frequencyRank": 37 },
-  { "word": "自由に", "reading": "じゆうに", "meaning": "freely", "context": "errands", "frequencyRank": 38 },
-  { "word": "書類", "reading": "しょるい", "meaning": "document", "context": "errands", "frequencyRank": 39 },
-  { "word": "スポーツジム", "reading": "スポーツジム", "meaning": "sports gym", "context": "errands", "frequencyRank": 40 },
-  { "word": "セット券", "reading": "セットけん", "meaning": "set ticket", "context": "errands", "frequencyRank": 41 },
-  { "word": "体育館", "reading": "たいいくかん", "meaning": "gymnasium", "context": "errands", "frequencyRank": 42 },
-  { "word": "立入禁止", "reading": "たちいりきんし", "meaning": "no entry", "context": "errands", "frequencyRank": 43 },
-  { "word": "建てる", "reading": "たてる", "meaning": "to build", "context": "errands", "frequencyRank": 44 },
-  { "word": "タトゥー", "reading": "タトゥー", "meaning": "tattoo", "context": "errands", "frequencyRank": 45 },
-  { "word": "彫刻", "reading": "ちょうこく", "meaning": "sculpture", "context": "errands", "frequencyRank": 46 },
-  { "word": "ついている", "reading": "ついている", "meaning": "to come with", "context": "errands", "frequencyRank": 47 },
-  { "word": "通話", "reading": "つうわ", "meaning": "phone call", "context": "errands", "frequencyRank": 48 },
-  { "word": "～点", "reading": "～てん", "meaning": "～ item(s)", "context": "errands", "frequencyRank": 49 },
-  { "word": "展示する", "reading": "てんじする", "meaning": "to display", "context": "errands", "frequencyRank": 50 },
-  { "word": "道具", "reading": "どうぐ", "meaning": "tools", "context": "errands", "frequencyRank": 51 },
-  { "word": "図書館", "reading": "としょかん", "meaning": "library", "context": "errands", "frequencyRank": 52 },
-  { "word": "トレーナー", "reading": "トレーナー", "meaning": "trainer", "context": "errands", "frequencyRank": 53 },
-  { "word": "～につき", "reading": "～につき", "meaning": "for each ～", "context": "errands", "frequencyRank": 54 },
-  { "word": "入館", "reading": "にゅうかん", "meaning": "entry", "context": "errands", "frequencyRank": 55 },
-  { "word": "入浴施設", "reading": "にゅうよくしせつ", "meaning": "bathing facilities", "context": "errands", "frequencyRank": 56 },
-  { "word": "～のうち", "reading": "～のうち", "meaning": "within ～", "context": "errands", "frequencyRank": 57 },
-  { "word": "延ばす", "reading": "のばす", "meaning": "to extend", "context": "errands", "frequencyRank": 58 },
-  { "word": "パンフレット", "reading": "パンフレット", "meaning": "pamphlet", "context": "errands", "frequencyRank": 59 },
-  { "word": "PC", "reading": "ピーシー", "meaning": "personal computer", "context": "errands", "frequencyRank": 60 },
-  { "word": "美術館", "reading": "びじゅつかん", "meaning": "art museum", "context": "errands", "frequencyRank": 61 },
-  { "word": "プール", "reading": "プール", "meaning": "pool", "context": "errands", "frequencyRank": 62 },
-  { "word": "物産コーナー", "reading": "ぶっさんコーナー", "meaning": "products corner", "context": "errands", "frequencyRank": 63 },
-  { "word": "フラッシュ", "reading": "フラッシュ", "meaning": "flash", "context": "errands", "frequencyRank": 64 },
-  { "word": "プラネタリウム", "reading": "プラネタリウム", "meaning": "planetarium", "context": "errands", "frequencyRank": 65 },
-  { "word": "プリンター", "reading": "プリンター", "meaning": "printer", "context": "errands", "frequencyRank": 66 },
-  { "word": "文化施設", "reading": "ぶんかしせつ", "meaning": "cultural center", "context": "errands", "frequencyRank": 67 },
-  { "word": "返却", "reading": "へんきゃく", "meaning": "return", "context": "errands", "frequencyRank": 68 },
-  { "word": "返却ポスト", "reading": "へんきゃくポスト", "meaning": "return box", "context": "errands", "frequencyRank": 69 },
-  { "word": "ホール", "reading": "ホール", "meaning": "hall", "context": "errands", "frequencyRank": 70 },
-  { "word": "～ほど", "reading": "～ほど", "meaning": "about ～", "context": "errands", "frequencyRank": 71 },
-  { "word": "マシン", "reading": "マシン", "meaning": "machine", "context": "errands", "frequencyRank": 72 },
-  { "word": "民俗資料館", "reading": "みんぞくしりょうかん", "meaning": "folk museum", "context": "errands", "frequencyRank": 73 },
-  { "word": "昔", "reading": "むかし", "meaning": "in the past", "context": "errands", "frequencyRank": 74 },
-  { "word": "メイン", "reading": "メイン", "meaning": "main", "context": "errands", "frequencyRank": 75 },
-  { "word": "利用（する）", "reading": "りよう", "meaning": "(to) use", "context": "errands", "frequencyRank": 76 },
-  { "word": "料金", "reading": "りょうきん", "meaning": "fee", "context": "errands", "frequencyRank": 77 },
-  { "word": "利用者", "reading": "りようしゃ", "meaning": "user", "context": "errands", "frequencyRank": 78 },
-  { "word": "歴史", "reading": "れきし", "meaning": "history", "context": "errands", "frequencyRank": 79 },
-  { "word": "～を中心に", "reading": "～をちゅうしんに", "meaning": "mainly", "context": "errands", "frequencyRank": 80 },
-  { "word": "お断りしています", "reading": "おことわりしています", "meaning": "we refuse", "context": "errands", "frequencyRank": 81 },
-  { "word": "お控えください", "reading": "おひかえください", "meaning": "please refrain", "context": "errands", "frequencyRank": 82 },
-  { "word": "お読みください", "reading": "およみください", "meaning": "please read it", "context": "errands", "frequencyRank": 83 },
-  { "word": "ご遠慮ください", "reading": "ごえんりょください", "meaning": "please refrain", "context": "errands", "frequencyRank": 84 },
-  { "word": "ご了承ください", "reading": "ごりょうしょうください", "meaning": "please be reminded", "context": "errands", "frequencyRank": 85 },
-  { "word": "油を差す", "reading": "あぶらをさす", "meaning": "to oil", "context": "errands", "frequencyRank": 86 },
-  { "word": "洗う", "reading": "あらう", "meaning": "to wash", "context": "errands", "frequencyRank": 87 },
-  { "word": "暗証番号", "reading": "あんしょうばんごう", "meaning": "personal identification number (PIN)", "context": "errands", "frequencyRank": 88 },
-  { "word": "一部", "reading": "いちぶ", "meaning": "part of", "context": "errands", "frequencyRank": 89 },
-  { "word": "印鑑", "reading": "いんかん", "meaning": "inkan (personal seal)", "context": "errands", "frequencyRank": 90 },
-  { "word": "受取り", "reading": "うけとり", "meaning": "receipt", "context": "errands", "frequencyRank": 91 },
-  { "word": "受け取る", "reading": "うけとる", "meaning": "to receive", "context": "errands", "frequencyRank": 92 },
-  { "word": "後ろのほう", "reading": "うしろのほう", "meaning": "the back", "context": "errands", "frequencyRank": 93 },
-  { "word": "～円札", "reading": "～えんさつ", "meaning": "～ yen bill", "context": "errands", "frequencyRank": 94 },
-  { "word": "お返し", "reading": "おかえし", "meaning": "change", "context": "errands", "frequencyRank": 95 },
-  { "word": "落ちる", "reading": "おちる", "meaning": "to come out (of a stain)", "context": "errands", "frequencyRank": 96 },
-  { "word": "（お）勤め先", "reading": "おつとめさき", "meaning": "where you work", "context": "errands", "frequencyRank": 97 },
-  { "word": "お届け", "reading": "おとどけ", "meaning": "delivery", "context": "errands", "frequencyRank": 98 },
-  { "word": "お引き出し", "reading": "おひきだし", "meaning": "withdrawal", "context": "errands", "frequencyRank": 99 },
-  { "word": "お渡し", "reading": "おわたし", "meaning": "handover", "context": "errands", "frequencyRank": 100 },
-  { "word": "鏡", "reading": "かがみ", "meaning": "mirror", "context": "errands", "frequencyRank": 101 },
-  { "word": "カット", "reading": "カット", "meaning": "haircut", "context": "errands", "frequencyRank": 102 },
-  { "word": "かぶせる", "reading": "かぶせる", "meaning": "to cover", "context": "errands", "frequencyRank": 103 },
-  { "word": "カラー", "reading": "カラー", "meaning": "hair coloring", "context": "errands", "frequencyRank": 104 },
-  { "word": "キャッシュカード", "reading": "キャッシュカード", "meaning": "cash card", "context": "errands", "frequencyRank": 105 },
-  { "word": "キャップ", "reading": "キャップ", "meaning": "cap", "context": "errands", "frequencyRank": 106 },
-  { "word": "金額", "reading": "きんがく", "meaning": "amount", "context": "errands", "frequencyRank": 107 },
-  { "word": "銀行", "reading": "ぎんこう", "meaning": "bank", "context": "errands", "frequencyRank": 108 },
-  { "word": "近所", "reading": "きんじょ", "meaning": "neighborhood", "context": "errands", "frequencyRank": 109 },
-  { "word": "空気", "reading": "くうき", "meaning": "air", "context": "errands", "frequencyRank": 110 },
-  { "word": "空気入れ", "reading": "くうきいれ", "meaning": "pump", "context": "errands", "frequencyRank": 111 },
-  { "word": "暮らす", "reading": "くらす", "meaning": "to live a life", "context": "errands", "frequencyRank": 112 },
-  { "word": "クリーニング", "reading": "クリーニング", "meaning": "dry cleaning", "context": "errands", "frequencyRank": 113 },
-  { "word": "クリーニング店", "reading": "クリーニングてん", "meaning": "dry cleaner", "context": "errands", "frequencyRank": 114 },
-  { "word": "携帯ショップ", "reading": "けいたいショップ", "meaning": "mobile phone shop", "context": "errands", "frequencyRank": 115 },
-  { "word": "携帯電話", "reading": "けいたいでんわ", "meaning": "mobile phone", "context": "errands", "frequencyRank": 116 },
-  { "word": "けが", "reading": "けが", "meaning": "injury", "context": "errands", "frequencyRank": 117 },
-  { "word": "～桁", "reading": "～けた", "meaning": "～ digit(s)", "context": "errands", "frequencyRank": 118 },
-  { "word": "健康診断", "reading": "けんこうしんだん", "meaning": "health checkup", "context": "errands", "frequencyRank": 119 },
-  { "word": "コインランドリー", "reading": "コインランドリー", "meaning": "laundromat", "context": "errands", "frequencyRank": 120 },
-  { "word": "交流イベント", "reading": "こうりゅうイベント", "meaning": "social event", "context": "errands", "frequencyRank": 121 },
-  { "word": "個人レッスン", "reading": "こじんレッスン", "meaning": "private lesson", "context": "errands", "frequencyRank": 122 },
-  { "word": "午前中", "reading": "ごぜんちゅう", "meaning": "in the morning", "context": "errands", "frequencyRank": 123 },
-  { "word": "固定電話", "reading": "こていでんわ", "meaning": "landline phone", "context": "errands", "frequencyRank": 124 },
-  { "word": "～込み", "reading": "～こみ", "meaning": "includes ～", "context": "errands", "frequencyRank": 125 },
-  { "word": "こんな感じ", "reading": "こんなかんじ", "meaning": "like this", "context": "errands", "frequencyRank": 126 },
-  { "word": "サービス", "reading": "サービス", "meaning": "service", "context": "errands", "frequencyRank": 127 },
-  { "word": "再配達", "reading": "さいはいたつ", "meaning": "redelivery", "context": "errands", "frequencyRank": 128 },
-  { "word": "質問", "reading": "しつもん", "meaning": "question", "context": "errands", "frequencyRank": 129 },
-  { "word": "指定", "reading": "してい", "meaning": "specify", "context": "errands", "frequencyRank": 130 },
-  { "word": "自転車店", "reading": "じてんしゃてん", "meaning": "bicycle shop", "context": "errands", "frequencyRank": 131 },
-  { "word": "自動", "reading": "じどう", "meaning": "automatic", "context": "errands", "frequencyRank": 132 },
-  { "word": "紙幣", "reading": "しへい", "meaning": "banknote", "context": "errands", "frequencyRank": 133 },
-  { "word": "シミ", "reading": "シミ", "meaning": "stain", "context": "errands", "frequencyRank": 134 },
-  { "word": "シミ抜き", "reading": "シミぬき", "meaning": "stain removal", "context": "errands", "frequencyRank": 135 },
-  { "word": "シャンプー台", "reading": "シャンプーだい", "meaning": "shampoo station", "context": "errands", "frequencyRank": 136 },
-  { "word": "上級", "reading": "じょうきゅう", "meaning": "advanced", "context": "errands", "frequencyRank": 137 },
-  { "word": "情報", "reading": "じょうほう", "meaning": "information", "context": "errands", "frequencyRank": 138 },
-  { "word": "スマホ修理店", "reading": "スマホしゅうりてん", "meaning": "smartphone repair shop", "context": "errands", "frequencyRank": 139 },
-  { "word": "生活ガイドブック", "reading": "せいかつガイドブック", "meaning": "living guidebook", "context": "errands", "frequencyRank": 140 },
-  { "word": "全体的に", "reading": "ぜんたいてきに", "meaning": "all over", "context": "errands", "frequencyRank": 141 },
-  { "word": "洗面台", "reading": "せんめんだい", "meaning": "sink", "context": "errands", "frequencyRank": 142 },
-  { "word": "相談", "reading": "そうだん", "meaning": "consultation", "context": "errands", "frequencyRank": 143 },
-  { "word": "タイヤ", "reading": "タイヤ", "meaning": "tire", "context": "errands", "frequencyRank": 144 },
-  { "word": "宅配便", "reading": "たくはいびん", "meaning": "parcel delivery service", "context": "errands", "frequencyRank": 145 },
-  { "word": "助かる", "reading": "たすかる", "meaning": "to be helpful", "context": "errands", "frequencyRank": 146 },
-  { "word": "着払い", "reading": "ちゃくばらい", "meaning": "cash on delivery", "context": "errands", "frequencyRank": 147 },
-  { "word": "中古車店", "reading": "ちゅうこしゃてん", "meaning": "used car shop", "context": "errands", "frequencyRank": 148 },
-  { "word": "ついでに", "reading": "ついでに", "meaning": "in addition; while at it", "context": "errands", "frequencyRank": 149 },
-  { "word": "通訳", "reading": "つうやく", "meaning": "interpretation", "context": "errands", "frequencyRank": 150 },
-  { "word": "次に", "reading": "つぎに", "meaning": "next", "context": "errands", "frequencyRank": 151 },
-  { "word": "伝票", "reading": "でんぴょう", "meaning": "slip", "context": "errands", "frequencyRank": 152 },
-  { "word": "当日", "reading": "とうじつ", "meaning": "same day", "context": "errands", "frequencyRank": 153 },
-  { "word": "床屋", "reading": "とこや", "meaning": "barbershop", "context": "errands", "frequencyRank": 154 },
-  { "word": "どのような", "reading": "どのような", "meaning": "how; what kind of", "context": "errands", "frequencyRank": 155 },
-  { "word": "どのように", "reading": "どのように", "meaning": "how", "context": "errands", "frequencyRank": 156 },
-  { "word": "トリートメント", "reading": "トリートメント", "meaning": "hair treatment", "context": "errands", "frequencyRank": 157 },
-  { "word": "長さ", "reading": "ながさ", "meaning": "length", "context": "errands", "frequencyRank": 158 },
-  { "word": "日本語教室", "reading": "にほんごきょうしつ", "meaning": "Japanese language class", "context": "errands", "frequencyRank": 159 },
-  { "word": "入門", "reading": "にゅうもん", "meaning": "introductory", "context": "errands", "frequencyRank": 160 },
-  { "word": "入力する", "reading": "にゅうりょくする", "meaning": "to enter", "context": "errands", "frequencyRank": 161 },
-  { "word": "～による", "reading": "～による", "meaning": "using ～; by ～", "context": "errands", "frequencyRank": 162 },
-  { "word": "パーマ", "reading": "パーマ", "meaning": "perm", "context": "errands", "frequencyRank": 163 },
-  { "word": "はさむ", "reading": "はさむ", "meaning": "to clamp", "context": "errands", "frequencyRank": 164 },
-  { "word": "はずす", "reading": "はずす", "meaning": "to remove", "context": "errands", "frequencyRank": 165 },
-  { "word": "バリカン", "reading": "バリカン", "meaning": "hair clippers", "context": "errands", "frequencyRank": 166 },
-  { "word": "ひげ剃り", "reading": "ひげぞり", "meaning": "shave", "context": "errands", "frequencyRank": 167 },
-  { "word": "ビザ", "reading": "ビザ", "meaning": "visa", "context": "errands", "frequencyRank": 168 },
-  { "word": "美容院", "reading": "びよういん", "meaning": "beauty salon", "context": "errands", "frequencyRank": 169 },
-  { "word": "表示する", "reading": "ひょうじする", "meaning": "to display", "context": "errands", "frequencyRank": 170 },
-  { "word": "不在", "reading": "ふざい", "meaning": "absence", "context": "errands", "frequencyRank": 171 },
-  { "word": "不動産屋", "reading": "ふどうさんや", "meaning": "real estate agent", "context": "errands", "frequencyRank": 172 },
-  { "word": "別料金", "reading": "べつりょうきん", "meaning": "extra charge", "context": "errands", "frequencyRank": 173 },
-  { "word": "保険証", "reading": "ほけんしょう", "meaning": "health insurance card", "context": "errands", "frequencyRank": 174 },
-  { "word": "ボリューム", "reading": "ボリューム", "meaning": "volume", "context": "errands", "frequencyRank": 175 },
-  { "word": "翻訳", "reading": "ほんやく", "meaning": "translation", "context": "errands", "frequencyRank": 176 },
-  { "word": "マイナンバーカード", "reading": "マイナンバーカード", "meaning": "Individual Number Card", "context": "errands", "frequencyRank": 177 },
-  { "word": "前髪", "reading": "まえがみ", "meaning": "bangs", "context": "errands", "frequencyRank": 178 },
-  { "word": "窓口", "reading": "まどぐち", "meaning": "window; counter", "context": "errands", "frequencyRank": 179 },
-  { "word": "まわり", "reading": "まわり", "meaning": "around", "context": "errands", "frequencyRank": 180 },
-  { "word": "～mm", "reading": "～ミリ", "meaning": "～mm (millimeter(s))", "context": "errands", "frequencyRank": 181 },
-  { "word": "免許証", "reading": "めんきょしょう", "meaning": "driver's license", "context": "errands", "frequencyRank": 182 },
-  { "word": "最も", "reading": "もっとも", "meaning": "most", "context": "errands", "frequencyRank": 183 },
-  { "word": "元払い", "reading": "もとばらい", "meaning": "prepayment", "context": "errands", "frequencyRank": 184 },
-  { "word": "郵便局", "reading": "ゆうびんきょく", "meaning": "post office", "context": "errands", "frequencyRank": 185 },
-  { "word": "郵便物", "reading": "ゆうびんぶつ", "meaning": "delivery; mail", "context": "errands", "frequencyRank": 186 },
-  { "word": "有料", "reading": "ゆうりょう", "meaning": "fee-based", "context": "errands", "frequencyRank": 187 },
-  { "word": "楽に", "reading": "らくに", "meaning": "easily", "context": "errands", "frequencyRank": 188 },
-  { "word": "リサイクルショップ", "reading": "リサイクルショップ", "meaning": "recycle shop", "context": "errands", "frequencyRank": 189 },
-  { "word": "理髪店", "reading": "りはつてん", "meaning": "barbershop", "context": "errands", "frequencyRank": 190 },
-  { "word": "両替（する）", "reading": "りょうがえ", "meaning": "(to) exchange money", "context": "errands", "frequencyRank": 191 },
-  { "word": "利用明細", "reading": "りようめいさい", "meaning": "usage statement", "context": "errands", "frequencyRank": 192 },
-  { "word": "連絡票", "reading": "れんらくひょう", "meaning": "notice", "context": "errands", "frequencyRank": 193 },
-  { "word": "～円からお預かりします", "reading": "～えんからおあずかりします", "meaning": "out of ～ yen", "context": "errands", "frequencyRank": 194 },
-  { "word": "お預かりします", "reading": "おあずかりします", "meaning": "we accept your package", "context": "errands", "frequencyRank": 195 },
-  { "word": "お待ちしておりました", "reading": "おまちしておりました", "meaning": "we have been waiting for you", "context": "errands", "frequencyRank": 196 }
+  {
+    "word": "空く",
+    "reading": "あく",
+    "meaning": "to be unoccupied",
+    "context": "errands",
+    "frequencyRank": 1,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "開く",
+    "reading": "あく",
+    "meaning": "to open",
+    "context": "errands",
+    "frequencyRank": 2,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "預ける",
+    "reading": "あずける",
+    "meaning": "to leave (something with someone)",
+    "context": "errands",
+    "frequencyRank": 3,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "合わせて",
+    "reading": "あわせて",
+    "meaning": "in total",
+    "context": "errands",
+    "frequencyRank": 4
+  },
+  {
+    "word": "～以外",
+    "reading": "～いがい",
+    "meaning": "other than ～",
+    "context": "errands",
+    "frequencyRank": 5
+  },
+  {
+    "word": "入れ墨",
+    "reading": "いれずみ",
+    "meaning": "tattoo",
+    "context": "errands",
+    "frequencyRank": 6
+  },
+  {
+    "word": "飲食禁止",
+    "reading": "いんしょくきんし",
+    "meaning": "no eating or drinking",
+    "context": "errands",
+    "frequencyRank": 7
+  },
+  {
+    "word": "インターネット",
+    "reading": "インターネット",
+    "meaning": "internet",
+    "context": "errands",
+    "frequencyRank": 8,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "インフォメーションコーナー",
+    "reading": "インフォメーションコーナー",
+    "meaning": "information corner",
+    "context": "errands",
+    "frequencyRank": 9
+  },
+  {
+    "word": "受ける",
+    "reading": "うける",
+    "meaning": "to receive",
+    "context": "errands",
+    "frequencyRank": 10,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "延長",
+    "reading": "えんちょう",
+    "meaning": "extension",
+    "context": "errands",
+    "frequencyRank": 11,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "延長する",
+    "reading": "えんちょうする",
+    "meaning": "to extend",
+    "context": "errands",
+    "frequencyRank": 12
+  },
+  {
+    "word": "お風呂",
+    "reading": "おふろ",
+    "meaning": "bath house",
+    "context": "errands",
+    "frequencyRank": 13
+  },
+  {
+    "word": "オリエンテーション",
+    "reading": "オリエンテーション",
+    "meaning": "orientation",
+    "context": "errands",
+    "frequencyRank": 14
+  },
+  {
+    "word": "下りる",
+    "reading": "おりる",
+    "meaning": "to go down",
+    "context": "errands",
+    "frequencyRank": 15,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "外国語",
+    "reading": "がいこくご",
+    "meaning": "foreign language",
+    "context": "errands",
+    "frequencyRank": 16
+  },
+  {
+    "word": "返す",
+    "reading": "かえす",
+    "meaning": "to return (something)",
+    "context": "errands",
+    "frequencyRank": 17,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "画家",
+    "reading": "がか",
+    "meaning": "painter",
+    "context": "errands",
+    "frequencyRank": 18,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "かかる",
+    "reading": "かかる",
+    "meaning": "to cost",
+    "context": "errands",
+    "frequencyRank": 19,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "確認する",
+    "reading": "かくにんする",
+    "meaning": "to check",
+    "context": "errands",
+    "frequencyRank": 20
+  },
+  {
+    "word": "貸し出し",
+    "reading": "かしだし",
+    "meaning": "loan",
+    "context": "errands",
+    "frequencyRank": 21
+  },
+  {
+    "word": "関係者",
+    "reading": "かんけいしゃ",
+    "meaning": "authorized personnel",
+    "context": "errands",
+    "frequencyRank": 22,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "館内",
+    "reading": "かんない",
+    "meaning": "inside the building",
+    "context": "errands",
+    "frequencyRank": 23
+  },
+  {
+    "word": "着替える",
+    "reading": "きがえる",
+    "meaning": "to change clothes",
+    "context": "errands",
+    "frequencyRank": 24,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "休憩室",
+    "reading": "きゅうけいしつ",
+    "meaning": "lounge",
+    "context": "errands",
+    "frequencyRank": 25
+  },
+  {
+    "word": "～禁止",
+    "reading": "～きんし",
+    "meaning": "No ～",
+    "context": "errands",
+    "frequencyRank": 26
+  },
+  {
+    "word": "更衣室",
+    "reading": "こういしつ",
+    "meaning": "dressing room",
+    "context": "errands",
+    "frequencyRank": 27
+  },
+  {
+    "word": "声をかける",
+    "reading": "こえをかける",
+    "meaning": "to speak to",
+    "context": "errands",
+    "frequencyRank": 28
+  },
+  {
+    "word": "在留カード",
+    "reading": "ざいりゅうカード",
+    "meaning": "residence card",
+    "context": "errands",
+    "frequencyRank": 29
+  },
+  {
+    "word": "作品",
+    "reading": "さくひん",
+    "meaning": "artwork",
+    "context": "errands",
+    "frequencyRank": 30,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "～冊",
+    "reading": "～さつ",
+    "meaning": "～ book(s)",
+    "context": "errands",
+    "frequencyRank": 31
+  },
+  {
+    "word": "さまざまな",
+    "reading": "さまざまな",
+    "meaning": "all kinds of",
+    "context": "errands",
+    "frequencyRank": 32
+  },
+  {
+    "word": "市",
+    "reading": "し",
+    "meaning": "city",
+    "context": "errands",
+    "frequencyRank": 33,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "室内用",
+    "reading": "しつないよう",
+    "meaning": "for indoor use",
+    "context": "errands",
+    "frequencyRank": 34
+  },
+  {
+    "word": "市内",
+    "reading": "しない",
+    "meaning": "within the city",
+    "context": "errands",
+    "frequencyRank": 35,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "閉まる",
+    "reading": "しまる",
+    "meaning": "to close",
+    "context": "errands",
+    "frequencyRank": 36
+  },
+  {
+    "word": "シューズ",
+    "reading": "シューズ",
+    "meaning": "shoes",
+    "context": "errands",
+    "frequencyRank": 37
+  },
+  {
+    "word": "自由に",
+    "reading": "じゆうに",
+    "meaning": "freely",
+    "context": "errands",
+    "frequencyRank": 38
+  },
+  {
+    "word": "書類",
+    "reading": "しょるい",
+    "meaning": "document",
+    "context": "errands",
+    "frequencyRank": 39,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "スポーツジム",
+    "reading": "スポーツジム",
+    "meaning": "sports gym",
+    "context": "errands",
+    "frequencyRank": 40
+  },
+  {
+    "word": "セット券",
+    "reading": "セットけん",
+    "meaning": "set ticket",
+    "context": "errands",
+    "frequencyRank": 41
+  },
+  {
+    "word": "体育館",
+    "reading": "たいいくかん",
+    "meaning": "gymnasium",
+    "context": "errands",
+    "frequencyRank": 42,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "立入禁止",
+    "reading": "たちいりきんし",
+    "meaning": "no entry",
+    "context": "errands",
+    "frequencyRank": 43
+  },
+  {
+    "word": "建てる",
+    "reading": "たてる",
+    "meaning": "to build",
+    "context": "errands",
+    "frequencyRank": 44
+  },
+  {
+    "word": "タトゥー",
+    "reading": "タトゥー",
+    "meaning": "tattoo",
+    "context": "errands",
+    "frequencyRank": 45
+  },
+  {
+    "word": "彫刻",
+    "reading": "ちょうこく",
+    "meaning": "sculpture",
+    "context": "errands",
+    "frequencyRank": 46,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "ついている",
+    "reading": "ついている",
+    "meaning": "to come with",
+    "context": "errands",
+    "frequencyRank": 47
+  },
+  {
+    "word": "通話",
+    "reading": "つうわ",
+    "meaning": "phone call",
+    "context": "errands",
+    "frequencyRank": 48
+  },
+  {
+    "word": "～点",
+    "reading": "～てん",
+    "meaning": "～ item(s)",
+    "context": "errands",
+    "frequencyRank": 49
+  },
+  {
+    "word": "展示する",
+    "reading": "てんじする",
+    "meaning": "to display",
+    "context": "errands",
+    "frequencyRank": 50
+  },
+  {
+    "word": "道具",
+    "reading": "どうぐ",
+    "meaning": "tools",
+    "context": "errands",
+    "frequencyRank": 51,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "図書館",
+    "reading": "としょかん",
+    "meaning": "library",
+    "context": "errands",
+    "frequencyRank": 52,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "トレーナー",
+    "reading": "トレーナー",
+    "meaning": "trainer",
+    "context": "errands",
+    "frequencyRank": 53
+  },
+  {
+    "word": "～につき",
+    "reading": "～につき",
+    "meaning": "for each ～",
+    "context": "errands",
+    "frequencyRank": 54
+  },
+  {
+    "word": "入館",
+    "reading": "にゅうかん",
+    "meaning": "entry",
+    "context": "errands",
+    "frequencyRank": 55
+  },
+  {
+    "word": "入浴施設",
+    "reading": "にゅうよくしせつ",
+    "meaning": "bathing facilities",
+    "context": "errands",
+    "frequencyRank": 56
+  },
+  {
+    "word": "～のうち",
+    "reading": "～のうち",
+    "meaning": "within ～",
+    "context": "errands",
+    "frequencyRank": 57
+  },
+  {
+    "word": "延ばす",
+    "reading": "のばす",
+    "meaning": "to extend",
+    "context": "errands",
+    "frequencyRank": 58
+  },
+  {
+    "word": "パンフレット",
+    "reading": "パンフレット",
+    "meaning": "pamphlet",
+    "context": "errands",
+    "frequencyRank": 59,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "PC",
+    "reading": "ピーシー",
+    "meaning": "personal computer",
+    "context": "errands",
+    "frequencyRank": 60,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "美術館",
+    "reading": "びじゅつかん",
+    "meaning": "art museum",
+    "context": "errands",
+    "frequencyRank": 61,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "プール",
+    "reading": "プール",
+    "meaning": "pool",
+    "context": "errands",
+    "frequencyRank": 62,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "物産コーナー",
+    "reading": "ぶっさんコーナー",
+    "meaning": "products corner",
+    "context": "errands",
+    "frequencyRank": 63
+  },
+  {
+    "word": "フラッシュ",
+    "reading": "フラッシュ",
+    "meaning": "flash",
+    "context": "errands",
+    "frequencyRank": 64
+  },
+  {
+    "word": "プラネタリウム",
+    "reading": "プラネタリウム",
+    "meaning": "planetarium",
+    "context": "errands",
+    "frequencyRank": 65
+  },
+  {
+    "word": "プリンター",
+    "reading": "プリンター",
+    "meaning": "printer",
+    "context": "errands",
+    "frequencyRank": 66
+  },
+  {
+    "word": "文化施設",
+    "reading": "ぶんかしせつ",
+    "meaning": "cultural center",
+    "context": "errands",
+    "frequencyRank": 67
+  },
+  {
+    "word": "返却",
+    "reading": "へんきゃく",
+    "meaning": "return",
+    "context": "errands",
+    "frequencyRank": 68
+  },
+  {
+    "word": "返却ポスト",
+    "reading": "へんきゃくポスト",
+    "meaning": "return box",
+    "context": "errands",
+    "frequencyRank": 69
+  },
+  {
+    "word": "ホール",
+    "reading": "ホール",
+    "meaning": "hall",
+    "context": "errands",
+    "frequencyRank": 70,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "～ほど",
+    "reading": "～ほど",
+    "meaning": "about ～",
+    "context": "errands",
+    "frequencyRank": 71
+  },
+  {
+    "word": "マシン",
+    "reading": "マシン",
+    "meaning": "machine",
+    "context": "errands",
+    "frequencyRank": 72
+  },
+  {
+    "word": "民俗資料館",
+    "reading": "みんぞくしりょうかん",
+    "meaning": "folk museum",
+    "context": "errands",
+    "frequencyRank": 73
+  },
+  {
+    "word": "昔",
+    "reading": "むかし",
+    "meaning": "in the past",
+    "context": "errands",
+    "frequencyRank": 74,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "メイン",
+    "reading": "メイン",
+    "meaning": "main",
+    "context": "errands",
+    "frequencyRank": 75,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "利用（する）",
+    "reading": "りよう",
+    "meaning": "(to) use",
+    "context": "errands",
+    "frequencyRank": 76
+  },
+  {
+    "word": "料金",
+    "reading": "りょうきん",
+    "meaning": "fee",
+    "context": "errands",
+    "frequencyRank": 77,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "利用者",
+    "reading": "りようしゃ",
+    "meaning": "user",
+    "context": "errands",
+    "frequencyRank": 78,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "歴史",
+    "reading": "れきし",
+    "meaning": "history",
+    "context": "errands",
+    "frequencyRank": 79,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "～を中心に",
+    "reading": "～をちゅうしんに",
+    "meaning": "mainly",
+    "context": "errands",
+    "frequencyRank": 80
+  },
+  {
+    "word": "お断りしています",
+    "reading": "おことわりしています",
+    "meaning": "we refuse",
+    "context": "errands",
+    "frequencyRank": 81
+  },
+  {
+    "word": "お控えください",
+    "reading": "おひかえください",
+    "meaning": "please refrain",
+    "context": "errands",
+    "frequencyRank": 82
+  },
+  {
+    "word": "お読みください",
+    "reading": "およみください",
+    "meaning": "please read it",
+    "context": "errands",
+    "frequencyRank": 83
+  },
+  {
+    "word": "ご遠慮ください",
+    "reading": "ごえんりょください",
+    "meaning": "please refrain",
+    "context": "errands",
+    "frequencyRank": 84
+  },
+  {
+    "word": "ご了承ください",
+    "reading": "ごりょうしょうください",
+    "meaning": "please be reminded",
+    "context": "errands",
+    "frequencyRank": 85
+  },
+  {
+    "word": "油を差す",
+    "reading": "あぶらをさす",
+    "meaning": "to oil",
+    "context": "errands",
+    "frequencyRank": 86
+  },
+  {
+    "word": "洗う",
+    "reading": "あらう",
+    "meaning": "to wash",
+    "context": "errands",
+    "frequencyRank": 87,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "暗証番号",
+    "reading": "あんしょうばんごう",
+    "meaning": "personal identification number (PIN)",
+    "context": "errands",
+    "frequencyRank": 88
+  },
+  {
+    "word": "一部",
+    "reading": "いちぶ",
+    "meaning": "part of",
+    "context": "errands",
+    "frequencyRank": 89,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "印鑑",
+    "reading": "いんかん",
+    "meaning": "inkan (personal seal)",
+    "context": "errands",
+    "frequencyRank": 90
+  },
+  {
+    "word": "受取り",
+    "reading": "うけとり",
+    "meaning": "receipt",
+    "context": "errands",
+    "frequencyRank": 91
+  },
+  {
+    "word": "受け取る",
+    "reading": "うけとる",
+    "meaning": "to receive",
+    "context": "errands",
+    "frequencyRank": 92,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "後ろのほう",
+    "reading": "うしろのほう",
+    "meaning": "the back",
+    "context": "errands",
+    "frequencyRank": 93
+  },
+  {
+    "word": "～円札",
+    "reading": "～えんさつ",
+    "meaning": "～ yen bill",
+    "context": "errands",
+    "frequencyRank": 94
+  },
+  {
+    "word": "お返し",
+    "reading": "おかえし",
+    "meaning": "change",
+    "context": "errands",
+    "frequencyRank": 95
+  },
+  {
+    "word": "落ちる",
+    "reading": "おちる",
+    "meaning": "to come out (of a stain)",
+    "context": "errands",
+    "frequencyRank": 96,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "（お）勤め先",
+    "reading": "おつとめさき",
+    "meaning": "where you work",
+    "context": "errands",
+    "frequencyRank": 97
+  },
+  {
+    "word": "お届け",
+    "reading": "おとどけ",
+    "meaning": "delivery",
+    "context": "errands",
+    "frequencyRank": 98
+  },
+  {
+    "word": "お引き出し",
+    "reading": "おひきだし",
+    "meaning": "withdrawal",
+    "context": "errands",
+    "frequencyRank": 99
+  },
+  {
+    "word": "お渡し",
+    "reading": "おわたし",
+    "meaning": "handover",
+    "context": "errands",
+    "frequencyRank": 100
+  },
+  {
+    "word": "鏡",
+    "reading": "かがみ",
+    "meaning": "mirror",
+    "context": "errands",
+    "frequencyRank": 101,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "カット",
+    "reading": "カット",
+    "meaning": "haircut",
+    "context": "errands",
+    "frequencyRank": 102,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "かぶせる",
+    "reading": "かぶせる",
+    "meaning": "to cover",
+    "context": "errands",
+    "frequencyRank": 103
+  },
+  {
+    "word": "カラー",
+    "reading": "カラー",
+    "meaning": "hair coloring",
+    "context": "errands",
+    "frequencyRank": 104,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "キャッシュカード",
+    "reading": "キャッシュカード",
+    "meaning": "cash card",
+    "context": "errands",
+    "frequencyRank": 105
+  },
+  {
+    "word": "キャップ",
+    "reading": "キャップ",
+    "meaning": "cap",
+    "context": "errands",
+    "frequencyRank": 106
+  },
+  {
+    "word": "金額",
+    "reading": "きんがく",
+    "meaning": "amount",
+    "context": "errands",
+    "frequencyRank": 107,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "銀行",
+    "reading": "ぎんこう",
+    "meaning": "bank",
+    "context": "errands",
+    "frequencyRank": 108,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "近所",
+    "reading": "きんじょ",
+    "meaning": "neighborhood",
+    "context": "errands",
+    "frequencyRank": 109,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "空気",
+    "reading": "くうき",
+    "meaning": "air",
+    "context": "errands",
+    "frequencyRank": 110,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "空気入れ",
+    "reading": "くうきいれ",
+    "meaning": "pump",
+    "context": "errands",
+    "frequencyRank": 111
+  },
+  {
+    "word": "暮らす",
+    "reading": "くらす",
+    "meaning": "to live a life",
+    "context": "errands",
+    "frequencyRank": 112,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "クリーニング",
+    "reading": "クリーニング",
+    "meaning": "dry cleaning",
+    "context": "errands",
+    "frequencyRank": 113
+  },
+  {
+    "word": "クリーニング店",
+    "reading": "クリーニングてん",
+    "meaning": "dry cleaner",
+    "context": "errands",
+    "frequencyRank": 114
+  },
+  {
+    "word": "携帯ショップ",
+    "reading": "けいたいショップ",
+    "meaning": "mobile phone shop",
+    "context": "errands",
+    "frequencyRank": 115
+  },
+  {
+    "word": "携帯電話",
+    "reading": "けいたいでんわ",
+    "meaning": "mobile phone",
+    "context": "errands",
+    "frequencyRank": 116,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "けが",
+    "reading": "けが",
+    "meaning": "injury",
+    "context": "errands",
+    "frequencyRank": 117,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "～桁",
+    "reading": "～けた",
+    "meaning": "～ digit(s)",
+    "context": "errands",
+    "frequencyRank": 118
+  },
+  {
+    "word": "健康診断",
+    "reading": "けんこうしんだん",
+    "meaning": "health checkup",
+    "context": "errands",
+    "frequencyRank": 119
+  },
+  {
+    "word": "コインランドリー",
+    "reading": "コインランドリー",
+    "meaning": "laundromat",
+    "context": "errands",
+    "frequencyRank": 120
+  },
+  {
+    "word": "交流イベント",
+    "reading": "こうりゅうイベント",
+    "meaning": "social event",
+    "context": "errands",
+    "frequencyRank": 121
+  },
+  {
+    "word": "個人レッスン",
+    "reading": "こじんレッスン",
+    "meaning": "private lesson",
+    "context": "errands",
+    "frequencyRank": 122
+  },
+  {
+    "word": "午前中",
+    "reading": "ごぜんちゅう",
+    "meaning": "in the morning",
+    "context": "errands",
+    "frequencyRank": 123,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "固定電話",
+    "reading": "こていでんわ",
+    "meaning": "landline phone",
+    "context": "errands",
+    "frequencyRank": 124
+  },
+  {
+    "word": "～込み",
+    "reading": "～こみ",
+    "meaning": "includes ～",
+    "context": "errands",
+    "frequencyRank": 125
+  },
+  {
+    "word": "こんな感じ",
+    "reading": "こんなかんじ",
+    "meaning": "like this",
+    "context": "errands",
+    "frequencyRank": 126
+  },
+  {
+    "word": "サービス",
+    "reading": "サービス",
+    "meaning": "service",
+    "context": "errands",
+    "frequencyRank": 127,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "再配達",
+    "reading": "さいはいたつ",
+    "meaning": "redelivery",
+    "context": "errands",
+    "frequencyRank": 128
+  },
+  {
+    "word": "質問",
+    "reading": "しつもん",
+    "meaning": "question",
+    "context": "errands",
+    "frequencyRank": 129,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "指定",
+    "reading": "してい",
+    "meaning": "specify",
+    "context": "errands",
+    "frequencyRank": 130,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "自転車店",
+    "reading": "じてんしゃてん",
+    "meaning": "bicycle shop",
+    "context": "errands",
+    "frequencyRank": 131
+  },
+  {
+    "word": "自動",
+    "reading": "じどう",
+    "meaning": "automatic",
+    "context": "errands",
+    "frequencyRank": 132
+  },
+  {
+    "word": "紙幣",
+    "reading": "しへい",
+    "meaning": "banknote",
+    "context": "errands",
+    "frequencyRank": 133
+  },
+  {
+    "word": "シミ",
+    "reading": "シミ",
+    "meaning": "stain",
+    "context": "errands",
+    "frequencyRank": 134
+  },
+  {
+    "word": "シミ抜き",
+    "reading": "シミぬき",
+    "meaning": "stain removal",
+    "context": "errands",
+    "frequencyRank": 135
+  },
+  {
+    "word": "シャンプー台",
+    "reading": "シャンプーだい",
+    "meaning": "shampoo station",
+    "context": "errands",
+    "frequencyRank": 136
+  },
+  {
+    "word": "上級",
+    "reading": "じょうきゅう",
+    "meaning": "advanced",
+    "context": "errands",
+    "frequencyRank": 137
+  },
+  {
+    "word": "情報",
+    "reading": "じょうほう",
+    "meaning": "information",
+    "context": "errands",
+    "frequencyRank": 138,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "スマホ修理店",
+    "reading": "スマホしゅうりてん",
+    "meaning": "smartphone repair shop",
+    "context": "errands",
+    "frequencyRank": 139
+  },
+  {
+    "word": "生活ガイドブック",
+    "reading": "せいかつガイドブック",
+    "meaning": "living guidebook",
+    "context": "errands",
+    "frequencyRank": 140
+  },
+  {
+    "word": "全体的に",
+    "reading": "ぜんたいてきに",
+    "meaning": "all over",
+    "context": "errands",
+    "frequencyRank": 141
+  },
+  {
+    "word": "洗面台",
+    "reading": "せんめんだい",
+    "meaning": "sink",
+    "context": "errands",
+    "frequencyRank": 142
+  },
+  {
+    "word": "相談",
+    "reading": "そうだん",
+    "meaning": "consultation",
+    "context": "errands",
+    "frequencyRank": 143,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "タイヤ",
+    "reading": "タイヤ",
+    "meaning": "tire",
+    "context": "errands",
+    "frequencyRank": 144,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "宅配便",
+    "reading": "たくはいびん",
+    "meaning": "parcel delivery service",
+    "context": "errands",
+    "frequencyRank": 145
+  },
+  {
+    "word": "助かる",
+    "reading": "たすかる",
+    "meaning": "to be helpful",
+    "context": "errands",
+    "frequencyRank": 146,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "着払い",
+    "reading": "ちゃくばらい",
+    "meaning": "cash on delivery",
+    "context": "errands",
+    "frequencyRank": 147
+  },
+  {
+    "word": "中古車店",
+    "reading": "ちゅうこしゃてん",
+    "meaning": "used car shop",
+    "context": "errands",
+    "frequencyRank": 148
+  },
+  {
+    "word": "ついでに",
+    "reading": "ついでに",
+    "meaning": "in addition; while at it",
+    "context": "errands",
+    "frequencyRank": 149
+  },
+  {
+    "word": "通訳",
+    "reading": "つうやく",
+    "meaning": "interpretation",
+    "context": "errands",
+    "frequencyRank": 150,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "次に",
+    "reading": "つぎに",
+    "meaning": "next",
+    "context": "errands",
+    "frequencyRank": 151
+  },
+  {
+    "word": "伝票",
+    "reading": "でんぴょう",
+    "meaning": "slip",
+    "context": "errands",
+    "frequencyRank": 152
+  },
+  {
+    "word": "当日",
+    "reading": "とうじつ",
+    "meaning": "same day",
+    "context": "errands",
+    "frequencyRank": 153,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "床屋",
+    "reading": "とこや",
+    "meaning": "barbershop",
+    "context": "errands",
+    "frequencyRank": 154
+  },
+  {
+    "word": "どのような",
+    "reading": "どのような",
+    "meaning": "how; what kind of",
+    "context": "errands",
+    "frequencyRank": 155
+  },
+  {
+    "word": "どのように",
+    "reading": "どのように",
+    "meaning": "how",
+    "context": "errands",
+    "frequencyRank": 156
+  },
+  {
+    "word": "トリートメント",
+    "reading": "トリートメント",
+    "meaning": "hair treatment",
+    "context": "errands",
+    "frequencyRank": 157
+  },
+  {
+    "word": "長さ",
+    "reading": "ながさ",
+    "meaning": "length",
+    "context": "errands",
+    "frequencyRank": 158,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "日本語教室",
+    "reading": "にほんごきょうしつ",
+    "meaning": "Japanese language class",
+    "context": "errands",
+    "frequencyRank": 159
+  },
+  {
+    "word": "入門",
+    "reading": "にゅうもん",
+    "meaning": "introductory",
+    "context": "errands",
+    "frequencyRank": 160
+  },
+  {
+    "word": "入力する",
+    "reading": "にゅうりょくする",
+    "meaning": "to enter",
+    "context": "errands",
+    "frequencyRank": 161
+  },
+  {
+    "word": "～による",
+    "reading": "～による",
+    "meaning": "using ～; by ～",
+    "context": "errands",
+    "frequencyRank": 162
+  },
+  {
+    "word": "パーマ",
+    "reading": "パーマ",
+    "meaning": "perm",
+    "context": "errands",
+    "frequencyRank": 163
+  },
+  {
+    "word": "はさむ",
+    "reading": "はさむ",
+    "meaning": "to clamp",
+    "context": "errands",
+    "frequencyRank": 164
+  },
+  {
+    "word": "はずす",
+    "reading": "はずす",
+    "meaning": "to remove",
+    "context": "errands",
+    "frequencyRank": 165
+  },
+  {
+    "word": "バリカン",
+    "reading": "バリカン",
+    "meaning": "hair clippers",
+    "context": "errands",
+    "frequencyRank": 166
+  },
+  {
+    "word": "ひげ剃り",
+    "reading": "ひげぞり",
+    "meaning": "shave",
+    "context": "errands",
+    "frequencyRank": 167
+  },
+  {
+    "word": "ビザ",
+    "reading": "ビザ",
+    "meaning": "visa",
+    "context": "errands",
+    "frequencyRank": 168,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "美容院",
+    "reading": "びよういん",
+    "meaning": "beauty salon",
+    "context": "errands",
+    "frequencyRank": 169
+  },
+  {
+    "word": "表示する",
+    "reading": "ひょうじする",
+    "meaning": "to display",
+    "context": "errands",
+    "frequencyRank": 170
+  },
+  {
+    "word": "不在",
+    "reading": "ふざい",
+    "meaning": "absence",
+    "context": "errands",
+    "frequencyRank": 171
+  },
+  {
+    "word": "不動産屋",
+    "reading": "ふどうさんや",
+    "meaning": "real estate agent",
+    "context": "errands",
+    "frequencyRank": 172
+  },
+  {
+    "word": "別料金",
+    "reading": "べつりょうきん",
+    "meaning": "extra charge",
+    "context": "errands",
+    "frequencyRank": 173
+  },
+  {
+    "word": "保険証",
+    "reading": "ほけんしょう",
+    "meaning": "health insurance card",
+    "context": "errands",
+    "frequencyRank": 174
+  },
+  {
+    "word": "ボリューム",
+    "reading": "ボリューム",
+    "meaning": "volume",
+    "context": "errands",
+    "frequencyRank": 175
+  },
+  {
+    "word": "翻訳",
+    "reading": "ほんやく",
+    "meaning": "translation",
+    "context": "errands",
+    "frequencyRank": 176,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "マイナンバーカード",
+    "reading": "マイナンバーカード",
+    "meaning": "Individual Number Card",
+    "context": "errands",
+    "frequencyRank": 177
+  },
+  {
+    "word": "前髪",
+    "reading": "まえがみ",
+    "meaning": "bangs",
+    "context": "errands",
+    "frequencyRank": 178
+  },
+  {
+    "word": "窓口",
+    "reading": "まどぐち",
+    "meaning": "window; counter",
+    "context": "errands",
+    "frequencyRank": 179,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "まわり",
+    "reading": "まわり",
+    "meaning": "around",
+    "context": "errands",
+    "frequencyRank": 180,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "～mm",
+    "reading": "～ミリ",
+    "meaning": "～mm (millimeter(s))",
+    "context": "errands",
+    "frequencyRank": 181
+  },
+  {
+    "word": "免許証",
+    "reading": "めんきょしょう",
+    "meaning": "driver's license",
+    "context": "errands",
+    "frequencyRank": 182
+  },
+  {
+    "word": "最も",
+    "reading": "もっとも",
+    "meaning": "most",
+    "context": "errands",
+    "frequencyRank": 183,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "元払い",
+    "reading": "もとばらい",
+    "meaning": "prepayment",
+    "context": "errands",
+    "frequencyRank": 184
+  },
+  {
+    "word": "郵便局",
+    "reading": "ゆうびんきょく",
+    "meaning": "post office",
+    "context": "errands",
+    "frequencyRank": 185,
+    "tags": [
+      "5000"
+    ]
+  },
+  {
+    "word": "郵便物",
+    "reading": "ゆうびんぶつ",
+    "meaning": "delivery; mail",
+    "context": "errands",
+    "frequencyRank": 186
+  },
+  {
+    "word": "有料",
+    "reading": "ゆうりょう",
+    "meaning": "fee-based",
+    "context": "errands",
+    "frequencyRank": 187
+  },
+  {
+    "word": "楽に",
+    "reading": "らくに",
+    "meaning": "easily",
+    "context": "errands",
+    "frequencyRank": 188
+  },
+  {
+    "word": "リサイクルショップ",
+    "reading": "リサイクルショップ",
+    "meaning": "recycle shop",
+    "context": "errands",
+    "frequencyRank": 189
+  },
+  {
+    "word": "理髪店",
+    "reading": "りはつてん",
+    "meaning": "barbershop",
+    "context": "errands",
+    "frequencyRank": 190
+  },
+  {
+    "word": "両替（する）",
+    "reading": "りょうがえ",
+    "meaning": "(to) exchange money",
+    "context": "errands",
+    "frequencyRank": 191
+  },
+  {
+    "word": "利用明細",
+    "reading": "りようめいさい",
+    "meaning": "usage statement",
+    "context": "errands",
+    "frequencyRank": 192
+  },
+  {
+    "word": "連絡票",
+    "reading": "れんらくひょう",
+    "meaning": "notice",
+    "context": "errands",
+    "frequencyRank": 193
+  },
+  {
+    "word": "～円からお預かりします",
+    "reading": "～えんからおあずかりします",
+    "meaning": "out of ～ yen",
+    "context": "errands",
+    "frequencyRank": 194
+  },
+  {
+    "word": "お預かりします",
+    "reading": "おあずかりします",
+    "meaning": "we accept your package",
+    "context": "errands",
+    "frequencyRank": 195
+  },
+  {
+    "word": "お待ちしておりました",
+    "reading": "おまちしておりました",
+    "meaning": "we have been waiting for you",
+    "context": "errands",
+    "frequencyRank": 196
+  }
 ]

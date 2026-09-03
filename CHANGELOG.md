@@ -9,6 +9,78 @@ The version shown in the app's Settings → About panel is read from the latest
 entry below (see `loadAppVersion()` in `js/app.js`), so this file is the single
 source of truth for the app version.
 
+## [2026.09.03]
+
+### Added
+- New `particle` (助詞) context: 26 core Japanese particles (は, が, を, に,
+  で, と, も, の, や, から, まで, より, へ, ば, ても, けど, ので, し, か, ね,
+  よ, な, だけ, しか, ぐらい, など) as words, plus one example sentence each
+  reusing an existing kotoba sentence with the particle itself as the
+  fill-in-blank/highlight target instead of the sentence's usual headword.
+  Meaning and Fill-in-the-blank only — `data/contexts.json` gained an
+  optional per-context `modes` field (`tools/check_data.py` validates it;
+  `js/app.js`'s `contextAllowsMode`/`renderContextGrid` hide a context's
+  button when the active mode isn't in its list) since reading a bare kana
+  particle in isolation isn't a meaningful drill.
+- Cross-context word search on the home screen (`js/search.js` +
+  `js/search-ui.js`, vendored `js/vendor/lunr.js`). Supports plain
+  word/reading/meaning lookup and `tag:` filters (e.g. `tag:minna-no-nihongo`,
+  prefix-matched so `tag:minna` also works).
+- `tags` field on word entries (`data/words/*.json`), independent of
+  `context` — records a word's source book/lesson so it stays searchable by
+  origin after being filed under a differently-themed context.
+- `5000` tag on the 1,662 words (across all contexts) whose surface form
+  matches [Wiktionary's 5000 most frequent Japanese
+  words](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Japanese/5000_Most_Frequent_Words)
+  (CC BY-SA), searchable via `tag:5000`.
+- Pitch accent setting (ピッチアクセント, off by default): draws a high/low
+  line under the word once the answer is revealed, word scope only. Backed
+  by `data/pitch-accent.json`, a 1,217-entry (word, reading) → pattern table
+  derived from [Kanjium](https://github.com/mifunetoshiro/kanjium) (CC BY-SA
+  4.0), cross-referenced against kotoba's own word lists. New
+  `js/pitch-accent.js` (pure lookup + mora segmentation) and
+  `renderPitchAccent`/`pitchAccentSVG` in `js/app.js` (orchestration +
+  rendering).
+
+### Changed
+- Merged the `minna-no-nihongo` and `dekiru-nihongo` contexts into a single
+  new `core-vocabulary` context (2,120 → 2,072 words after deduping 48
+  same-headword spelling variants; all sentences carried over unchanged).
+  Both books' words are tagged `minna-no-nihongo` / `dekiru-nihongo`
+  respectively and remain fully findable via `tag:` search. 241 words whose
+  English gloss collided with another word in the merged pool (breaking
+  Meaning-mode distractors) were disambiguated; two mistranslated glosses
+  found in the process (弱い "Weak", mislabeled "Break"; 旅行者 "Traveler",
+  mislabeled "Travel agency") were corrected.
+- `tools/check_data.py` now accepts the optional `tags` word field and
+  reports (non-blocking) any context with duplicate word meanings, since
+  `DistractorGenerator` requires per-context meaning uniqueness.
+- Search box moved from below the context grid to above the はじめましょう
+  heading — it was previously off-screen below ~21 context buttons on
+  mobile, and being mode-independent (it searches every context regardless
+  of the mode/scope/context picked below it) it reads better as a utility
+  above the drill flow than a step inside it.
+
+### Fixed
+- 12 word/reading typos, mostly in the minna-no-nihongo import into
+  `core-vocabulary`: dropped long vowels (掃除します そじします →
+  そうじします; 修理します しゅりします → しゅうりします; 入学祝い
+  にゅがくいわい → にゅうがくいわい; 申し込みます もしこみます →
+  もうしこみます), other garbled kana (専門 せんもｎ → せんもん, a literal
+  Latin `n`; 活動 だつどう → かつどう; 警察官 けんさつかん → けいさつかん,
+  also had an unconverted `fullReading` left as raw kanji; いつ いつか → いつ,
+  いつか was a different word "someday"; 学校に入ります had its kanji
+  sentence copy-pasted into the reading field instead of がっこうにはいります;
+  のどが渇きます was missing its のどが prefix; お元気でいてください was
+  missing its leading お). `ころくらい` (reading このくらい) was a typo'd
+  duplicate of the already-existing word `このくらい` — merged into it
+  (tagged both `minna-no-nihongo` and `dekiru-nihongo`) rather than renamed,
+  since renaming would have collided. Found via a heuristic scan for words
+  whose reading doesn't start with a shorter word they contain as a prefix.
+- `tools/check_data.py` now runs that same heuristic as a standing
+  (non-blocking) note, so future imports surface likely reading typos for
+  review instead of silently teaching a wrong reading.
+
 ## [2026.09.01]
 
 ### Added

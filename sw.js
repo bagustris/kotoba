@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'kotoba-v36';
+const CACHE_VERSION = 'kotoba-v42';
 
 const CORE_ASSETS = [
   '.',
@@ -6,8 +6,12 @@ const CORE_ASSETS = [
   'style.css',
   'manifest.json',
   'CHANGELOG.md',
+  'js/vendor/lunr.js',
+  'js/search.js',
+  'js/search-ui.js',
   'js/settings.js',
   'js/audio.js',
+  'js/pitch-accent.js',
   'js/progress.js',
   'js/progress-view.js',
   'js/learning/QuestionSelectionStrategy.js',
@@ -24,6 +28,7 @@ const CORE_ASSETS = [
   'js/learning/distractors/DistractorGenerator.js',
   'js/app.js',
   'data/contexts.json',
+  'data/pitch-accent.json',
   'data/words/restaurant.json',
   'data/words/hospital.json',
   'data/words/station.json',
@@ -64,10 +69,10 @@ const CORE_ASSETS = [
   'data/sentences/errands.json',
   'data/words/disaster-prep.json',
   'data/sentences/disaster-prep.json',
-  'data/words/minna-no-nihongo.json',
-  'data/sentences/minna-no-nihongo.json',
-  'data/words/dekiru-nihongo.json',
-  'data/sentences/dekiru-nihongo.json',
+  'data/words/core-vocabulary.json',
+  'data/sentences/core-vocabulary.json',
+  'data/words/particle.json',
+  'data/sentences/particle.json',
 ];
 
 self.addEventListener('install', (event) => {

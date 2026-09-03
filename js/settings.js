@@ -21,8 +21,15 @@ const SettingsManager = (() => {
   // chosen"). showExamples defaults to true: for Word-only scope in Reading and
   // Meaning mode, reveals an existing example sentence (from data/sentences/)
   // that uses the word, once the question is answered (see renderExamples in
-  // app.js).
-  const DEFAULTS = { showHint: true, furigana: true, roundSize: 10, autoNext: true, playAudio: false, showExamples: true };
+  // app.js). pitchAccent defaults to false (opt-in): draws a pitch-accent
+  // line under the target word once the answer is revealed, word scope only
+  // (see renderPitchAccent in app.js) — off by default since not every word
+  // has pitch data and it's a more advanced signal than most learners want
+  // on immediately.
+  const DEFAULTS = {
+    showHint: true, furigana: true, roundSize: 10, autoNext: true,
+    playAudio: false, showExamples: true, pitchAccent: false,
+  };
 
   function load() {
     try {

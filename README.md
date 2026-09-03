@@ -70,6 +70,26 @@ Reading and Meaning each have a submenu:
 1. Pick a **context** (restaurant, hospital, station, ... — see above).
 2. Pick a **scope**: word only, or word inside an example sentence.
 
+A context can restrict which modes it appears under (`modes` in
+`data/contexts.json`) — the `particle` context (助詞: は, が, を, に, で, と,
+も, の, ...) only shows up in Meaning and Fill-in-the-blank, not Reading,
+since a bare kana particle has nothing interesting to read. Its example
+sentences are existing kotoba sentences reused with the particle itself
+(rather than the sentence's usual headword) as the fill-in-blank/highlight
+target.
+
+### Search
+
+A search box on the home screen ([lunr.js](https://github.com/bagustris/lunr.js),
+vendored under `js/vendor/lunr.js`) indexes every word across all contexts —
+type a word/reading/meaning, or scope by origin with `tag:minna-no-nihongo`
+/ `tag:dekiru-nihongo` (prefix match, so `tag:minna` also works), or by
+frequency with `tag:5000` (in Wiktionary's 5000 most frequent Japanese
+words). Tags are
+independent of `context`: a word's context is where it lives for quiz
+purposes, its tags record which source book/list it came from, so it stays
+findable by origin even when merged into a differently-themed context.
+
 ### Answering flow & help
 
 - **Auto-advance by default (自動で次へ)** — after you answer, the card reveals
@@ -87,6 +107,11 @@ Reading and Meaning each have a submenu:
 - **Weak spots (にがて)** — a word you keep missing gets its hint revealed as
   extra scaffolding (except in Fill-in-the-blank, where the hint would give
   the answer away) and a small weak-spot marker.
+- **Pitch accent (ピッチアクセント)** — an optional setting (**off by default**)
+  draws a small high/low line under the word once the answer is revealed,
+  word scope only (not shown before answering, or in Fill-in-the-blank/
+  sentence scope, so it can't hint at the reading answer early). Only words
+  with pitch data (see `data/pitch-accent.json`, ~1,200 of ~4,800) show one.
 
 ### Worked example
 
@@ -121,7 +146,9 @@ Fill-in-blank: 昨日、ラーメンを＿＿＿＿ました。   → 食べ
   vocabulary of the same two contexts additionally draws on Lesson 1's
   sub-topics (新しい一歩: job hunting and meeting people) via its official
   English translation list (`resource/7024084_list_English.pdf`). The same
-  PDF also supplies the `dekiru-nihongo` context's remaining vocabulary;
+  PDF also supplies the rest of this book's vocabulary, now merged into the
+  `core-vocabulary` context (originally its own `dekiru-nihongo` context;
+  entries are still tagged `dekiru-nihongo` via the word `tags` field);
 - [IRODORI online course / いろどり 生活の日本語](https://www.irodori.jpf.go.jp/) —
   The Japan Foundation Japanese-Language Institute, Urawa. A second,
   higher-level lesson set (distinct lesson numbering from the Lesson 1–18
@@ -139,12 +166,24 @@ Fill-in-blank: 昨日、ラーメンを＿＿＿＿ました。   → 食べ
 - All other example sentences are original kotoba sentences written around
   the extracted words, not copied from any textbook.
 - [Minna no Nihongo vocabulary lists](https://github.com/bagustris/minna-no-nihongo)
-  — the `minna-no-nihongo` context imports missing vocabulary from its
-  general-vocabulary, verb, and adjective CSVs. Its examples reuse existing
+  — imports missing vocabulary from its general-vocabulary, verb, and
+  adjective CSVs, now merged into the `core-vocabulary` context (originally
+  its own `minna-no-nihongo` context; entries are still tagged
+  `minna-no-nihongo` via the word `tags` field). Its examples reuse existing
   kotoba sentences first, then literal matches from the
   [JED](https://github.com/bagustris/jed) sentence data. JED's Tatoeba
   sentences are licensed CC BY 2.0 FR; see that repository's `CREDITS.md`
   for its complete attribution.
+- [Wiktionary: Frequency lists/Japanese/5000 Most Frequent Words](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Japanese/5000_Most_Frequent_Words)
+  — a `5000` word `tag` marks entries whose surface form appears on this
+  list (1,662 words across all contexts). Membership is a simple exact-form
+  match; no ranking data or the list itself is stored in this repo.
+  Wiktionary content is CC BY-SA; see the warning below.
+- [Kanjium](https://github.com/mifunetoshiro/kanjium) — `data/pitch-accent.json`
+  (1,217 words) is a derived subset: for each (word, reading) pair also
+  present in kotoba's own word lists, just the pitch pattern (a per-mora
+  High/Low sequence plus the downstep position) is kept — no other Kanjium
+  content is stored or distributed. CC BY-SA 4.0; see the warning below.
 
 > [!WARNING]
 > Wiktionary content is licensed [CC BY-SA

@@ -43,6 +43,7 @@ const el = {
   btnHomeTitle: document.getElementById('btn-home-title'),
   quizProgress: document.getElementById('quiz-progress'),
   quizWord: document.getElementById('quiz-word'),
+  quizPitch: document.getElementById('quiz-pitch'),
   quizHint: document.getElementById('quiz-hint'),
   quizInstruction: document.getElementById('quiz-instruction'),
   quizOptions: document.getElementById('quiz-options'),
@@ -59,6 +60,7 @@ const el = {
   settingsOverlay: document.getElementById('settings-overlay'),
   settingShowHint: document.getElementById('setting-show-hint'),
   settingFurigana: document.getElementById('setting-furigana'),
+  settingPitchAccent: document.getElementById('setting-pitch-accent'),
   settingAutoNext: document.getElementById('setting-auto-next'),
   settingPlayAudio: document.getElementById('setting-play-audio'),
   settingShowExamples: document.getElementById('setting-show-examples'),
@@ -174,6 +176,52 @@ function furiganaEnabled() {
   return SettingsManager.get('furigana') !== false;
 }
 
+// Pitch accent: opt-in (see SettingsManager DEFAULTS), word scope only,
+// shown after the answer is revealed (see handleAnswer) since the pattern
+// is derived from the reading — showing it earlier would leak the reading
+// answer in Reading mode before the learner has answered.
+function pitchAccentEnabled() {
+  return SettingsManager.get('pitchAccent') === true;
+}
+
+// One dot per mora, high pitch drawn higher than low pitch, dots joined by
+// straight lines — the standard pitch-accent-diagram convention (as used by
+// most pitch accent dictionaries/tools), built fresh here as plain SVG.
+function pitchAccentSVG(pattern) {
+  const stepX = 18;
+  const padX = 8;
+  const highY = 6;
+  const lowY = 20;
+  const r = 3;
+  const width = padX * 2 + stepX * Math.max(pattern.length - 1, 0);
+  const points = pattern.map((level, i) => ({ x: padX + i * stepX, y: level === 'H' ? highY : lowY }));
+  const lines = points.slice(1).map((p, i) =>
+    `<line x1="${points[i].x}" y1="${points[i].y}" x2="${p.x}" y2="${p.y}" />`
+  ).join('');
+  const dots = points.map((p) => `<circle cx="${p.x}" cy="${p.y}" r="${r}" />`).join('');
+  return `<svg class="pitch-svg" viewBox="0 0 ${width} 26" width="${width}" height="26" aria-hidden="true">${lines}${dots}</svg>`;
+}
+
+// Looks up (word, reading) in the pitch-accent table and renders/hides
+// #quiz-pitch accordingly. No-op (hidden) when the setting is off or there's
+// no data for this exact word+reading pair — most words don't have an entry
+// (see data/pitch-accent.json), so silent absence is the expected case.
+function renderPitchAccent(word, reading) {
+  if (!pitchAccentEnabled()) {
+    el.quizPitch.classList.add('hidden');
+    el.quizPitch.innerHTML = '';
+    return;
+  }
+  const entry = PitchAccent.lookup(word, reading);
+  if (!entry) {
+    el.quizPitch.classList.add('hidden');
+    el.quizPitch.innerHTML = '';
+    return;
+  }
+  el.quizPitch.innerHTML = pitchAccentSVG(entry.pattern);
+  el.quizPitch.classList.remove('hidden');
+}
+
 // The combined ProgressManager mode key for the current selection — Reading
 // and Meaning fork on scope, Fill-in-blank doesn't.
 function progressModeKey() {
@@ -194,9 +242,16 @@ async function registerTotalQuestionCounts() {
   }));
 }
 
+// A context may restrict which modes it's meaningful in (e.g. "particle"
+// is Meaning/Fill-in-blank only — reading a bare kana particle is trivial).
+// No `modes` field means all three modes apply, as before.
+function contextAllowsMode(ctx, mode) {
+  return !ctx.modes || ctx.modes.includes(mode);
+}
+
 function renderContextGrid() {
   el.contextGrid.innerHTML = '';
-  CONTEXTS.forEach(({ id, label, labelEn }, i) => {
+  CONTEXTS.filter((c) => contextAllowsMode(c, state.mode)).forEach(({ id, label, labelEn }, i) => {
     const btn = document.createElement('button');
     btn.className = 'context-btn';
     btn.dataset.context = id;
@@ -208,7 +263,8 @@ function renderContextGrid() {
 }
 
 function renderContextProgressList() {
-  ProgressView.renderContextList(progressModeKey(), CONTEXTS.map((c) => ({ id: c.id, name: c.label })));
+  const contexts = CONTEXTS.filter((c) => contextAllowsMode(c, state.mode));
+  ProgressView.renderContextList(progressModeKey(), contexts.map((c) => ({ id: c.id, name: c.label })));
 }
 
 el.contextProgressList.addEventListener('click', (e) => {
@@ -238,6 +294,7 @@ function selectMode(mode) {
   }
   el.scopeButtons.forEach((b) => b.classList.toggle('active', b.dataset.scope === state.scope));
 
+  renderContextGrid();
   renderContextProgressList();
 }
 
@@ -651,6 +708,11 @@ function renderQuestion() {
   const counter = `${state.index + 1} / ${state.questions.length}`;
   el.quizProgress.textContent = counter;
 
+  // Pitch is only ever shown post-answer (see handleAnswer) — reset it here
+  // so it doesn't carry over from the previous question.
+  el.quizPitch.classList.add('hidden');
+  el.quizPitch.innerHTML = '';
+
   const isSentenceDisplay = state.scope === 'sentence' || state.mode === 'fillblank';
   el.quizWord.classList.toggle('is-sentence', isSentenceDisplay);
 
@@ -732,6 +794,11 @@ function handleAnswer(selected, btnEl) {
     const targetReading = state.mode === 'reading' ? q.correctAnswer : q.meaning;
     const revealInner = showFurigana ? rubyHTML(q.target, targetReading) : q.target;
     el.quizWord.innerHTML = highlightTarget(q.sentence, q.target, revealInner);
+  }
+
+  if (state.scope === 'word' && state.mode !== 'fillblank') {
+    const targetReading = state.mode === 'reading' ? q.correctAnswer : q.meaning;
+    renderPitchAccent(q.target, targetReading);
   }
 
   // Word-only Reading/Meaning questions reveal an example sentence that uses
@@ -910,6 +977,13 @@ function initSettingsPanel() {
   el.settingAutoNext.checked = SettingsManager.get('autoNext');
   el.settingAutoNext.addEventListener('change', () => {
     SettingsManager.set('autoNext', el.settingAutoNext.checked);
+  });
+
+  el.settingPitchAccent.checked = SettingsManager.get('pitchAccent');
+  el.settingPitchAccent.addEventListener('change', () => {
+    SettingsManager.set('pitchAccent', el.settingPitchAccent.checked);
+    // Pitch is only ever shown post-answer (see renderPitchAccent), so a
+    // toggle mid-question has nothing to re-render until the next answer.
   });
 
   // Init from the resolved default (audioEnabled()), not the raw tri-state
@@ -1141,6 +1215,8 @@ async function init() {
     await registerTotalQuestionCounts();
     renderContextGrid();
     renderContextProgressList();
+    SearchUI.init(CONTEXTS, fetchJSON);
+    PitchAccent.load(fetchJSON);
   } catch (err) {
     console.error(err);
     el.loadError.textContent = location.protocol === 'file:'
